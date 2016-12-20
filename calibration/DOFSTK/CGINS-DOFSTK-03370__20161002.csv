@@ -1,0 +1,7 @@
+serial,name,value,notes
+43-3370,CC_frequency_offset,-839.39,
+43-3370,CC_oxygen_signal_slope,0.00027484,
+43-3370,CC_residual_temperature_correction_factor_a,-0.0041251,
+43-3370,CC_residual_temperature_correction_factor_b,0.00021958,
+43-3370,CC_residual_temperature_correction_factor_c,-3.3174e-06,
+43-3370,CC_residual_temperature_correction_factor_e,0.036,
