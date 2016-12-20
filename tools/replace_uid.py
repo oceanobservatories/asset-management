@@ -2,7 +2,6 @@ import os
 import pandas as pd
 import glob
 import shutil
-import numpy as np
 
 # Base directory of asset-management
 base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
@@ -16,14 +15,14 @@ platforms = dict(zip(table_platform['LEGACY_ASSET_UID'].values, table_platform['
 sensors = dict(zip(table_sensor['LEGACY_ASSET_UID'].values, table_sensor['ASSET_UID'].values))
 
 # List all deployment csvs
-deployments = glob.glob(os.path.join(base_dir, 'deployment', '*.csv'))
+deployments = glob.glob(os.path.join(base_dir, 'deployment', '*'))
 
 # List all cal sheets
 cal_dir = os.path.join(base_dir, 'calibration')
 calibrations = []
 for root, dirs, files in os.walk(cal_dir):
     for file in files:
-        if file.endswith('.csv'):
+        if file.endswith(('.csv', '.ext')):
             calibrations.append(os.path.join(root, file))
 
 # Iterate through each calibration sheet name
@@ -44,6 +43,8 @@ for csv in calibrations:
             filename = sensors[strings[0]] + '__' + strings[1] + '__' + strings[2] + '.ext'
         except KeyError:
             continue
+    else:
+        continue
 
 
     if not filename == basename:
