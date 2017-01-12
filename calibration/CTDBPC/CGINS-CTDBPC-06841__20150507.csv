@@ -1,23 +1,23 @@
 serial,name,value,notes
-16P64183-6841,CC_a0,0.001301118,temperature calibration coefficients
-16P64183-6841,CC_a1,0.0002561486,temperature calibration coefficients
-16P64183-6841,CC_a2,1.896537e-07,temperature calibration coefficients
-16P64183-6841,CC_a3,1.301189e-07,temperature calibration coefficients
-16P64183-6841,CC_cpcor,-9.57e-08,conductivity calibration coefficients
-16P64183-6841,CC_ctcor,3.25e-06,conductivity calibration coefficients
-16P64183-6841,CC_g,-0.9896568,conductivity calibration coefficients
-16P64183-6841,CC_h,0.1316599,conductivity calibration coefficients
-16P64183-6841,CC_i,-0.0002213854,conductivity calibration coefficients
-16P64183-6841,CC_j,3.292199e-05,conductivity calibration coefficients
-16P64183-6841,CC_pa0,0.04960417,strain gauge pressure calibration coefficients
-16P64183-6841,CC_pa1,0.0004883681,strain gauge pressure calibration coefficients
-16P64183-6841,CC_pa2,-5.687309e-12,strain gauge pressure calibration coefficients
-16P64183-6841,CC_ptca0,524980.1,strain gauge pressure calibration coefficients
-16P64183-6841,CC_ptca1,7.595718,strain gauge pressure calibration coefficients
-16P64183-6841,CC_ptca2,-0.1322776,strain gauge pressure calibration coefficients
-16P64183-6841,CC_ptcb0,25.03125,strain gauge pressure calibration coefficients
-16P64183-6841,CC_ptcb1,5e-05,strain gauge pressure calibration coefficients
-16P64183-6841,CC_ptcb2,0,strain gauge pressure calibration coefficients
-16P64183-6841,CC_ptempa0,-64.31504,strain gauge pressure calibration coefficients
-16P64183-6841,CC_ptempa1,51.68177,strain gauge pressure calibration coefficients
-16P64183-6841,CC_ptempa2,-0.2847757,strain gauge pressure calibration coefficients
+16-6841,CC_a0,0.001301118,temperature calibration coefficients
+16-6841,CC_a1,0.000256149,temperature calibration coefficients
+16-6841,CC_a2,1.90E-07,temperature calibration coefficients
+16-6841,CC_a3,1.30E-07,temperature calibration coefficients
+16-6841,CC_cpcor,-9.57E-08,conductivity calibration coefficients
+16-6841,CC_ctcor,3.25E-06,conductivity calibration coefficients
+16-6841,CC_g,-0.9896568,conductivity calibration coefficients
+16-6841,CC_h,0.1316599,conductivity calibration coefficients
+16-6841,CC_i,-0.000221385,conductivity calibration coefficients
+16-6841,CC_j,3.29E-05,conductivity calibration coefficients
+16-6841,CC_pa0,0.04960417,strain gauge pressure calibration coefficients
+16-6841,CC_pa1,0.000488368,strain gauge pressure calibration coefficients
+16-6841,CC_pa2,-5.69E-12,strain gauge pressure calibration coefficients
+16-6841,CC_ptca0,524980.1,strain gauge pressure calibration coefficients
+16-6841,CC_ptca1,7.595718,strain gauge pressure calibration coefficients
+16-6841,CC_ptca2,-0.1322776,strain gauge pressure calibration coefficients
+16-6841,CC_ptcb0,25.03125,strain gauge pressure calibration coefficients
+16-6841,CC_ptcb1,5.00E-05,strain gauge pressure calibration coefficients
+16-6841,CC_ptcb2,0,strain gauge pressure calibration coefficients
+16-6841,CC_ptempa0,-64.31504,strain gauge pressure calibration coefficients
+16-6841,CC_ptempa1,51.68177,strain gauge pressure calibration coefficients
+16-6841,CC_ptempa2,-0.2847757,strain gauge pressure calibration coefficients
