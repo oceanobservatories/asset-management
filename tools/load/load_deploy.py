@@ -18,13 +18,13 @@ for f in os.listdir(source_dir):
     for t in df['startDateTime']:
         try:
             start.append(parser.parse(t))
-        except (AttributeError, TypeError):
+        except AttributeError:
             start.append(None)
 
     for t in df['stopDateTime']:
         try:
             stop.append(parser.parse(t))
-        except (AttributeError, TypeError):
+        except AttributeError:
             stop.append(None)
 
     df['startDateTime'] = start
