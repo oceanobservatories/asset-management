@@ -1,0 +1,9 @@
+serial,name,value,notes
+C0090,CC_cala,0.3434,
+C0090,CC_calb,-0.7101,
+C0090,CC_calc,0.0059,
+C0090,CC_calt,4.7391,
+C0090,CC_ea434,3248,Table 2 reference
+C0090,CC_ea620,2171,Table 2 reference
+C0090,CC_eb434,2096,Table 2 signal
+C0090,CC_eb620,2171,Table 2 signal
