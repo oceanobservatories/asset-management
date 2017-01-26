@@ -1,0 +1,3 @@
+serial,name,value,notes
+352,CC_conc_coef,"[0, 1]","(1st cal, so default values for offset: 0 and slope: 1)"
+352,CC_csv,"[0.00283856, 0.000119430, 2.41799e-06, 231.190, -0.328248, -55.9998, 4.55859]",
