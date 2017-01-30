@@ -2718,3 +2718,5 @@ CGCON-BDCL12-00007,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentr
 CGCON-MDCL35-00003,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3,,,,,
 CGCON-MDCL37-00006,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,6,,,,,
 ATOSU-63295-00004,,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,,Kongsberg Underwater Technology Inc,EK-60,1,,,,,
+ATOSU-70570-00003,ATOSU-70570-00003,Sensor,0,pCO2 Water: PCO2W Series B,PCO2W SERIES B (SAMI-CO2),Sunburst Sensors,SAMI-CO2,C0090,,20140414,20208.3,Price copied from C0080 as units are similar. Double check and update when more information comes available. Check date acquisition,
+ATOSU-70570-00004,ATOSU-70570-00004,Sensor,0,pCO2 Water: PCO2W Series B,PCO2W SERIES B (SAMI-CO2),Sunburst Sensors,SAMI-CO2,C0118,,20140715,20208.3,Price copied from C0080 as units are similar. Double check and update when more information comes available. Check date acquisition,
