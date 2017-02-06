@@ -2,7 +2,8 @@ CUID,ShipName,cruiseStartDateTime,cruiseStopDateTime,notes
 AR-04,R/V Neil Armstrong,2016-05-12T00:00:00,2016-06-02T23:59:59,Pioneer 6 (rvdata)
 AR1-07,R/V Neil Armstrong,2016-03-31T00:00:00,2016-04-06T23:59:59,Pioneer (rvdata)
 AR-07-01,R/V Neil Armstrong,2016-06-30T00:00:00,2016-07-26T23:59:59,Irminger 3 & Pioneer (rvdata)
-AR-08,R/V Neil Armstrong ,2016-09-27T00:00:00,2016-10-14T23:59:59,Pioneer 7 (...rvdata)
+AR-08A,R/V Neil Armstrong ,2016-09-27T00:00:00,2016-10-05T23:59:59,Pioneer 7 Leg 1 (...rvdata)
+AR-08B,R/V Neil Armstrong ,2016-10-10T00:00:00,2016-10-16T23:59:59,Pioneer 7 Leg 2
 AR-03,R/V Neil Armstrong ,2016-05-02T00:00:00,2016-05-09T23:59:59,Pioneer (rvdata)
 AT-27,R/V Atlantis,2015-04-28T00:00:00,2015-05-14T23:59:59,Pioneer 4 (rvdata)
 AT-31,R/V Atlantis,2015-10-11T00:00:00,2015-10-31T23:59:59,Pioneer 5 (rvdata)
