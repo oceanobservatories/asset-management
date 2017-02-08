@@ -2714,3 +2714,8 @@ CGINS-FLORTM-04196,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M
 CGINS-FLORTM-04332,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,,WET Labs,ECO Puck FLBBCD-SLK,4332,,,,
 CGINS-DOSTAM-00568,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,,Aanderaa,Optode 4831,568,,,,
 CGINS-CTDGVM-09354,,Sensor,1,CTD for Glider: CTDGV Series M,,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9354,,,,
+CGCON-SIOCON-13988,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,13988,,,,
+CGCON-SIOCON-13280,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,13280,,,,
+CGCON-SIOCON-13987,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,13987,,,,
+CGCON-SIOCON-13990,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,13990,,,,
+CGCON-SIOCON-13994,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,13994,,,,
