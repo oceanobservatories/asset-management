@@ -2719,3 +2719,4 @@ CGCON-SIOCON-13280,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurf
 CGCON-SIOCON-13987,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,13987,,,,
 CGCON-SIOCON-13990,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,13990,,,,
 CGCON-SIOCON-13994,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,13994,,,,
+CGCON-NDCL26-00006,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,6,,,,
