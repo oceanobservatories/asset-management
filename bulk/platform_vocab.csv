@@ -1,0 +1,70 @@
+DESCRIPTION OF EQUIPMENT,Manufacturer,Model
+Cabled ASHES Vent Field: Medium Power Junction Box,UW-APL,RS03ASHS-MJ03B
+Cabled ASHES Vent Field: Primary Node,UW-APL,RS03ASHS-PN03B
+Cabled Axial Base Deep Profiler Mooring: Deep Profiler,UW-APL,RS03AXPD-DP03A
+Cabled Axial Base Seafloor: Low Power Junction Box,UW-APL,RS03AXBS-LJ03A
+Cabled Axial Base Seafloor: Medium Power Junction Box,UW-APL,RS03AXBS-MJ03A
+Cabled Axial Base Shallow Profiler Mooring: Platform Interface Controller,UW-APL,RS03AXPS-PC03A
+Cabled Axial Base Shallow Profiler Mooring: Science Pod,UW-APL,RS03AXPS-SF03A
+Cabled Central Caldera: Medium Power Junction Box,UW-APL,RS03CCAL-MJ03F
+Cabled Eastern Caldera: Medium Power Junction Box,UW-APL,RS03ECAL-MJ03E
+Cabled International District Vent Field 1: Medium Power Junction Box,UW-APL,RS03INT1-MJ03C
+Cabled International District Vent Field 2: Medium Power Junction Box,UW-APL,RS03INT2-MJ03D
+Cabled Oregon Slope Base Deep Profiler Mooring: Deep Profiler,UW-APL,RS01SBPD-DP01A
+Cabled Oregon Slope Base Deep Profiler Mooring: Profiler Docking Station,UW-APL,RS01SBPD-PD01A
+Cabled Oregon Slope Base Seafloor: Low Power Junction Box,UW-APL,RS01SLBS-LJ01A
+Cabled Oregon Slope Base Seafloor: Medium Power Junction Box,UW-APL,RS01SLBS-MJ01A
+Cabled Oregon Slope Base Shallow Profiler Mooring: Platform Interface Controller,UW-APL,RS01SBPS-PC01A
+Cabled Oregon Slope Base Shallow Profiler Mooring: Science Pod,UW-APL,RS01SBPS-SF01A
+Cabled Southern Hydrate Summit 1 Seafloor: Low Power Junction Box,UW-APL,RS01SUM1-LJ01B
+Cabled Southern Hydrate Summit 1 Seafloor: Low Voltage Node,UW-APL,RS01SUM1-PN01B
+Cabled Southern Hydrate Summit 1 Seafloor: Medium Power Junction Box,UW-APL,RS01SUM2-MJ01B
+Coastal Endurance Gliders,Teledyne Webb,CE05MOAS
+Coastal Endurance Oregon Inshore Surface Mooring,WHOI,CE01ISSM
+Coastal Endurance Oregon Inshore Surface Piercing Profiler Mooring,WHOI,CE01ISSP
+Coastal Endurance Oregon Offshore Cabled Benthic Experiment Package: Low Power Junction Box,WHOI,CE04OSBP-LJ01C
+Coastal Endurance Oregon Offshore Cabled Benthic Experiment Package: Low Voltage Node,WHOI,CE04OSBP-LV01C
+Coastal Endurance Oregon Offshore Cabled Deep Profiler Mooring: Deep Profiler,UW-APL,CE04OSPD-DP01B
+Coastal Endurance Oregon Offshore Cabled Shallow Profiler Mooring: Platform Interface Controller,WHOI,CE04OSPS-PC01B
+Coastal Endurance Oregon Offshore Cabled Shallow Profiler Mooring: Science Pod,WHOI,CE04OSPS-SF01B
+Coastal Endurance Oregon Offshore Surface Mooring,WHOI,CE04OSSM
+Coastal Endurance Oregon Shelf Cabled Benthic Experiment Package: Low Power Junction Box,WHOI,CE02SHBP-LJ01D
+Coastal Endurance Oregon Shelf Cabled Benthic Experiment Package: Medium Power Junction Box,WHOI,CE02SHBP-MJ01C
+Coastal Endurance Oregon Shelf Surface Mooring,WHOI,CE02SHSM
+Coastal Endurance Oregon Shelf Surface Piercing Profiler Mooring,WHOI,CE02SHSP
+Coastal Endurance Washington Inshore Surface Mooring,WHOI,CE06ISSM
+Coastal Endurance Washington Inshore Surface Piercing Profiler Mooring,WHOI,CE06ISSP
+Coastal Endurance Washington Offshore Profiler Mooring,WHOI,CE09OSPM
+Coastal Endurance Washington Offshore Surface Mooring,WHOI,CE09OSSM
+Coastal Endurance Washington Shelf Surface Mooring,WHOI,CE07SHSM
+Coastal Endurance Washington Shelf Surface Piercing Profiler Mooring,WHOI,CE07SHSP
+Coastal Pioneer Central Inshore Profiler Mooring,WHOI,CP02PMCI
+Coastal Pioneer Central Offshore Profiler Mooring,WHOI,CP02PMCO
+Coastal Pioneer Central Surface Mooring,WHOI,CP01CNSM
+Coastal Pioneer Central Surface Piercing Profiler Mooring,WHOI,CP01CNSP
+Coastal Pioneer Gliders,Teledyne Webb,CP05MOAS
+Coastal Pioneer Inshore Surface Mooring,WHOI,CP03ISSM
+Coastal Pioneer Inshore Surface Piercing Profiler Mooring,WHOI,CP03ISSP
+Coastal Pioneer Offshore Profiler Mooring,WHOI,CP04OSPM
+Coastal Pioneer Offshore Surface Mooring,WHOI,CP04OSSM
+Coastal Pioneer Upstream Inshore Profiler Mooring,WHOI,CP02PMUI
+Coastal Pioneer Upstream Offshore Profiler Mooring,WHOI,CP02PMUO
+Global Argentine Basin Apex Profiler Mooring,WHOI,GA02HYPM
+Global Argentine Basin Apex Surface Mooring,WHOI,GA01SUMO
+Global Argentine Basin Flanking Subsurface Mooring A,WHOI,GA03FLMA
+Global Argentine Basin Flanking Subsurface Mooring B,WHOI,GA03FLMB
+Global Argentine Basin Gliders,Teledyne Webb,GA05MOAS
+Global Irminger Sea Apex Profiler Mooring,WHOI,GI02HYPM
+Global Irminger Sea Apex Surface Mooring,WHOI,GI01SUMO
+Global Irminger Sea Flanking Subsurface Mooring A,WHOI,GI03FLMA
+Global Irminger Sea Flanking Subsurface Mooring B,WHOI,GI03FLMB
+Global Irminger Sea Gliders,Teledyne Webb,GI05MOAS
+Global Southern Ocean Apex Profiler Mooring,WHOI,GS02HYPM
+Global Southern Ocean Apex Surface Mooring,WHOI,GS01SUMO
+Global Southern Ocean Flanking Subsurface Mooring A,WHOI,GS03FLMA
+Global Southern Ocean Flanking Subsurface Mooring B,WHOI,GS03FLMB
+Global Southern Ocean Gliders,Teledyne Webb,GS05MOAS
+Global Station Papa Apex Profiler Mooring,WHOI,GP02HYPM
+Global Station Papa Flanking Subsurface Mooring A,WHOI,GP03FLMA
+Global Station Papa Flanking Subsurface Mooring B,WHOI,GP03FLMB
+Global Station Papa Gliders,Teledyne Webb,GP05MOAS
