@@ -134,6 +134,10 @@ class DeploymentFilesUnitTest(AssetManagementUnitTest):
                 if stop_time and not self.valid_time_format(stop_time):
                     errors.append('Invalid time format for stopDateTime - "%r" - row %d' % (stop_time, index))
 
+                if start_time == stop_time:
+                    errors.append('Equivalent startDateTime and stopDateTime - (%r, %r) - row %d' %
+                                  (start_time, stop_time, index))
+
                 lat = record['lat']
                 if not self.valid_float(lat):
                     errors.append('Invalid format for latitude - "%r" - row %d' % (lat, index))

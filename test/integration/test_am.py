@@ -9,6 +9,7 @@ from collections import OrderedDict
 from datetime import datetime
 from glob import glob
 from numbers import Number
+from pprint import pformat
 
 import javaobj
 import numpy as np
@@ -32,18 +33,48 @@ class AssetManagementIntegrationTest(AssetManagementUnitTest):
         self.conn = psycopg2.connect(host='localhost', database='metadata', user='awips')
         self.maxDiff = None
 
-    def ordered_bulk_entry(self, data):
-        out = OrderedDict()
-        for k in self.BULK_COLS:
-            v = data.get(k)
+    @classmethod
+    def setUpClass(cls):
+        """
+        Read bulk load asset management data and save UID and serial numbers
+        :return:
+        """
+        bulk_dataframes = []
+        for filename in glob(cls.BULK_FILES_GLOB):
+            if 'unclassified' in filename:
+                continue
+            df = pd.read_csv(filename, na_values='', keep_default_na=False)
+            df.dropna(how='all', inplace=True)
+            bulk_dataframes.append(df)
+
+        cls.bulk_data = pd.concat(bulk_dataframes)
+        cls.bulk_data.rename(columns=cls.BULK_COLS_RENAME, inplace=True)
+        cls.bulk_data.dropna(how='all', inplace=True)
+
+        cls.cruise_data = pd.read_csv(cls.CRUISE_FILE)
+
+    def rename_bulk_entry(self, data):
+        self.am_name_map = {
+            'modelNumber': 'model_number',
+            'purchasePrice': 'purchase_price',
+            'purchaseDate': 'purchase_date',
+            'serialNumber': 'serial_number',
+            'firmwareVersion': 'firmware_version',
+            'assetType': 'asset_type',
+        }
+
+        out = {}
+        for k, v in data.iteritems():
+            k = self.am_name_map.get(k, k)
+
             if isinstance(v, unicode):
                 v = str(v)
             elif v is None:
                 v = ''
             elif self.isnan(v):
                 v = ''
-            if k == 'assetType' and v == 'Platform':
-                v = 'Mooring'
+            if k == 'asset_type' and v == 'Mooring':
+                v = 'Platform'
             out[k] = v
         return out
 
@@ -60,12 +91,6 @@ class AssetManagementIntegrationTest(AssetManagementUnitTest):
     @staticmethod
     def build_cal_value(data):
         return data['value']
-        card = data['cardinality']
-        dimensions = data['dimensions']
-        values = data['values']
-        if card == 0:
-            return values[0]
-        return list(np.array(values).reshape(dimensions))
 
     @staticmethod
     def build_cal_timestamp(data):
@@ -87,8 +112,12 @@ class AssetManagementIntegrationTest(AssetManagementUnitTest):
     def assert_bulk_entry(self, row):
         # retrieve the asset
         asset = self.get_asset_record(row['uid'])
-        asset_map = self.ordered_bulk_entry(asset)
-        row_map = self.ordered_bulk_entry(row)
+        asset_map = self.rename_bulk_entry(asset)
+
+        keys = set(row).intersection(set(asset_map))
+
+        asset_map = {k: v for k, v in asset_map.iteritems() if k in keys}
+        row_map = {k: v for k, v in row.iteritems() if k in keys}
         self.assertDictEqual(asset_map, row_map)
 
     def assert_cal_entry(self, df, uid, timestamp):
@@ -147,8 +176,8 @@ class AssetManagementIntegrationTest(AssetManagementUnitTest):
         mooring = deployment.get('mooring')
         node = deployment.get('node')
         sensor = deployment.get('sensor')
-        deploy_cruise = None if deploy_cruise is None else deploy_cruise['cruiseIdentifier']
-        recover_cruise = None if recover_cruise is None else recover_cruise['cruiseIdentifier']
+        deploy_cruise = None if deploy_cruise is None else deploy_cruise['uniqueCruiseIdentifier']
+        recover_cruise = None if recover_cruise is None else recover_cruise['uniqueCruiseIdentifier']
         mooring = None if mooring is None else mooring['uid']
         node = None if node is None else node['uid']
         sensor = None if sensor is None else sensor['uid']
@@ -159,30 +188,38 @@ class AssetManagementIntegrationTest(AssetManagementUnitTest):
         lon = location.get('longitude')
         orbit = location.get('orbitRadius')
         depth = location.get('depth')
+        water_depth = deployment.get('waterDepth')
 
-        self.assertEqual(deploy_cruise, row_dict['CUID_Deploy'])
-        self.assertEqual(deployment.get('deployedBy'), row_dict['deployedBy'])
-        self.assertEqual(recover_cruise, row_dict['CUID_Recover'])
-        self.assertEqual(deployment.get('recoveredBy'), row_dict['recoveredBy'])
-        self.assertEqual(deployment.get('eventName'), row_dict['Reference Designator'])
-        self.assertEqual(deployment.get('deploymentNumber'), row_dict['deploymentNumber'])
-        self.assertEqual(deployment.get('versionNumber'), row_dict['versionNumber'])
-        self.assertEqual(deployment.get('eventStartTime'), row_dict['startDateTime'])
-        self.assertEqual(deployment.get('eventStopTime'), row_dict['stopDateTime'])
-        self.assertEqual(mooring, row_dict['mooring.uid'])
-        self.assertEqual(node, row_dict['node.uid'])
-        self.assertEqual(sensor, row_dict['sensor.uid'])
-        np.testing.assert_almost_equal(lat, row_dict['lat'])
-        np.testing.assert_almost_equal(lon, row_dict['lon'])
-        self.assertEqual(orbit, row_dict['orbit'])
-        self.assertEqual(depth, row_dict['depth'])
+        try:
+            self.assertEqual(deploy_cruise, row_dict['CUID_Deploy'])
+            self.assertEqual(deployment.get('deployedBy'), row_dict['deployedBy'])
+            self.assertEqual(recover_cruise, row_dict['CUID_Recover'])
+            self.assertEqual(deployment.get('recoveredBy'), row_dict['recoveredBy'])
+            self.assertEqual(deployment.get('eventName'), row_dict['Reference Designator'])
+            self.assertEqual(deployment.get('deploymentNumber'), row_dict['deploymentNumber'])
+            self.assertEqual(deployment.get('versionNumber'), row_dict['versionNumber'])
+            self.assertEqual(deployment.get('eventStartTime'), row_dict['startDateTime'])
+            self.assertEqual(deployment.get('eventStopTime'), row_dict['stopDateTime'])
+            self.assertEqual(mooring, row_dict['mooring.uid'])
+            self.assertEqual(node, row_dict['node.uid'])
+            self.assertEqual(sensor, row_dict['sensor.uid'])
+            np.testing.assert_almost_equal(lat, row_dict['lat'])
+            np.testing.assert_almost_equal(lon, row_dict['lon'])
+            self.assertEqual(orbit, row_dict['orbit'])
+            self.assertEqual(depth, row_dict['deployment_depth'])
+            self.assertEqual(water_depth, row_dict['water_depth'])
+        except AssertionError:
+            log.error(pformat(row_dict))
+            log.error(pformat(deployment))
+            raise
 
     def test_bulk_load(self):
         df = self.bulk_data
-        df = df.fillna({'mobile': 0, 'assetType': 'notClassified'})
+        df = df.fillna({'mobile': 0})
         df['mobile'] = df.mobile.values.astype(bool)
-        df['purchaseDate'] = map(self.date_to_millis, df.purchaseDate.values)
-        df['purchasePrice'] = map(self.maybe_float, df.purchasePrice.values)
+        df['purchase_date'] = map(self.date_to_millis, df.purchase_date.values)
+        df['purchase_price'] = map(self.maybe_float, df.purchase_price.values)
+        df = df.fillna('')
         for _, row in df.iterrows():
             self.assert_bulk_entry(row.to_dict())
 

@@ -45,7 +45,7 @@ until we have completed reloading this data.
 truncate table xacquisition cascade;
 truncate table xarray cascade;
 truncate table xasset cascade;
-truncate table xasset_xevents cascade;  -- if exists
+-- truncate table xasset_xevents cascade;  -- if exists
 truncate table xasset_xremoteresource cascade;
 truncate table xassetstatusevent cascade;
 truncate table xatvendor cascade;
@@ -68,8 +68,8 @@ truncate table latest_status;
 #### Reset sequences
 
 ```
-alter sequence xasset_m_seq restart
-alter sequence xevent_seq restart
+alter sequence xasset_m_seq restart;
+alter sequence xevent_seq restart;
 ```
 
 ### Load the cruise data

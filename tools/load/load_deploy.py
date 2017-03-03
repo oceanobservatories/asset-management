@@ -33,11 +33,6 @@ for f in os.listdir(source_dir):
     # drop lines beginning with #
     df = df[np.logical_not(df.CUID_Deploy.str.startswith('#'))]
 
-    # Drop water_depth and rename deployment_depth to depth until
-    # the parser in uframe is updated to reflect these changes
-    df.rename(columns={'deployment_depth': 'depth'}, inplace=True)
-    df.drop('water_depth', 1, inplace=True)
-
     sheetname = f.replace('.csv', '')
     writer = pd.ExcelWriter(os.path.join(dest_dir, sheetname + '.xlsx'),
                             engine='xlsxwriter', datetime_format='yyyy-mm-ddThh:mm:ss')
