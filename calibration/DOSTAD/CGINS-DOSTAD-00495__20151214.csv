@@ -1,4 +1,3 @@
 serial,name,value,notes
 495,CC_conc_coef,"[0.0, 1.0]",default
 495,CC_csv,"[2.73278, 0.000116128, 2.47459e-06, 230.446, -0.300652, -56.9591, 4.5512]",
-495,CC_ct_depth,1,

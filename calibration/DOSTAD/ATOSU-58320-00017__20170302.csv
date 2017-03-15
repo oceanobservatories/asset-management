@@ -1,0 +1,3 @@
+serial,name,value,notes
+316,CC_conc_coef,"[0.0, 1.0]",default
+316,CC_csv,"[0.0028847, 0.000121006, 2.35068e-06, 230.717, -0.372617, -55.3313, 4.57212]","SVUFoil Coef, Cal date 2017/02/03"

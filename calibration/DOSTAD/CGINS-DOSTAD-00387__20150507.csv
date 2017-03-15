@@ -1,4 +1,3 @@
 serial,name,value,notes
 387,CC_conc_coef,"[0.0, 1.0]",default
 387,CC_csv,"[0.00280115, 0.000119425, 2.40081e-06, 229.558, -0.330003, -58.8802, 4.5446]",Stern-Volmer-Uchida Calibration Coefficients array. 7 element float array.
-387,CC_ct_depth,5,PD3681

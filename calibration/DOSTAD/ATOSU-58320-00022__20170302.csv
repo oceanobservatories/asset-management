@@ -1,0 +1,3 @@
+serial,name,value,notes
+381,CC_conc_coef,"[0.0, 1.0]",default
+381,CC_csv,"[0.00284897, 0.000121289, 2.40379e-06, 229.702, -0.350439, -59.1981, 4.54209]",SUVFoilCoef?
