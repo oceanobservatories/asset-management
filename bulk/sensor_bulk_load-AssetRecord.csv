@@ -1688,7 +1688,7 @@ N00218.2,N00218.2,Sensor,0,MOORING MESCALE FLANKING A SP SIO Electronics,MOORING
 CGINS-ADCPAM-42931,N00300,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Glider 311,Teledyne RDI,Explorer DVL 600 kHz,642931,,20121002,,
 CGINS-FLORTM-02760,N00301,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Glider 311,WET Labs,ECO Puck FLBBCD-SLK,2760,,20121002,,
 CGINS-CTDGVM-09014,N00302,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Glider 311,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9014,,20121002,,
-CGINS-DOSTAM-00026,N00303,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Glider 311,Aanderaa,Optode 4831,26,,20121002,,
+CGINS-DOSTAM-00026,N00303,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Glider Instrument Pool,Aanderaa,Optode 4831,26,,20121002,,
 CGINS-PARADM-50145,N00304,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Glider 311,Biospherical Instruments,QSP-2155,50145,,20121002,,
 CGINS-ADCPAM-42932,N00305,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Glider 312,Teledyne RDI,Explorer DVL 600 kHz,642932,,20121002,,
 CGINS-FLORTM-02761,N00306,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Glider 312,WET Labs,ECO Puck FLBBCD-SLK,2761,,20121002,,
@@ -2724,3 +2724,6 @@ CGINS-PARADM-50242,,Sensor,1,Photosynthetically Available Radiation for Glider: 
 CGINS-FLORTM-04470,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORTM from TWR Glider Instrument Pool,WET Labs,ECO Puck FLBBCD-SLC,4470,,,,One of the instruments from Teledyne Webb Research's OOI Glider Instrument Pool
 CGINS-CTDGVM-09346,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV from TWR instrument pool,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9346,,,,From Teledyne Webb Research's OOI glider instrument pool
 CGINS-PARADM-50239,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD from TWR instrument pool,Biospherical Instruments,QSP-2155,50239,,,,From Teledyne Webb Research's OOI glider instrument pool
+CGINS-FLORTM-04471,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORTM from TWR Glider Instrument Pool,WET Labs,ECO Puck FLBBCD-SLC,4471,,,,One of the instruments from Teledyne Webb Research's OOI Glider Instrument Pool
+CGINS-CTDGVM-09347,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV from TWR instrument pool,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9347,,,,From Teledyne Webb Research's OOI glider instrument pool
+CGINS-PARADM-50241,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD from TWR instrument pool,Biospherical Instruments,QSP-2155,50241,,,,From Teledyne Webb Research's OOI glider instrument pool
