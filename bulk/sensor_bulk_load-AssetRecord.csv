@@ -1572,7 +1572,7 @@ CGINS-FLORTK-01031,N00038,Sensor,0,3-Wavelength Fluorometer: FLORT Series K,FLOR
 CGINS-MOPAK0-37377,N00039,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,37377,,20150604,,
 CGINS-PARADK-20477,N00040,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,PAR for WFP Coastal ML12991-02,Biospherical Instruments,QSP-2200,20477,,20150604,,
 CGINS-VEL3DK-00013,N00041,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series K,VEL3D for WFP Coastal ML12991-02,Nortek,Aquadopp,100013,,20150604,,
-CGINS-ADCPAM-49982,N00043,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Glider 379,Teledyne RDI,Explorer DVL 600 kHz,649982,,20130806,,
+CGINS-ADCPAM-49982,N00043,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Glider 383,Teledyne RDI,Explorer DVL 600 kHz,649982,,20130806,,
 CGINS-FLORTM-03116,N00044,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Glider 379,WET Labs,ECO Puck FLBBCD-SLK,3116,,20130806,,
 CGINS-CTDGVM-09057,N00045,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Glider 379,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9057,,20130806,,
 CGINS-DOSTAM-00178,N00046,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Glider 379,Aanderaa,Optode 4831,178,,20130806,,
@@ -1642,7 +1642,7 @@ CGINS-VEL3DL-01110,N00130,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series
 CGINS-ADCPAM-62598,N00131,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Glider 339,Teledyne RDI,Explorer DVL 600 kHz,62598,,20130301,,
 CGINS-FLORTM-02812,N00132,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Glider 339,WET Labs,ECO Puck FLBBCD-SLK,2812,,20130301,,
 CGINS-CTDGVM-09036,N00133,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Glider 339,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9036,,20130301,,
-CGINS-DOSTAM-00142,N00134,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Glider 339,Aanderaa,Optode 4831,142,,20130301,,
+CGINS-DOSTAM-00142,N00134,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA from TWR glider instrument pool,Aanderaa,Optode 4831,142,,20130301,,
 CGINS-PARADM-50153,N00135,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Glider 339,Biospherical Instruments,QSP-2155,50153,,20130301,,
 CGINS-ADCPAM-54587,N00136,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Glider 387,Teledyne RDI,Explorer DVL 600 kHz,654587,,20131223,,
 CGINS-FLORTM-03190,N00137,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Glider 387,WET Labs,ECO Puck FLBBCD-SLK,3190,,20131223,,
@@ -2721,3 +2721,6 @@ CGINS-ADCPAM-55980,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: AD
 CGINS-CTDGVM-09349,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV from TWR instrument pool,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9349,,,,From Teledyne Webb Research's OOI glider instrument pool
 CGINS-DOSTAM-00213,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTAM from TWR instrument pool,Aanderaa,Optode 4831,213,,,,From Teledyne Webb Research's OOI glider instrument pool
 CGINS-PARADM-50242,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD from TWR instrument pool,Biospherical Instruments,QSP-2155,50242,,,,From Teledyne Webb Research's OOI glider instrument pool
+CGINS-FLORTM-04470,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORTM from TWR Glider Instrument Pool,WET Labs,ECO Puck FLBBCD-SLC,4470,,,,One of the instruments from Teledyne Webb Research's OOI Glider Instrument Pool
+CGINS-CTDGVM-09346,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV from TWR instrument pool,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9346,,,,From Teledyne Webb Research's OOI glider instrument pool
+CGINS-PARADM-50239,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD from TWR instrument pool,Biospherical Instruments,QSP-2155,50239,,,,From Teledyne Webb Research's OOI glider instrument pool
