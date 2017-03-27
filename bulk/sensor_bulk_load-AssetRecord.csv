@@ -1860,6 +1860,7 @@ N00600,N00600,Sensor,0,Spectral Irradiance: SPKIR Series J,SPKIR for WLP-006,Sat
 N00601,N00601,Sensor,0,3-Wavelength Fluorometer: FLORT Series J,FLORT for WLP-006,WET Labs,ECO Triplet-w,,,20140929,13013.52,
 N00602,N00602,Sensor,0,CTD Profiler: CTDPF Series J,CTDPF for WLP-006,Sea-Bird Electronics,SBE 49 Fast CAT,,,20140929,7000,
 N00603,N00603,Sensor,0,Photosynthetically Available Radiation: PARAD Series J,PARAD for WLP-006,WET Labs,ECO PARS,,,20140929,,
+CGINS-DOSTAJ-00672,,Sensor,0,Dissolved Oxygen Stable Response: DOSTA Series J,DOSTA for WLP-008,Aanderaa,Optode 4831,672,,20161230,,
 CGINS-FLORDL-02736,N00604,Sensor,0,2-Wavelength Fluorometer: FLORD Series L,FLORD for ML12936-02,WET Labs,FLBBRTD,2736,,20130320,,
 CGINS-DOSTAL-01086,N00605,Sensor,0,Dissolved Oxygen Stable Response: DOSTA Series L,DOSTA for ML12936-02,Aanderaa,Optode 4330,1086,,20130320,,
 CGINS-CTDPFL-00107,N00606,Sensor,0,CTD Profiler: CTDPF Series L,CTDPF for ML12936-02,Sea-Bird Electronics,SBE 52-MP,107,,20130320,,
