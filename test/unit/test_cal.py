@@ -8,7 +8,7 @@ import logging
 from dateutil import parser
 from nose.plugins.attrib import attr
 
-from ..test_base import AssetManagementUnitTest, FileNameException
+from test.test_base import AssetManagementUnitTest, FileNameException
 
 logging.basicConfig()
 log = logging.getLogger()

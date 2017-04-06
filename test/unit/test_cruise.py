@@ -4,7 +4,7 @@ from collections import Counter
 from dateutil import parser
 from nose.plugins.attrib import attr
 
-from ..test_base import AssetManagementUnitTest
+from test.test_base import AssetManagementUnitTest
 
 
 @attr('UNIT')

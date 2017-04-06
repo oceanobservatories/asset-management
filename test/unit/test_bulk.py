@@ -5,7 +5,7 @@ from collections import Counter
 
 from nose.plugins.attrib import attr
 
-from ..test_base import AssetManagementUnitTest
+from test.test_base import AssetManagementUnitTest
 
 logging.basicConfig()
 log = logging.getLogger()
