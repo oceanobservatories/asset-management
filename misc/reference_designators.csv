@@ -91,14 +91,14 @@ CE04OSBP-LV01C-06-CAMDSB106,Digital Still Camera,500,500,Low-Voltage Node
 CE04OSPD-DP01B-00-ENG000000,Mobile Asset Controller,175,500,
 CE04OSPD-DP01B-01-CTDPFL105,CTD,175,500,Deep Profiler
 CE04OSPD-DP01B-02-VEL3DA105,3-D Single Point Velocity Meter,175,500,Deep Profiler
-CE04OSPD-DP01B-04-FLCDRA103,CDOM Fluorometer,175,500,Deep Profiler
+CE04OSPD-DP01B-03-FLCDRA103,CDOM Fluorometer,175,500,Deep Profiler
 CE04OSPD-DP01B-04-FLNTUA103,2-Wavelength Fluorometer,175,500,Deep Profiler
 CE04OSPD-DP01B-06-DOSTAD105,Dissolved Oxygen,175,500,Deep Profiler
 CE04OSPS-PC01B-05-ZPLSCB102,Bio-acoustic Sonar (Coastal),200,200,Mid-Water Platform
 CE04OSPS-PC01B-4A-CTDPFA109,CTD,200,200,Mid-Water Platform
 CE04OSPS-PC01B-4A-DOSTAD109,Dissolved Oxygen,200,200,Mid-Water Platform
 CE04OSPS-PC01B-4B-PHSENA106,Seawater pH,200,200,Mid-Water Platform
-CE04OSPS-PC01B-4C-PCO2WA105,pCO2 Water,200,200,Mid-Water Platform
+CE04OSPS-PC01B-4D-PCO2WA105,pCO2 Water,200,200,Mid-Water Platform
 CE04OSPS-SF01B-2A-CTDPFA107,CTD,20,200,Shallow Profiler
 CE04OSPS-SF01B-2A-DOFSTA107,Dissolved Oxygen,20,200,Shallow Profiler
 CE04OSPS-SF01B-2B-PHSENA108,Seawater pH,20,200,Shallow Profiler
@@ -1174,8 +1174,8 @@ GS05MOAS-PG566-06-PARADM000,Photosynthetically Available Radiation,0,200,
 RS01SBPD-DP01A-00-ENG000000,Mobile Asset Controller,200,2905,
 RS01SBPD-DP01A-01-CTDPFL104,CTD,200,2905,Deep Profiler
 RS01SBPD-DP01A-02-VEL3DA103,3-D Single Point Velocity Meter,200,2905,Deep Profiler
-RS01SBPD-DP01A-03-FLCDRA104,CDOM Fluorometer,200,2905,Deep Profiler
-RS01SBPD-DP01A-03-FLNTUA104,2-Wavelength Fluorometer,200,2905,Deep Profiler
+RS01SBPD-DP01A-03-FLCDRA102,CDOM Fluorometer,200,2905,Deep Profiler
+RS01SBPD-DP01A-04-FLNTUA102,2-Wavelength Fluorometer,200,2905,Deep Profiler
 RS01SBPD-DP01A-05-OPTAAC102,Spectrophotometer,200,2905,Deep Profiler
 RS01SBPD-DP01A-06-DOSTAD104,Dissolved Oxygen,200,2905,Deep Profiler
 RS01SBPS-PC01A-05-ADCPTD102,Velocity Profiler (150kHz),200,200,Mid-Water Platform
@@ -1223,7 +1223,7 @@ RS03ASHS-MJ03B-00-OSMOIA301,Osmosis-Based Water Sampler,1552,1552,Located Off Jb
 RS03ASHS-MJ03B-05-OBSSPA302,Short-Period Ocean Bottom Seismometer,1552,1552,Located Off Jbox
 RS03ASHS-MJ03B-06-OBSSPA301,Short-Period Ocean Bottom Seismometer,1552,1552,Located Off Jbox
 RS03ASHS-MJ03B-07-TMPSFA301,Diffuse Vent Fluid 3-D Temperature Array,1552,1552,Located Off Jbox
-RS03ASHS-PN03B-06-CAMHDA301,HD Digital Video Camera,1552,1552,
+RS03ASHS-PN03B-H6-CAMHDA301,HD Digital Video Camera,1552,1552,
 RS03AXBS-LJ03A-05-HPIESA301,"Horizontal Electric Field, Pressure and Inverted Echo Sounder",2639,2639,Located Off Jbox
 RS03AXBS-LJ03A-09-HYDBBA302,Broadband Acoustic Receiver (Hydrophone),2594,2594,Low-Power Jbox
 RS03AXBS-LJ03A-10-ADCPTE303,Velocity Profiler (150kHz),2594,2594,Low-Power Jbox
