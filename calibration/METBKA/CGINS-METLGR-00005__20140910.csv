@@ -6,3 +6,4 @@ LGR005,CC_height_of_windspeed_sensor_above_sealevel_m,5.33,Height of windspeed m
 LGR005,CC_jcool,1,Default (do coolskin calc)
 LGR005,CC_jwarm,1,Default (do warmlayer calc)
 LGR005,CC_zinvpbl,600,"Default from <def met_buoyfls(tC_sea, wnd, tC_air, relhum, timestamp, lon, ztmpwat, zwindsp, ztmpair, zhumair, lat=45.0, pr_air=1013.0, Rshort_down=150.0, Rlong_down=370.0, cumu_prcp=0.0, zinvpbl=600.0, jwarm=JWARMFL, jcool=JCOOLFL)>"
+LGR005,CC_use_velpt,1,

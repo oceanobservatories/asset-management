@@ -1,0 +1,3 @@
+serial,name,value,notes
+292,CC_conc_coef,"[-1.323867, 1.034231]",date in filename comes from current factory calibration certificate
+292,CC_csv,"[0.002718027, 0.0001148167, 2.410413e-06, 229.3073, -0.3019408, -57.20683, 4.561206]",

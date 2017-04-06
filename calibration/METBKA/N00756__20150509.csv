@@ -6,3 +6,4 @@ CP03ISSM-00002-METBK,CC_height_of_windspeed_sensor_above_sealevel_m,4.7498,S/N t
 CP03ISSM-00002-METBK,CC_jcool,1,Constant
 CP03ISSM-00002-METBK,CC_jwarm,1,Constant
 CP03ISSM-00002-METBK,CC_zinvpbl,600,Constant
+CP03ISSM-00002-METBK,CC_use_velpt,1,

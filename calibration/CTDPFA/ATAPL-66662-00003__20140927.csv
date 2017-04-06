@@ -27,3 +27,4 @@ serial,name,value,notes
 16P71179-7232-2484,CC_residual_temperature_correction_factor_b,0.00018714,
 16P71179-7232-2484,CC_residual_temperature_correction_factor_c,-2.7965e-06,
 16P71179-7232-2484,CC_residual_temperature_correction_factor_e,0.036,
+16P71179-7232-2484,CC_offset,0,

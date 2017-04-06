@@ -28,3 +28,4 @@ serial,name,value,notes
 16-50112,CC_residual_temperature_correction_factor_c,-2.4619e-06,"C, 4/14/15"
 16-50112,CC_residual_temperature_correction_factor_e,0.036,"NO CHANGE, E nominal, 4/14/15"
 16-50112,CC_voltage_offset,-0.5199,"changed CC name from frequency_offset to voltage_offset (this is SBE43, not SBE43F, so only voltage offset is valid), 4/14/15"
+16-50112,CC_offset,0,

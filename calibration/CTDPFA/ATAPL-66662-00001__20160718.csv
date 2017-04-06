@@ -21,3 +21,4 @@ serial,name,value,notes
 16P65795-6914,CC_ptempa0,-57.02053,
 16P65795-6914,CC_ptempa1,54.68491,
 16P65795-6914,CC_ptempa2,-0.3818256,
+16P65795-6914,CC_offset,0,

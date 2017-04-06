@@ -28,3 +28,4 @@ serial,name,value,notes
 16-50019,CC_residual_temperature_correction_factor_c,-3.0854e-06,
 16-50019,CC_residual_temperature_correction_factor_e,0.036,
 16-50019,CC_voltage_offset,0.502,CE04OSPS-SF01B-2A-DOFSTA107
+16-50019,CC_offset,0,

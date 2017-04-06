@@ -358,6 +358,8 @@ CGINS-FLORTD-01152,A00614,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLOR
 CGINS-FLORTD-01153,A00615,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1153,,20140103,13013.52,
 CGINS-FLORTD-01154,A00616,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1154,,20140103,13013.52,
 CGINS-FLORTD-01155,A00617,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1155,,20140103,13013.52,
+CGINS-FLORTD-01487,,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1487,,20160812,,
+CGINS-FLORTD-01488,,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1488,,20160812,,
 CGINS-PCO2WB-C0081,A00628,Sensor,0,pCO2 Water: PCO2W Series B,PCO2W SERIES B (SAMI-CO2),Sunburst Sensors,SAMI-pCO2,C0081,,20140110,20208.3,
 CGCON-GWFPGX-10401,A00630.1,Sensor,0,Global Wire-Following Profiler Controller,WFP GLOBAL Electronics #1,McLane,MMP 210-3512,ML13104-01,,20140115,0,
 CGCON-GWFPGX-10402,A00631.1,Sensor,0,Global Wire-Following Profiler Controller,WFP GLOBAL Electronics #1,McLane,MMP 210-3512,ML13104-02,,20140115,0,
@@ -630,7 +632,7 @@ CGINS-FLORDG-03418,A01008,Sensor,0,2-Wavelength Fluorometer: FLORD Series G,FLOR
 CGINS-PCO2WB-C0098,A01009,Sensor,0,pCO2 Water: PCO2W Series B,PCO2W SERIES B (SAMI-CO2),Sunburst Sensors,SAMI-pCO2,C0098,,20150604,20373.4,
 CGINS-PRESFA-01382,A01011,Sensor,0,Seafloor Pressure: PRESF Series A,PRESF SERIES A (26PLUS),Sea-Bird Electronics,SBE 26plus,26P-1382,,20130123,13850,
 CGINS-PRESFB-01384,A01012,Sensor,0,Seafloor Pressure: PRESF Series B,PRESF SERIES B (26PLUS),Sea-Bird Electronics,SBE 26plus,26P76848-1384,,20130123,13850,
-CGINS-PRESFC-01385,A01013,Sensor,0,Seafloor Pressure: PRESF Series C,PRESF SERIES C (26PLUS),Sea-Bird Electronics,SBE 26plus,26P76848-1385,,20130123,13850,
+CGINS-PRESFC-01385,A01013,Sensor,0,Seafloor Pressure: PRESF Series C,PRESF SERIES C (26PLUS),Sea-Bird Electronics,SBE 26plus,26-01385,,20130123,13850,
 CGINS-PRESFA-01383,A01014,Sensor,0,Seafloor Pressure: PRESF Series A,PRESF SERIES A (26PLUS),Sea-Bird Electronics,SBE 26plus,26P76848-1383,,20130123,13850,
 CGINS-VELPTA-11774,A01015,Sensor,0,Single Point Velocity Meter: VELPT Series A,VELPT SERIES A (AQUADOPP 300M),Nortek,Aquadopp,AQD 11774,,20130916,8650,
 CGINS-VELPTA-11789,A01016,Sensor,0,Single Point Velocity Meter: VELPT Series A,VELPT SERIES A (AQUADOPP 300M),Nortek,Aquadopp,AQD 11789,,20130916,8650,
@@ -1930,6 +1932,7 @@ CGINS-PRESFB-01391,N00674,Sensor,0,Seafloor Pressure: PRESF Series B,PRESF SERIE
 CGINS-ZPLSCC-55097,N00675,Sensor,0,Bio-acoustic Sonar: ZPLSC Series C,ZPLSG SERIES A,ASL Environmental,AZFP,55097,,,92685,
 CGINS-OPTAAD-00260,N00678,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIES D,WET Labs,AC-S,ACS-260,,,40133.74,
 CGINS-CAMDSA-00111,N00679,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0111,,,,
+CGINS-CAMDSA-00112,,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0112,,20140803,,
 CGINS-PRESFB-01396,N00680,Sensor,0,Seafloor Pressure: PRESF Series B,PRESF SERIES B (26PLUS),Sea-Bird Electronics,SBE 26plus,26P-1396,,,14300,
 CGINS-ZPLSCC-55098,N00681,Sensor,0,Bio-acoustic Sonar: ZPLSC Series C,ZPLSC SERIES C,ASL Environmental,AZFP,55098,,,92685,
 CGINS-CAMDSA-00109,N00682,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0109,,,,
@@ -2307,6 +2310,9 @@ CGINS-PCO2AA-34198,OL000390,Sensor,0,pCO2 Air-Sea: PCO2A Series A,PCO2A SERIES A
 CGCON-BCPM01-00008,OL000391,Sensor,0,Surface Buoy Communications and Power Manager,Communications and Power Manager,WHOI,CPM,2015-0008,,,,CE04OSSM-00002-SBC11
 CGCON-BDCL11-00008,OL000392,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,8,,,,CE04OSSM-00002-SBD11
 CGCON-BDCL12-00008,OL000393,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,8,,,,CE04OSSM-00002-SBD12
+CGCON-BCPM01-50008,,Sensor,0,Surface Buoy Communications and Power Manager,Communications and Power Manager,WHOI,CPM,2015-0008,,,,CE09OSSM-00005-SBC11
+CGCON-BDCL11-50008,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,2015-0008,,,,CE09OSSM-00005-SBD11
+CGCON-BDCL12-50008,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,2015-0008,,,,CE09OSSM-00005-SBD12
 CGCON-NCPM02-00007,OL000394,Sensor,0,Near Surface Instrument Frame Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00274-0007,,,,CE04OSSM-00002-RIC21
 OL000395,OL000395,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3703-00274-0007,,,,CE04OSSM-RID27-00-DCLENG000 - 2
 OL000396,OL000396,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3703-00272-0025,,,,CE04OSSM-00002-RID26
@@ -2314,6 +2320,7 @@ OL000398,OL000398,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,
 OL000402,,Sensor,0,Multi-Function Node Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00275-0004,,,,CE06ISSM-00004
 CGCON-MDCL37-00004,OL000403,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3703-00275-0004,,,,CE06ISSM-00004
 CGCON-MDCL35-00010,OL000404,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3703-00292-0010,,,,CE06ISSM-00004
+CGCON-MDCL36-00010,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3703-00292-0010,,,,CE06ISSM-00004 CE09OSSM-00005convertedbottle
 OL000405,OL000405,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,CE07SHSM-00001+MOPAK,,,,CE07SHSM-00001
 OL000406,OL000406,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instruments,M2A transmitters,CE07SHSM-SBD11-HYDGN,,,,CE07SHSM-00001
 OL000407,OL000407,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instruments,M2A transmitters,CE07SHSM-SBD12-HYDGN,,,,CE07SHSM-00001
@@ -2706,6 +2713,7 @@ CGCON-EDCL17-00020,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentr
 CGCON-ECPM01-00020,,Sensor,0,Surface Buoy Communications and Power Manager,Communications and Power Manager,WHOI,CPM,20,,,,CE01ISSM-00006-SBC11
 CGCON-NCPM02-15008,,Sensor,0,Near Surface Instrument Frame Communications and Power Manager,Communications and Power Manager,WHOI,CPM,8,,,,CE02SHSM-00004-CPM21 added 1500 to sn UID to distinguish it from Pioneer
 CGCON-NDCL26-00029,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,29,,,,CE02SHSM-00004-DCL26
+CGCON-NDCL27-00007,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,7,,,,CE09OSSM-00005-DCL27
 CGCON-NDCL27-00008,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,8,,,,CE02SHSM-00004-DCL27
 CGCON-BCPM01-15005,,Sensor,0,Surface Buoy Communications and Power Manager,Communications and Power Manager,WHOI,CPM,2015-0005,,,,CE02SHSM-00004-CPM11 added the last two digits before the hyphen  to the UID to distinguish between Pioneer and Endurance
 CGCON-BDCL11-15005,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,2015-0005,,,,CE02SHSM-00004-DCL11

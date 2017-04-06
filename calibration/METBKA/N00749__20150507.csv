@@ -6,3 +6,4 @@ CP01CNSM-00003-METBK1,CC_height_of_windspeed_sensor_above_sealevel_m,4,Height of
 CP01CNSM-00003-METBK1,CC_jcool,1,do coolskin calc
 CP01CNSM-00003-METBK1,CC_jwarm,1,do warmlayer calc
 CP01CNSM-00003-METBK1,CC_zinvpbl,600,"planetary boundary layer/inversion height: this is set to a default value of 600m in the code, as is used in the DPS."
+CP01CNSM-00003-METBK1,CC_use_velpt,1,
