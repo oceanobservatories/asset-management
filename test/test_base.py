@@ -28,10 +28,10 @@ class AssetManagementUnitTest(unittest.TestCase):
     CAL_ROOT = os.path.join(AM_ROOT, 'calibration')
     CRUISE_ROOT = os.path.join(AM_ROOT, 'cruise')
     DEP_ROOT = os.path.join(AM_ROOT, 'deployment')
-    MISC_ROOT = os.path.join(AM_ROOT, 'misc')
+    VOCAB_ROOT = os.path.join(AM_ROOT, 'vocab')
     BULK_FILES_GLOB = os.path.join(BULK_ROOT, '*bulk_load-AssetRecord.csv')
     CRUISE_FILE = os.path.join(CRUISE_ROOT, 'CruiseInformation.csv')
-    REFDES_FILE = os.path.join(MISC_ROOT, 'reference_designators.csv')
+    VOCAB_FILE = os.path.join(VOCAB_ROOT, 'vocab.csv')
 
     BULK_COLS_RENAME = {
         'ASSET_UID': 'uid',
@@ -63,7 +63,7 @@ class AssetManagementUnitTest(unittest.TestCase):
         cls.bulk_data.dropna(how='all', inplace=True)
 
         cls.cruise_data = pd.read_csv(cls.CRUISE_FILE)
-        cls.reference_designators = set(pd.read_csv(cls.REFDES_FILE).reference_designator)
+        cls.reference_designators = set(pd.read_csv(cls.VOCAB_FILE).Reference_Designator)
 
     @staticmethod
     def valid_float(value):

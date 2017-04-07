@@ -139,7 +139,7 @@ class DeploymentFilesUnitTest(AssetManagementUnitTest):
 
                 # reference designator must be valid. from ../../misc/reference_designators.csv
                 if not record['Reference Designator'] in self.reference_designators:
-                    errors.append('Reference Designator (%s) at index (%s) not in list of valid reference designators (reference_designators.csv)' % (record['Reference Designator'], index))
+                    errors.append('Reference Designator (%s) at csv index (%s) not in list of valid reference designators (./vocab/vocab.csv)' % (record['Reference Designator'], index+2))
 
                 lat = record['lat']
                 if not self.valid_float(lat):
