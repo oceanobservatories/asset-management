@@ -1,11 +1,10 @@
 import fnmatch
 import logging
 import os
-
 import pandas
 from nose.plugins.attrib import attr
 
-from ..test_base import AssetManagementUnitTest
+from test.test_base import AssetManagementUnitTest
 
 logging.basicConfig()
 log = logging.getLogger()
@@ -137,6 +136,10 @@ class DeploymentFilesUnitTest(AssetManagementUnitTest):
                 if start_time == stop_time:
                     errors.append('Equivalent startDateTime and stopDateTime - (%r, %r) - row %d' %
                                   (start_time, stop_time, index))
+
+                # reference designator must be valid. from ../../misc/reference_designators.csv
+                if not record['Reference Designator'] in self.reference_designators:
+                    errors.append('Reference Designator (%s) at index (%s) not in list of valid reference designators (reference_designators.csv)' % (record['Reference Designator'], index))
 
                 lat = record['lat']
                 if not self.valid_float(lat):
