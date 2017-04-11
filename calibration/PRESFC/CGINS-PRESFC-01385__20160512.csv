@@ -1,19 +1,19 @@
 serial,name,value,notes
-26-01385,CC_b,838.8,
-26-01385,CC_c1,-5916.308,IDD for data recovered directly from
-26-01385,CC_c2,195.7207,the PRESF instrument needs to be written - eventually.
-26-01385,CC_c3,16601.59,
-26-01385,CC_d1,0.068552,
-26-01385,CC_d2,0,
-26-01385,CC_m,12582.9,
-26-01385,CC_offset_correction_factor,0,Constant
-26-01385,CC_pressure_offset_calibration_coefficient,-0.9457999,from SBE offset_correction pdf
-26-01385,CC_slope_correction_factor,1,Constant
-26-01385,CC_t1,30.06687,
-26-01385,CC_t2,0.964735,
-26-01385,CC_t3,43.28319,
-26-01385,CC_t4,92.59003,
-26-01385,CC_u0,5.821564,
-26-01385,CC_y1,-3880.374,
-26-01385,CC_y2,-9063.153,
-26-01385,CC_y3,0,
+26P-1385,CC_b,838.8,
+26P-1385,CC_c1,-5916.308,IDD for data recovered directly from
+26P-1385,CC_c2,195.7207,the PRESF instrument needs to be written - eventually.
+26P-1385,CC_c3,16601.59,
+26P-1385,CC_d1,0.068552,
+26P-1385,CC_d2,0,
+26P-1385,CC_m,12582.9,
+26P-1385,CC_offset_correction_factor,0,Constant
+26P-1385,CC_pressure_offset_calibration_coefficient,-0.9457999,from SBE offset_correction pdf
+26P-1385,CC_slope_correction_factor,1,Constant
+26P-1385,CC_t1,30.06687,
+26P-1385,CC_t2,0.964735,
+26P-1385,CC_t3,43.28319,
+26P-1385,CC_t4,92.59003,
+26P-1385,CC_u0,5.821564,
+26P-1385,CC_y1,-3880.374,
+26P-1385,CC_y2,-9063.153,
+26P-1385,CC_y3,0,

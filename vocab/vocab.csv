@@ -987,19 +987,24 @@ GI05MOAS-GL485-00-ENG000000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 
 GI05MOAS-GL485-01-FLORDM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 485,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
 GI05MOAS-GL485-02-DOSTAM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 485,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
 GI05MOAS-GL485-04-CTDGVM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 485,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-GI05MOAS-GL495,Global Irminger Sea,Mobile Assets,Open Ocean Glider 495,,,,,
-GI05MOAS-GL495-00-ENG000000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 495,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,,
-GI05MOAS-GL495-01-FLORDM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 495,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,,
-GI05MOAS-GL495-02-DOSTAM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 495,Dissolved Oxygen,Aanderaa,Optode 4831,,
-GI05MOAS-GL495-04-CTDGVM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 495,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),,
-GI05MOAS-PG528,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,,,,,
-GI05MOAS-PG528-00-ENG000000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,,
-GI05MOAS-PG528-01-CTDGVM000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),,
-GI05MOAS-PG528-05-NUTNRM000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,Nitrate,Satlantic,SUNA V2,,
-GI05MOAS-PG528-06-PARADM000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,,
-GI05MOAS-PG528-02-DOSTAM000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,Dissolved Oxygen,Aanderaa,Optode 4831,,
-GI05MOAS-PG528-03-FLORTM000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,,
-GI05MOAS-PG528-04-FLORTO000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,3-Wavelength Fluorometer,WET Labs,ECO BB3,,
+GI05MOAS-GL495,Global Irminger Sea,Mobile Assets,Open Ocean Glider 495,,,,0,1000
+GI05MOAS-GL495-00-ENG000000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 495,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GI05MOAS-GL495-01-FLORDM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 495,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GI05MOAS-GL495-02-DOSTAM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 495,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GI05MOAS-GL495-04-CTDGVM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 495,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GI05MOAS-GL559,Global Irminger Sea,Mobile Assets,Open Ocean Glider 559,,,,0,1000
+GI05MOAS-GL559-00-ENG000000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 559,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GI05MOAS-GL559-01-FLORDM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 559,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GI05MOAS-GL559-02-DOSTAM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 559,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GI05MOAS-GL559-04-CTDGVM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 559,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GI05MOAS-PG528,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,,,,0,1000
+GI05MOAS-PG528-00-ENG000000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GI05MOAS-PG528-01-CTDGVM000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GI05MOAS-PG528-05-NUTNRM000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,Nitrate,Satlantic,SUNA V2,0,1000
+GI05MOAS-PG528-06-PARADM000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+GI05MOAS-PG528-02-DOSTAM000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GI05MOAS-PG528-03-FLORTM000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+GI05MOAS-PG528-04-FLORTO000,Global Irminger Sea,Mobile Assets,Global Profiling Glider 528,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,1000
 GP02HYPM,Global Station Papa,Apex Profiler Mooring,,,,,150,4219
 GP02HYPM-MPM01,Global Station Papa,Apex Profiler Mooring,Mooring Riser,,,,150,150
 GP02HYPM-MPM01-02-ZPLSGA009,Global Station Papa,Apex Profiler Mooring,Mooring Riser,Bio-acoustic Sonar (Global),ASL Environmental Sciences,AZFP,150,150
@@ -1112,26 +1117,26 @@ GP05MOAS-GL537-00-ENG000000,Global Station Papa,Mobile Assets,Open Ocean Glider 
 GP05MOAS-GL537-01-FLORDM000,Global Station Papa,Mobile Assets,Open Ocean Glider 537,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
 GP05MOAS-GL537-02-DOSTAM000,Global Station Papa,Mobile Assets,Open Ocean Glider 537,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
 GP05MOAS-GL537-04-CTDGVM000,Global Station Papa,Mobile Assets,Open Ocean Glider 537,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-GP05MOAS-PG514,Global Station Papa,Mobile Assets,Global Profiling Glider 514,,,,,
-GP05MOAS-PG514-00-ENG000000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,,
-GP05MOAS-PG514-02-DOSTAM000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,Dissolved Oxygen,Aanderaa,Optode 4831,,
-GP05MOAS-PG514-01-CTDGVM000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),,
-GP05MOAS-PG514-03-FLORTM000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,,
-GP05MOAS-PG514-03-NUTNRM000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,Nitrate,Satlantic,SUNA V2,,
-GP05MOAS-PG514-04-FLORTO000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,3-Wavelength Fluorometer,WET Labs,ECO BB3,,
-GP05MOAS-PG514-05-NUTNRM000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,Nitrate,Satlantic,SUNA V2,,
-GP05MOAS-PG514-06-PARADM000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,,
-GP05MOAS-PG515,Global Station Papa,Mobile Assets,Global Profiling Glider 515,,,,,
-GP05MOAS-PG515-00-ENG000000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,,
-GP05MOAS-PG515-01-CTDGVM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),,
-GP05MOAS-PG515-06-PARADM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,,
-GP05MOAS-PG515-04-PARADM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,,
-GP05MOAS-PG515-02-DOSTAM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,Dissolved Oxygen,Aanderaa,Optode 4831,,
-GP05MOAS-PG515-03-FLORTM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,,
-GP05MOAS-PG515-04-FLORTO000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,3-Wavelength Fluorometer,WET Labs,ECO BB3,,
-GP05MOAS-PG515-02-FLORTM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,,
-GP05MOAS-PG515-03-FLORTO000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,3-Wavelength Fluorometer,WET Labs,ECO BB3,,
-GP05MOAS-PG515-05-NUTNRM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,Nitrate,Satlantic,SUNA V2,,
+GP05MOAS-PG514,Global Station Papa,Mobile Assets,Global Profiling Glider 514,,,,0,1000
+GP05MOAS-PG514-00-ENG000000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GP05MOAS-PG514-02-DOSTAM000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GP05MOAS-PG514-01-CTDGVM000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GP05MOAS-PG514-03-FLORTM000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+GP05MOAS-PG514-03-NUTNRM000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,Nitrate,Satlantic,SUNA V2,0,1000
+GP05MOAS-PG514-04-FLORTO000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,1000
+GP05MOAS-PG514-05-NUTNRM000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,Nitrate,Satlantic,SUNA V2,0,1000
+GP05MOAS-PG514-06-PARADM000,Global Station Papa,Mobile Assets,Global Profiling Glider 514,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+GP05MOAS-PG515,Global Station Papa,Mobile Assets,Global Profiling Glider 515,,,,0,1000
+GP05MOAS-PG515-00-ENG000000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GP05MOAS-PG515-01-CTDGVM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GP05MOAS-PG515-06-PARADM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+GP05MOAS-PG515-04-PARADM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+GP05MOAS-PG515-02-DOSTAM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GP05MOAS-PG515-03-FLORTM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+GP05MOAS-PG515-04-FLORTO000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,1000
+GP05MOAS-PG515-02-FLORTM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+GP05MOAS-PG515-03-FLORTO000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,1000
+GP05MOAS-PG515-05-NUTNRM000,Global Station Papa,Mobile Assets,Global Profiling Glider 515,Nitrate,Satlantic,SUNA V2,0,1000
 GS01SUMO,Global Southern Ocean,Apex Surface Mooring,,,,,0,4800
 GS01SUMO-RID16,Global Southern Ocean,Apex Surface Mooring,Near Surface Instrument Frame,,,,12,12
 GS01SUMO-RID16-00-DCLENG000,Global Southern Ocean,Apex Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,12,12
@@ -1445,70 +1450,70 @@ CP05MOAS-GL375-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 375,CTD
 CP05MOAS-GL375-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 375,Dissolved Oxygen,Aanderaa,Optode 4831,TBD,TBD
 CP05MOAS-GL375-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 375,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,TBD,TBD
 CP05MOAS-GL376-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 376,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,TBD,TBD
-GA05MOAS-GL538,Global Argentine Basin,Mobile Assets,Open Ocean Glider 538,,,,TBD,TBD
-GA05MOAS-GL538-00-ENG000000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 538,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,TBD,TBD
-GA05MOAS-GL538-01-FLORDM000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 538,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,TBD,TBD
-GA05MOAS-GL538-02-DOSTAM000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 538,Dissolved Oxygen,Aanderaa,Optode 4831,TBD,TBD
-GA05MOAS-GL538-04-CTDGVM000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 538,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),TBD,TBD
-GA05MOAS-PG562,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,,,,TBD,TBD
-GA05MOAS-PG562-00-ENG000000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,TBD,TBD
-GA05MOAS-PG562-01-CTDGVM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),TBD,TBD
-GA05MOAS-PG562-02-DOSTAM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,Dissolved Oxygen,Aanderaa,Optode 4831,TBD,TBD
-GA05MOAS-PG562-03-FLORTM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,TBD,TBD
-GA05MOAS-PG562-04-FLORTO000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,3-Wavelength Fluorometer,WET Labs,ECO BB3,TBD,TBD
-GA05MOAS-PG562-05-NUTNRM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,Nitrate,Satlantic,SUNA V2,TBD,TBD
-GA05MOAS-PG562-06-PARADM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,TBD,TBD
-GA05MOAS-PG563,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,,,,TBD,TBD
-GA05MOAS-PG563-00-ENG000000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,TBD,TBD
-GA05MOAS-PG563-01-CTDGVM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),TBD,TBD
-GA05MOAS-PG563-02-DOSTAM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,Dissolved Oxygen,Aanderaa,Optode 4831,TBD,TBD
-GA05MOAS-PG563-03-FLORTM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,TBD,TBD
-GA05MOAS-PG563-04-FLORTO000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,3-Wavelength Fluorometer,WET Labs,ECO BB3,TBD,TBD
-GA05MOAS-PG563-05-NUTNRM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,Nitrate,Satlantic,SUNA V2,TBD,TBD
-GA05MOAS-PG563-06-PARADM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,TBD,TBD
-GI05MOAS-GL478,Global Irminger Sea,Mobile Assets,Open Ocean Glider 478,,,,TBD,TBD
-GI05MOAS-GL478-00-ENG000000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 478,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,TBD,TBD
-GI05MOAS-GL478-01-FLORDM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 478,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,TBD,TBD
-GI05MOAS-GL478-02-DOSTAM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 478,Dissolved Oxygen,Aanderaa,Optode 4831,TBD,TBD
-GI05MOAS-GL478-04-CTDGVM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 478,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),TBD,TBD
-GS05MOAS-GL484,Global Southern Ocean,Mobile Assets,Open Ocean Glider 484,,,,TBD,TBD
-GS05MOAS-GL484-00-ENG000000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 484,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,TBD,TBD
-GS05MOAS-GL484-01-FLORDM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 484,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,TBD,TBD
-GS05MOAS-GL484-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 484,Dissolved Oxygen,Aanderaa,Optode 4831,TBD,TBD
-GS05MOAS-GL484-04-CTDGVM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 484,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),TBD,TBD
-GS05MOAS-GL485,Global Southern Ocean,Mobile Assets,Open Ocean Glider 485,,,,TBD,TBD
-GS05MOAS-GL485-00-ENG000000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 485,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,TBD,TBD
-GS05MOAS-GL485-01-FLORDM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 485,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,TBD,TBD
-GS05MOAS-GL485-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 485,Dissolved Oxygen,Aanderaa,Optode 4831,TBD,TBD
-GS05MOAS-GL485-04-CTDGVM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 485,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),TBD,TBD
-GS05MOAS-GL524,Global Southern Ocean,Mobile Assets,Open Ocean Glider 524,,,,TBD,TBD
-GS05MOAS-GL524-00-ENG000000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 524,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,TBD,TBD
-GS05MOAS-GL524-01-FLORDM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 524,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,TBD,TBD
-GS05MOAS-GL524-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 524,Dissolved Oxygen,Aanderaa,Optode 4831,TBD,TBD
-GS05MOAS-GL524-04-CTDGVM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 524,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),TBD,TBD
-GS05MOAS-GL560,Global Southern Ocean,Mobile Assets,Open Ocean Glider 560,,,,TBD,TBD
-GS05MOAS-GL560-00-ENG000000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 560,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,TBD,TBD
-GS05MOAS-GL560-01-FLORDM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 560,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,TBD,TBD
-GS05MOAS-GL560-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 560,Dissolved Oxygen,Aanderaa,Optode 4831,TBD,TBD
-GS05MOAS-GL560-04-CTDGVM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 560,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),TBD,TBD
-GS05MOAS-GL561,Global Southern Ocean,Mobile Assets,Open Ocean Glider 561,,,,TBD,TBD
-GS05MOAS-GL561-00-ENG000000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 561,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,TBD,TBD
-GS05MOAS-GL561-01-FLORDM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 561,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,TBD,TBD
-GS05MOAS-GL561-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 561,Dissolved Oxygen,Aanderaa,Optode 4831,TBD,TBD
-GS05MOAS-GL561-04-CTDGVM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 561,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),TBD,TBD
-GS05MOAS-PG565,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,,,,TBD,TBD
-GS05MOAS-PG565-00-ENG000000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,TBD,TBD
-GS05MOAS-PG565-01-CTDGVM000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),TBD,TBD
-GS05MOAS-PG565-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,Dissolved Oxygen,Aanderaa,Optode 4831,TBD,TBD
-GS05MOAS-PG565-03-FLORTM000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,TBD,TBD
-GS05MOAS-PG565-04-FLORTO000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,3-Wavelength Fluorometer,WET Labs,ECO BB3,TBD,TBD
-GS05MOAS-PG565-05-NUTNRM000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,Nitrate,Satlantic,SUNA V2,TBD,TBD
-GS05MOAS-PG565-06-PARADM000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,TBD,TBD
-GS05MOAS-PG566,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,,,,TBD,TBD
-GS05MOAS-PG566-00-ENG000000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,TBD,TBD
-GS05MOAS-PG566-01-CTDGVM000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),TBD,TBD
-GS05MOAS-PG566-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,Dissolved Oxygen,Aanderaa,Optode 4831,TBD,TBD
-GS05MOAS-PG566-03-FLORTM000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,TBD,TBD
-GS05MOAS-PG566-04-FLORTO000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,3-Wavelength Fluorometer,WET Labs,ECO BB3,TBD,TBD
-GS05MOAS-PG566-05-NUTNRM000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,Nitrate,Satlantic,SUNA V2,TBD,TBD
-GS05MOAS-PG566-06-PARADM000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,TBD,TBD
+GA05MOAS-GL538,Global Argentine Basin,Mobile Assets,Open Ocean Glider 538,,,,0,1000
+GA05MOAS-GL538-00-ENG000000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 538,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GA05MOAS-GL538-01-FLORDM000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 538,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GA05MOAS-GL538-02-DOSTAM000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 538,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GA05MOAS-GL538-04-CTDGVM000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 538,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GA05MOAS-PG562,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,,,,0,1000
+GA05MOAS-PG562-00-ENG000000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GA05MOAS-PG562-01-CTDGVM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GA05MOAS-PG562-02-DOSTAM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GA05MOAS-PG562-03-FLORTM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+GA05MOAS-PG562-04-FLORTO000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,1000
+GA05MOAS-PG562-05-NUTNRM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,Nitrate,Satlantic,SUNA V2,0,1000
+GA05MOAS-PG562-06-PARADM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 562,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+GA05MOAS-PG563,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,,,,0,1000
+GA05MOAS-PG563-00-ENG000000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GA05MOAS-PG563-01-CTDGVM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GA05MOAS-PG563-02-DOSTAM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GA05MOAS-PG563-03-FLORTM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+GA05MOAS-PG563-04-FLORTO000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,1000
+GA05MOAS-PG563-05-NUTNRM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,Nitrate,Satlantic,SUNA V2,0,1000
+GA05MOAS-PG563-06-PARADM000,Global Argentine Basin,Mobile Assets,Global Profiling Glider 563,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+GI05MOAS-GL478,Global Irminger Sea,Mobile Assets,Open Ocean Glider 478,,,,0,1000
+GI05MOAS-GL478-00-ENG000000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 478,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GI05MOAS-GL478-01-FLORDM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 478,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GI05MOAS-GL478-02-DOSTAM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 478,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GI05MOAS-GL478-04-CTDGVM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 478,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GS05MOAS-GL484,Global Southern Ocean,Mobile Assets,Open Ocean Glider 484,,,,0,1000
+GS05MOAS-GL484-00-ENG000000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 484,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GS05MOAS-GL484-01-FLORDM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 484,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GS05MOAS-GL484-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 484,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GS05MOAS-GL484-04-CTDGVM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 484,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GS05MOAS-GL485,Global Southern Ocean,Mobile Assets,Open Ocean Glider 485,,,,0,1000
+GS05MOAS-GL485-00-ENG000000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 485,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GS05MOAS-GL485-01-FLORDM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 485,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GS05MOAS-GL485-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 485,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GS05MOAS-GL485-04-CTDGVM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 485,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GS05MOAS-GL524,Global Southern Ocean,Mobile Assets,Open Ocean Glider 524,,,,0,1000
+GS05MOAS-GL524-00-ENG000000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 524,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GS05MOAS-GL524-01-FLORDM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 524,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GS05MOAS-GL524-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 524,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GS05MOAS-GL524-04-CTDGVM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 524,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GS05MOAS-GL560,Global Southern Ocean,Mobile Assets,Open Ocean Glider 560,,,,0,1000
+GS05MOAS-GL560-00-ENG000000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 560,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GS05MOAS-GL560-01-FLORDM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 560,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GS05MOAS-GL560-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 560,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GS05MOAS-GL560-04-CTDGVM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 560,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GS05MOAS-GL561,Global Southern Ocean,Mobile Assets,Open Ocean Glider 561,,,,0,1000
+GS05MOAS-GL561-00-ENG000000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 561,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GS05MOAS-GL561-01-FLORDM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 561,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GS05MOAS-GL561-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 561,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GS05MOAS-GL561-04-CTDGVM000,Global Southern Ocean,Mobile Assets,Open Ocean Glider 561,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GS05MOAS-PG565,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,,,,0,1000
+GS05MOAS-PG565-00-ENG000000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GS05MOAS-PG565-01-CTDGVM000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GS05MOAS-PG565-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GS05MOAS-PG565-03-FLORTM000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+GS05MOAS-PG565-04-FLORTO000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,1000
+GS05MOAS-PG565-05-NUTNRM000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,Nitrate,Satlantic,SUNA V2,0,1000
+GS05MOAS-PG565-06-PARADM000,Global Southern Ocean,Mobile Assets,Global Profiling Glider 565,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+GS05MOAS-PG566,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,,,,0,1000
+GS05MOAS-PG566-00-ENG000000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GS05MOAS-PG566-01-CTDGVM000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GS05MOAS-PG566-02-DOSTAM000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GS05MOAS-PG566-03-FLORTM000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+GS05MOAS-PG566-04-FLORTO000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,1000
+GS05MOAS-PG566-05-NUTNRM000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,Nitrate,Satlantic,SUNA V2,0,1000
+GS05MOAS-PG566-06-PARADM000,Global Southern Ocean,Mobile Assets,Global Profilering Glider 566,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000

@@ -1,19 +1,19 @@
 serial,name,value,notes
-26P76848-1383,CC_b,8388.6,
-26P76848-1383,CC_c1,601.7722,IDD for data recovered directly from
-26P76848-1383,CC_c2,2.880053,the PRESF instrument needs to be written
-26P76848-1383,CC_c3,-1095.03,
-26P76848-1383,CC_d1,0.027113,
-26P76848-1383,CC_d2,0,
-26P76848-1383,CC_m,125829.1,
-26P76848-1383,CC_offset_correction_factor,0,Constant
-26P76848-1383,CC_pressure_offset_calibration_coefficient,-0.223,from SBE offset_correction pdf
-26P76848-1383,CC_slope_correction_factor,1,Constant
-26P76848-1383,CC_t1,27.75539,
-26P76848-1383,CC_t2,0.525798,
-26P76848-1383,CC_t3,19.66774,
-26P76848-1383,CC_t4,34.44618,
-26P76848-1383,CC_u0,5.784533,
-26P76848-1383,CC_y1,-3990.619,
-26P76848-1383,CC_y2,-11590.4,
-26P76848-1383,CC_y3,0,
+26P-1383,CC_b,8388.6,
+26P-1383,CC_c1,601.7722,IDD for data recovered directly from
+26P-1383,CC_c2,2.880053,the PRESF instrument needs to be written
+26P-1383,CC_c3,-1095.03,
+26P-1383,CC_d1,0.027113,
+26P-1383,CC_d2,0,
+26P-1383,CC_m,125829.1,
+26P-1383,CC_offset_correction_factor,0,Constant
+26P-1383,CC_pressure_offset_calibration_coefficient,-0.223,from SBE offset_correction pdf
+26P-1383,CC_slope_correction_factor,1,Constant
+26P-1383,CC_t1,27.75539,
+26P-1383,CC_t2,0.525798,
+26P-1383,CC_t3,19.66774,
+26P-1383,CC_t4,34.44618,
+26P-1383,CC_u0,5.784533,
+26P-1383,CC_y1,-3990.619,
+26P-1383,CC_y2,-11590.4,
+26P-1383,CC_y3,0,
