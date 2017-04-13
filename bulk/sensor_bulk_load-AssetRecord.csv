@@ -481,7 +481,7 @@ CGINS-WAVSSA-05291,A00795,Sensor,0,Surface Wave Spectra: WAVSS Series A,WAVSS SE
 CGINS-WAVSSA-05301,A00796,Sensor,0,Surface Wave Spectra: WAVSS Series A,WAVSS SER A,AXYS Technologies,TRIAXYS Directional Wave Sensor,TAS05301,,20140130,22660,
 CGINS-PHSEND-P0119,A00797,Sensor,0,Seawater pH: PHSEN Series D,PHSEN SERIES D(SAMI-PH),Sunburst Sensors,SAMI-pH,P0119,,20140212,17479.95,
 CGINS-PCO2WB-C0083,A00798,Sensor,0,pCO2 Water: PCO2W Series B,PCO2W SERIES B (SAMI-CO2),Sunburst Sensors,SAMI-pCO2,C0083,,20140212,17942.3,
-CGINS-PHSEND-P0799,A00799,Sensor,0,Seawater pH: PHSEN Series D,PHSEN SERIES D (SAMI-PH),Sunburst Sensors,SAMI-pH,P0125,,20140220,17479.95,
+CGINS-PHSEND-P0125,A00799,Sensor,0,Seawater pH: PHSEN Series D,PHSEN SERIES D (SAMI-PH),Sunburst Sensors,SAMI-pH,P0125,,20140220,17479.95,
 CGINS-PCO2WB-C0082,A00800,Sensor,0,pCO2 Water: PCO2W Series B,PCO2W SERIES B(SAMI-CO2),Sunburst Sensors,SAMI-pCO2,C0082,,20140303,17942.3,
 CGINS-DOSTAD-00291,A00802,Sensor,0,Dissolved Oxygen Stable Response: DOSTA Series D,DOSTA SERIES D (AADI 4831),Aanderaa,Optode 4831,291,,20140130,5258.25,
 CGINS-DOSTAD-00292,A00803,Sensor,0,Dissolved Oxygen Stable Response: DOSTA Series D,DOSTA SERIES D (AADI 4831),Aanderaa,Optode 4831,292,,20140130,5258.25,
@@ -2146,6 +2146,7 @@ CGCON-MDCL37-00001,OL000185,Sensor,0,Multi-Function Node Data Concentrator Logge
 CGCON-NDCL16-00009,OL000189,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,9,,,,CE01ISSM-00002-DCL16
 CGCON-MDCL35-00005,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,5,,,,CE01ISSM-00002-DCL35
 CGCON-MCPM03-00011,OL000193,Sensor,0,Multi-Function Node Communications and Power Manager,Communications and Power Manager,WHOI,CPM,11,,,,CE01ISSM-00003-CPM3
+CGCON-MCPM03-00016,,Sensor,0,Multi-Function Node Communications and Power Manager,Communications and Power Manager,WHOI,CPM,16,,,,CE06ISSM-00006-CPM3
 OL000194,OL000194,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,16,,,,CE01ISSM-00003-DCL17
 CGCON-NDCL16-00014,OL000195,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,14,,,,CE01ISSM-00003-DCL16
 CGCON-MDCL35-00011,OL000196,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,11,,,,CE01ISSM-00003-DCL35
@@ -2159,7 +2160,9 @@ OL000207,OL000207,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,
 CGCON-ECPM01-00015,OL000208,Sensor,0,Surface Buoy Communications and Power Manager,Communications and Power Manager,WHOI,CPM,15,,,,CE06ISSM-00004 CE06ISSM-00002-CPM1
 OL000209,OL000209,Sensor,0,Multi-Function Node Communications and Power Manager,Communications and Power Manager,WHOI,CPM,CE06ISSM-00002-CPM3,,,,
 CGCON-EDCL17-00015,OL000210,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,15,,,,"CE06ISSM-0000(2,4)-DCL17"
+CGCON-EDCL17-00016,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,16,,,,CE06ISSM-00006-DCL17
 CGCON-NDCL16-00016,OL000211,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,16,,,,CE06ISSM-00002-DCL16
+CGCON-NDCL16-00017,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,17,,,,CE06ISSM-00006-DCL16
 CGCON-MDCL37-00010,OL000213,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,10,,,,CE07SHSM-00004-DCL37 CE06ISSM-00002-DCL37
 OL000214,OL000214,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,CE06ISSM-00002-MOPAK,,,,
 OL000215,OL000215,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,CE06ISSM-00003-MOPAK,,,,
@@ -2557,6 +2560,8 @@ R00051,R00051,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator L
 R00052,R00052,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,GI01SUMO-00002-DCL12,,,,GI01SUMO-00002-DCL12
 R00053,R00053,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,GI01SUMO-00002-DCL16,,,,GI01SUMO-00002-DCL16
 R00054,R00054,Sensor,0,Subsurface Mooring Platform Controller,SIO Controller,WHOI,SIO,GP02HYPM-00001-SIOENG,,,,
+CGINS-MOPAK0-11844,R00055,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,6223-4220-11844,,,,
+CGINS-MOPAK0-11845,R00055,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,6223-4220-11845,,,,
 CGINS-MOPAK0-11846,R00055,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,6223-4220-11846,,,,
 R00056,R00056,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instruments,M2A transmitters,GI01SUMO-00001-HYDGN1,,,,
 R00057,R00057,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instruments,M2A transmitters,GI01SUMO-00001-HYDGN2,,,,
@@ -2608,8 +2613,11 @@ CGINS-HYDGN0-42564,,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instrume
 CGINS-METLGR-00028,,Sensor,0,Bulk Meteorology Instrument Package: METBK LGR Module,,Star Engineering,ASIMET,LGR028,,,,
 CGINS-PCO2AA-34199,,Sensor,0,pCO2 Air-Sea: PCO2A Series A,PCO2A SERIES A(PCO2ATM-50A),Pro-Oceanus,pCO2-pro,34-199-50A,,,,
 CGINS-CTDBPC-50187,,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50187,,,,
-CGINS-CAMDSA-00113,,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6100-0113,,,,
-CGINS-HYDGN0-49842,,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instruments,M2A transmitters,M2A49842,,,,
+CGINS-CAMDSA-00113,,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0113,,,,
+CGINS-CAMDSA-00119,,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0119,,20160603,,
+CGINS-CAMDSA-00120,,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0120,,20160603,,
+CGINS-CAMDSA-00121,,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0121,,20160603,,
+CGINS-CAMDSA-00122,,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0122,,20160603,,
 CGINS-HYDGN0-49845,,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instruments,M2A transmitters,M2A49845,,,,
 CGINS-METLGR-00014,,Sensor,0,Bulk Meteorology Instrument Package: METBK LGR Module,,Star Engineering,ASIMET,LGR014,,,,
 CGINS-MOPAK0-11851,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-11851,,,,

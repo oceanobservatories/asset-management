@@ -1,0 +1,9 @@
+serial,name,value,notes
+C0119,CC_cala,0.1111,date in filename comes from factory calibration certificate
+C0119,CC_calb,0.2277,
+C0119,CC_calc,-0.9790,
+C0119,CC_calt,15.4020
+C0119,CC_ea434,19706,ea and eb coeffs are ...
+C0119,CC_ea620,34,... reagent bag specific.
+C0119,CC_eb434,3073,
+C0119,CC_eb620,44327,
