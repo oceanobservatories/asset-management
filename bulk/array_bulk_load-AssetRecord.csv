@@ -1,8 +1,8 @@
-ASSET_UID,LEGACY_ASSET_UID,TYPE,Mobile,DESCRIPTION OF EQUIPMENT,MIO_Inventory_Description,Manufacturer,Model,Manufacturer's Serial No./Other Identifier,Firmware Version,ACQUISITION DATE,ORIGINAL COST,comments,Array_geometry,Commission_Date,Decommission_Date
-N00290,N00290,Array,0,Coastal Endurance,CE Array Parent,Oregon State University,,,,,,,,20160603,
-N00291,N00291,Array,0,Coastal Pioneer,CP Array Parent,Woods Hole Oceanographic Institution,,,,,,,,20160603,
-N00292,N00292,Array,0,Global Argentine Basin,GA Array Parent,Woods Hole Oceanographic Institution,,,,,,,,20160603,
-N00293,N00293,Array,0,Global Irminger Sea,GI Array Parent,Woods Hole Oceanographic Institution,,,,,,,,20160603,
-N00294,N00294,Array,0,Global Station Papa,GP Array Parent,Woods Hole Oceanographic Institution,,,,,,,,20160603,
-N00295,N00295,Array,0,Global Southern Ocean,GS Array Parent,Woods Hole Oceanographic Institution,,,,,,,,20160603,
-N00296,N00296,Array,0,Cabled Array,RSN Array Parent,University of Washington,,,,,,,,20160603,
+ASSET_UID,LEGACY_ASSET_UID,TYPE,Mobile,DESCRIPTION OF EQUIPMENT,MIO_Inventory_Description,Manufacturer,Model,Manufacturer's Serial No./Other Identifier,Firmware Version,ACQUISITION DATE,ORIGINAL COST,comments,Array_geometry,Commission_Date,Decommission_Date,MIO
+N00290,N00290,Array,0,Coastal Endurance,CE Array Parent,,,,,,,,,20160603,,Oregon State University
+N00291,N00291,Array,0,Coastal Pioneer,CP Array Parent,,,,,,,,,20160603,,Woods Hole Oceanographic Institution
+N00292,N00292,Array,0,Global Argentine Basin,GA Array Parent,,,,,,,,,20160603,,Woods Hole Oceanographic Institution
+N00293,N00293,Array,0,Global Irminger Sea,GI Array Parent,,,,,,,,,20160603,,Woods Hole Oceanographic Institution
+N00294,N00294,Array,0,Global Station Papa,GP Array Parent,,,,,,,,,20160603,,Woods Hole Oceanographic Institution
+N00295,N00295,Array,0,Global Southern Ocean,GS Array Parent,,,,,,,,,20160603,,Woods Hole Oceanographic Institution
+N00296,N00296,Array,0,Cabled Array,RSN Array Parent,,,,,,,,,20160603,,University of Washington
