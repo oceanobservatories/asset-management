@@ -815,6 +815,16 @@ GA03FLMB-RIS01-03-DOSTAD000,Global Argentine Basin,Flanking Subsurface Mooring B
 GA03FLMB-RIS01-04-PHSENF000,Global Argentine Basin,Flanking Subsurface Mooring B,Mooring Riser,Seawater pH,Sunburst,SAMI-pH,30,30
 GA03FLMB-RIS01-05-FLORTD000,Global Argentine Basin,Flanking Subsurface Mooring B,Mooring Riser,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,30,30
 GA05MOAS,Global Argentine Basin,Mobile Assets,,,,,0,1000
+GA05MOAS-GL364,Global Argentine Basin,Mobile Assets,Open Ocean Glider 364,,,,0,1000
+GA05MOAS-GL364-00-ENG000000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 364,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GA05MOAS-GL364-01-FLORDM000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 364,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GA05MOAS-GL364-02-DOSTAM000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 364,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GA05MOAS-GL364-04-CTDGVM000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 364,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GA05MOAS-GL470,Global Argentine Basin,Mobile Assets,Open Ocean Glider 470,,,,0,1000
+GA05MOAS-GL470-00-ENG000000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 470,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+GA05MOAS-GL470-01-FLORDM000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 470,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GA05MOAS-GL470-02-DOSTAM000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 470,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GA05MOAS-GL470-04-CTDGVM000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 470,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
 GA05MOAS-GL493,Global Argentine Basin,Mobile Assets,Open Ocean Glider 493,,,,0,1000
 GA05MOAS-GL493-00-ENG000000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 493,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
 GA05MOAS-GL493-01-FLORDM000,Global Argentine Basin,Mobile Assets,Open Ocean Glider 493,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
@@ -1474,6 +1484,22 @@ GA05MOAS-PG563-03-FLORTM000,Global Argentine Basin,Mobile Assets,Profiling Glide
 GA05MOAS-PG563-04-FLORTO000,Global Argentine Basin,Mobile Assets,Profiling Glider 563,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,200
 GA05MOAS-PG563-05-NUTNRM000,Global Argentine Basin,Mobile Assets,Profiling Glider 563,Nitrate,Satlantic,SUNA V2,0,200
 GA05MOAS-PG563-06-PARADM000,Global Argentine Basin,Mobile Assets,Profiling Glider 563,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
+GA05MOAS-PG578,Global Argentine Basin,Mobile Assets,Profiling Glider 578,,,,0,200
+GA05MOAS-PG578-00-ENG000000,Global Argentine Basin,Mobile Assets,Profiling Glider 578,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
+GA05MOAS-PG578-01-CTDGVM000,Global Argentine Basin,Mobile Assets,Profiling Glider 578,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
+GA05MOAS-PG578-02-DOSTAM000,Global Argentine Basin,Mobile Assets,Profiling Glider 578,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
+GA05MOAS-PG578-03-FLORTM000,Global Argentine Basin,Mobile Assets,Profiling Glider 578,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
+GA05MOAS-PG578-04-FLORTO000,Global Argentine Basin,Mobile Assets,Profiling Glider 578,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,200
+GA05MOAS-PG578-05-NUTNRM000,Global Argentine Basin,Mobile Assets,Profiling Glider 578,Nitrate,Satlantic,SUNA V2,0,200
+GA05MOAS-PG578-06-PARADM000,Global Argentine Basin,Mobile Assets,Profiling Glider 578,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
+GA05MOAS-PG580,Global Argentine Basin,Mobile Assets,Profiling Glider 580,,,,0,200
+GA05MOAS-PG580-00-ENG000000,Global Argentine Basin,Mobile Assets,Profiling Glider 580,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
+GA05MOAS-PG580-01-CTDGVM000,Global Argentine Basin,Mobile Assets,Profiling Glider 580,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
+GA05MOAS-PG580-02-DOSTAM000,Global Argentine Basin,Mobile Assets,Profiling Glider 580,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
+GA05MOAS-PG580-03-FLORTM000,Global Argentine Basin,Mobile Assets,Profiling Glider 580,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
+GA05MOAS-PG580-04-FLORTO000,Global Argentine Basin,Mobile Assets,Profiling Glider 580,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,200
+GA05MOAS-PG580-05-NUTNRM000,Global Argentine Basin,Mobile Assets,Profiling Glider 580,Nitrate,Satlantic,SUNA V2,0,200
+GA05MOAS-PG580-06-PARADM000,Global Argentine Basin,Mobile Assets,Profiling Glider 580,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
 GI05MOAS-GL478,Global Irminger Sea,Mobile Assets,Open Ocean Glider 478,,,,0,1000
 GI05MOAS-GL478-00-ENG000000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 478,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
 GI05MOAS-GL478-01-FLORDM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 478,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
