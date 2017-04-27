@@ -1,0 +1,9 @@
+serial,name,value,notes
+3968,CC_angular_resolution,1.096,Constant
+3968,CC_dark_counts_chlorophyll_a,0.065,in Volts (because analog signal going to CTDBP)
+3968,CC_dark_counts_volume_scatter,0.0724,in Volts (because analog signal going to CTDBP)
+3968,CC_depolarization_ratio,0.039,Constant
+3968,CC_measurement_wavelength,700,Constant
+3968,CC_scale_factor_chlorophyll_a,6,in Volts (because analog signal going to CTDBP)
+3968,CC_scale_factor_volume_scatter,0.001505,in Volts (because analog signal going to CTDBP)
+3968,CC_scattering_angle,140,Constant

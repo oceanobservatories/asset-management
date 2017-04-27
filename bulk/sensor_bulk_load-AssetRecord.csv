@@ -2778,3 +2778,11 @@ CGINS-FLORTO-01349,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series O
 CGINS-NUTNRM-00709,,Sensor,1,Nitrate for Glider: NUTNR Series M,,Satlantic,SUNA,709,,,,,
 CGINS-PARADM-50218,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,,Biospherical Instruments,QSP-2155,50218,,,,,
 CGCON-GLDRGP-00583,,Sensor,1,Mobile Asset Controller for Profiling Glider,,Teledyne Webb,G2 Slocum Gliders,583,,,,,Woods Hole Oceanographic Institution
+CGINS-ADCPTG-24542,A02170,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series G,ADCP SERIES G (WHS150-1500),Teledyne RDI,WHS150-1500-I,24542,50.41,20170206,,,Woods Hole Oceanographic Institution
+CGINS-ADCPTG-24543,A02171,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series G,ADCP SERIES G (WHS150-1500),Teledyne RDI,WHS150-1500-I,24543,50.41,20170206,,,Woods Hole Oceanographic Institution
+CGINS-ADCPTG-24544,A02172,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series G,ADCP SERIES G (WHS150-1500),Teledyne RDI,WHS150-1500-I,24544,50.41,20170206,,,Woods Hole Oceanographic Institution
+CGINS-DOSTAD-00663,A02166,Sensor,0,Dissolved Oxygen Stable Response: DOSTA Series D,DOSTA SERIES D,Aanderaa,Optode 4831,663,4.9.1,20170403,,,Woods Hole Oceanographic Institution
+CGINS-METCTD-13542,A01861,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13542,,,,,Woods Hole Oceanographic Institution
+CGINS-METCTD-13543,A01862,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13543,,,,,Woods Hole Oceanographic Institution
+CGINS-METCTD-13545,A01864,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13545,,,,,Woods Hole Oceanographic Institution
+CGINS-ZPLSGA-55068,A01829,Sensor,0,Bio-acoustic Sonar: ZPLSG Series A,ZPLSG SERIES A,ASL Environmental,AZFP,55068,,,,,Woods Hole Oceanographic Institution

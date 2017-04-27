@@ -1,0 +1,6 @@
+serial,name,value,notes
+20346,CC_depth,500000,Units in mm_update post-cruise
+20346,CC_scale_factor1,0.45,constant
+20346,CC_scale_factor2,0.45,constant
+20346,CC_scale_factor3,0.45,constant
+20346,CC_scale_factor4,0.45,constant
