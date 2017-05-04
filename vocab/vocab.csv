@@ -1570,3 +1570,11 @@ GI05MOAS-PG564-03-FLORTM000,Global Irminger Sea,Mobile Assets,Profiling Glider 5
 GI05MOAS-PG564-04-FLORTO000,Global Irminger Sea,Mobile Assets,Profiling Glider 564,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,200
 GI05MOAS-PG564-05-NUTNRM000,Global Irminger Sea,Mobile Assets,Profiling Glider 564,Nitrate,Satlantic,SUNA V2,0,200
 GI05MOAS-PG564-06-PARADM000,Global Irminger Sea,Mobile Assets,Profiling Glider 564,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
+GI05MOAS-PG577,Global Irminger Sea,Mobile Assets,Profiling Glider 577,,,,0,200
+GI05MOAS-PG577-00-ENG000000,Global Irminger Sea,Mobile Assets,Profiling Glider 577,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
+GI05MOAS-PG577-01-CTDGVM000,Global Irminger Sea,Mobile Assets,Profiling Glider 577,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
+GI05MOAS-PG577-02-DOSTAM000,Global Irminger Sea,Mobile Assets,Profiling Glider 577,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
+GI05MOAS-PG577-03-FLORTM000,Global Irminger Sea,Mobile Assets,Profiling Glider 577,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
+GI05MOAS-PG577-04-FLORTO000,Global Irminger Sea,Mobile Assets,Profiling Glider 577,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,200
+GI05MOAS-PG577-05-NUTNRM000,Global Irminger Sea,Mobile Assets,Profiling Glider 577,Nitrate,Satlantic,SUNA V2,0,200
+GI05MOAS-PG577-06-PARADM000,Global Irminger Sea,Mobile Assets,Profiling Glider 577,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200

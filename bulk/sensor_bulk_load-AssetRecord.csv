@@ -2786,3 +2786,10 @@ CGINS-METCTD-13542,A01861,Sensor,0,Bulk Meteorology Instrument Package: METBK CT
 CGINS-METCTD-13543,A01862,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13543,,,,,Woods Hole Oceanographic Institution
 CGINS-METCTD-13545,A01864,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13545,,,,,Woods Hole Oceanographic Institution
 CGINS-ZPLSGA-55068,A01829,Sensor,0,Bio-acoustic Sonar: ZPLSG Series A,ZPLSG SERIES A,ASL Environmental,AZFP,55068,,,,,Woods Hole Oceanographic Institution
+CGCON-GLDRGP-00577,,Sensor,1,Mobile Asset Controller for Profiling Glider,,Teledyne Webb,G2 Slocum Gliders,577,,,,,Woods Hole Oceanographic Institution
+CGINS-CTDGVM-09294,,Sensor,1,CTD for Glider: CTDGV Series M,,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9294,,,,,
+CGINS-DOSTAM-00438,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,,Aanderaa,Optode 4831,438,,,,,
+CGINS-NUTNRM-00708,,Sensor,1,Nitrate for Glider: NUTNR Series M,,Satlantic,SUNA,708,,,,,
+CGINS-PARADM-50207,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,,Biospherical Instruments,QSP-2155,50207,,,,,
+CGINS-FLORTM-04088,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,,WET Labs,ECO Puck FLBBCD-SLK,4088,,,,,
+CGINS-FLORTO-01345,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series O,,WET Labs,ECO Puck BB3,1345,,,,,
