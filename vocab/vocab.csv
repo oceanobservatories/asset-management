@@ -1383,6 +1383,8 @@ RS03ASHS-MJ03B-00-OSMOIA301,Cabled Axial Seamount,ASHES Vent Field,Medium-Power 
 RS03ASHS-MJ03B-05-OBSSPA302,Cabled Axial Seamount,ASHES Vent Field,Medium-Power JBox (MJ03B),Short-Period Ocean Bottom Seismometer,Guralp,CMG-6TF,1552,1552
 RS03ASHS-MJ03B-06-OBSSPA301,Cabled Axial Seamount,ASHES Vent Field,Medium-Power JBox (MJ03B),Short-Period Ocean Bottom Seismometer,Guralp,CMG-6TF,1552,1552
 RS03ASHS-MJ03B-07-TMPSFA301,Cabled Axial Seamount,ASHES Vent Field,Medium-Power JBox (MJ03B),Diffuse Vent Fluid 3-D Temperature Array,RBR Global,XR-420,1552,1552
+RS03ASHS-MJ03B-09-BOTPTA304,Cabled Axial Seamount,ASHES Vent Field,Medium-Power JBox (MJ03B),Bottom Pressure and Tilt,PMEL/Chadwick,PMELcabled BPR/Tilt,1552,1552
+RS03ASHS-MJ03B-10-CTDPFB304,Cabled Axial Seamount,ASHES Vent Field,Medium-Power JBox (MJ03B),CTD,Sea-Bird,SBE 16plusV2,1552,1552
 RS03ASHS-PN03B,Cabled Axial Seamount,ASHES Vent Field,Primary Node (PN03B),,,,1552,1552
 RS03ASHS-PN03B-06-CAMHDA301,Cabled Axial Seamount,ASHES Vent Field,Primary Node (PN03B),HD Digital Video Camera,SubC,1Cam,1552,1552
 RS03AXBS,Cabled Axial Seamount,Axial Base Seafloor,,,,,2522,2639
