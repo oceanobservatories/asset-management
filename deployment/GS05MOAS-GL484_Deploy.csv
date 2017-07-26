@@ -1,0 +1,5 @@
+CUID_Deploy,deployedBy,CUID_Recover,recoveredBy,Reference Designator,deploymentNumber,versionNumber,startDateTime,stopDateTime,mooring.uid,node.uid,sensor.uid,lat,lon,orbit,deployment_depth,water_depth,notes
+AT-26-29,,AT-26-29,,GS05MOAS-GL484-00-ENG000000,1,1,2015-02-20T20:15:00,2015-02-21T23:05:00,CGVGS-05MOAS-00000,CGVEH-GLDROO-00484,CGCON-GLDROO-00484,-54.426925,-89.283383,,,,Glider leaked and was recovered
+#AT-26-29,,AT-26-29,,GS05MOAS-GL484-01-FLORDM000,1,1,2015-02-20T20:15:00,2015-02-21T23:05:00,CGVGS-05MOAS-00000,CGVEH-GLDROO-00484,,-54.426925,-89.283383,,,,need UIDs. Glider leaked and was recovered
+#AT-26-29,,AT-26-29,,GS05MOAS-GL484-02-DOSTAM000,1,1,2015-02-20T20:15:00,2015-02-21T23:05:00,CGVGS-05MOAS-00000,CGVEH-GLDROO-00484,,-54.426925,-89.283383,,,,need UIDs. Glider leaked and was recovered
+#AT-26-29,,AT-26-29,,GS05MOAS-GL484-04-CTDGVM000,1,1,2015-02-20T20:15:00,2015-02-21T23:05:00,CGVGS-05MOAS-00000,CGVEH-GLDROO-00484,,-54.426925,-89.283383,,,,need UIDs. Glider leaked and was recovered
