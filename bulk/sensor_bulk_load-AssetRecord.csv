@@ -2808,12 +2808,12 @@ CGCON-GLDRGP-00575,,Sensor,1,Mobile Asset Controller for Profiling Glider,,Teled
 CGINS-CTDGVM-09295,,Sensor,1,CTD for Glider: CTDGV Series M,,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9295,,,,,Woods Hole Oceanographic Institution
 CGINS-DOSTAM-00499,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,,Aanderaa,Optode 4831,499,,,,,Woods Hole Oceanographic Institution
 CGINS-NUTNRM-00711,,Sensor,1,Nitrate for Glider: NUTNR Series M,,Satlantic,SUNA,711,,,,,Woods Hole Oceanographic Institution
-CGINS-PARADM-50202,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,,Biospherical Instruments,QSP-2155,50202,,,,,Woods Hole Oceanographic Institution
+CGINS-PARADM-50202,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50202,,,,,Woods Hole Oceanographic Institution
 CGINS-FLORTM-04089,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,,WET Labs,ECO Puck FLBBCD-SLK,4089,,,,,Woods Hole Oceanographic Institution
 CGINS-FLORTO-01347,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series O,,WET Labs,ECO Puck BB3,1347,,,,,Woods Hole Oceanographic Institution
 CGCON-GLDRGP-00576,,Sensor,1,Mobile Asset Controller for Profiling Glider,,Teledyne Webb,G2 Slocum Gliders,576,,,,,Woods Hole Oceanographic Institution
 CGINS-CTDGVM-09222,,Sensor,1,CTD for Glider: CTDGV Series M,,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9222,,,,,Woods Hole Oceanographic Institution
-CGINS-PARADM-50208,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,,Biospherical Instruments,QSP-2155,50208,,,,,Woods Hole Oceanographic Institution
+CGINS-PARADM-50208,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50208,,,,,Woods Hole Oceanographic Institution
 CGINS-FLORTM-04090,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,,WET Labs,ECO Puck FLBBCD-SLK,4090,,,,,Woods Hole Oceanographic Institution
 CGINS-FLORTO-01346,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series O,,WET Labs,ECO Puck BB3,1346,,,,,Woods Hole Oceanographic Institution
 CGINS-PARADM-50207,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50207,,,,,
@@ -2906,3 +2906,4 @@ CGINS-FLORTM-04100,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M
 CGINS-FLORTO-01348,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series O,,WET Labs,ECO Puck BB3,1348,,,,,Woods Hole Oceanographic Institution
 CGINS-NUTNRM-00662,,Sensor,1,Nitrate for Glider: NUTNR Series M,NUTNR for Global Profiling Glider ,Satlantic,SUNA,662,,,,,
 CGINS-PARADM-50215,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50215,,,,,Woods Hole Oceanographic Institution
+CGINS-PARADM-50245,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50245,1.2,,,,Woods Hole Oceanographic Institution
