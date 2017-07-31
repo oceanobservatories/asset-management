@@ -2907,3 +2907,4 @@ CGINS-FLORTO-01348,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series O
 CGINS-NUTNRM-00662,,Sensor,1,Nitrate for Glider: NUTNR Series M,NUTNR for Global Profiling Glider ,Satlantic,SUNA,662,,,,,
 CGINS-PARADM-50215,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50215,,,,,Woods Hole Oceanographic Institution
 CGINS-PARADM-50245,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50245,1.2,,,,Woods Hole Oceanographic Institution
+CGINS-METLWR-00313,,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR313,,,,,
