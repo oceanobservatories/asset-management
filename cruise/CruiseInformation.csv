@@ -24,6 +24,8 @@ KN-222,R/V Knorr,2014-10-03T00:00:00,2014-10-11T23:59:59,Pioneer 3 (rvdata)
 KN-224,R/V Knorr,2014-12-10T00:00:00,2014-12-16T23:59:59,Pioneer 3 leg 2 (rvdata)
 KN-221-4,R/V Knorr,2014-09-07T00:00:00,2014-09-28T23:59:59,Irminger 1 (rvdata)
 ML-1507,Miss Linda,2015-07-08T00:00:00,2015-07-08T23:59:59,Endurance CE06ISSP
+ML-1707,Miss Linda,2017-07-18T14:37:00,2017-07-20T00:30:00,Endurance CE01ISSP_00008
+CE-1707,R/V Centennial,2017-07-23T12:30:00,2017-07-26T02:30:00,Endurance CE06ISSP_00008
 MV-1309,R/V Melville,2013-07-15T00:00:00,2013-07-30T23:59:59,Papa 1 (rvdata)
 MV-1404,R/V Melville,2014-06-10T00:00:00,2014-06-29T23:59:59,Papa 2 (rvdata)
 NBP-15-10,R/V Nathaniel B. Palmer,2015-11-07T00:00:00,2015-12-03T23:59:59,Argentine Basin 2 (rvdata)
@@ -76,3 +78,5 @@ AR21,R/V Neil Armstrong,2017-07-28T00:00:00,2017-08-30T00:00:00,Irminger 4
 NBP17-09,R/V Nathaniel B. Palmer,2017-10-18T00:00:00,2017-11-16T00:00:00,Southern Ocean 4
 AT39-03,R/V Atlantis,2017-11-27T00:00:00,2017-12-14T00:00:00,Argentine Basin 4
 F/V Tenacious,F/V Tenacious,2017-07-02T00:00:00,2017-07-02T23:59:59,unplanned cruise - recovered by local fisherman Eric Hesse
+RR1713,R/V Roger Revelle,2017-07-27T10:28:00,2017-08-07T13:00:00,Cabled (rvdata) Visions 17 Leg 1
+RR1714,R/V Roger Revelle,2017-08-09T17:30:00,2017-08-19T12:00:00,Cabled (rvdata) Visions 17 Leg 2

@@ -1,0 +1,22 @@
+CUID_Deploy,deployedBy,CUID_Recover,recoveredBy,Reference Designator,deploymentNumber,versionNumber,startDateTime,stopDateTime,mooring.uid,node.uid,sensor.uid,lat,lon,orbit,deployment_depth,water_depth,notes
+#,,,,CP05MOAS-A6264-00-ENG000000,1,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-01-FLORTN000,1,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-02-DOSTAN000,1,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-03-CTDAVN000,1,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-04-NUTNRN000,1,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-05-ADCPAN000,1,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-06-PARADN000,1,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-00-ENG000000,2,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-01-FLORTN000,2,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-02-DOSTAN000,2,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-03-CTDAVN000,2,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-04-NUTNRN000,2,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-05-ADCPAN000,2,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-06-PARADN000,2,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-00-ENG000000,3,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-01-FLORTN000,3,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-02-DOSTAN000,3,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-03-CTDAVN000,3,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-04-NUTNRN000,3,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-05-ADCPAN000,3,1,,,,,,,,,,,add deployment information
+#,,,,CP05MOAS-A6264-06-PARADN000,3,1,,,,,,,,,,,add deployment information
