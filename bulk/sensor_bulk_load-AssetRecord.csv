@@ -1213,7 +1213,7 @@ ATAPL-58316-00001,ATAPL-58316-00001,Sensor,0,Bottom Pressure and Tilt: BOTPT Ser
 ATAPL-58316-00002,ATAPL-58316-00002,Sensor,0,Bottom Pressure and Tilt: BOTPT Series A,BPR Pressure Housing (BOTPT),NOAA-PMEL,Custom,4,,20130122,18000,,University of Washington
 ATAPL-58316-00003,ATAPL-58316-00003,Sensor,0,Bottom Pressure and Tilt: BOTPT Series A,BPR Pressure Housing (BOTPT),NOAA-PMEL,Custom,5,,20130122,18000,,University of Washington
 ATAPL-58316-00004,ATAPL-58316-00004,Sensor,0,Bottom Pressure and Tilt: BOTPT Series A,BPR Pressure Housing (BOTPT),NOAA-PMEL,Custom,7,,20130122,18000,,University of Washington
-ATAPL-58316-00005,ATAPL-58316-00005,Sensor,0,Bottom Pressure and Tilt: BOTPT Series A,BPR Pressure Housing (BOTPT),NOAA-PMEL,Custom,8,,20130301,18000,,University of Washington
+ATAPL-58316-00005,ATAPL-58316-00005,Sensor,0,Bottom Pressure and Tilt: BOTPT Series A,BPR Pressure Housing (BOTPT),NOAA-PMEL,Custom,8,1.1,20130301,18000,,University of Washington
 ATAPL-58317-00001,ATAPL-58317-00001,Sensor,0,Underwater Digital Still Camera: CAMDS Series C,Underwater Digital Still Camera (CAMDS),Kongsberg Underwater Technology Inc,Custom,101,,20130619,25000,,University of Washington
 ATAPL-58317-00002,ATAPL-58317-00002,Sensor,0,Underwater Digital Still Camera: CAMDS Series B,Underwater Digital Still Camera (CAMDS),Kongsberg Underwater Technology Inc,Custom,102,,20130619,25000,,University of Washington
 ATAPL-58317-00003,ATAPL-58317-00003,Sensor,0,Underwater Digital Still Camera: CAMDS Series C,Underwater Digital Still Camera (CAMDS),Kongsberg Underwater Technology Inc,Custom,103,,20130619,25000,,University of Washington
@@ -2910,3 +2910,4 @@ CGINS-NUTNRM-00662,,Sensor,1,Nitrate for Glider: NUTNR Series M,NUTNR for Global
 CGINS-PARADM-50215,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50215,,,,,Woods Hole Oceanographic Institution
 CGINS-PARADM-50245,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50245,1.2,,,,Woods Hole Oceanographic Institution
 CGINS-METLWR-00313,,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR313,,,,,
+ATCWK-67627-00006,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 3500m,Sea-Bird Electronics,SBE 16plus V2,16-50209,3.1.8,20170401,16060,PI,University of Washington
