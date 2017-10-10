@@ -17,6 +17,7 @@ EK-1508,R/V Elakha,2015-08-21T00:00:00,2015-08-22T23:59:59,Endurance CE06ISSP CE
 EK-1608,R/V Elakha,2016-08-23T00:00:00,2016-08-23T23:59:59,Endurance CE02SHSP
 EK-1701,R/V Elakha,2017-01-31T18:30:00,2017-01-31T22:40:00,Endurance GL info
 EK-1704,R/V Elakha,2017-04-26T12:00:00,2017-04-26T23:59:59,CE02SHSP_00006 recovery
+EK-1708A,R/V Elakha,2017-08-25T15:46:00,2017-08-25T20:59:00,CE02SHSP_00007 deployment
 JR-1607,R/V Jack Robertson,2016-07-20T00:00:00,2016-07-20T23:59:59,Endurance CE06ISSP
 KN-214,R/V Knorr,2013-11-20T00:00:00,2013-11-26T23:59:59,Pioneer 1 (rvdata)
 KN-217,R/V Knorr,2014-04-7T00:00:00,2014-04-19T23:59:59,Pioneer 2 (rvdata)
@@ -46,6 +47,7 @@ PS1501,R/V Pacific Storm,2015-01-21T20:28:00,2015-01-21T22:02:00,Endurance GL in
 PS1508,R/V Pacific Storm,2015-08-13T21:09:00,2015-08-13T21:09:00,Endurance GL info
 PS1701A,R/V Pacific Storm,2017-01-05T00:15:00,2017-01-07T00:30:00,Endurance CE02SHSP and Gliders
 PS1705D,R/V Pacific Storm,2017-05-17T16:52:00,2017-05-19T18:01:00,CSPP and Glider operations
+PS1708A,R/V Pacific Storm,2017-08-27T17:30:00,2017-08-31T21:30:00,Anchor ROV and Glider operations
 P6a,R/V Connecticut,2016-08-08T00:00:00,2016-08-10T23:59:59,Pioneer 6a
 P5a,R/V Scarlett Isabella,2016-01-22T00:00:00,2016-01-28T23:59:59,Pioneer 5a
 RB-16-05,R/V Ronald H. Brown,2016-06-23T00:00:00,2016-07-09T23:59:59,Papa 4 (rvdata)
@@ -75,8 +77,12 @@ DS1705A,F/V Discovery,2017-05-22T13:00:00,2017-05-23T01:32:00,Glider recovery.
 PS1705E,R/V Pacific Storm,2017-05-26T00:00:00,2017-05-31T00:00:00,Glider recovery.
 AJ,R/V Adolf Jensen,2017-06-18T00:00:00,2017-06-18T23:59:59,Glider recovery - for glider that went adrift from Irminger 3
 AR21,R/V Neil Armstrong,2017-07-28T00:00:00,2017-08-30T00:00:00,Irminger 4
-NBP17-09,R/V Nathaniel B. Palmer,2017-10-18T00:00:00,2017-11-16T00:00:00,Southern Ocean 4
-AT39-03,R/V Atlantis,2017-11-27T00:00:00,2017-12-14T00:00:00,Argentine Basin 4
+NBP17-09,R/V Nathaniel B. Palmer,2017-11-23T00:00:00,2017-12-09T23:59:59,Southern Ocean 4
+AT39-03,R/V Atlantis,2017-11-24T00:00:00,2017-12-11T23:59:59,Argentine Basin 4
 F/V Tenacious,F/V Tenacious,2017-07-02T00:00:00,2017-07-02T23:59:59,unplanned cruise - recovered by local fisherman Eric Hesse
 RR1713,R/V Roger Revelle,2017-07-27T10:28:00,2017-08-07T13:00:00,Cabled (rvdata) Visions 17 Leg 1
 RR1714,R/V Roger Revelle,2017-08-09T17:30:00,2017-08-19T12:00:00,Cabled (rvdata) Visions 17 Leg 2
+RR1715,R/V Roger Revelle,2017-08-20T17:30:00,2017-08-27T17:00:00,Cabled (rvdata) Visions 17 Leg 3
+P8a,M/V Warren Jr.,2017-08-15T00:00:00,2017-08-18T23:59:59,Pioneer 8a glider deployment/recovery
+RR1717,R/V Roger Revelle,2017-09-09T16:30:00,2017-09-09T23:30:00,Cabled (rvdata) Visions 17 Leg 4
+AR-24,R/V Neil Armstrong,2017-10-22T00:00:00,2017-11-12T23:59:00,Pioneer 9

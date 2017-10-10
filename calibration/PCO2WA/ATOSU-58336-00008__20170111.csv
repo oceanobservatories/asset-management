@@ -1,9 +1,9 @@
 serial,name,value,notes
-C0117,CC_cala,0.0381,"CO2 Cal Coeffs, a, 4/9/15"
-C0117,CC_calb,0.7135,"CO2 Cal Coeffs, b, 4/9/15"
-C0117,CC_calc,-1.6716,"CO2 Cal Coeffs, c, 4/9/15"
-C0117,CC_calt,4.7548,"CO2 Cal Temp, T, 4/9/15"
-C0117,CC_ea434,3130,Table 2 reference
-C0117,CC_ea620,2150,Table 2 reference
-C0117,CC_eb434,2184,Table 2 signal
-C0117,CC_eb620,2348,Table 2 signal
+C0117,CC_cala,0.0381,
+C0117,CC_calb,0.7135,
+C0117,CC_calc,-1.6716,
+C0117,CC_calt,4.7548,
+C0117,CC_ea434,19706,
+C0117,CC_ea620,34,
+C0117,CC_eb434,3073,
+C0117,CC_eb620,44327,
