@@ -601,6 +601,8 @@ CP03ISSP-SP001-08-CTDPFJ000,Coastal Pioneer,Inshore Surface Piercing Profiler Mo
 CP03ISSP-SP001-09-FLORTJ000,Coastal Pioneer,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,0,80
 CP03ISSP-SP001-10-PARADJ000,Coastal Pioneer,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Photosynthetically Available Radiation,WET Labs,ECO PAR,0,80
 CP04OSPM,Coastal Pioneer,Offshore Profiler Mooring,,,,,0,453
+CP04OSPM-RII01,Coastal Pioneer,Offshore Profiler Mooring,Mooring Riser,,,,425,425
+CP04OSPM-RII01-02-ADCPSL010,Coastal Pioneer,Offshore Profiler Mooring,Mooring Riser,Velocity Profiler (75 kHz),Teledyne RDI,WorkHorse LongRanger Sentinel 75khz - inductive,425,425
 CP04OSPM-SBS01,Coastal Pioneer,Offshore Profiler Mooring,Surface Buoy,,,,0,0
 CP04OSPM-SBS01-00-STCENG000,Coastal Pioneer,Offshore Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
 CP04OSPM-SBS11,Coastal Pioneer,Offshore Profiler Mooring,Surface Buoy,,,,0,0

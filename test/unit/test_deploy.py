@@ -20,6 +20,7 @@ class DeploymentFilesUnitTest(AssetManagementUnitTest):
     }
 
     required_ids = {
+        'CUID_Deploy',
         'Reference Designator',
         'deploymentNumber',
         'startDateTime',
@@ -30,7 +31,6 @@ class DeploymentFilesUnitTest(AssetManagementUnitTest):
     }
 
     optional_ids = {
-        'CUID_Deploy',
         'deployedBy',
         'CUID_Recover',
         'recoveredBy',
@@ -109,7 +109,7 @@ class DeploymentFilesUnitTest(AssetManagementUnitTest):
                                   (missing, index, record.values))
                     return errors
 
-                # make sure the cruise ID exists if supplied
+                # make sure the cruise ID exists
                 deploy_cuid = record.CUID_Deploy
                 if deploy_cuid and deploy_cuid not in self.cruise_ids:
                     errors.append('Invalid cruise ID - "%r" - row %d' % (deploy_cuid, index))

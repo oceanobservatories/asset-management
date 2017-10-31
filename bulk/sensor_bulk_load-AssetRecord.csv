@@ -2914,4 +2914,26 @@ CGINS-METLWR-00313,,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Modu
 ATCWK-67627-00006,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 3500m,Sea-Bird Electronics,SBE 16plus V2,16-50209,3.1.8,20170401,16060,PI,University of Washington
 CGCON-SIOCON-13992,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,13992,,,,,
 CGINS-PARADM-50252,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50252,,,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01056,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1056,,20170921,,,Oregon State University
+CGINS-NUTNRB-01057,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1057,,20170922,,,Oregon State University
+CGINS-NUTNRB-01058,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1058,,20170922,,,Oregon State University
+CGINS-NUTNRB-01059,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1059,,20170922,,,Oregon State University
+CGINS-NUTNRB-01060,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1060,,20170922,,,Oregon State University
+CGINS-NUTNRB-01061,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1061,,20170922,,,Oregon State University
 CGCON-GLDRCP-00564,,Sensor,1,Mobile Asset Controller for Coastal Glider,GL564 Controller,Teledyne Webb,G2 Slocum Gliders,564,,,,,
+CGCON-CWFPCP-30001,,Sensor,0,Coastal Wire-Following Profiler Controller,,McLane,MMP-7,ML14300-01,,20170627,0,,Woods Hole Oceanographic Institution
+CGCON-CWFPCP-30002,,Sensor,0,Coastal Wire-Following Profiler Controller,,McLane,MMP-7,ML14300-02,,20170627,0,,Woods Hole Oceanographic Institution
+CGCON-MDCL35-00040,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,40,,,,CP01CNSM-00008-DCL35,
+CGCON-NCPM02-00013,,Sensor,0,Near Surface Instrument Frame Communications and Power Manager,Communications and Power Manager,WHOI,CPM,13,,,,CP01CNSM-00008-CPM21,
+CGCON-NDCL26-00034,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,34,,,,CP01CNSM-00008-DCL26,
+CGCON-MDCL35-00041,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,41,,,,CP03ISSM-00007-DCL35,
+CGCON-NDCL26-00039,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,39,,,,CP03ISSM-00007-DCL26,
+CGINS-HYDGN0-42316,,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instruments,M2A transmitters,M2A542316,,,,,
+CGCON-MDCL35-00023,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,23,,,,CP04OISSM-00007-DCL35,
+CGINS-HYDGN0-49886,,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instruments,M2A transmitters,M2A49886,,,,,
+CGINS-METLGR-00037,,Sensor,0,Bulk Meteorology Instrument Package: METBK LGR Module,,Star Engineering,ASIMET,LGR037,,,,,
+CGCON-BSTC01-00017,,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,SWE 0017,,,,,
+CGCON-BSTC01-00016,,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,SWE 0016,,,,,
+CGCON-BSTC01-00018,,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,SWE 0018,,,,,
+CGINS-MOPAK0-58478,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-58478,,,,,
+CGINS-MOPAK0-58481,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-58481,,,,,
