@@ -1,0 +1,10 @@
+serial,name,value,notes
+3969,CC_angular_resolution,1.096,Constant
+3969,CC_dark_counts_chlorophyll_a,0.064,in Volts (because analog signal going to CTDBP)
+3969,CC_dark_counts_volume_scatter,0.062,"in Volts (because analog signal going to CTDBP)
+GI01SUMO-RII11-02-FLORDG203 will be defined in Group 5"
+3969,CC_depolarization_ratio,0.039,Constant
+3969,CC_measurement_wavelength,700,Constant
+3969,CC_scale_factor_chlorophyll_a,6,in Volts (because analog signal going to CTDBP)
+3969,CC_scale_factor_volume_scatter,0.001447,in Volts (because analog signal going to CTDBP)
+3969,CC_scattering_angle,140,Constant

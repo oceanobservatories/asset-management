@@ -12,6 +12,7 @@ CGVEH-GLDRCP-00339,A00257,Node,1,Coastal Glider 339,COASTAL GLIDER 200M,Teledyne
 CGVEH-GWFPGX-93602,A00267,Node,0,Global Wire-Following Profiler,WFP GLOBAL,McLane,MMP-210-3512,ML12936-02,,20130320,111181.36,,Woods Hole Oceanographic Institution
 CGVEH-GWFPGX-99701,A00268,Node,0,Global Wire-Following Profiler,WFP GLOBAL,McLane,MMP-210-3512,ML12997-01,,20130320,97150.52,,Woods Hole Oceanographic Institution
 CGVEH-GLDRCP-00340,A00284,Node,1,Coastal Glider 340,COASTAL GLIDER 200M,Teledyne Webb,ASSY 4335-200,340,,20130412,186935,210-3512,Woods Hole Oceanographic Institution
+CGVEH-CWFPCE-37801,,Node,0,Coastal Wire-Following Profiler,WFP COASTAL,McLane,MMP-7,ML14378-01,,20170907,,,Oregon State University
 CGVEH-CWFPCE-99103,A00285,Node,0,Coastal Wire-Following Profiler,WFP COASTAL,McLane,MMP-7,ML12991-03,,20130426,92259.49,210-3512,Oregon State University
 CGVEH-CWFPCP-99102,A00286,Node,0,Coastal Wire-Following Profiler,WFP COASTAL,McLane,MMP-7,ML12991-02,,20130604,92259.49,210-3512,Woods Hole Oceanographic Institution
 CGVEH-CWFPCP-99101,A00287,Node,0,Coastal Wire-Following Profiler,WFP COASTAL,McLane,MMP-7,ML12991-01,,20150713,92259.49,210-3510,Woods Hole Oceanographic Institution

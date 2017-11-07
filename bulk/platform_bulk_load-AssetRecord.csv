@@ -256,3 +256,11 @@ CGMCP-04OSPM-00008,,Platform,0,Coastal Pioneer Offshore Profiler Mooring,MOORING
 CGMCP-04OSSM-00007,,Platform,0,Coastal Pioneer Offshore Surface Mooring,MOORING PIONEER OS,WHOI,CP04OSSM,CP04OSSM-00007,,,,,Woods Hole Oceanographic Institution
 CGMCP-01CNPM-00001,,Platform,0,Coastal Pioneer Central Profiler Mooring,MOORING PIONEER PROFILER,WHOI,CP01CNPM,CP01CNPM-00001,,,,,Woods Hole Oceanographic Institution
 CGMCP-03ISPM-00001,,Platform,0,Coastal Pioneer Inshore Profiler Mooring,MOORING PIONEER PROFILER,WHOI,CP03ISPM,CP03ISPM-00001,,,,,Woods Hole Oceanographic Institution
+CGMCE-01ISSM-00008,,Platform,0,Coastal Endurance Oregon Inshore Surface Mooring,MOORING ENDURANCE,WHOI,CE01ISSM,CE01ISSM-00008,,,,,Oregon State University
+CGMCE-02SHSM-00006,,Platform,0,Coastal Endurance Oregon Shelf Surface Mooring,MOORING ENDURANCE,WHOI,CE02SHSM,CE02SHSM-00006,,,,,Oregon State University
+CGMCE-04OSSM-00005,,Platform,0,Coastal Endurance Oregon Offshore Surface Mooring,MOORING ENDURANCE,WHOI,CE04OSSM,CE04OSSM-00005,,,,,Oregon State University
+CGMCE-06ISSM-00007,,Platform,0,Coastal Endurance Washington Inshore Surface Mooring,MOORING ENDURANCE,WHOI,CE06ISSM,CE06ISSM-00007,,,,,Oregon State University
+CGMCE-07SHSM-00006,,Platform,0,Coastal Endurance Washington Shelf Surface Mooring,MOORING ENDURANCE,WHOI,CE07SHSM,CE07SHSM-00006,,,,,Oregon State University
+CGMCE-09OSSM-00006,,Platform,0,Coastal Endurance Washington Offshore Surface Mooring,MOORING ENDURANCE,WHOI,CE09OSSM,CE09OSSM-00006,,,,,Oregon State University
+CGMCE-07SHSP-00005,,Platform,0,Coastal Endurance Washington Shelf Surface Piercing Profiler Mooring,MOORING ENDURANCE,WHOI,CE07SHSP,CE07SHSP-00005,,,,,Oregon State University
+CGMCE-09OSPM-00008,,Platform,0,Coastal Endurance Washington Offshore Wire Following Profiler Mooring,MOORING ENDURANCE,WHOI,CE09OSPM,CE09OSPM-00008,,,,,Oregon State University
