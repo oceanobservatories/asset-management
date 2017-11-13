@@ -67,7 +67,7 @@ CGINS-NUTNRB-00253,A00122,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (ISUS)
 CGINS-NUTNRB-00254,A00123,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (ISUS),Satlantic,ISUS,254,,20121227,34464.96,,
 CGINS-NUTNRB-00255,A00124,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (ISUS),Satlantic,ISUS,255,,20121227,34464.96,,
 CGINS-NUTNRB-00256,A00125,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (ISUS),Satlantic,ISUS,256,,20121227,34464.96,,
-CGINS-CTDBPC-07240,A00126,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-07240,,20121227,11150,,
+CGINS-CTDBPC-07240,A00126,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7240,,20121227,11150,,
 CGINS-CTDBPC-07241,A00127,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7241,2.5,20121227,11150,,
 CGINS-CTDBPC-07242,A00128,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7242,,20121227,11150,,
 CGINS-CTDBPC-07243,A00129,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7243,,20121227,11150,,
@@ -333,7 +333,6 @@ CGINS-OPTAAD-00153,A00571,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIE
 CGINS-OPTAAD-00159,A00572,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIES D (AC-S),WET Labs,AC-S,ACS-159,1.11,20131122,37830,,
 CGINS-OPTAAD-00152,A00573,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIES D (AC-S),WET Labs,AC-S,ACS-152,1.11,20131122,37830,,
 CGINS-OPTAAD-00136,A00575,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIES D (AC-S),WET Labs,AC-S,ACS-136,,20130426,37830,,
-CGINS-VELPTA-06328,A00577,Sensor,0,Single Point Velocity Meter: VELPT Series A,VELPT SERIES A (AQUADOPP 300M),Nortek,Aquadopp,AQD 6328,,20130916,8500,WHOI claims S/N is 328,
 CGINS-VELPTA-06327,A00578,Sensor,0,Single Point Velocity Meter: VELPT Series A,VELPT SERIES A (AQUADOPP 300M),Nortek,Aquadopp,AQD 6327,,20130916,8500,,
 CGINS-VELPTA-06325,A00579,Sensor,0,Single Point Velocity Meter: VELPT Series A,VELPT SERIES A (AQUADOPP 300M),Nortek,Aquadopp,AQD 6325,,20130916,8500,,
 CGINS-VELPTA-06326,A00580,Sensor,0,Single Point Velocity Meter: VELPT Series A,VELPT SERIES A (AQUADOPP 300M),Nortek,Aquadopp,AQD 6326,,20130916,8500,,
@@ -1640,6 +1639,12 @@ CGINS-VEL3DL-01109,N00116,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series
 CGINS-ADCPAM-48877,N00117,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,648877,,20130701,186935,,
 CGINS-FLORTM-02819,N00118,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLK,2819,,20130701,186935,,
 CGINS-CTDGVM-09083,N00119,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9083,,20130701,186935,,
+CGCON-CWFPCE-37801,,Sensor,0,Coastal Wire-Following Profiler Controller,WFP COASTAL Electronics #1,McLane,MMP-7,ML14378-01,,20170907,,,Oregon State University
+CGINS-CTDPFK-00189,,Sensor,0,CTD Profiler: CTDPF Series K,CTD for WFP Coastal ML14378-01,Sea-Bird Electronics,SBE 52-MP,189,,20170907,,,Oregon State University
+CGINS-DOFSTK-03535,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOSTA for WFP Coastal ML14378-01,Sea-Bird Electronics,SBE 43F,43-3535,,20170907,,,Oregon State University
+CGINS-FLORTK-01602,,Sensor,0,3-Wavelength Fluorometer: FLORT Series K,FLOR for WFP Coastal ML14378-01,WET Labs,ECO Triplet,1602,,20170907,,,Oregon State University
+CGINS-PARADK-20555,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,PAR for WFP Coastal ML14378-01,Biospherical Instruments,QSP-2200,20555,,20170907,,,Oregon State University
+CGINS-VEL3DK-00475,,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series K,VEL3D for WFP Coastal ML14378-01,Nortek,Aquadopp,100475,,20170907,,,Oregon State University
 CGCON-CSPPCE-00002,N00122.1,Sensor,0,Coastal Surface Piercing Profiler Controller,"Profiler, Coastal Surface Piercing",WET Labs,AMP,WLP-002,,20140630,310000,FAS-540601,
 CGCON-CSPPCE-00003,N00123.1,Sensor,0,Coastal Surface Piercing Profiler Controller,"Profiler, Coastal Surface Piercing",WET Labs,AMP,WLP-003,,20140616,310000,FAS-540601,
 CGCON-CSPPCP-00004,N00124.1,Sensor,0,Coastal Surface Piercing Profiler Controller,"Profiler, Coastal Surface Piercing",WET Labs,AMP,WLP-004,,20140801,310000,Coastal Profiler,
@@ -2602,7 +2607,6 @@ R00062,R00062,Sensor,0,Communications and Power Manager,Communications and Power
 R00063,R00063,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,GS01SUMO-00001-DCL11,,,,GS01SUMO-00001-DCL11,
 R00064,R00064,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,GS01SUMO-00001-DCL12,,,,GS01SUMO-00001-DCL12,
 R00065,R00065,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,GS01SUMO-00001-DCL16,,,,GS01SUMO-00001-DCL16,
-CGINS-PCO2AA-25259,R00066,Sensor,0,pCO2 Air-Sea: PCO2A Series A,PCO2A SERIES A(PCO2ATM-50A),Pro-Oceanus,pCO2-pro,25-259-50A,,,,,
 R00067,R00067,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,CP02PMUO-00001 MOPAK0000,,20130122,,,
 R00068,R00068,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,CP02PMUO-00003 MOPAK0000,,20130122,,,
 R00069,R00069,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,CP02PMUO-00004 MOPAK0000,,20130122,,,
