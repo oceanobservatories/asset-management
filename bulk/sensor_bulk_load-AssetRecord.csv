@@ -2963,3 +2963,5 @@ CGCON-NDCL27-00015,,Sensor,0,Near Surface Instrument Frame Data Concentrator Log
 CGCON-NDCL26-00037,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,37,,,,,
 CGCON-NDCL16-00036,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,36,,,,,
 CGCON-MDCL36-00005,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,5,,,,,
+CGCON-AUVPNR-06263,,Sensor,1,Mobile Asset Controller for Coastal AUV,A6263 Controller,Teledyne Webb,AUV,6263,,,,,
+CGCON-AUVPNR-06264,,Sensor,1,Mobile Asset Controller for Coastal AUV,A6264 Controller,Teledyne Webb,AUV,6264,,,,,

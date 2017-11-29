@@ -5,10 +5,12 @@ serial,name,value,notes
 16-50123,CC_a3,1.69E-07,
 16-50123,CC_cpcor,-9.57E-08,
 16-50123,CC_ctcor,3.25E-06,
+16-50123,CC_frequency_offset,-0.4862
 16-50123,CC_g,-9.71E-01,
 16-50123,CC_h,1.54E-01,
 16-50123,CC_i,-2.17E-04,
 16-50123,CC_j,4.20E-05,
+16-50123,CC_oxygen_signal_slope,0.4179
 16-50123,CC_pa0,-4.62E-01,
 16-50123,CC_pa1,1.54E-03,
 16-50123,CC_pa2,9.20E-12,
@@ -21,4 +23,8 @@ serial,name,value,notes
 16-50123,CC_ptempa0,-7.57E+01,
 16-50123,CC_ptempa1,4.63E+01,
 16-50123,CC_ptempa2,2.05E-01,
+16-50123,CC_residual_temperature_correction_factor_a,-3.6653E-003
+16-50123,CC_residual_temperature_correction_factor_b,2.1247E-004
+16-50123,CC_residual_temperature_correction_factor_c,-3.2534E-006
+16-50123,CC_residual_temperature_correction_factor_e,0.036
 16-50123,CC_offset,0,
