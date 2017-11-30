@@ -2965,3 +2965,9 @@ CGCON-NDCL16-00036,,Sensor,0,Near Surface Instrument Frame Data Concentrator Log
 CGCON-MDCL36-00005,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,5,,,,,
 CGCON-AUVPNR-06263,,Sensor,1,Mobile Asset Controller for Coastal AUV,A6263 Controller,Teledyne Webb,AUV,6263,,,,,
 CGCON-AUVPNR-06264,,Sensor,1,Mobile Asset Controller for Coastal AUV,A6264 Controller,Teledyne Webb,AUV,6264,,,,,
+CGINS-ZPLSGA-55073,,Sensor,0,Bio-acoustic Sonar: ZPLSG Series A,ZPLSG SERIES A,ASL Environmental,AZFP,55073,,,,,Woods Hole Oceanographic Institution
+CGINS-ZPLSGA-55067,,Sensor,0,Bio-acoustic Sonar: ZPLSG Series A,ZPLSG SERIES A,ASL Environmental,AZFP,55067,,,,,Woods Hole Oceanographic Institution
+CGCON-SIOCON-00027,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,27,,,,,Woods Hole Oceanographic Institution
+CGCON-SIOCON-00019,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,19,,,,,Woods Hole Oceanographic Institution
+CGCON-SIOCON-00023,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,23,,,,,Woods Hole Oceanographic Institution
+CGCON-SIOCON-00018,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,18,,,,,Woods Hole Oceanographic Institution
