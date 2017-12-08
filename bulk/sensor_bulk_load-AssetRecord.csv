@@ -2971,3 +2971,20 @@ CGCON-SIOCON-00027,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurf
 CGCON-SIOCON-00019,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,19,,,,,Woods Hole Oceanographic Institution
 CGCON-SIOCON-00023,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,23,,,,,Woods Hole Oceanographic Institution
 CGCON-SIOCON-00018,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,18,,,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01062,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1062,,20170925,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01063,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1063,,20170925,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01064,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1064,,20170925,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01065,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1065,,20170925,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01086,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1086,,20171117,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01087,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1087,,20171117,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01088,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1088,,20171117,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01089,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1089,,20171117,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01090,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1090,,20171117,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01091,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1091,,20171117,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01092,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1092,,20171117,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01093,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1093,,20171117,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01094,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1094,,20171117,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01102,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1102,,20171205,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01103,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1103,,20171205,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01106,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1106,,20171205,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRB-01107,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,NTR-1107,,20171205,,,Woods Hole Oceanographic Institution
