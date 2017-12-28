@@ -7,7 +7,7 @@ serial,name,value,notes
 26P-1382,CC_d2,0,
 26P-1382,CC_m,125829.1,
 26P-1382,CC_offset_correction_factor,0,Constant
-26P-1382,CC_pressure_offset_calibration_coefficient,0,
+26P-1382,CC_pressure_offset_calibration_coefficient,-0.1856,
 26P-1382,CC_slope_correction_factor,1,Constant
 26P-1382,CC_t1,27.81081,
 26P-1382,CC_t2,0.559139,
