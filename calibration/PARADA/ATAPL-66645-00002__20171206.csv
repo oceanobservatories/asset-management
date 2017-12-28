@@ -1,0 +1,4 @@
+serial,name,value,notes
+463,CC_Im,1.3589,
+463,CC_a0,2156621808.0,count - Par0463_DigitalPar_InWater_Cal02.pdf
+463,CC_a1,2.389881e-6,mmol photons/m2/s/count
