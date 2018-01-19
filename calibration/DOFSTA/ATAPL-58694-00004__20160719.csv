@@ -1,0 +1,8 @@
+serial,name,value,notes
+43-2853,CC_oxygen_signal_slope,0.5189075,from 2853.cal - using sbe43_cal_parser.py
+43-2853,CC_residual_temperature_correction_factor_a,-0.004171421,
+43-2853,CC_residual_temperature_correction_factor_b,0.0002126553,
+43-2853,CC_residual_temperature_correction_factor_c,-3.525028e-06,
+43-2853,CC_residual_temperature_correction_factor_e,0.036,
+43-2853,CC_voltage_offset,-0.5250295,TBD replaces frequency_offset
+43-2853,CC_frequency_offset,-0.5250295,deprecated by voltage_offset

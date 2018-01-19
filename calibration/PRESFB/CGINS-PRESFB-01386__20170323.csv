@@ -1,19 +1,19 @@
 serial,name,value,notes
-26P76848-1386,CC_b,2796.2,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_c1,2.07E+03,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_c2,-1.27E+01,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_c3,-3.47E+03,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_d1,2.39E-02,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_d2,0.00E+00,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_m,41943,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_offset_correction_factor,0,"Offset correction factor, assumed to be 0.0 by default; I (Gaul) have no good proof for this."
-26P76848-1386,CC_pressure_offset_calibration_coefficient,-0.193,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_slope_correction_factor,1,"Slope correction factor, assumed to be 1.0 by default; I (Gaul) have no good proof for this."
-26P76848-1386,CC_t1,2.76E+01,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_t2,4.28E-01,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_t3,1.78E+01,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_t4,2.19E+01,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_u0,5.81E+00,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_y1,-3.94E+03,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_y2,-1.07E+04,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
-26P76848-1386,CC_y3,0.00E+00,From CG Vault > Project Files > Records > Instrument Records > 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
+26P76848-1386,CC_b,2796.2,cal coeffs from QCT 3305-00105-00044-A.zip > 3305-00105-00044-23032017.txt
+26P76848-1386,CC_c1,2.066838e+03,
+26P76848-1386,CC_c2,-1.270562e+01,
+26P76848-1386,CC_c3,-3.470497e+03,
+26P76848-1386,CC_d1,2.391000e-02,
+26P76848-1386,CC_d2,0.00E+00,
+26P76848-1386,CC_m,41943,
+26P76848-1386,CC_offset_correction_factor,0,constant
+26P76848-1386,CC_pressure_offset_calibration_coefficient,-0.193,
+26P76848-1386,CC_slope_correction_factor,1,constant
+26P76848-1386,CC_t1,2.763804e+01,
+26P76848-1386,CC_t2,4.278750e-01,
+26P76848-1386,CC_t3,1.776240e+01,
+26P76848-1386,CC_t4,2.186445e+01,
+26P76848-1386,CC_u0,5.810283e+00,
+26P76848-1386,CC_y1,-3.944121e+03,
+26P76848-1386,CC_y2,-1.073763e+04,
+26P76848-1386,CC_y3,0.00E+00,

@@ -1,0 +1,8 @@
+serial,name,value,notes
+43-2853,CC_oxygen_signal_slope,-0.5229,
+43-2853,CC_residual_temperature_correction_factor_a,-0.0031307,
+43-2853,CC_residual_temperature_correction_factor_b,0.00015977,
+43-2853,CC_residual_temperature_correction_factor_c,-3.0854e-06,
+43-2853,CC_residual_temperature_correction_factor_e,0.036,
+43-2853,CC_voltage_offset,0.502,TBD replaces frequency_offset
+43-2853,CC_frequency_offset,0.502,deprecated by voltage_offset
