@@ -5,10 +5,12 @@ serial,name,value,notes
 16-50115,CC_a3,2.442609e-07,
 16-50115,CC_cpcor,-9.57e-08,
 16-50115,CC_ctcor,3.25e-06,
+16-50115,CC_frequency_offset,-0.4886,Voffset?
 16-50115,CC_g,-0.9760778,
 16-50115,CC_h,0.1540718,
 16-50115,CC_i,-0.0001588646,
 16-50115,CC_j,3.527585e-05,
+16-50115,CC_oxygen_signal_slope,0.4348,Soc?
 16-50115,CC_pa0,-1.106217,
 16-50115,CC_pa1,0.001703586,
 16-50115,CC_pa2,8.535107e-11,
@@ -21,4 +23,8 @@ serial,name,value,notes
 16-50115,CC_ptempa0,141.1041,
 16-50115,CC_ptempa1,-55.41879,
 16-50115,CC_ptempa2,-5.857673,
+16-50115,CC_residual_temperature_correction_factor_a,-0.0033229,A
+16-50115,CC_residual_temperature_correction_factor_b,0.00015583,B
+16-50115,CC_residual_temperature_correction_factor_c,-2.3769e-06,C
+16-50115,CC_residual_temperature_correction_factor_e,0.036,E
 16-50115,CC_offset,-1.7,
