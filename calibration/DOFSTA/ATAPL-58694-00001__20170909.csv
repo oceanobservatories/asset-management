@@ -1,5 +1,5 @@
 serial,name,value,notes
-43-2463,CC_oxygen_signal_slope,0.41133
+43-2463,CC_oxygen_signal_slope,0.41133,
 43-2463,CC_residual_temperature_correction_factor_a,-3.3433e-003,
 43-2463,CC_residual_temperature_correction_factor_b,1.5757e-004,
 43-2463,CC_residual_temperature_correction_factor_c,-2.3553e-006,
