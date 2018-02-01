@@ -1,2 +1,2 @@
 serial,name,value,notes
-9341,CC_calibration_date,20160101,serial number and calibration date for IOOS glider DAC
+9341,CC_calibration_date,20160101,sensor calibration date
