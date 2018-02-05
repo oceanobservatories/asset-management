@@ -2997,3 +2997,6 @@ CGINS-ADCPAM-00570,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: AD
 CGINS-FLORTM-03500,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLK,3500,,20141223,,CGSN Glider Instrument Pool,
 CGINS-DOSTAM-01059,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,1059,,,,CGSN Glider Instrument Pool,
 CGINS-DOSTAM-01407,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,1407,,,,CGSN Glider Instrument Pool,
+CGINS-ADCPAM-00541,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,541,,,,,
+CGINS-ADCPAM-00553,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,553,,,,,
+CGINS-ADCPAM-00549,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,549,,,,,
