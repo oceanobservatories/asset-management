@@ -1,2 +1,2 @@
 serial,name,value,notes
-191,CC_calibration_date,20160830,sensor calibration date
+191,CC_calibration_date,1472515200,sensor calibration date (seconds since 1970-01-01)
