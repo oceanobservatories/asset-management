@@ -5,10 +5,12 @@ serial,name,value,notes
 16P71179-7205,CC_a3,1.737803e-07,
 16P71179-7205,CC_cpcor,-9.57e-08,
 16P71179-7205,CC_ctcor,3.25e-06,
+16P71179-7205,CC_frequency_offset,-0.4362598,from 2463.cal - imported using sbe43_cal_parser.py
 16P71179-7205,CC_g,-0.9848427,
 16P71179-7205,CC_h,0.1382129,
 16P71179-7205,CC_i,-0.000229427,
 16P71179-7205,CC_j,3.745254e-05,
+16P71179-7205,CC_oxygen_signal_slope,0.4813241,
 16P71179-7205,CC_pa0,0.04982038,
 16P71179-7205,CC_pa1,0.001552376,
 16P71179-7205,CC_pa2,8.423956e-12,
@@ -21,4 +23,10 @@ serial,name,value,notes
 16P71179-7205,CC_ptempa0,-54.33658,
 16P71179-7205,CC_ptempa1,54.70047,
 16P71179-7205,CC_ptempa2,-0.1418995,
+16P71179-7205,CC_residual_temperature_correction_factor_a,-0.003295605,
+16P71179-7205,CC_residual_temperature_correction_factor_b,0.0001889832,
+16P71179-7205,CC_residual_temperature_correction_factor_c,-3.206864e-06,
+16P71179-7205,CC_residual_temperature_correction_factor_e,0.036,
 16P71179-7205,CC_offset,4.13,
+
+
