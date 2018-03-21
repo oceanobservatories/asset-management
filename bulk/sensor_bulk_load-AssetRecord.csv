@@ -1647,6 +1647,7 @@ CGINS-CTDPFK-00189,,Sensor,0,CTD Profiler: CTDPF Series K,CTD for WFP Coastal ML
 CGINS-DOFSTK-03535,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOSTA for WFP Coastal ML14378-01,Sea-Bird Electronics,SBE 43F,43-3535,,20170907,,,Oregon State University
 CGINS-FLORTK-01602,,Sensor,0,3-Wavelength Fluorometer: FLORT Series K,FLOR for WFP Coastal ML14378-01,WET Labs,ECO Triplet,1602,,20170907,,,Oregon State University
 CGINS-PARADK-20555,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,PAR for WFP Coastal ML14378-01,Biospherical Instruments,QSP-2200,20555,,20170907,,,Oregon State University
+CGINS-PARADK-20582,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,PAR for WFP Coastal ML12991-03,Biospherical Instruments,QSP-2200,20582,,20180228,,,Oregon State University
 CGINS-VEL3DK-00475,,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series K,VEL3D for WFP Coastal ML14378-01,Nortek,Aquadopp,100475,,20170907,,,Oregon State University
 CGCON-CSPPCE-00002,N00122.1,Sensor,0,Coastal Surface Piercing Profiler Controller,"Profiler, Coastal Surface Piercing",WET Labs,AMP,WLP-002,,20140630,310000,FAS-540601,
 CGCON-CSPPCE-00003,N00123.1,Sensor,0,Coastal Surface Piercing Profiler Controller,"Profiler, Coastal Surface Piercing",WET Labs,AMP,WLP-003,,20140616,310000,FAS-540601,
@@ -1971,6 +1972,7 @@ CGINS-PRESFB-01397,,Sensor,0,Seafloor Pressure: PRESF Series B,PRESF SERIES B (2
 CGINS-ZPLSCC-55098,N00681,Sensor,0,Bio-acoustic Sonar: ZPLSC Series C,ZPLSC SERIES C,ASL Environmental,AZFP,55098,,,92685,,
 CGINS-CAMDSA-00109,N00682,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0109,,,,,
 CGINS-PRESFC-01398,N00683,Sensor,0,Seafloor Pressure: PRESF Series C,PRESF SERIES C (26PLUS),Sea-Bird Electronics,SBE 26plus,26P-1398,,,14300,,
+CGINS-PRESFC-01399,,Sensor,0,Seafloor Pressure: PRESF Series C,PRESF SERIES C (26PLUS),Sea-Bird Electronics,SBE 26plus,26P-1399,,,14300,,
 N00687,N00687,Sensor,0,Wetlabs FLCDRTD with Impulse MCBH(WB)-6-MP-Ti connector,Wetlabs FLCDRTD with Impulse MCBH(WB)-6-MP-Ti connector,WET Labs,FLCDRTD (CDOM),3400/TAG#:116120,,20140128,6665,,
 ATOSU-58324-00013,N00689,Sensor,0,Broadband Acoustic Receiver (Hydrophone): HYDBB Series A,"Passive Bioacoustics, HYDBB-B",Ocean Sonics,icListen SB35-ETH,1250,,20130321,13943.62,,
 ATOSU-58317-00008,N00691,Sensor,0,Underwater Digital Still Camera: CAMDS Series B,Underwater Digital Still Camera (CAMDS),Kongsberg Underwater Technology Inc,Custom,105,,20140709,34185,,
@@ -2930,6 +2932,10 @@ CGINS-NUTNRB-01058,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-B
 CGINS-NUTNRB-01059,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1059,,20170922,,,Oregon State University
 CGINS-NUTNRB-01060,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1060,,20170922,,,Oregon State University
 CGINS-NUTNRB-01061,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1061,,20170922,,,Oregon State University
+CGINS-NUTNRB-01115,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1115,,20171226,,,Oregon State University
+CGINS-NUTNRB-01127,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1127,,20171226,,,Oregon State University
+CGINS-NUTNRB-01128,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1128,,20171226,,,Oregon State University
+CGINS-NUTNRB-01129,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1129,,20171226,,,Oregon State University
 CGCON-GLDRCP-00564,,Sensor,1,Mobile Asset Controller for Coastal Glider,GL564 Controller,Teledyne Webb,G2 Slocum Gliders,564,,,,,
 CGCON-CWFPCP-30001,,Sensor,0,Coastal Wire-Following Profiler Controller,,McLane,MMP-7,ML14300-01,,20170627,0,,Woods Hole Oceanographic Institution
 CGCON-CWFPCP-30002,,Sensor,0,Coastal Wire-Following Profiler Controller,,McLane,MMP-7,ML14300-02,,20170627,0,,Woods Hole Oceanographic Institution
