@@ -1647,7 +1647,6 @@ CGINS-CTDPFK-00189,,Sensor,0,CTD Profiler: CTDPF Series K,CTD for WFP Coastal ML
 CGINS-DOFSTK-03535,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOSTA for WFP Coastal ML14378-01,Sea-Bird Electronics,SBE 43F,43-3535,,20170907,,,Oregon State University
 CGINS-FLORTK-01602,,Sensor,0,3-Wavelength Fluorometer: FLORT Series K,FLOR for WFP Coastal ML14378-01,WET Labs,ECO Triplet,1602,,20170907,,,Oregon State University
 CGINS-PARADK-20555,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,PAR for WFP Coastal ML14378-01,Biospherical Instruments,QSP-2200,20555,,20170907,,,Oregon State University
-CGINS-PARADK-20582,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,PAR for WFP Coastal ML12991-03,Biospherical Instruments,QSP-2200,20582,,20180228,,,Oregon State University
 CGINS-VEL3DK-00475,,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series K,VEL3D for WFP Coastal ML14378-01,Nortek,Aquadopp,100475,,20170907,,,Oregon State University
 CGCON-CSPPCE-00002,N00122.1,Sensor,0,Coastal Surface Piercing Profiler Controller,"Profiler, Coastal Surface Piercing",WET Labs,AMP,WLP-002,,20140630,310000,FAS-540601,
 CGCON-CSPPCE-00003,N00123.1,Sensor,0,Coastal Surface Piercing Profiler Controller,"Profiler, Coastal Surface Piercing",WET Labs,AMP,WLP-003,,20140616,310000,FAS-540601,
