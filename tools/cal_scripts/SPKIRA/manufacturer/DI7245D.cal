@@ -1,0 +1,60 @@
+# Satlantic model # OCR-507 ICSW s/n 0245 SATNET
+# University of Washington / 2013-7011 / with Bioshutter s/n 191
+#############################################################################################################################################################
+# Calibration History
+# Date       |Operator |SW Version |Rev |Type |Light Data   |Dark Data   |Lamp         |Target       |Immersion Param  |Distance  | Comments
+#-------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 2017-11-14 |rlamb    |1.9.23_30  |D   |ED   |DI7245f-0245_2017-11-14_09-11-34_raw |DI7245d-0245_2017-11-14_10-35-30_raw |F1443        |             |March 2003       |50.0      | Final Calibration
+
+
+
+INSTRUMENT SATDI7 '' 6 AS 0 NONE
+SN 0245 '' 4 AS 0 NONE
+
+# Time since commencement of normal operation
+TIMER NONE 'sec' 10 AF 0 COUNT
+
+# Sample Delay
+DELAY SAMPLE 'ms' 2 BS 0 COUNT
+
+# Wavelength Data
+
+ED 412.23 'uW/cm^2/nm' 4 BU 1 OPTIC2
+2147252807.1	2.091279431e-007	1.368
+
+ED 442.97 'uW/cm^2/nm' 4 BU 1 OPTIC2
+2147347925.5	2.10742012577e-007	1.410
+
+ED 489.65 'uW/cm^2/nm' 4 BU 1 OPTIC2
+2148258363.2	1.97767590728e-007	1.365
+
+ED 509.20 'uW/cm^2/nm' 4 BU 1 OPTIC2
+2147025134.4	2.09285022304e-007	1.354
+
+ED 555.57 'uW/cm^2/nm' 4 BU 1 OPTIC2
+2147283189.6	1.99515602297e-007	1.372
+
+ED 619.37 'uW/cm^2/nm' 4 BU 1 OPTIC2
+2147134784.6	2.14115948704e-007	1.322
+
+ED 682.31 'uW/cm^2/nm' 4 BU 1 OPTIC2
+2146741212.1	2.12689804619e-007	1.347
+
+# In-head ancillary measurements
+VS NONE 'Volts' 2 BU 1 POLYU
+0 0.03
+
+VA NONE 'Volts' 2 BU 1 POLYU
+0 0.03
+
+TEMP PCB 'Celsius' 2 BU 1 POLYU
+-50.0 0.5
+
+# Frame Counter (Data Integrity)
+FRAME COUNTER '' 1 BU 0 COUNT
+
+# Check Sum (Data Integrity)
+CHECK SUM '' 1 BU 0 COUNT
+
+# Frame Terminator
+CRLF TERMINATOR '' 2 BU 0 NONE

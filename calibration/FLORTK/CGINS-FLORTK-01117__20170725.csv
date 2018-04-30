@@ -7,5 +7,5 @@ serial,name,value,notes
 1117,CC_measurement_wavelength,700,
 1117,CC_scale_factor_cdom,0.0702,
 1117,CC_scale_factor_chlorophyll_a,0.0116,
-1117,CC_scale_factor_volume_scatter,3.16E-06,
+1117,CC_scale_factor_volume_scatter,3.159E-06,
 1117,CC_scattering_angle,124,

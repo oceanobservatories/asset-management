@@ -114,7 +114,7 @@ The columns in the deployment CSV are as follows:
 * orbit
 * deployment_depth
 * water_depth
-* notes 
+* notes
 
 The CUID_Deploy and CUID Recover fields shall contain a cruise identifier defined in the cruises CSV file.
 Deployment start and stop timestamps shall be in RFC 3339 format:
@@ -147,3 +147,8 @@ will be removed when the ARCHIVE data is removed.
 #### load
 
 This folder contains scripts used to transform this CSV data into XLSX files as expected by edex.
+
+#### cal_scripts
+
+This folder contains scripts used to transform calibration data sheets from instrument manufacturers into calibration CSV files. These
+are organized by instrument type.
