@@ -3045,3 +3045,5 @@ CGCON-NDCL26-00032,,Sensor,0,Near Surface Instrument Frame Data Concentrator Log
 CGCON-MDCL36-00014,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,14,,,,,
 CGCON-NDCL26-00002,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,2,,,,,
 CGCON-MDCL36-00025,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,25,,,,,
+CGINS-ADCPAN-22077,,Sensor,1,ADCP for AUV: ADCPA series N,ADCP for AUV,Teledyne RDI,Explorer DVL 600 kHz,22077,,,,,
+CGINS-ADCPAN-22076,,Sensor,1,ADCP for AUV: ADCPA series N,ADCP for AUV,Teledyne RDI,Explorer DVL 600 kHz,22076,,,,,
