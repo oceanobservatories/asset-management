@@ -1363,10 +1363,10 @@ ATAPL-66645-00003,ATAPL-66645-00003,Sensor,0,Photosynthetically Available Radiat
 ATAPL-66645-00004,ATAPL-66645-00004,Sensor,0,Photosynthetically Available Radiation: PARAD Series A,PARADA for RSN,Satlantic,Satlantic digital PAR,507,,,,,University of Washington
 ATAPL-66645-00006,ATAPL-66645-00006,Sensor,0,Photosynthetically Available Radiation: PARAD Series A,PARADA for RSN,Satlantic,Satlantic digital PAR,556,,,,,University of Washington
 ATAPL-66645-00007,ATAPL-66645-00007,Sensor,0,Photosynthetically Available Radiation: PARAD Series A,PARADA for RSN,Satlantic,Satlantic digital PAR,557,,,,,University of Washington
-ATAPL-66662-00001,ATAPL-66662-00001,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD (ATAPL-69938-00001),Sea-Bird Electronics,SBE 16plus V2,16P65795-6914,,20111021,10845,,University of Washington
-ATAPL-66662-00002,ATAPL-66662-00002,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD,Sea-Bird Electronics,SBE 16plus V2,16P71179-7205,,20121106,10845,,University of Washington
+ATAPL-66662-00001,ATAPL-66662-00001,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD (ATAPL-69938-00001),Sea-Bird Electronics,SBE 16plus V2,16-6914,,20111021,10845,,University of Washington
+ATAPL-66662-00002,ATAPL-66662-00002,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD,Sea-Bird Electronics,SBE 16plus V2,16-7205,,20121106,10845,,University of Washington
 ATAPL-66662-00003,ATAPL-66662-00003,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD,Sea-Bird Electronics,SBE 16plus V2,16P71179-7232-2484,,20121210,10845,,University of Washington
-ATAPL-66662-00004,ATAPL-66662-00004,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD (ATAPL-69938-00002),Sea-Bird Electronics,SBE 16plus V2,16P71179-7233,,20121210,10845,,University of Washington
+ATAPL-66662-00004,ATAPL-66662-00004,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD (ATAPL-69938-00002),Sea-Bird Electronics,SBE 16plus V2,16-7233,,20121210,10845,,University of Washington
 ATAPL-66662-00005,ATAPL-66662-00005,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD (O&M),Sea-Bird Electronics,SBE 16plus V2,16-50030,,20140512,11835,,University of Washington
 ATAPL-66662-00008,ATAPL-66662-00008,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD,Sea-Bird Electronics,SBE 16plus V2,16-50115,,20150511,13535,,University of Washington
 ATAPL-66662-00009,ATAPL-66662-00009,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD,Sea-Bird Electronics,SBE 16plus V2,16-50118,,20150511,13535,,University of Washington
