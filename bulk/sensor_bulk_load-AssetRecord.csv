@@ -1298,20 +1298,20 @@ ATAPL-58334-00001,ATAPL-58334-00001,Sensor,0,CAT meter for autonomous deployment
 ATAPL-58334-00002,ATAPL-58334-00002,Sensor,0,Benthic Fluid Flow: FLOBN Series C,CAT meter for autonomous deployment (FLOBN),Michael Tryon,CAT,2,,20130513,8827.28,,University of Washington
 ATAPL-58334-00003,ATAPL-58334-00003,Sensor,0,CAT meter for autonomous deployment (FLOBN)  (O&M),CAT meter for autonomous deployment (FLOBN)  (O&M),MICHAEL TRYON,CAT,3,,20130513,8827.28,,University of Washington
 ATAPL-58334-00004,ATAPL-58334-00004,Sensor,0,Benthic Fluid Flow: FLOBN Series C,CAT meter for autonomous deployment (FLOBN),Michael Tryon,CAT,4,,20150522,6400,,University of Washington
-ATAPL-58336-00001,ATAPL-58336-00001,Sensor,0,pCO2 Water: PCO2W Series A,SAMI2 CO2,Sunburst Sensors,SAMI-pCO2,SAMI2-C0047,,20120717,17955,,University of Washington
-ATAPL-58336-00002,ATAPL-58336-00002,Sensor,0,pCO2 Water: PCO2W Series A,SAMI2 CO2,Sunburst Sensors,SAMI-pCO2,SAMI2-C0075,,20131127,18494,,University of Washington
-ATAPL-58336-00003,ATAPL-58336-00003,Sensor,0,pCO2 Water: PCO2W Series A,SAMI2 CO2,Sunburst Sensors,SAMI-pCO2,SAMI2-C0076,,20131127,18494,,University of Washington
-ATAPL-58336-00004,ATAPL-58336-00004,Sensor,0,pCO2 Water: PCO2W Series A,SAMI2 CO2,Sunburst Sensors,SAMI-pCO2,SAMI2-C0091,,20140512,19048,,University of Washington
-ATAPL-58336-00009,ATAPL-58336-00009,Sensor,0,pCO2 Water: PCO2W Series A,SAMI2 CO2,Sunburst Sensors,SAMI-pCO2,SAMI2-C0123,,20150623,17658,,University of Washington
-ATAPL-58336-00010,ATAPL-58336-00010,Sensor,0,pCO2 Water: PCO2W Series A,SAMI2 CO2,Sunburst Sensors,SAMI-pCO2,SAMI2-C0124,,20150730,17658,,University of Washington
-ATAPL-58337-00001,ATAPL-58337-00001,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,SAMI2-P0059,,20120717,17955,,University of Washington
-ATAPL-58337-00002,ATAPL-58337-00002,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,SAMI2-P0112,,20131113,18494,,University of Washington
-ATAPL-58337-00003,ATAPL-58337-00003,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,SAMI2-P0111,,20131115,18494,,University of Washington
-ATAPL-58337-00004,ATAPL-58337-00004,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,SAMI2-P0110,,20131122,18494,,University of Washington
-ATAPL-58337-00005,ATAPL-58337-00005,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,SAMI2-P0113,,20131122,18494,,University of Washington
-ATAPL-58337-00006,ATAPL-58337-00006,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH (O&M),Sunburst Sensors,SAMI-pH,SAMI2-P0133,,20140519,19048,,University of Washington
-ATAPL-58337-00009,ATAPL-58337-00009,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,SAMI2-P0161,,20150528,17658,,University of Washington
-ATAPL-58337-00010,ATAPL-58337-00010,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,SAMI2-P0162,,20150528,17658,,University of Washington
+ATAPL-58336-00001,ATAPL-58336-00001,Sensor,0,pCO2 Water: PCO2W Series A,SAMI2 CO2,Sunburst Sensors,SAMI-pCO2,C0047,,20120717,17955,,University of Washington
+ATAPL-58336-00002,ATAPL-58336-00002,Sensor,0,pCO2 Water: PCO2W Series A,SAMI2 CO2,Sunburst Sensors,SAMI-pCO2,C0075,,20131127,18494,,University of Washington
+ATAPL-58336-00003,ATAPL-58336-00003,Sensor,0,pCO2 Water: PCO2W Series A,SAMI2 CO2,Sunburst Sensors,SAMI-pCO2,C0076,,20131127,18494,,University of Washington
+ATAPL-58336-00004,ATAPL-58336-00004,Sensor,0,pCO2 Water: PCO2W Series A,SAMI2 CO2,Sunburst Sensors,SAMI-pCO2,C0091,,20140512,19048,,University of Washington
+ATAPL-58336-00009,ATAPL-58336-00009,Sensor,0,pCO2 Water: PCO2W Series A,SAMI2 CO2,Sunburst Sensors,SAMI-pCO2,C0123,,20150623,17658,,University of Washington
+ATAPL-58336-00010,ATAPL-58336-00010,Sensor,0,pCO2 Water: PCO2W Series A,SAMI2 CO2,Sunburst Sensors,SAMI-pCO2,C0124,,20150730,17658,,University of Washington
+ATAPL-58337-00001,ATAPL-58337-00001,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,P0059,,20120717,17955,,University of Washington
+ATAPL-58337-00002,ATAPL-58337-00002,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,P0112,,20131113,18494,,University of Washington
+ATAPL-58337-00003,ATAPL-58337-00003,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,P0111,,20131115,18494,,University of Washington
+ATAPL-58337-00004,ATAPL-58337-00004,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,P0110,,20131122,18494,,University of Washington
+ATAPL-58337-00005,ATAPL-58337-00005,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,P0113,,20131122,18494,,University of Washington
+ATAPL-58337-00006,ATAPL-58337-00006,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH (O&M),Sunburst Sensors,SAMI-pH,P0133,,20140519,19048,,University of Washington
+ATAPL-58337-00009,ATAPL-58337-00009,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,P0161,,20150528,17658,,University of Washington
+ATAPL-58337-00010,ATAPL-58337-00010,Sensor,0,Seawater pH: PHSEN Series A,SAMI2 PH,Sunburst Sensors,SAMI-pH,P0162,,20150528,17658,,University of Washington
 ATAPL-58337-00013,ATAPL-58337-00013,Sensor,0,Seawater pH: PHSEN Series A,PHSEN-A,Sunburst Sensors,SAMI-pH,P0163,,,,,University of Washington
 ATAPL-58337-00014,ATAPL-58337-00014,Sensor,0,Seawater pH: PHSEN Series A,PHSEN-A,Sunburst Sensors,SAMI-pH,P0164,,,,,University of Washington
 ATAPL-58338-00001,ATAPL-58338-00001,Sensor,0,Remote Access Sampler (RAS) Housing  (O&M),Remote Access Sampler (RAS) Housing  (O&M),NOAA-PMEL,Custom,,,20121006,5100,,University of Washington
@@ -1365,7 +1365,7 @@ ATAPL-66645-00006,ATAPL-66645-00006,Sensor,0,Photosynthetically Available Radiat
 ATAPL-66645-00007,ATAPL-66645-00007,Sensor,0,Photosynthetically Available Radiation: PARAD Series A,PARADA for RSN,Satlantic,Satlantic digital PAR,557,,,,,University of Washington
 ATAPL-66662-00001,ATAPL-66662-00001,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD (ATAPL-69938-00001),Sea-Bird Electronics,SBE 16plus V2,16-6914,,20111021,10845,,University of Washington
 ATAPL-66662-00002,ATAPL-66662-00002,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD,Sea-Bird Electronics,SBE 16plus V2,16-7205,,20121106,10845,,University of Washington
-ATAPL-66662-00003,ATAPL-66662-00003,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD,Sea-Bird Electronics,SBE 16plus V2,16P71179-7232-2484,,20121210,10845,,University of Washington
+ATAPL-66662-00003,ATAPL-66662-00003,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD,Sea-Bird Electronics,SBE 16plus V2,16-7232,,20121210,10845,,University of Washington
 ATAPL-66662-00004,ATAPL-66662-00004,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD (ATAPL-69938-00002),Sea-Bird Electronics,SBE 16plus V2,16-7233,,20121210,10845,,University of Washington
 ATAPL-66662-00005,ATAPL-66662-00005,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD (O&M),Sea-Bird Electronics,SBE 16plus V2,16-50030,,20140512,11835,,University of Washington
 ATAPL-66662-00008,ATAPL-66662-00008,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD,Sea-Bird Electronics,SBE 16plus V2,16-50115,,20150511,13535,,University of Washington
