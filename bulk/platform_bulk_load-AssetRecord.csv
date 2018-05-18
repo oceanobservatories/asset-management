@@ -283,3 +283,7 @@ CGMCE-09OSPM-00009,,Platform,0,Coastal Endurance Washington Offshore Wire Follow
 CGMCE-01ISSP-00009,,Platform,0,Coastal Endurance Oregon Inshore Surface Piercing Profiler Mooring,MOORING ENDURANCE,WHOI,CE01ISSP,CE01ISSP-00009,,,,,Oregon State University
 CGMCE-02SHSP-00009,,Platform,0,Coastal Endurance Oregon Shelf Surface Piercing Profiler Mooring,MOORING ENDURANCE,WHOI,CE02SHSP,CE02SHSP-00009,,,,,Oregon State University
 CGMCE-01ISSP-00010,,Platform,0,Coastal Endurance Oregon Inshore Surface Piercing Profiler Mooring,MOORING ENDURANCE,WHOI,CE01ISSP,CE01ISSP-00010,,,,,Oregon State University
+CGMGI-01SUMO-00005,,Platform,0,Global Irminger Sea Apex Surface Mooring,MOORING Irminger OS,WHOI,GI01SUMO,GI01SUMO-00005,,,,,Woods Hole Oceanographic Institution
+CGMGI-02HYPM-00005,,Platform,0,Global Irminger Sea Apex Profiler Mooring,MOORING Irminger OS,WHOI,GI02HYPM,GI02HYPM-00005,,,,,Woods Hole Oceanographic Institution
+CGMGI-03FLMA-00005,,Platform,0,Global Irminger Sea Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GI03FLMA,GI03FLMA-00005,,,,,Woods Hole Oceanographic Institution
+CGMGI-03FLMB-00005,,Platform,0,Global Irminger Sea Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GI03FLMB,GI03FLMB-00005,,,,,Woods Hole Oceanographic Institution

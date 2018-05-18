@@ -3047,3 +3047,13 @@ CGCON-NDCL26-00002,,Sensor,0,Near Surface Instrument Frame Data Concentrator Log
 CGCON-MDCL36-00025,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,25,,,,,
 CGINS-ADCPAN-22077,,Sensor,1,ADCP for AUV: ADCPA series N,ADCP for AUV,Teledyne RDI,Explorer DVL 600 kHz,22077,,,,,
 CGINS-ADCPAN-22076,,Sensor,1,ADCP for AUV: ADCPA series N,ADCP for AUV,Teledyne RDI,Explorer DVL 600 kHz,22076,,,,,
+CGCON-NDCL16-00030,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,36,,,,,Woods Hole Oceanographic Institution
+CGCON-BCPM01-50003,,Sensor,0,Surface Buoy Communications and Power Manager,,WHOI,CPM,2015-0003,,,,,Woods Hole Oceanographic Institution
+CGCON-BDCL11-50003,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,2015-0003,,,,,Woods Hole Oceanographic Institution
+CGINS-MOPAK0-43258,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-43258,,,,,Woods Hole Oceanographic Institution
+CGCON-BDCL12-50003,,Sensor,0,Surface Buoy Data Concentrator Logger,Communications and Power Manager,WHOI,DCL,2015-0003,,,,,Woods Hole Oceanographic Institution
+CGINS-HYDGN0-42529,,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instruments,M2A transmitters,M2A542529,,,,,Woods Hole Oceanographic Institution
+CGINS-FDCHPA-71403,,Sensor,0,Direct Covariance Flux: FDCHP Series A,Direct Covariance Flux,WHOI,DCFS,171403,,,,,Woods Hole Oceanographic Institution
+CGINS-ZPLSGA-55107,,Sensor,0,Bio-acoustic Sonar: ZPLSG Series A,ZPLSG SERIES A,ASL Environmental,AZFP,55107,,,,,Woods Hole Oceanographic Institution
+CGINS-ZPLSGA-55108,,Sensor,0,Bio-acoustic Sonar: ZPLSG Series A,ZPLSG SERIES A,ASL Environmental,AZFP,55108,,,,,Woods Hole Oceanographic Institution
+CGCON-SIOCON-13993,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,13993 / 10,,,,,Woods Hole Oceanographic Institution
