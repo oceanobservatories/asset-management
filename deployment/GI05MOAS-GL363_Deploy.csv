@@ -1,0 +1,5 @@
+CUID_Deploy,deployedBy,CUID_Recover,recoveredBy,Reference Designator,deploymentNumber,versionNumber,startDateTime,stopDateTime,mooring.uid,node.uid,sensor.uid,lat,lon,orbit,deployment_depth,water_depth,notes
+#AR30-03,,,,GI05MOAS-GL363-00-ENG000000,3,1,2018-06-05T00:00:00,,CGVGI-05MOAS-00000,CGVEH-GLDROO-00363,CGCON-GLDROO-00363,59.9,-39.4,,1000,1000,"date/time, lat/lon to be updated post-cruise"
+#AR30-03,,,,GI05MOAS-GL363-01-FLORDM000,3,1,2018-06-05T00:00:00,,CGVGI-05MOAS-00000,CGVEH-GLDROO-00363,CGINS-FLORDM-03063,59.9,-39.4,,1000,1000,"date/time, lat/lon to be updated post-cruise"
+#AR30-03,,,,GI05MOAS-GL363-02-DOSTAM000,3,1,2018-06-05T00:00:00,,CGVGI-05MOAS-00000,CGVEH-GLDROO-00363,CGINS-DOSTAM-00341,59.9,-39.4,,1000,1000,"date/time, lat/lon to be updated post-cruise"
+#AR30-03,,,,GI05MOAS-GL363-04-CTDGVM000,3,1,2018-06-05T00:00:00,,CGVGI-05MOAS-00000,CGVEH-GLDROO-00363,CGINS-CTDGVM-09065,59.9,-39.4,,1000,1000,"date/time, lat/lon to be updated post-cruise"

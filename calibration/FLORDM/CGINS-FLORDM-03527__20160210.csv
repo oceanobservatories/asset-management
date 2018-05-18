@@ -1,0 +1,5 @@
+serial,name,value,notes
+FLBBSLC-3527,CC_angular_resolution,1.096,
+FLBBSLC-3527,CC_depolarization_ratio,0.039,
+FLBBSLC-3527,CC_measurement_wavelength,700.0,
+FLBBSLC-3527,CC_scattering_angle,140.0,

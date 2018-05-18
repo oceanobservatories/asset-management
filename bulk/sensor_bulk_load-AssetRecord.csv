@@ -3057,3 +3057,4 @@ CGINS-FDCHPA-71403,,Sensor,0,Direct Covariance Flux: FDCHP Series A,Direct Covar
 CGINS-ZPLSGA-55107,,Sensor,0,Bio-acoustic Sonar: ZPLSG Series A,ZPLSG SERIES A,ASL Environmental,AZFP,55107,,,,,Woods Hole Oceanographic Institution
 CGINS-ZPLSGA-55108,,Sensor,0,Bio-acoustic Sonar: ZPLSG Series A,ZPLSG SERIES A,ASL Environmental,AZFP,55108,,,,,Woods Hole Oceanographic Institution
 CGCON-SIOCON-13993,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,13993 / 10,,,,,Woods Hole Oceanographic Institution
+CGINS-DOSTAM-00542,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,542,,,,CGSN Glider Instrument Pool,Woods Hole Oceanographic Institution
