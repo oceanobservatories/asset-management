@@ -69,7 +69,6 @@ truncate table xnode cascade;
 truncate table xremoteresource cascade;
 truncate table xretirement cascade;
 truncate table xstorage cascade;
-truncate table latest_status;
 ```
 
 #### Reset sequences
