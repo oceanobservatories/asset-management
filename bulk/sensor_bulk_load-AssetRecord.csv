@@ -3058,3 +3058,9 @@ CGINS-ZPLSGA-55107,,Sensor,0,Bio-acoustic Sonar: ZPLSG Series A,ZPLSG SERIES A,A
 CGINS-ZPLSGA-55108,,Sensor,0,Bio-acoustic Sonar: ZPLSG Series A,ZPLSG SERIES A,ASL Environmental,AZFP,55108,,,,,Woods Hole Oceanographic Institution
 CGCON-SIOCON-13993,,Sensor,0,Subsurface Mooring Platform Controller,,SIO,Subsurface Mooring Controller,13993 / 10,,,,,Woods Hole Oceanographic Institution
 CGINS-DOSTAM-00542,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,542,,,,CGSN Glider Instrument Pool,Woods Hole Oceanographic Institution
+PIRSN-SCTAAA-00001,,Sensor,0,Self-Calibrating Triaxial Accelerometer,SCTA Series A,PI Wilcock,,001,,,,,
+PIRSN-SCPRAA-00001,,Sensor,0,Self-Calibrating Pressure Recorder,SCPR Series A,PI Zumberge and Sasagawa,,001/C,,,,,
+PIRSN-COVISA-00001,,Sensor,0,Cabled Observatory Vent Imaging System,COVIS Series A,Bemis,,1,,,,,
+PIRSN-OVRSRA-00001,,Sensor,0,Overview Sonar,OVRSR Series A,MARUM,R2 Sonic 2022,101409,,,,,
+PIRSN-QNTSRA-00001,,Sensor,0,Quantification Sonar,QNTSR Series A,MARUM,Kongsberg 1171-Series Scanning Sonar,1708062,,,,,
+PIRSN-CTDPFA-10001,,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50216,,,,,
