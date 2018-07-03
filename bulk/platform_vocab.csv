@@ -6,6 +6,8 @@ Cabled Axial Base Seafloor: Low Power Junction Box,UW-APL,RS03AXBS-LJ03A
 Cabled Axial Base Seafloor: Medium Power Junction Box,UW-APL,RS03AXBS-MJ03A
 Cabled Axial Base Shallow Profiler Mooring: Platform Interface Controller,UW-APL,RS03AXPS-PC03A
 Cabled Axial Base Shallow Profiler Mooring: Science Pod,UW-APL,RS03AXPS-SF03A
+Cabled Axial Base Shallow Profiler Mooring: Low Voltage Node,UW-APL,RS03AXPS-LV03A
+Cabled Axial Base Shallow Profiler Mooring: Secondary Node,UW-APL,RS03AXPS-SC03A
 Cabled Central Caldera: Medium Power Junction Box,UW-APL,RS03CCAL-MJ03F
 Cabled Eastern Caldera: Medium Power Junction Box,UW-APL,RS03ECAL-MJ03E
 Cabled International District Vent Field 1: Medium Power Junction Box,UW-APL,RS03INT1-MJ03C
@@ -14,19 +16,25 @@ Cabled Oregon Slope Base Deep Profiler Mooring: Deep Profiler,UW-APL,RS01SBPD-DP
 Cabled Oregon Slope Base Deep Profiler Mooring: Profiler Docking Station,UW-APL,RS01SBPD-PD01A
 Cabled Oregon Slope Base Seafloor: Low Power Junction Box,UW-APL,RS01SLBS-LJ01A
 Cabled Oregon Slope Base Seafloor: Medium Power Junction Box,UW-APL,RS01SLBS-MJ01A
+Cabled Oregon Slope Base Seafloor: Primary Node,UW-APL,RS01SLBS-PN01A
 Cabled Oregon Slope Base Shallow Profiler Mooring: Platform Interface Controller,UW-APL,RS01SBPS-PC01A
 Cabled Oregon Slope Base Shallow Profiler Mooring: Science Pod,UW-APL,RS01SBPS-SF01A
+Cabled Oregon Slope Base Shallow Profiler Mooring: Secondary Node,UW-APL,RS01SBPS-SC01A
+Cabled Oregon Slope Base Shallow Profiler Mooring: Low Voltage Node,UW-APL,RS01SBPS-LV01A
 Cabled Southern Hydrate Summit 1 Seafloor: Low Power Junction Box,UW-APL,RS01SUM1-LJ01B
-Cabled Southern Hydrate Summit 1 Seafloor: Low Voltage Node,UW-APL,RS01SUM1-PN01B
+Cabled Southern Hydrate Summit 1 Seafloor: Primary Node,UW-APL,RS01SUM1-PN01B
+Cabled Southern Hydrate Summit 1 Seafloor: Low Voltage Node,UW-APL,RS01SUM1-LV01B
 Cabled Southern Hydrate Summit 1 Seafloor: Medium Power Junction Box,UW-APL,RS01SUM2-MJ01B
 Coastal Endurance Gliders,Teledyne Webb,CE05MOAS
 Coastal Endurance Oregon Inshore Surface Mooring,WHOI,CE01ISSM
 Coastal Endurance Oregon Inshore Surface Piercing Profiler Mooring,WHOI,CE01ISSP
 Coastal Endurance Oregon Offshore Cabled Benthic Experiment Package: Low Power Junction Box,WHOI,CE04OSBP-LJ01C
 Coastal Endurance Oregon Offshore Cabled Benthic Experiment Package: Low Voltage Node,WHOI,CE04OSBP-LV01C
+Coastal Endurance Oregon Offshore Cabled Benthic Experiment Package: Primary Node,WHOI,CE04OSBP-PN01C
 Coastal Endurance Oregon Offshore Cabled Deep Profiler Mooring: Deep Profiler,UW-APL,CE04OSPD-DP01B
 Coastal Endurance Oregon Offshore Cabled Shallow Profiler Mooring: Platform Interface Controller,WHOI,CE04OSPS-PC01B
 Coastal Endurance Oregon Offshore Cabled Shallow Profiler Mooring: Science Pod,WHOI,CE04OSPS-SF01B
+Coastal Endurance Oregon Offshore Cabled Shallow Profiler Mooring: Secondary Node,WHOI,CE04OSPS-SC01B
 Coastal Endurance Oregon Offshore Surface Mooring,WHOI,CE04OSSM
 Coastal Endurance Oregon Shelf Cabled Benthic Experiment Package: Low Power Junction Box,WHOI,CE02SHBP-LJ01D
 Coastal Endurance Oregon Shelf Cabled Benthic Experiment Package: Medium Power Junction Box,WHOI,CE02SHBP-MJ01C
