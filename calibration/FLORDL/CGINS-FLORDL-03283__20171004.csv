@@ -1,0 +1,9 @@
+serial,name,value,notes
+3283,CC_angular_resolution,1.096,Constant
+3283,CC_dark_counts_chlorophyll_a,47,
+3283,CC_dark_counts_volume_scatter,47,
+3283,CC_depolarization_ratio,0.039,Constant
+3283,CC_measurement_wavelength,700,Constant
+3283,CC_scale_factor_chlorophyll_a,0.0069,
+3283,CC_scale_factor_volume_scatter,1.829E-06,
+3283,CC_scattering_angle,140,Constant
