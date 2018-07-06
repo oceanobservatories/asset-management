@@ -1371,6 +1371,9 @@ RS01SUM2-MJ01B-00-FLOBNM101,Cabled Continental Margin,Southern Hydrate Summit 2 
 RS01SUM2-MJ01B-00-OSMOIA101,Cabled Continental Margin,Southern Hydrate Summit 2 Seafloor,Medium-Power JBox (MJ01B),Osmosis-Based Water Sampler,"TLR, Inc.",OsmoSampler,811,811
 RS01SUM2-MJ01B-05-CAMDSB103,Cabled Continental Margin,Southern Hydrate Summit 2 Seafloor,Medium-Power JBox (MJ01B),Digital Still Camera,Kongsberg,Custom Digital Still Camera Assembly,811,811
 RS01SUM2-MJ01B-06-MASSPA101,Cabled Continental Margin,Southern Hydrate Summit 2 Seafloor,Medium-Power JBox (MJ01B),Mass Spectrometer,"Girguis, Harvard",cabled Mass Spec,811,811
+RS01SUM2-MJ01B-08-OVRSRA101,Cabled Continental Margin,Southern Hydrate Summit 2 Seafloor,Medium-Power JBox (MJ01B),Overview Sonar,MARUM,R2Sonic 2022,811,811
+RS01SUM2-MJ01B-10-QNTSRA101,Cabled Continental Margin,Southern Hydrate Summit 2 Seafloor,Medium-Power JBox (MJ01B),Quantification Sonar,MARUM,Kongsberg 1171,811,811
+RS01SUM2-MJ01B-11-CTDPFA110,Cabled Continental Margin,Southern Hydrate Summit 2 Seafloor,Medium-Power JBox (MJ01B),CTD,Sea-Bird,SBE 16plusV2,811,811
 RS01SUM2-MJ01B-12-ADCPSK101,Cabled Continental Margin,Southern Hydrate Summit 2 Seafloor,Medium-Power JBox (MJ01B),Velocity Profiler (75 kHz),Teledyne RDI,WorkHorse LongRanger Monitor 75khz,811,811
 RS03ASHS,Cabled Axial Seamount,ASHES Vent Field,,,,,1552,1552
 RS03ASHS-MJ03B,Cabled Axial Seamount,ASHES Vent Field,Medium-Power JBox (MJ03B),,,,1552,1552
