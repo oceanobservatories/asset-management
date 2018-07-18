@@ -4,7 +4,6 @@ A00044,A00044,Platform,0,MOORING PIONEER COASTAL SURFAC,MOORING PIONEER COASTAL 
 A00224,A00224,Platform,0,MOORING STRETCH HOSE TEST,MOORING STRETCH HOSE TEST,WHOI,STRETCH HOSE,ECR1301-00881,,20121114,46633.5,,
 ATAPL-65244-010-0023,ATAPL-65244-010-0023,Platform,0,Cabled Oregon Slope Base Seafloor: Medium Power Junction Box,MOORING RSN,UW-APL,RS01SLBS-MJ01A,SN0026,,,,,University of Washington
 ATAPL-65244-020-0024,N00299,Platform,0,Cabled Southern Hydrate Summit 1 Seafloor: Medium Power Junction Box,MOORING RSN,UW-APL,RS01SUM2-MJ01B,SN0024,,,,,University of Washington
-ATAPL-65244-020-0034,ATAPL-65244-020-0034,Platform,0,Cabled Southern Hydrate Summit 1 Seafloor: Medium Power Junction Box,MOORING RSN,UW-APL,RS01SUM2-MJ01B,SN0034,,,,,University of Washington
 ATAPL-65244-030-0025,ATAPL-65244-030-0025,Platform,0,Coastal Endurance Oregon Shelf Cabled Benthic Experiment Package: Medium Power Junction Box,MOORING ENDURANCE OS,WHOI,CE02SHBP-MJ01C,SN0025,,,,,University of Washington
 ATAPL-65244-040-0026,ATAPL-65244-040-0026,Platform,0,Cabled Axial Base Seafloor: Medium Power Junction Box,MOORING RSN,UW-APL,RS03AXBS-MJ03A,SN0023,,,,,University of Washington
 ATAPL-65244-050-0027,ATAPL-65244-050-0027,Platform,0,Cabled ASHES Vent Field: Medium Power Junction Box,MOORING RSN,UW-APL,RS03ASHS-MJ03B,SN0027,,,,,University of Washington
@@ -12,18 +11,22 @@ ATAPL-65244-060-0028,ATAPL-65244-060-0028,Platform,0,Cabled International Distri
 ATAPL-65244-070-0029,ATAPL-65244-070-0029,Platform,0,Cabled International District Vent Field 2: Medium Power Junction Box,MOORING RSN,UW-APL,RS03INT2-MJ03D,SN0029,,,,,University of Washington
 ATAPL-65244-080-0030,ATAPL-65244-080-0030,Platform,0,Cabled Eastern Caldera: Medium Power Junction Box,MOORING RSN,UW-APL,RS03ECAL-MJ03E,SN0030,,,,,University of Washington
 ATAPL-65244-090-0031,ATAPL-65244-090-0031,Platform,0,Cabled Central Caldera: Medium Power Junction Box,MOORING RSN,UW-APL,RS03CCAL-MJ03F,SN0031,,,,,University of Washington
+ATAPL-65244-810-0032,ATAPL-65244-810-0032,Platform,0,Cabled Oregon Slope Base Seafloor: Medium Power Junction Box,MOORING RSN,UW-APL,RS01SLBS-MJ01A,,,,,,
 ATAPL-65244-820-0033,ATAPL-65244-820-0033,Platform,0,Cabled ASHES Vent Field: Medium Power Junction Box,MOORING RSN,UW-APL,RS03ASHS-MJ03B,SN0033,,,,,University of Washington
+ATAPL-65244-830-0034,ATAPL-65244-830-0034,Platform,0,Cabled Southern Hydrate Summit 1 Seafloor: Medium Power Junction Box,MOORING RSN,UW-APL,RS01SUM2-MJ01B,,,,,,
 ATAPL-65244-840-0035,ATAPL-65244-840-0035,Platform,0,Cabled Axial Base Seafloor: Medium Power Junction Box,Medium Power Junction Box,UW-APL,RS03AXBS-MJ03A,SN0035,,,,,University of Washington
+ATAPL-65244-850-0036,ATAPL-65244-840-0035,Platform,0,Cabled International District Vent Field 1: Medium Power Junction Box,MOORING RSN,UW-APL,RS03INT1-MJ03C,,,,,,
+ATAPL-65291-010-0043,ATAPL-65291-010-0043,Platform,0,Cabled Oregon Slope Base Seafloor: Low Voltage Node,MOORING RSN,UW-APL,RS01SLBS-LV01A,,,,,,
 ATAPL-65291-020-0044,N00298,Platform,0,Cabled Southern Hydrate Summit 1 Seafloor: Low Voltage Node,MOORING RSN,UW-APL,RS01SUM1-PN01B,SN0044,,,,,University of Washington
 ATAPL-65291-030-0045,ATAPL-65291-030-0045,Platform,0,Coastal Endurance Oregon Offshore Cabled Benthic Experiment Package: Low Voltage Node,MOORING ENDURANCE OS,WHOI,CE04OSBP-LV01C,SN0045,,,,,University of Washington
+ATAPL-65291-040-0046,ATAPL-65291-040-0046,Platform,0,Cabled Axial Base Seafloor: Low Voltage Node,MOORING RSN,UW-APL,RS03AXBS-LV03A,,,,,,
+ATAPL-65291-810-0047,ATAPL-65291-810-0047,Platform,0,Cabled Southern Hydrate Summit 1 Seafloor: Low Voltage Node,MOORING RSN,UW-APL,RS01SUM1-LV01B,,,,,,
 ATAPL-65291-820-0048,ATAPL-65291-820-0048,Platform,0,Coastal Endurance Oregon Offshore Cabled Benthic Experiment Package: Low Voltage Node,MOORING ENDURANCE OS,WHOI,CE04OSBP-LV01C,SN0048,,,,,University of Washington
 ATAPL-65310-010-0003,ATAPL-65310-010-0003,Platform,0,Cabled Oregon Slope Base Seafloor: Low Power Junction Box,MOORING RSN,UW-APL,RS01SLBS-LJ01A,SN0003,,,,,University of Washington
 ATAPL-65310-020-0004,ATAPL-65310-020-0004,Platform,0,Cabled Southern Hydrate Summit 1 Seafloor: Low Power Junction Box,MOORING RSN,UW-APL,RS01SUM1-LJ01B,SN0004,,,,,University of Washington
-ATAPL-65310-020-0012,ATAPL-65310-020-0012,Platform,0,Cabled Southern Hydrate Summit 1 Seafloor: Low Power Junction Box,MOORING RSN,UW-APL,RS01SUM1-LJ01B,SN0012,,,,,University of Washington
 ATAPL-65310-030-0005,ATAPL-65310-030-0005,Platform,0,Coastal Endurance Oregon Offshore Cabled Benthic Experiment Package: Low Power Junction Box,MOORING ENDURANCE OS,WHOI,CE04OSBP-LJ01C,SN0005,,,,,University of Washington
-ATAPL-65310-040-006,ATAPL-65310-040-006,Platform,0,Coastal Endurance Oregon Shelf Cabled Benthic Experiment Package: Low Power Junction Box,MOORING ENDURANCE OS,WHOI,CE02SHBP-LJ01D,SN0006,,,,,University of Washington
+ATAPL-65310-040-0006,ATAPL-65310-040-0006,Platform,0,Coastal Endurance Oregon Shelf Cabled Benthic Experiment Package: Low Power Junction Box,MOORING ENDURANCE OS,WHOI,CE02SHBP-LJ01D,SN0006,,,,,University of Washington
 ATAPL-65310-050-0007,ATAPL-65310-050-0007,Platform,0,Cabled Axial Base Seafloor: Low Power Junction Box,MOORING RSN,UW-APL,RS03AXBS-LJ03A,SN0007,,,,,University of Washington
-ATAPL-65310-810-0005,ATAPL-65310-810-0005,Platform,0,Coastal Endurance Oregon Offshore Cabled Benthic Experiment Package: Low Power Junction Box,Low Voltage Junction Box,WHOI,CE04OSBP-LJ01C,SN0006,,,,,University of Washington
 ATAPL-65310-810-0008,N00281,Platform,0,Coastal Endurance Oregon Offshore Cabled Benthic Experiment Package: Low Power Junction Box,MOORING ENDURANCE OS,WHOI,CE04OSBP-LJ01C,SN0008,,,,,University of Washington
 ATAPL-65310-820-0009,ATAPL-65310-820-0009,Platform,0,Coastal Endurance Oregon Shelf Cabled Benthic Experiment Package: Low Power Junction Box,MOORING ENDURANCE OS,WHOI,CE02SHBP-LJ01D,SN0009,,,,,University of Washington
 ATAPL-65310-830-0010,ATAPL-65310-830-0010,Platform,0,Cabled Oregon Slope Base Seafloor: Low Power Junction Box,MOORING RSN,UW-APL,RS01SLBS-LJ01A,SN0010,,,,,University of Washington

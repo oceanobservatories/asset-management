@@ -36,6 +36,7 @@ class NUTNRCalibration(Calibration):
                 if len(parts) < 2:
                     continue  # skip anything that is not key value paired
                 record_type = parts[0]
+
                 if record_type == 'H':
                     key_value = parts[1].split()
                     if len(key_value) == 2:
@@ -66,6 +67,8 @@ def main():
     for path, directories, files in os.walk('NUTNRA/manufacturer'):
         for file in files:
             cal = NUTNRCalibration()
+            if not file.startswith("SNA"):
+                continue
             cal.read_cal(os.path.join(path, file))
             cal.asset_tracking_number = lookup[cal.serial]
             cal.write_cal_info()
