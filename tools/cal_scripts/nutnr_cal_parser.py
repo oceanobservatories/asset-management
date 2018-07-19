@@ -47,7 +47,8 @@ class NUTNRCalibration(Calibration):
                     elif "creation" in key_value:
                         cal_date = key_value[-2]
                         cal_date = datetime.datetime.strptime(cal_date, "%d-%b-%Y").strftime("%Y%m%d")
-                        self.date = cal_date
+                        if self.date < cal_date:
+                            self.date = cal_date
                     elif "SUNA" in key_value:
                         self.serial = str(key_value[1]).lstrip('0')
 
