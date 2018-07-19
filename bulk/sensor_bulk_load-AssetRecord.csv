@@ -3073,3 +3073,7 @@ PIRSN-OVRSRA-00001,,Sensor,0,Overview Sonar,OVRSR Series A,MARUM,R2 Sonic 2022,1
 PIRSN-QNTSRA-00001,,Sensor,0,Quantification Sonar,QNTSR Series A,MARUM,Kongsberg 1171-Series Scanning Sonar,1708062,,,,,
 PIRSN-CTDPFA-10001,,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50216,,,,,
 CGINS-FLORTD-01435,,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1435,,,,,Woods Hole Oceanographic Institution
+CGINS-ADCPAM-00550,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,550,,,,CGSN Glider Instrument Pool,Woods Hole Oceanographic Institution
+CGINS-FLORTM-03027,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLK,3027,,,,CGSN Glider Instrument Pool,Woods Hole Oceanographic Institution
+CGINS-ADCPAM-00539,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,539,,,,CGSN Glider Instrument Pool,Woods Hole Oceanographic Institution
+CGINS-ADCPAM-00537,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,537,,,,CGSN Glider Instrument Pool,Woods Hole Oceanographic Institution
