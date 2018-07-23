@@ -3077,3 +3077,4 @@ CGINS-ADCPAM-00550,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: AD
 CGINS-FLORTM-03027,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLK,3027,,,,CGSN Glider Instrument Pool,Woods Hole Oceanographic Institution
 CGINS-ADCPAM-00539,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,539,,,,CGSN Glider Instrument Pool,Woods Hole Oceanographic Institution
 CGINS-ADCPAM-00537,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,537,,,,CGSN Glider Instrument Pool,Woods Hole Oceanographic Institution
+CGINS-NUTNRN-00366,,Sensor,1,Nitrate for AUV: NUTNR Series N,NUTNR for AUV ,Satlantic,SUNA,366,,,,CGSN AUV Instrument Pool,Woods Hole Oceanographic Institution
