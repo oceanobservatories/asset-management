@@ -38,7 +38,12 @@ ATAPL-68870-001-0143,ATAPL-68870-001-0143,Platform,0,Cabled Oregon Slope Base Sh
 ATAPL-68870-001-0145,ATAPL-68870-001-0145,Platform,0,Cabled Axial Base Shallow Profiler Mooring: Science Pod,MOORING RSN,UW-APL,RS03AXPS-SF03A,SN0145,,,,,University of Washington
 ATAPL-68870-002-0141,ATAPL-68870-002-0141,Platform,0,Coastal Endurance Oregon Offshore Cabled Shallow Profiler Mooring: Science Pod,MOORING ENDURANCE OS,WHOI,CE04OSPS-SF01B,SN0141,,,,,University of Washington
 ATAPL-68870-002-0144,ATAPL-68870-002-0144,Platform,0,Coastal Endurance Oregon Offshore Cabled Shallow Profiler Mooring: Science Pod,MOORING ENDURANCE OS,WHOI,CE04OSPS-SF01B,SN0144,,,,,University of Washington
-ATAPL-69140-001-0123,ATAPL-69140-001-0123,Platform,0,Cabled Axial Base Shallow Profiler Mooring: Science Pod,MOORING RSN,UW-APL,RS03AXPS-SF03A,SN0123,,,,,University of Washington
+ATAPL-69140-001-0120,ATAPL-69140-001-0120,Platform,0,Cabled Oregon Slope Base Shallow Profiler Mooring: Winch Controller,MOORING RSN,UW-APL,RS01SBPS-SC01A,SN0120,,,,,University of Washington
+ATAPL-69140-001-0121,ATAPL-69140-001-0121,Platform,0,Coastal Endurance Oregon Offshore Cabled Shallow Profiler Mooring: Winch Controller,MOORING RSN,UW-APL,CE04OSPS-SC01B,SN0121,,,,,University of Washington
+ATAPL-69140-001-0122,ATAPL-69140-001-0122,Platform,0,Cabled Axial Base Shallow Profiler Mooring: Winch Controller,MOORING RSN,UW-APL,RS03AXPS-SC03A,SN0122,,,,,University of Washington
+ATAPL-69140-001-0123,ATAPL-69140-001-0123,Platform,0,Cabled Oregon Slope Base Shallow Profiler Mooring: Winch Controller,MOORING RSN,UW-APL,RS01SBPS-SC01A,SN0123,,,,,University of Washington
+ATAPL-69140-001-0124,ATAPL-69140-001-0124,Platform,0,Coastal Endurance Oregon Offshore Cabled Shallow Profiler Mooring: Winch Controller,MOORING RSN,UW-APL,CE04OSPS-SC01B,SN0124,,,,,University of Washington
+ATAPL-69140-001-0125,ATAPL-69140-001-0125,Platform,0,Cabled Axial Base Shallow Profiler Mooring: Winch Controller,MOORING RSN,UW-APL,RS03AXPS-SC03A,SN0125,,,,,University of Washington
 ATAPL-69839-001-0101,ATAPL-69839-001-0101,Platform,0,Cabled Oregon Slope Base Shallow Profiler Mooring: Platform Interface Controller,MOORING RSN,UW-APL,RS01SBPS-PC01A,SN0101,,,,,University of Washington
 ATAPL-69839-001-0103,ATAPL-69839-001-0103,Platform,0,Cabled Axial Base Shallow Profiler Mooring: Platform Interface Controller,MOORING RSN,UW-APL,RS03AXPS-PC03A,SN0103,,,,,University of Washington
 ATAPL-69839-001-0104,ATAPL-69839-001-0104,Platform,0,Cabled Oregon Slope Base Shallow Profiler Mooring: Platform Interface Controller,MOORING RSN,UW-APL,RS01SBPS-PC01A,SN0104,,,,,University of Washington
