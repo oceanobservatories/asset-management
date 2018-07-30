@@ -1,12 +1,11 @@
 #!/usr/bin/env python
-import os, glob, subprocess
+import os
+import glob
+import subprocess
 import time
-
-base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
 
 def main():
     for parser in glob.glob('*_cal_parser.py'):
-        print(parser)
         command = ['python2.7', parser]
         p = subprocess.Popen(command)
 

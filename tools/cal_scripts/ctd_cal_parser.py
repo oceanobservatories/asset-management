@@ -115,7 +115,7 @@ class CTDCalibration(Calibration):
                     self.date = datetime.datetime.strptime(value, "%d-%b-%y").strftime("%Y%m%d")
 
                 name = self.coefficient_name_map.get(key)
-                if not Name:
+                if not name:
                     continue
 
                 self.coefficients[name] = value
@@ -128,20 +128,24 @@ class CTDCalibration(Calibration):
             inst_type = 'CTDPFB'
         elif self.asset_tracking_number.find('67977') != -1:
             inst_type = 'CTDPFL'
+            return
         elif self.asset_tracking_number.find('69827') != -1:
             inst_type = 'CTDBPN'
         elif self.asset_tracking_number.find('69828') != -1:
             inst_type = 'CTDBPO'
         ## Writes the calibration information to a comma-separated value file
         complete_path = os.path.join(self.type, 'cal_sheets', inst_type)
+        complete_path = os.path.join(os.path.realpath('../..'), 'calibration', inst_type)
         file_name = self.asset_tracking_number + '__' + self.date
         with open(os.path.join(complete_path, '%s.csv' % file_name), 'w') as info:
             writer = csv.writer(info)
             writer.writerow(['serial','name', 'value', 'notes'])
             for each in sorted(self.coefficients.items()):
-                writer.writerow([self.serial] + list(each))
+                row = [self.serial] + list(each)
+                row.append('')
+                writer.writerow(row)
             if inst_type.startswith("CTDPF"):
-                writer.writerow([self.serial, "CC_offset", 0])
+                writer.writerow([self.serial, "CC_offset", 0, ''])
 
 def main():
     lookup = get_uid_serial_mapping('CTD/ctd_lookup.csv')
