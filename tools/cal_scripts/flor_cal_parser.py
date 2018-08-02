@@ -19,7 +19,7 @@ class FLORCalibration(Calibration):
         self.asset_tracking_number = None
         self.serial = None
         self.date = None
-        self.type = 'FLOR'
+        self.type = 'FLORDD'
         self.coefficients = {'CC_angular_resolution':1.076, 'CC_depolarization_ratio':0.039,\
                                 'CC_measurement_wavelength':700, 'CC_scattering_angle':124}
 

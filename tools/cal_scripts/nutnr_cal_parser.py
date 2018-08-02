@@ -36,6 +36,7 @@ class NUTNRCalibration(Calibration):
                 if len(parts) < 2:
                     continue  # skip anything that is not key value paired
                 record_type = parts[0]
+
                 if record_type == 'H':
                     key_value = parts[1].split()
                     if len(key_value) == 2:
@@ -46,7 +47,8 @@ class NUTNRCalibration(Calibration):
                     elif "creation" in key_value:
                         cal_date = key_value[-2]
                         cal_date = datetime.datetime.strptime(cal_date, "%d-%b-%Y").strftime("%Y%m%d")
-                        self.date = cal_date
+                        if self.date < cal_date:
+                            self.date = cal_date
                     elif "SUNA" in key_value:
                         self.serial = str(key_value[1]).lstrip('0')
 
@@ -66,6 +68,8 @@ def main():
     for path, directories, files in os.walk('NUTNRA/manufacturer'):
         for file in files:
             cal = NUTNRCalibration()
+            if not file.startswith("SNA"):
+                continue
             cal.read_cal(os.path.join(path, file))
             cal.asset_tracking_number = lookup[cal.serial]
             cal.write_cal_info()

@@ -1,0 +1,5 @@
+serial,name,value,notes
+FLBBCDSLC-3260,CC_angular_resolution,1.096,
+FLBBCDSLC-3260,CC_depolarization_ratio,0.039,
+FLBBCDSLC-3260,CC_measurement_wavelength,700,
+FLBBCDSLC-3260,CC_scattering_angle,140,

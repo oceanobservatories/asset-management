@@ -18,13 +18,16 @@ class Calibration(object):
         self.coefficients = {}
         self.type = None
 
-    def write_cal_info(self, directory = 'cal_sheets'):
+    def write_cal_info(self):
+        complete_path = os.path.join(os.path.realpath('../..'), 'calibration', self.type)
         file_name = self.asset_tracking_number + '__' + self.date
-        with open(os.path.join(self.type, directory, '%s.csv' % file_name), 'w') as info:
+        with open(os.path.join(complete_path, '%s.csv' % file_name), 'w') as info:
             writer = csv.writer(info)
             writer.writerow(['serial','name', 'value', 'notes'])
             for each in sorted(self.coefficients.items()):
-                writer.writerow([self.serial] + list(each))
+                row = [self.serial] + list(each)
+                row.append('')
+                writer.writerow(row)
 
 def get_uid_serial_mapping(csv_name):
     lookup = {}

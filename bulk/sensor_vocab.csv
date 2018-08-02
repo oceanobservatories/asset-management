@@ -57,6 +57,7 @@ CTD Mooring (Inductive): CTDMO Series G,Sea-Bird Electronics,SBE 37-IM
 CTD Mooring (Inductive): CTDMO Series H,Sea-Bird Electronics,SBE 37-IM
 CTD Mooring (Inductive): CTDMO Series Q,Sea-Bird Electronics,SBE 37-IM
 CTD Mooring (Inductive): CTDMO Series R,Sea-Bird Electronics,SBE 37-IM
+CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode
 CTD Profiler: CTDPF Series A,Sea-Bird Electronics,SBE 16plus V2
 CTD Profiler: CTDPF Series B,Sea-Bird Electronics,SBE 16plus V2
 CTD Profiler: CTDPF Series J,Sea-Bird Electronics,SBE 49 Fast CAT
@@ -98,6 +99,7 @@ Nitrate: NUTNR Series A,Satlantic,Deep SUNA
 Nitrate: NUTNR Series B,Satlantic,ISUS
 Nitrate: NUTNR Series J,Satlantic,SUNA V2
 Osmosis-Based Water Sampler: OSMOI Series A,TLR Inc.,OsmoSampler
+OVRSR Series A,MARUM,R2 Sonic 2022
 Particulate DNA Sampler: PPSDN Series A,NOAA-PMEL,PPS
 pCO2 Air-Sea: PCO2A Series A,Pro-Oceanus,pCO2-pro
 pCO2 Water: PCO2W Series A,Sunburst Sensors,SAMI-pCO2
@@ -107,6 +109,7 @@ Photosynthetically Available Radiation for Glider: PARAD Series M,Biospherical I
 Photosynthetically Available Radiation: PARAD Series A,Satlantic,Satlantic digital PAR
 Photosynthetically Available Radiation: PARAD Series J,WET Labs,ECO PARS
 Photosynthetically Available Radiation: PARAD Series K,Biospherical Instruments,QSP-2200
+QNTSR Series A,MARUM,Kongsberg 1171-Series Scanning Sonar
 Seafloor Mass Spectrometer Instrument in titanium housing: MASSP Series A,Harvard University,Custom
 Seafloor Pressure: PRESF Series A,Sea-Bird Electronics,SBE 26plus
 Seafloor Pressure: PRESF Series B,Sea-Bird Electronics,SBE 26plus
