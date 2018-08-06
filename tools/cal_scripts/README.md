@@ -20,7 +20,7 @@ These scripts are based on those written by Dan Mergens, who developed the origi
 
 ## Getting Started
 
-Clone the repository into your local machine. In the repository, there are a set of directories of each of the supported instrument types. Navigate to the repository and in whatever terminal you are using or a file explorer system. There are a series of folders which contain the parsers and subdirectories containing manufacturer calibration files and completed csv files. Put the manufacturer calibration files in the "manufacturer" directory. This is where the parsers will search for files to parse.
+Clone the repository into your local machine. In the repository, there are a set of directories of each of the supported instrument types. Navigate to the repository in your preferred terminal or a file explorer system. There are a series of folders which contain the parsers and subdirectories containing manufacturer calibration files and completed csv files. Put the manufacturer calibration files in the "manufacturer" directory. The parsers will search for the files in this folder while it is running.
 
 ### Prerequisites
 
@@ -36,12 +36,12 @@ On MacOS, if you have Homebrew, call this command
 ```
 brew install python2.7
 ```
-On Windows, install Cygwin or preferred terminal emulator. Make sure to select python as part of the installation process.
+On Windows, install Cygwin or preferred terminal emulator. Make sure to select Python as part of the installation process.
 Another method is to use the Linux Subsystem available on Windows 10.
 
 If you need any packages needed in these files, you can use pip to help you install them.
 
- Linux, run the following command.
+On Linux, run the following command.
 ```
 sudo apt-get install python-pip
 ```
@@ -49,7 +49,7 @@ On MacOS, if you have Homebrew, call this command
 ```
 brew install pip
 ```
-otherwise, use this command in your terminal:
+Otherwise, use this command in your terminal:
 ```
 sudo easy_install pip
 ```
@@ -82,7 +82,7 @@ python optaa_cal_parser.py
 python spkir_cal_parser.py
 ```
 
-The parsers will go through each file and add the completed files into the "Cal Sheets" folder in the respective instruments. If the number of files is equal
+The parsers will go through each file and add the completed files into their respective calibration files in asset-management.
 
 To run all scripts, call the script run_all_parsers.py:
 ```

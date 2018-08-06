@@ -1327,6 +1327,8 @@ RS01SBPS-PC01A-4A-DOSTAD103,Cabled Continental Margin,Oregon Slope Base Shallow 
 RS01SBPS-PC01A-4B-PHSENA102,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,200m Platform (PC01A),Seawater pH,Sunburst,SAMI-pH,200,200
 RS01SBPS-PC01A-4C-FLORDD103,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,200m Platform (PC01A),2-Wavelength Fluorometer,WET Labs,ECO Triplet-w,200,200
 RS01SBPS-SC01A,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,Winch Controller (SC01A),,,,200,200
+#RS01SBPS-SC01A-00-WINCH,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,Winch Controller (SC01A),,APL,,200,200
+#RS01SBPS-SC01A-00-ENG,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,Winch Controller (SC01A),,APL,,200,200
 RS01SBPS-SF01A,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,Shallow Profiler (SF01A),,,,5,200
 RS01SBPS-SF01A-2A-CTDPFA102,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,Shallow Profiler (SF01A),CTD,Sea-Bird,SBE 16plusV2,5,200
 RS01SBPS-SF01A-2A-DOFSTA102,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,Shallow Profiler (SF01A),Dissolved Oxygen,Sea-Bird,SBE 43,5,200
@@ -1383,6 +1385,7 @@ RS03ASHS-MJ03B-06-OBSSPA301,Cabled Axial Seamount,ASHES Vent Field,Medium-Power 
 RS03ASHS-MJ03B-07-TMPSFA301,Cabled Axial Seamount,ASHES Vent Field,Medium-Power JBox (MJ03B),Diffuse Vent Fluid 3-D Temperature Array,RBR Global,XR-420,1552,1552
 RS03ASHS-MJ03B-09-BOTPTA304,Cabled Axial Seamount,ASHES Vent Field,Medium-Power JBox (MJ03B),Bottom Pressure and Tilt,PMEL/Chadwick,PMELcabled BPR/Tilt,1552,1552
 RS03ASHS-MJ03B-10-CTDPFB304,Cabled Axial Seamount,ASHES Vent Field,Medium-Power JBox (MJ03B),CTD,Sea-Bird,SBE 16plusV2,1552,1552
+RS03ASHS-MJ03B-12-COVISA301,Cabled Axial Seamount,ASHES Vent Field,Medium-Power JBox (MJ03B),Vent Imaging Sonar,APL,COVIS,1552,1552
 RS03ASHS-PN03B,Cabled Axial Seamount,ASHES Vent Field,Primary Node (PN03B),,,,1552,1552
 RS03ASHS-PN03B-06-CAMHDA301,Cabled Axial Seamount,ASHES Vent Field,Primary Node (PN03B),HD Digital Video Camera,SubC,1Cam,1552,1552
 RS03AXBS,Cabled Axial Seamount,Axial Base Seafloor,,,,,2522,2639

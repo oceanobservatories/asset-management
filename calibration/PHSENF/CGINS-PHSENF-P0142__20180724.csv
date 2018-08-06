@@ -1,0 +1,8 @@
+serial,name,value,notes
+P0142,CC_ea434,18834.0,
+P0142,CC_ea578,101.4,
+P0142,CC_eb434,2308.0,
+P0142,CC_eb578,42178.0,
+P0142,CC_ind_off,0,
+P0142,CC_ind_slp,1,
+P0142,CC_psal,35,Constant

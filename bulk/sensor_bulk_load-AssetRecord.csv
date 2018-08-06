@@ -1422,7 +1422,6 @@ ATAPL-68020-00001,ATAPL-68020-00001,Sensor,0,Nitrate: NUTNR Series A,SATLANTIC S
 ATAPL-68020-00002,ATAPL-68020-00002,Sensor,0,Nitrate: NUTNR Series A,SATLANTIC SUNA NITRATE SENSOR,Satlantic,Deep SUNA,379,,20131127,24919.44,,University of Washington
 ATAPL-68020-00003,ATAPL-68020-00003,Sensor,0,Nitrate: NUTNR Series A,SATLANTIC SUNA NITRATE SENSOR,Satlantic,Deep SUNA,380,,20131127,24919.44,,University of Washington
 ATAPL-68020-00004,ATAPL-68020-00004,Sensor,0,Nitrate: NUTNR Series A,SATLANTIC SUNA NITRATE SENSOR,Satlantic,Deep SUNA,429,,20140514,26438.02,,University of Washington
-ATAPL-68020-00005,ATAPL-68020-00005,Sensor,0,Nitrate: NUTNR Series A,NUTNR,Satlantic,Deep SUNA,344,,20140924,38790.36,,University of Washington
 ATAPL-68020-00006,ATAPL-68020-00006,Sensor,0,Nitrate: NUTNR Series A,SATLANTIC SUNA NITRATE SENSOR,Satlantic,Deep SUNA,617,,20150515,26956,,University of Washington
 ATAPL-68020-00007,ATAPL-68020-00007,Sensor,0,Nitrate: NUTNR Series A,SATLANTIC SUNA NITRATE SENSOR,Satlantic,Deep SUNA,618,,20150515,26956,,University of Washington
 ATAPL-68073-00001,ATAPL-68073-00001,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series E,ADCP E-WHM150-6000m (ADCPT-E),Teledyne RDI,WHM150-6000,18471,,20120919,53533,,University of Washington
@@ -1430,6 +1429,8 @@ ATAPL-68073-00002,ATAPL-68073-00002,Sensor,0,ADCP Velocity Profiler (short range
 ATAPL-68073-00003,ATAPL-68073-00003,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series E,ADCP E-WHM150-6000m (ADCPT-E),Teledyne RDI,WHM150-6000,19224,,20130201,53533,,University of Washington
 ATAPL-68073-00004,ATAPL-68073-00004,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series E,ADCP E-WHM150-6000m (ADCPT-E),Teledyne RDI,WHM150-6000,23442,,20150529,56791,,University of Washington
 ATAPL-68073-00005,ATAPL-68073-00005,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series E,ADCP E-WHM150-6000m (ADCPT-E),Teledyne RDI,WHM150-6000,23443,,20150529,56791,,University of Washington
+#ATAPL-69140-001-120-1,ATAPL-69140-001-120-1,Sensor,0,Shallow Profiler Winch Controller,Winch Controller,APL,Winch Controller,120,,,,RS01SBPS-SC01A-00-WINCH,University of Washington
+#ATAPL-69140-001-120-2,ATAPL-69140-001-120-2,Sensor,0,Shallow Profiler Winch Controller Node Controller,Node Controller,APL,Node Controller,120,,,,RS01SBPS-SC01A-00-ENG,University of Washington
 ATAPL-69923-00001,ATAPL-69923-00001,Sensor,0,"Tidal Seafloor Pressure (Tsunameter 2,000 psia): PREST Series B","Seabird SBE54 Tsunameter 2,000 psia (1300 meter) (PREST)",Sea-Bird Electronics,SBE 54,5471540-0031,,20130102,15900,,University of Washington
 ATAPL-69923-00002,ATAPL-69923-00002,Sensor,0,"Tidal Seafloor Pressure (Tsunameter 2,000 psia): PREST Series B",PREST-B,Sea-Bird Electronics,SBE 54,5471540-0047,,,,,University of Washington
 ATAPL-69943-00001,ATAPL-69943-00001,Sensor,0,Spectrophotometer: OPTAA Series C,AC-S Deep (optical attenuation and absorption instrument with biofouling/pump) per OPTAA delivery order,WET Labs,AC-S Deep,ACS-141,,20130726,41710,,University of Washington
@@ -1513,6 +1514,7 @@ ATOSU-58337-00017,ATOSU-58337-00017,Sensor,0,Seawater pH: PHSEN Series A,"ph sen
 ATOSU-58341-00003,ATOSU-58341-00003,Sensor,0,Spectral Irradiance: SPKIR Series A,SPKIR-A,Satlantic,OCR507 ICSW,245,,,,,
 ATOSU-58341-00005,ATOSU-58341-00005,Sensor,0,Spectral Irradiance: SPKIR Series A,SPKIR-A,Satlantic,OCR507 ICSW,341,,,,,
 ATOSU-58341-00008,ATOSU-58341-00008,Sensor,0,Spectral Irradiance: SPKIR Series A,OCR507-ICSW (series A) w/ Midrange (500m) Bioshutter II (SPKIR-A),Satlantic,OCR507 ICSW,251,,,14000,,
+ATOSU-58346-00007,ATOSU-58346-00007,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series A,"Falmouth Scientific 3D-ACM, with Impulse MCBH(WB)-5-FS-Ti connector (if available)",Falmouth Scientific,ACM-Plus-MP,1216,,20140128,10850,,
 ATOSU-58346-00008,ATOSU-58346-00008,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series A,"Falmouth Scientific 3D-ACM, with Impulse MCBH(WB)-5-FS-Ti connector (if available)",Falmouth Scientific,ACM-Plus-MP,1131/TAG#: 116118,,20140128,10850,,
 ATOSU-58694-00004,ATOSU-58694-00004,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series A,DOFSTA for RSN,Sea-Bird Electronics,SBE 43,43-2853,,,,,
 ATOSU-58694-00007,ATOSU-58694-00007,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series A,DOFSTA for RSN,Sea-Bird Electronics,SBE 43,43-3136,,,,,
