@@ -1,0 +1,9 @@
+serial,name,value,notes
+C0063,CC_cala,-0.0329,date in filename comes from calibration certificate
+C0063,CC_calb,1.1103,
+C0063,CC_calc,-2.2432,
+C0063,CC_calt,8.1360,
+C0063,CC_ea434,19706,constant
+C0063,CC_ea620,34,constant
+C0063,CC_eb434,3073,constant
+C0063,CC_eb620,44327,constant
