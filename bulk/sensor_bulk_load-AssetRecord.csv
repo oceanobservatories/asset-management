@@ -1,4 +1,6 @@
 ASSET_UID,LEGACY_ASSET_UID,TYPE,Mobile,DESCRIPTION OF EQUIPMENT,MIO_Inventory_Description,Manufacturer,Model,Manufacturer's Serial No./Other Identifier,Firmware Version,ACQUISITION DATE,ORIGINAL COST,comments,MIO
+PICGN-NOCSIA-SI112,,Sensor,0,NOC CUSTARD Silicate sensor,,NOC UK,,Si112,,,,,Woods Hole Oceanographic Institution
+PICGN-NOCNIA-0N009,,Sensor,0,NOC CUSTARD Nitrate sensor,,NOC UK,,N009,,,,,Woods Hole Oceanographic Institution
 CGINS-CTDMOQ-08523,A00023,Sensor,0,CTD Mooring (Inductive): CTDMO Series Q,CTDMO SERIES Q (37IM),Sea-Bird Electronics,SBE 37-IM,37IM64183-8523,3.1,20110527,6200,,Woods Hole Oceanographic Institution
 CGCON-CWFPCP-71401,A00025.1,Sensor,0,Coastal Wire-Following Profiler Controller,WFP COASTAL REFURBISHED Electronics #1,McLane,MMP-7,ML12714-01,,20110617,0,,Woods Hole Oceanographic Institution
 CGINS-VELPTB-09952,A00048,Sensor,0,Single Point Velocity Meter: VELPT Series B,VELPT SERIES B (AQUADOPP 3000M,Nortek,Aquadopp,AQD 9952,,20150604,11150,,
