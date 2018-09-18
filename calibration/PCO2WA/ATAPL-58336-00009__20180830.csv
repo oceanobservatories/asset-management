@@ -1,0 +1,9 @@
+serial,name,value,notes
+C0123,CC_cala,0.0049,"CO2 Cal Coeffs, a"
+C0123,CC_calb,0.8800,"CO2 Cal Coeffs, b"
+C0123,CC_calc,-1.9655,"CO2 Cal Coeffs, c"
+C0123,CC_calt,15.5631,"CO2 Cal Temp, T"
+C0123,CC_ea434,19706,"Constants provided by email correspondance with Orest Kawka and Brandon Wasser; pco2_pco2wat DPA ignores this argument"
+C0123,CC_ea620,34,"Constants provided by email correspondance with Orest Kawka and Brandon Wasser; pco2_pco2wat DPA ignores this argument"
+C0123,CC_eb434,3073,"Constants provided by email correspondance with Orest Kawka and Brandon Wasser; pco2_pco2wat DPA ignores this argument"
+C0123,CC_eb620,44327,"Constants provided by email correspondance with Orest Kawka and Brandon Wasser; pco2_pco2wat DPA ignores this argument"

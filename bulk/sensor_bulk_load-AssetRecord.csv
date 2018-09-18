@@ -1934,7 +1934,7 @@ CGINS-CTDPFL-00132,N00618,Sensor,0,CTD Profiler: CTDPF Series L,CTDPF for ML1310
 CGINS-VEL3DL-01115,N00619,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series L,VEL3D for ML13104-03,Falmouth Scientific,ACM-Plus,1115,,20140115,,,
 CGINS-CTDGVM-00104,N00620,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),104,,20120525,,CGSN Glider Instrument Pool,
 CGINS-DOSTAM-00012,N00621,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,12,,20120525,,CGSN Glider Instrument Pool,
-CGINS-FLORDM-03260,N00622,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,FLBBCDSLC-3260,,20120525,,,
+CGINS-FLORTM-03260,N00622,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Global Slocum Glider,WET Labs,ECO Puck FLBBCD-SLK,3260,,20120525,,CGSN Glider Instrument Pool,
 CGINS-CTDGVM-09058,N00623,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9058,,20130530,,CGSN Glider Instrument Pool,
 CGINS-DOSTAM-00139,N00624,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,139,,20130530,,CGSN Glider Instrument Pool,
 CGINS-FLORDM-03061,N00625,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,FLBBSLC-3061,,20130530,,,
@@ -2965,6 +2965,9 @@ CGINS-NUTNRB-01115,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-B
 CGINS-NUTNRB-01127,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1127,,20171226,,,Oregon State University
 CGINS-NUTNRB-01128,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1128,,20171226,,,Oregon State University
 CGINS-NUTNRB-01129,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1129,,20171226,,,Oregon State University
+CGINS-NUTNRB-01164,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1164,,20180612,,,Oregon State University
+CGINS-NUTNRB-01167,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1167,,20180612,,,Oregon State University
+CGINS-NUTNRB-01183,,Sensor,0,Nitrate: NUTNR Series B,NUTNR SERIES B (SUNA),Sea-Bird Scientific (Satlantic),SUNA V2,1183,,20180612,,,Oregon State University
 CGCON-GLDRCP-00564,,Sensor,1,Mobile Asset Controller for Coastal Glider,GL564 Controller,Teledyne Webb,G2 Slocum Gliders,564,,,,,
 CGCON-CWFPCP-30001,,Sensor,0,Coastal Wire-Following Profiler Controller,,McLane,MMP-7,ML14300-01,,20170627,0,,Woods Hole Oceanographic Institution
 CGCON-CWFPCP-30002,,Sensor,0,Coastal Wire-Following Profiler Controller,,McLane,MMP-7,ML14300-02,,20170627,0,,Woods Hole Oceanographic Institution
