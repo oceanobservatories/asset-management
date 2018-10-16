@@ -578,6 +578,7 @@ CP03ISSM-RID27-01-OPTAAD000,Coastal Pioneer,Inshore Surface Mooring,Near Surface
 CP03ISSM-RID27-02-FLORTD000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,7,7
 CP03ISSM-RID27-03-CTDBPC000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,CTD,Sea-Bird,SBE 16plusV2,7,7
 CP03ISSM-RID27-04-DOSTAD000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,Dissolved Oxygen,Aanderaa,Optode 4831,7,7
+CP03ISSM-RID27-07-SPKIRB000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
 CP03ISSM-SBC11,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,,,,0,0
 CP03ISSM-SBC11-00-CPMENG000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
 CP03ISSM-SBD11,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,,,,0,0
