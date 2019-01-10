@@ -38,7 +38,7 @@ class OPTAACalibration(Calibration):
                 parts = line.split(';')
                 if len(parts) != 2:
                     parts = line.split()
-                    if parts[0] == 'tcal:':
+                    if parts[0] == '"tcal:':
                         self.tcal = parts[1]
                         self.coefficients['CC_tcal'] = self.tcal
                         cal_date = parts[-1:][0].strip(string.punctuation)
@@ -57,7 +57,7 @@ class OPTAACalibration(Calibration):
 
                 elif comment.startswith(' C and A offset'):
                     if self.nbins is None:
-                        print 'Error - failed to read number of temperature bins'
+                        print('Error - failed to read number of temperature bins')
                         sys.exit(1)
                     parts = data.split()
                     self.cwlngth.append(float(parts[0][1:]))

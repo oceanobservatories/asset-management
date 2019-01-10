@@ -8,7 +8,7 @@ https://github.com/funnyabc/asset-management/blob/master/bulk/sensor_bulk_load-A
 The scripts currently support the creation of the following instrument types:
 * CTD
 * DOFSTA
-* FLCDRA
+* FLCDRA (currently only Python2)
 * FLNTUA
 * FLOR
 * NUTNR
@@ -25,17 +25,17 @@ Clone the repository into your local machine. In the repository, there are a set
 
 ### Prerequisites
 
-* Python 2.7
+* Python 3.x
 * Linux terminal emulator
 
 If you do not already have Python installed on your computer, you will need to install it to make this program work.
 On Linux, run the following command.
 ```
-sudo apt-get install python2.7
+sudo apt-get install python3.x
 ```
 On MacOS, if you have Homebrew, call this command
 ```
-brew install python2.7
+brew install python3.x
 ```
 On Windows, install Cygwin or preferred terminal emulator. Make sure to select Python as part of the installation process.
 Another method is to use the Linux Subsystem available on Windows 10.
@@ -67,9 +67,9 @@ To run the script, call it in this format.
 python script_name.py
 ```
 
-If there are multiple versions of Python on your system, such as Python 3, you may have to invoke the name of that version when calling the script.
+If there are multiple versions of Python on your system, such as Python 2, you may have to invoke the name of that version when calling the script.
 ```
-python2.7 script_name.py
+python3.x script_name.py
 ```
 
 You can run each of the scripts individually by calling the corresponding parser.
@@ -104,4 +104,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Dan Mergens for starting the calibration scripts
 
-Last updated 1st November 2018
+Last updated 10th January 2019

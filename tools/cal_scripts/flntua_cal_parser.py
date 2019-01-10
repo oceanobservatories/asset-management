@@ -5,13 +5,9 @@
 # Create the necessary CI calibration ingest information from a
 # FLNTUA calibration file
 
-import csv
 import datetime
 import os
-import shutil
-import sys
 import time
-import json
 from common_code.cal_parser_template import Calibration
 
 

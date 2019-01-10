@@ -4,6 +4,10 @@
 # Create the necessary CI calibration ingest information from an CTD
 # calibration file
 
+"""
+Module Docstring
+"""
+
 from __future__ import absolute_import
 import csv
 import datetime
@@ -14,10 +18,25 @@ import time
 import xml.etree.ElementTree as et
 from common_code.cal_parser_template import Calibration
 
+__author__ = "Daniel Tran"
+__version__ = "0.1.0"
+__license__ = "MIT"
 
 class CTDCalibration(Calibration):
-    # Class that stores calibration values for CTDs.
-    # \param self
+    """Summary of class here.
+
+    Longer class information....
+    Longer class information....
+
+    Attributes:
+        asset_tracking_number (str): Asset UID
+        serial (str): Serial number associated with the instrument
+        date (datetime): Date when the calibration was performed
+        coefficients (dict): dictionary containing all the relevant coefficients
+                             associated with the instrument.
+        type (str): The
+
+    """
     def __init__(self):
         self.coefficient_name_map = {
             'TA0': 'CC_a0',
@@ -201,6 +220,7 @@ class CTDCalibration(Calibration):
 
 def main():
     for path, directories, files in os.walk('CTD/manufacturer'):
+        print(files)
         for file in files:
             # Skip hidden files
             if file[0] == '.':

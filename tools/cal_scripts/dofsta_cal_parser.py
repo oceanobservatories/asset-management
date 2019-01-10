@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # DOFSTA calibration parser
 #
@@ -7,7 +7,6 @@
 import csv
 import datetime
 import os
-import sys
 import time
 import xml.etree.ElementTree as et
 from common_code.cal_parser_template import Calibration
