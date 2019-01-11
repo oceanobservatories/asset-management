@@ -8,8 +8,6 @@ import csv
 import datetime
 import json
 import os
-import shutil
-import sys
 import time
 from common_code.cal_parser_template import Calibration
 
@@ -50,7 +48,7 @@ class NUTNRCalibration(Calibration):
                         cal_date = key_value[-2]
                         cal_date = datetime.datetime.strptime(
                             cal_date, '%d-%b-%Y').strftime('%Y%m%d')
-                        if self.date < cal_date:
+                        if not self.date or self.date < cal_date:
                             self.date = cal_date
                     elif 'SUNA' in key_value:
                         self.serial = str(key_value[1]).lstrip('0')
