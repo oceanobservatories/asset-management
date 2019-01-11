@@ -66,8 +66,7 @@ class Calibration(object):
 
     def get_uid(self):
         sql = sqlite3.connect('instrumentLookUp.db')
-        uid_query_result = sql.execute('select uid from instrument_lookup'
-                                       'where serial=:sn',\
+        uid_query_result = sql.execute('select uid from instrument_lookup where serial=:sn',\
                                        {'sn':self.serial}).fetchone()
         if len(uid_query_result) != 1:
             return False

@@ -6,6 +6,7 @@
 
 import csv
 import datetime
+import dateutil.parser
 import os
 import json
 import string
@@ -42,8 +43,9 @@ class OPTAACalibration(Calibration):
                         self.tcal = parts[1]
                         self.coefficients['CC_tcal'] = self.tcal
                         cal_date = parts[-1:][0].strip(string.punctuation)
-                        self.date = datetime.datetime.strptime(
-                            cal_date, '%m/%d/%y').strftime('%Y%m%d')
+                        cal_date = dateutil.parser.parse(cal_date, dayfirst=False, 
+                                                         yearfirst=False)
+                        self.date = cal_date.strftime('%Y%m%d')
                     continue
                 data, comment = parts
 
