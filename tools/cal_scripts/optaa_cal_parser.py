@@ -17,6 +17,12 @@ from common_code.cal_parser_template import Calibration
 
 class OPTAACalibration(Calibration):
     def __init__(self, serial):
+        """Initializes the Calibration Class.
+        
+        Args:
+            serial (str): serial number for the OPTAA
+        
+        """
         self.asset_tracking_number = None
         self.cwlngth = []
         self.awlngth = []
