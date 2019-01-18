@@ -15,13 +15,14 @@ from common_code.cal_parser_template import Calibration
 
 class FLCDRACalibration(Calibration):
     def __init__(self):
+        """Initializes the FLCDRACalibration Class."""
         super(FLCDRACalibration, self).__init__()
         self.dark = 0
         self.scale = 0.0
         self.type = 'FLCDRA'
 
     def read_cal(self, filename):
-        with open(filename) as fh:
+        with open(filename, 'r', encoding='windows-1252') as fh:
             for line in fh:
                 parts = line.split()
                 if not len(parts):  # skip blank lines
@@ -47,6 +48,7 @@ def main():
                 continue
             cal = FLCDRACalibration()
             cal.read_cal(os.path.join(path, file))
+            print(cal.coefficients)
             cal.write_cal_info()
             cal.move_to_archive(cal.type, file)
 

@@ -6,6 +6,7 @@
 
 import csv
 import datetime
+import dateutil.parser
 import os
 import json
 import string
@@ -16,6 +17,12 @@ from common_code.cal_parser_template import Calibration
 
 class OPTAACalibration(Calibration):
     def __init__(self, serial):
+        """Initializes the OPTAACalibration Class.
+        
+        Args:
+            serial (str): serial number for the OPTAA
+        
+        """
         self.asset_tracking_number = None
         self.cwlngth = []
         self.awlngth = []
@@ -38,12 +45,13 @@ class OPTAACalibration(Calibration):
                 parts = line.split(';')
                 if len(parts) != 2:
                     parts = line.split()
-                    if parts[0] == '"tcal:':
+                    if parts[0].lower() == '"tcal:':
                         self.tcal = parts[1]
                         self.coefficients['CC_tcal'] = self.tcal
                         cal_date = parts[-1:][0].strip(string.punctuation)
-                        self.date = datetime.datetime.strptime(
-                            cal_date, '%m/%d/%y').strftime('%Y%m%d')
+                        cal_date = dateutil.parser.parse(cal_date, dayfirst=False, 
+                                                         yearfirst=False)
+                        self.date = cal_date.strftime('%Y%m%d')
                     continue
                 data, comment = parts
 

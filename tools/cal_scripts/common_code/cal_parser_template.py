@@ -8,6 +8,7 @@ between serial numbers and UIDs.
 import csv
 import datetime
 import os
+import pandas as pd
 import sqlite3
 import time
 
@@ -65,9 +66,19 @@ class Calibration(object):
                                  'manufacturer_ARCHIVE', file))
 
     def get_uid(self):
+        """Retrieves the ASSET UID of the instrument according to its serial number.
+
+        Returns:
+            True if a UID is found. False otherwise.
+
+        """
+        # TODO: Implementation involving sensor bulk load.
+        # sensor_bulk_path = os.path.join(os.path.realpath('../..'), 'bulk', 'sensor_bulk_load-AssetRecord.csv')
+        # sensor_bulk_load = pd.read_csv(sensor_bulk_path)
+        # asset_serial_mapping = sensor_bulk_load[['ASSET_UID', 'Manufacturer\'s Serial No./Other Identifier']]
+        # self.asset_tracking_number = asset_serial_mapping.loc[asset_serial_mapping['Manufacturer\'s Serial No./Other Identifier'] == self.serial]
         sql = sqlite3.connect('instrumentLookUp.db')
-        uid_query_result = sql.execute('select uid from instrument_lookup'
-                                       'where serial=:sn',\
+        uid_query_result = sql.execute('select uid from instrument_lookup where serial=:sn',\
                                        {'sn':self.serial}).fetchone()
         if len(uid_query_result) != 1:
             return False

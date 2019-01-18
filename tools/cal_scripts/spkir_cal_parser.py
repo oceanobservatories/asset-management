@@ -18,6 +18,7 @@ from common_code.cal_parser_template import Calibration
 
 class SPKIRCalibration(Calibration):
     def __init__(self):
+         """Initializes the SPKIRCalibration Class."""
         super(SPKIRCalibration, self).__init__()
         self.offset = []
         self.scale = []

@@ -15,6 +15,7 @@ from common_code.cal_parser_template import Calibration
 
 class FLORCalibration(Calibration):
     def __init__(self):
+        """Initializes the NUTNRACalibration Class."""
         self.cdom = None
         self.chl = None
         self.vol = None
@@ -22,8 +23,12 @@ class FLORCalibration(Calibration):
         self.serial = None
         self.date = None
         self.type = 'FLORDD'
-        self.coefficients = {'CC_angular_resolution': 1.076, 'CC_depolarization_ratio': 0.039,
-                             'CC_measurement_wavelength': 700, 'CC_scattering_angle': 124}
+        self.coefficients = {
+            'CC_angular_resolution': 1.076, 
+            'CC_depolarization_ratio': 0.039,
+            'CC_measurement_wavelength': 700, 
+            'CC_scattering_angle': 124
+        }
 
     def read_cal(self, filename):
         with open(filename) as fh:
