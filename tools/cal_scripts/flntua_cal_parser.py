@@ -13,6 +13,7 @@ from common_code.cal_parser_template import Calibration
 
 class FLNTUACalibration(Calibration):
     def __init__(self):
+        """Initializes the NUTNRACalibration Class."""
         self.chl = None
         self.vol = None
         self.asset_tracking_number = None

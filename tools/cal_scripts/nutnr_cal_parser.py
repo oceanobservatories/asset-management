@@ -14,6 +14,12 @@ from common_code.cal_parser_template import Calibration
 
 class NUTNRCalibration(Calibration):
     def __init__(self, lower=217, upper=240):
+        """Initializes the NUTNRACalibration Class.
+        
+        Args:
+            lower (str): lower wavelength bound
+            upper (str): upper wavelength bound
+        """
         self.cal_temp = None
         self.wavelengths = []
         self.eno3 = []

@@ -15,6 +15,7 @@ from common_code.cal_parser_template import Calibration
 
 class FLCDRACalibration(Calibration):
     def __init__(self):
+        """Initializes the FLCDRACalibration Class."""
         super(FLCDRACalibration, self).__init__()
         self.dark = 0
         self.scale = 0.0

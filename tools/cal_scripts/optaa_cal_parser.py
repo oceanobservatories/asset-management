@@ -17,7 +17,7 @@ from common_code.cal_parser_template import Calibration
 
 class OPTAACalibration(Calibration):
     def __init__(self, serial):
-        """Initializes the Calibration Class.
+        """Initializes the OPTAACalibration Class.
         
         Args:
             serial (str): serial number for the OPTAA
@@ -45,7 +45,7 @@ class OPTAACalibration(Calibration):
                 parts = line.split(';')
                 if len(parts) != 2:
                     parts = line.split()
-                    if parts[0] == '"tcal:':
+                    if parts[0].lower() == '"tcal:':
                         self.tcal = parts[1]
                         self.coefficients['CC_tcal'] = self.tcal
                         cal_date = parts[-1:][0].strip(string.punctuation)
