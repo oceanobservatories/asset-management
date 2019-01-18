@@ -14,7 +14,7 @@ import time
 
 class Calibration(object):
     """Template for a calibration object that can be used as a base for
-    
+
 
     Attributes:
         asset_tracking_number (str): Asset UID
@@ -55,9 +55,9 @@ class Calibration(object):
            directory.
 
         Args:
-            inst_type: An open Bigtable Table instance.
-            file: A sequence of strings representing the key of each table row
-                to fetch.
+            inst_type (str): type of instrument that indicates which folder to
+                             move in the calibration directory.
+            file (str): name of the file to move
 
         """
         os.rename(os.path.join(os.getcwd(), inst_type, 'manufacturer', file), \
