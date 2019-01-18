@@ -6,6 +6,7 @@
 https://github.com/funnyabc/asset-management/blob/master/bulk/sensor_bulk_load-AssetRecord.csv) in the root repository.
 
 The scripts currently support the creation of the following instrument types:
+
 * CTD
 * DOFSTA
 * FLCDRA
