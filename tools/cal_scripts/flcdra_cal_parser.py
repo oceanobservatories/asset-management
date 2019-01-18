@@ -21,7 +21,7 @@ class FLCDRACalibration(Calibration):
         self.type = 'FLCDRA'
 
     def read_cal(self, filename):
-        with open(filename) as fh:
+        with open(filename, 'r', encoding='windows-1252') as fh:
             for line in fh:
                 parts = line.split()
                 if not len(parts):  # skip blank lines
@@ -47,6 +47,7 @@ def main():
                 continue
             cal = FLCDRACalibration()
             cal.read_cal(os.path.join(path, file))
+            print(cal.coefficients)
             cal.write_cal_info()
             cal.move_to_archive(cal.type, file)
 
