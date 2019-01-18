@@ -76,35 +76,35 @@ pip install <package>
 To run the script, call it in this format.
 
 ```bash
-python script_name.py
+python3 script_name.py
 ```
 
 If there are multiple versions of Python on your system, such as Python 2, you may have to invoke the name of that version when calling the script.
 
 ```bash
-python3.x script_name.py
+python3 script_name.py
 ```
 
 You can run each of the scripts individually by calling the corresponding parser.
 
 ``` bash
-python ctd_cal_parser.py
-python dofsta_cal_parser.py
-python flcdra_cal_parser.py
-python flntua_cal_parser.py
-python flor_cal_parser.py
-python nutnr_cal_parser.py
-python optaa_cal_parser.py
-python spkir_cal_parser.py
+python3 ctd_cal_parser.py
+python3 dofsta_cal_parser.py
+python3 flcdra_cal_parser.py
+python3 flntua_cal_parser.py
+python3 flor_cal_parser.py
+python3 nutnr_cal_parser.py
+python3 optaa_cal_parser.py
+python3 spkir_cal_parser.py
 ```
 
 The parsers will go through each file and add the completed files into their respective calibration files in asset-management.
 
-To run all scripts, call the script run_all_parsers.py:
+<!-- To run all scripts, call the script run_all_parsers.py:
 
 ```bash
 python run_all_parsers.py
-```
+``` -->
 
 ## Authors
 
@@ -119,4 +119,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Dan Mergens for starting the calibration scripts
 
-Last updated 10th January 2019
+Last updated 17th January 2019
