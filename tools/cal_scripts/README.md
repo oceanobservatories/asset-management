@@ -8,7 +8,7 @@ https://github.com/funnyabc/asset-management/blob/master/bulk/sensor_bulk_load-A
 The scripts currently support the creation of the following instrument types:
 * CTD
 * DOFSTA
-* FLCDRA (currently only Python2)
+* FLCDRA
 * FLNTUA
 * FLOR
 * NUTNR
@@ -30,50 +30,63 @@ Clone the repository into your local machine. In the repository, there are a set
 
 If you do not already have Python installed on your computer, you will need to install it to make this program work.
 On Linux, run the following command.
-```
+
+```bash
 sudo apt-get install python3.x
 ```
+
 On MacOS, if you have Homebrew, call this command
-```
+
+```bash
 brew install python3.x
 ```
+
 On Windows, install Cygwin or preferred terminal emulator. Make sure to select Python as part of the installation process.
 Another method is to use the Linux Subsystem available on Windows 10.
 
 If you need any packages needed in these files, you can use pip to help you install them.
 
 On Linux, run the following command.
-```
+
+```bash
 sudo apt-get install python-pip
 ```
+
 On MacOS, if you have Homebrew, call this command
-```
+
+```bash
 brew install pip
 ```
+
 Otherwise, use this command in your terminal:
-```
+
+```bash
 sudo easy_install pip
 ```
 
 To install a package, simply call the command in this format:
 
-```
+```bash
 pip install <package>
 ```
+
 ## Running the code
 
 To run the script, call it in this format.
-```
+
+```bash
 python script_name.py
 ```
 
 If there are multiple versions of Python on your system, such as Python 2, you may have to invoke the name of that version when calling the script.
-```
+
+```bash
 python3.x script_name.py
 ```
 
 You can run each of the scripts individually by calling the corresponding parser.
-```
+
+``` bash
 python ctd_cal_parser.py
 python dofsta_cal_parser.py
 python flcdra_cal_parser.py
@@ -87,7 +100,8 @@ python spkir_cal_parser.py
 The parsers will go through each file and add the completed files into their respective calibration files in asset-management.
 
 To run all scripts, call the script run_all_parsers.py:
-```
+
+```bash
 python run_all_parsers.py
 ```
 
