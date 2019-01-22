@@ -14,8 +14,8 @@ import time
 
 
 class Calibration(object):
-    """Template for a calibration object that can be used as a base for
-
+    """Template for a calibration object that can be used as a base for 
+       various instrument parsers
 
     Attributes:
         asset_tracking_number (str): Asset UID
@@ -27,8 +27,10 @@ class Calibration(object):
         type (str): the type of instrument the calibration file is for.
 
     """
+
     def __init__(self):
         """Initializes the Calibration Class."""
+
         self.asset_tracking_number = None
         self.serial = None
         self.date = None
@@ -37,6 +39,7 @@ class Calibration(object):
 
     def write_cal_info(self):
         """Writes data to a CSV file in the format defined by OOI integration"""
+
         if not self.get_uid():
             return
         complete_path = os.path.join(os.path.realpath('../..'), 'calibration',
@@ -61,6 +64,7 @@ class Calibration(object):
             file (str): name of the file to move
 
         """
+
         os.rename(os.path.join(os.getcwd(), inst_type, 'manufacturer', file), \
                     os.path.join(os.getcwd(), inst_type,
                                  'manufacturer_ARCHIVE', file))
@@ -77,6 +81,7 @@ class Calibration(object):
         # sensor_bulk_load = pd.read_csv(sensor_bulk_path)
         # asset_serial_mapping = sensor_bulk_load[['ASSET_UID', 'Manufacturer\'s Serial No./Other Identifier']]
         # self.asset_tracking_number = asset_serial_mapping.loc[asset_serial_mapping['Manufacturer\'s Serial No./Other Identifier'] == self.serial]
+
         sql = sqlite3.connect('instrumentLookUp.db')
         uid_query_result = sql.execute('select uid from instrument_lookup where serial=:sn',\
                                        {'sn':self.serial}).fetchone()

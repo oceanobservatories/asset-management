@@ -17,8 +17,8 @@ class NUTNRCalibration(Calibration):
         """Initializes the NUTNRACalibration Class.
         
         Args:
-            lower (str): lower wavelength bound
-            upper (str): upper wavelength bound
+            lower (str): lower wavelength bound. Default of 217 nm
+            upper (str): upper wavelength bound. Default of 240 nm
         """
         self.cal_temp = None
         self.wavelengths = []
@@ -35,6 +35,12 @@ class NUTNRCalibration(Calibration):
                              'CC_upper_wavelength_limit_for_spectra_fit': self.upper_limit}
 
     def read_cal(self, filename):
+        """Reads cal file and scrapes it for calibration values.
+        
+        Arguments:
+            filename (str) -- path to the calibration file.
+        """
+
         with open(filename) as fh:
             for line in fh:
                 parts = line.split(',')

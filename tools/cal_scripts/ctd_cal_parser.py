@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 
-# CTD Calibration Parser
-# Create the necessary CI calibration ingest information from an CTD
-# calibration file
-
 """
-Module Docstring
+CTD Calibration Parser
+Create the necessary CI calibration ingest information from an CTD
+calibration file, preferably an XMLCON file.
 """
 
 from __future__ import absolute_import

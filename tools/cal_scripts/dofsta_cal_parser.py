@@ -15,6 +15,7 @@ from common_code.cal_parser_template import Calibration
 class SBE43Calibration(Calibration):
     def __init__(self):
         """Initializes the SBE43Calibration Class."""
+
         super(SBE43Calibration, self).__init__()
         self.type = 'DOFSTA'
         self.serial = '43-'

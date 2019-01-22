@@ -22,6 +22,12 @@ class PARADACalibration(Calibration):
         self.type = 'PARADA'
 
     def read_cal(self, filename):
+        """Reads cal file and scrapes it for calibration values.
+        
+        Arguments:
+            filename (str) -- path to the calibration file.
+        """
+        
         with open(filename) as fh:
             for line in fh:
                 parts = line.split()

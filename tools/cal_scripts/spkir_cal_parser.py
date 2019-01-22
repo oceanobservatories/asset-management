@@ -18,7 +18,8 @@ from common_code.cal_parser_template import Calibration
 
 class SPKIRCalibration(Calibration):
     def __init__(self):
-         """Initializes the SPKIRCalibration Class."""
+        """Initializes the SPKIRCalibration Class."""
+        
         super(SPKIRCalibration, self).__init__()
         self.offset = []
         self.scale = []
@@ -26,6 +27,12 @@ class SPKIRCalibration(Calibration):
         self.type = 'SPKIRA'
 
     def read_cal(self, filename):
+        """Reads cal file and scrapes it for calibration values.
+        
+        Arguments:
+            filename (str) -- path to the calibration file.
+        """
+        
         with open(filename) as fh:
             read_record = False  # indicates next line is record we want to read
             for line in fh:

@@ -23,6 +23,7 @@ class OPTAACalibration(Calibration):
             serial (str): serial number for the OPTAA
         
         """
+        
         self.asset_tracking_number = None
         self.cwlngth = []
         self.awlngth = []
@@ -40,6 +41,12 @@ class OPTAACalibration(Calibration):
         self.type = 'OPTAA'
 
     def read_cal(self, filename):
+        """Reads cal file and scrapes it for calibration values.
+        
+        Arguments:
+            filename (str) -- path to the calibration file.
+        """
+        
         with open(filename) as fh:
             for line in fh:
                 parts = line.split(';')

@@ -16,6 +16,7 @@ from common_code.cal_parser_template import Calibration
 class FLORCalibration(Calibration):
     def __init__(self):
         """Initializes the NUTNRACalibration Class."""
+        
         self.cdom = None
         self.chl = None
         self.vol = None
@@ -31,6 +32,12 @@ class FLORCalibration(Calibration):
         }
 
     def read_cal(self, filename):
+        """Reads cal file and scrapes it for calibration values.
+        
+        Arguments:
+            filename (str) -- path to the calibration file.
+        """
+
         with open(filename) as fh:
             for line in fh:
                 parts = line.split()

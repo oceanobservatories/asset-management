@@ -16,12 +16,19 @@ from common_code.cal_parser_template import Calibration
 class FLCDRACalibration(Calibration):
     def __init__(self):
         """Initializes the FLCDRACalibration Class."""
+
         super(FLCDRACalibration, self).__init__()
         self.dark = 0
         self.scale = 0.0
         self.type = 'FLCDRA'
 
     def read_cal(self, filename):
+        """Reads cal file and scrapes it for calibration values.
+        
+        Arguments:
+            filename (str) -- path to the calibration file.
+        """
+
         with open(filename, 'r', encoding='windows-1252') as fh:
             for line in fh:
                 parts = line.split()
