@@ -34,10 +34,11 @@ class CTDCalibration(Calibration):
         date (datetime): Date when the calibration was performed
         coefficients (dict): dictionary containing all the relevant coefficients
                              associated with the instrument.
-        type (str): The
+        type (str): The instrument type.
 
     """
     def __init__(self):
+        """Initializes the SBE43Calibration Class."""
         self.coefficient_name_map = {
             'TA0': 'CC_a0',
             'TA1': 'CC_a1',
@@ -97,7 +98,6 @@ class CTDCalibration(Calibration):
             'SOC': 'CC_oxygen_signal_slope',
             'OFFSET': 'CC_frequency_offset'
         }
-        # dictionary with calibration coefficient names and values
         self.coefficients = {}
         self.asset_tracking_number = None
         self.serial = '16-'
@@ -105,6 +105,16 @@ class CTDCalibration(Calibration):
         self.type = 'CTD'
 
     def _read_xml(self, filename):
+        """ Reads XML calibration file from manufacturer and obtains
+            calibration values. Cal files should preferably be in this file
+            type due to issues with concatenated values with .cal files.
+
+        Args:
+            filename (str): path to the calibration files
+
+        Returns:
+            True if successfully read. False if file is not xmlcon.
+        """
         if not filename.endswith('.xmlcon'):
             return False
 
@@ -150,8 +160,12 @@ class CTDCalibration(Calibration):
         return True
 
     def read_cal(self, filename):
-        # Reads the calibration files and extracts out the necessary
-        # calibration values needed for CI.
+        """ Reads in .cal file from manufacturer
+
+        Args:
+            filename (str):
+
+        """
         if self._read_xml(filename):
             return
         with open(filename) as fh:

@@ -28,6 +28,14 @@ class FLNTUACalibration(Calibration):
         }
 
     def read_cal(self, filename):
+        """ Reads in .cal file from manufacturer.
+
+        Args:
+            filename (str):
+        Returns:
+            True if file was parsable and had volume scatter in calibration.
+            
+        """
         with open(filename) as fh:
             for line in fh:
                 parts = line.split()
