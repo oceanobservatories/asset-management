@@ -9,7 +9,7 @@ all_p = []
 
 def main():
     for parser in glob.glob('*_cal_parser.py'):
-        command = ['python2.7', parser]
+        command = ['python3', parser]
         p = subprocess.Popen(command)
         all_p.append(p)
 

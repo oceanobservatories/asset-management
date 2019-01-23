@@ -1,12 +1,14 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
-# OPTAA calibration parser
-#
-# Create the necessary CI calibration ingest information from an OPTAA calibration file
+"""
+OPTAA Calibration Parser
+Create the necessary CI calibration ingest information from an OPTAA
+calibration file.
+"""
 
 import csv
 import datetime
-import dateutil.parser
+import dateutil
 import os
 import json
 import string
@@ -16,6 +18,25 @@ from common_code.cal_parser_template import Calibration
 
 
 class OPTAACalibration(Calibration):
+    """[summary]
+    
+    Attrs:
+        asset_tracking_number (str)
+        cwlngth (list)
+        awlngth (list)
+        tcal (float)
+        tbins (list)
+        ccwo (list)
+        acwo (list)
+        tcarray (list)
+        taarray (list)
+        nbins (list)
+        serial (str)
+        date (datetime)
+        coefficients (dict)
+        type (str)
+    """
+
     def __init__(self, serial):
         """Initializes the OPTAACalibration Class.
         
@@ -23,8 +44,7 @@ class OPTAACalibration(Calibration):
             serial (str): serial number for the OPTAA
         
         """
-        
-        self.asset_tracking_number = None
+        super(OPTAACalibration, self).__init__('OPTAA', serial)
         self.cwlngth = []
         self.awlngth = []
         self.tcal = None
@@ -34,13 +54,11 @@ class OPTAACalibration(Calibration):
         self.tcarray = []
         self.taarray = []
         self.nbins = None  # number of temperature bins
-        self.serial = serial
-        self.date = None
         self.coefficients = {
             'CC_taarray': 'SheetRef:CC_taarray',
             'CC_tcarray': 'SheetRef:CC_tcarray'
         }
-        self.type = 'OPTAA'
+
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
@@ -49,7 +67,7 @@ class OPTAACalibration(Calibration):
             filename (str) -- path to the calibration file.
         """
         
-        with open(filename) as fh:
+        with open(filename, 'r') as fh:
             for line in fh:
                 parts = line.split(';')
                 if len(parts) != 2:
@@ -92,6 +110,7 @@ class OPTAACalibration(Calibration):
                     self.coefficients['CC_acwo'] = json.dumps(self.acwo)
             fh.close()
 
+
     def write_cal_info(self):
         """Writes data to a CSV file in the format defined by OOI integration"""
         
@@ -108,7 +127,7 @@ class OPTAACalibration(Calibration):
             writer = csv.writer(info)
             writer.writerow(['serial', 'name', 'value', 'notes'])
             for each in sorted(self.coefficients.items()):
-                writer.writerow([self.serial] + list(each))
+                writer.writerow([self.serial] + list(each) + [''])
 
         def write_array(filename, cal_array):
             with open(filename, 'w') as out:

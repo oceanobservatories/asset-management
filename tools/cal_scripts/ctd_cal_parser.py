@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 CTD Calibration Parser
@@ -21,10 +21,7 @@ __version__ = "0.1.0"
 __license__ = "MIT"
 
 class CTDCalibration(Calibration):
-    """Summary of class here.
-
-    Longer class information....
-    Longer class information....
+    """Calibration class for DOFSTA instruments.
 
     Attributes:
         asset_tracking_number (str): Asset UID
@@ -32,12 +29,16 @@ class CTDCalibration(Calibration):
         date (datetime): Date when the calibration was performed
         coefficients (dict): dictionary containing all the relevant coefficients
                              associated with the instrument.
-        type (str): The instrument type.
+        o_series_coefficients_map (dict)
+        coefficients_name_map (dict)
+        o2_coefficients_map (dict)
 
     """
+    
     def __init__(self):
         """Initializes the SBE43Calibration Class."""
 
+        super(CTDCalibration, self).__init__('CTD')
         self.coefficient_name_map = {
             'TA0': 'CC_a0',
             'TA1': 'CC_a1',
@@ -97,11 +98,7 @@ class CTDCalibration(Calibration):
             'SOC': 'CC_oxygen_signal_slope',
             'OFFSET': 'CC_frequency_offset'
         }
-        self.coefficients = {}
-        self.asset_tracking_number = None
-        self.serial = '16-'
-        self.date = None
-        self.type = 'CTD'
+
 
     def _read_xml(self, filename):
         """ Reads XML calibration file from manufacturer and obtains
@@ -140,7 +137,7 @@ class CTDCalibration(Calibration):
                     key = 'T' + child.tag
 
                 if child.tag == 'SerialNumber' and child.text is not None \
-                                and self.serial == '16-':
+                                and self.serial is None:
                     self.serial = '16-' + child.text
 
                 if child.tag == 'CalibrationDate' and child.text is not None \

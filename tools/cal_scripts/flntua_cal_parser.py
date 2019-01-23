@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 
-# FLNTUA calibration parser
-#
-# Create the necessary CI calibration ingest information from a
-# FLNTUA calibration file
+"""
+FLNTUA Calibration Parser
+Create the necessary CI calibration ingest information from a FLNTUA
+calibration file.
+"""
 
 import datetime
 import os
@@ -12,21 +13,31 @@ from common_code.cal_parser_template import Calibration
 
 
 class FLNTUACalibration(Calibration):
+    """Calibration class for FLNTUA instruments.
+
+    Attributes:
+        chl (int): Description of `attr1`.
+        vol (int):
+        asset_tracking_number (str)
+        serial (str)
+        date (datetime)
+        coefficients (dict): Description of `attr2`.
+        type (str)
+
+    """
+    
     def __init__(self):
         """Initializes the NUTNRACalibration Class."""
 
-        self.chl = None
-        self.vol = None
-        self.asset_tracking_number = None
-        self.serial = None
-        self.date = None
-        self.type = 'FLNTUA'
+        super(FLNTUACalibration, self).__init__('FLNTUA')
         self.coefficients = {
             'CC_angular_resolution': 1.096,
             'CC_depolarization_ratio': 0.039,
             'CC_measurement_wavelength': 700,
             'CC_scattering_angle': 140
         }
+        self.chl = None
+        self.vol = None
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
@@ -35,7 +46,7 @@ class FLNTUACalibration(Calibration):
             filename (str) -- path to the calibration file.
         """
         
-        with open(filename) as fh:
+        with open(filename, 'r') as fh:
             for line in fh:
                 parts = line.split()
                 if not len(parts):  # skip blank lines

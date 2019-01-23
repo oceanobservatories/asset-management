@@ -1,24 +1,32 @@
 #!/usr/bin/env python3
 
-# DOFSTA calibration parser
-#
-# Create the necessary CI calibration ingest information from a DOFSTA calibration file
+"""
+DOFSTA Calibration Parser
+Create the necessary CI calibration ingest information from a DOFSTA
+calibration file, preferably an XMLCON file.
+"""
 
 import csv
 import datetime
 import os
+import sys
 import time
 import xml.etree.ElementTree as et
 from common_code.cal_parser_template import Calibration
 
 
 class SBE43Calibration(Calibration):
+    """Calibration class for DOFSTA instruments.
+
+    Attributes:
+        coefficient_name_map (dict of str:str):
+
+    """
+    
     def __init__(self):
         """Initializes the SBE43Calibration Class."""
 
-        super(SBE43Calibration, self).__init__()
-        self.type = 'DOFSTA'
-        self.serial = '43-'
+        super(SBE43Calibration, self).__init__('DOFSTA')
         self.coefficient_name_map = {
             'E': 'CC_residual_temperature_correction_factor_e',
             'C': 'CC_residual_temperature_correction_factor_c',
@@ -42,24 +50,23 @@ class SBE43Calibration(Calibration):
 
         with open(filename) as fh:
             tree = et.parse(filename)
-            root = tree.getroot()
-            t_flag = False
             for child in tree.iter():
                 key = child.tag.upper()
                 if key == '':
                     continue
-                if child.tag == 'SerialNumber' and child.text is not None and self.serial == '43-':
+                if child.tag == 'SerialNumber' and child.text is not None and self.serial is None:
                     self.serial = '43-' + child.text
                 if child.tag == 'CalibrationDate' and child.text is not None and self.date is None:
                     self.date = datetime.datetime.strptime(
-                        child.text, '%d-%b-%y').strftime('%Y%m%d')
+                        child.text, '%d-%b-%y')
                 name = self.coefficient_name_map.get(key)
                 if name is None:
                     continue
                 self.coefficients[name] = child.text
                 if name == 'CC_voltage_offset':
                     self.coefficients['CC_frequency_offset'] = child.text
-            return True
+        fh.close()
+        return True
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
@@ -84,7 +91,7 @@ class SBE43Calibration(Calibration):
 
                 if key == 'INSTRUMENT_TYPE' and value != 'SBE43':
                     print(
-                        'Error - unexpected type calibration file (%s != SBE43)' % value)
+                        'Error - unexpected type calibration file ({0} != SBE43)'.format(value))
                     sys.exit(1)
 
                 if key in self.coefficient_name_map:
@@ -94,10 +101,8 @@ class SBE43Calibration(Calibration):
                         self.coefficients['CC_frequency_offset'] = value
 
                 if key == 'OCALDATE':
-                    cal_date = value
-                    cal_date = datetime.datetime.strptime(
-                        cal_date, '%d-%b-%y').strftime('%Y%m%d')
-                    self.date = cal_date
+                    self.date = datetime.datetime.strptime(
+                        value, '%d-%b-%y')
 
                 if key == 'SERIALNO':
                     self.serial = "43-" + str(value)
@@ -105,7 +110,7 @@ class SBE43Calibration(Calibration):
 
 def main():
     # Begin writing files
-    for path, directories, files in os.walk('DOFSTA/manufacturer'):
+    for path, _, files in os.walk('DOFSTA/manufacturer'):
         for file in files:
             # Skip hidden files
             if file[0] == '.':

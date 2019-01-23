@@ -1,8 +1,10 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
-# NUTNR calibration parser
-#
-# Create the necessary CI calibration ingest information from an NUTNR calibration file
+"""
+NUTNR Calibration Parser
+Create the necessary CI calibration ingest information from a NUTNR 
+calibration file.
+"""
 
 import csv
 import datetime
@@ -13,6 +15,20 @@ from common_code.cal_parser_template import Calibration
 
 
 class NUTNRCalibration(Calibration):
+    """Calibration class for NUTNR instruments.
+
+    Attributes:
+        cal_temp (float):
+        wavelengths (list): wavelengths used during calibration
+        eno3 (list):
+        eswa (list):
+        di (list):
+        lower_limit (int):
+        upper_limit (int):
+        coefficients (dict): values that are stored and needed in the CSVs
+
+    """
+    
     def __init__(self, lower=217, upper=240):
         """Initializes the NUTNRACalibration Class.
         
@@ -20,20 +36,18 @@ class NUTNRCalibration(Calibration):
             lower (str): lower wavelength bound. Default of 217 nm
             upper (str): upper wavelength bound. Default of 240 nm
         """
-
-        self.cal_temp = None
+        super(NUTNRCalibration, self).__init__('NUTNRA')
+        self.cal_temp = 0.0
         self.wavelengths = []
         self.eno3 = []
         self.eswa = []
         self.di = []
         self.lower_limit = lower
         self.upper_limit = upper
-        self.asset_tracking_number = None
-        self.date = None
-        self.serial = None
-        self.type = 'NUTNRA'
-        self.coefficients = {'CC_lower_wavelength_limit_for_spectra_fit': self.lower_limit,
-                             'CC_upper_wavelength_limit_for_spectra_fit': self.upper_limit}
+        self.coefficients = {
+            'CC_lower_wavelength_limit_for_spectra_fit': self.lower_limit,
+            'CC_upper_wavelength_limit_for_spectra_fit': self.upper_limit
+        }
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
@@ -58,9 +72,8 @@ class NUTNRCalibration(Calibration):
                             self.cal_temp = float(value)
                             self.coefficients['CC_cal_temp'] = self.cal_temp
                     elif 'creation' in key_value:
-                        cal_date = key_value[-2]
                         cal_date = datetime.datetime.strptime(
-                            cal_date, '%d-%b-%Y').strftime('%Y%m%d')
+                            key_value[-2], '%d-%b-%Y')
                         if not self.date or self.date < cal_date:
                             self.date = cal_date
                     elif 'SUNA' in key_value:

@@ -1,12 +1,14 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
-# SPKIR calibration parser
-#
-# Create the necessary CI calibration ingest information from an SPKIR calibration file
-# These scripts are based on ones available
+"""
+SPKIRA Calibration Parser
+Create the necessary CI calibration ingest information from a SPKIRA
+calibration file.
+"""
 
 import csv
 import datetime
+import dateutil
 import json
 import os
 import shutil
@@ -17,14 +19,23 @@ from common_code.cal_parser_template import Calibration
 
 
 class SPKIRCalibration(Calibration):
+    """Calibration class for DOFSTA instruments.
+
+    Attributes:
+        immersion_factor (list):
+        offset (list):
+        scale (list):
+
+    """
+    
     def __init__(self):
         """Initializes the SPKIRCalibration Class."""
         
-        super(SPKIRCalibration, self).__init__()
+        super(SPKIRCalibration, self).__init__('SPKIRA')
+        self.immersion_factor = []
         self.offset = []
         self.scale = []
-        self.immersion_factor = []
-        self.type = 'SPKIRA'
+        
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
@@ -46,7 +57,7 @@ class SPKIRCalibration(Calibration):
                         parse(parts[1])
                     except ValueError:
                         continue
-                    self.date = str(parts[1]).replace('-', '')
+                    self.date = dateutil.parser.parse(parts[1])
 
                 elif parts[0] == 'ED':
                     read_record = True

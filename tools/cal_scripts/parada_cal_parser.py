@@ -1,8 +1,10 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
-# PARADA calibration parser
-#
-# Create the necessary CI calibration ingest information from an PARADA calibration file
+"""
+PARADA Calibration Parser
+Create the necessary CI calibration ingest information from a PARADA
+calibration file.
+"""
 
 import csv
 import datetime
@@ -14,12 +16,19 @@ from common_code.cal_parser_template import Calibration
 
 
 class PARADACalibration(Calibration):
+    """Calibration class for PARADA instruments.
+
+    Attributes:
+        dark (int): counts
+        scale (float): 
+    
+    """
+
     def __init__(self):
         """Initializes the PARADACalibration Class."""
-        super(PARADACalibration, self).__init__()
+        super(PARADACalibration, self).__init__('PARADA')
         self.dark = 0
         self.scale = 0.0
-        self.type = 'PARADA'
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
@@ -37,7 +46,7 @@ class PARADACalibration(Calibration):
                     self.serial = parts[-1].split('-')[-1]
                 elif 'Created' == parts[0]:
                     self.date = datetime.datetime.strptime(
-                        parts[-1].split(':')[-1], '%m/%d/%y').strftime('%Y%m%d')
+                        parts[-1].split(':')[-1], '%m/%d/%y')
                 deconstruct = parts[0].split('=')
                 coefficient_name = deconstruct[0].lower()
                 if coefficient_name == 'im':

@@ -28,14 +28,22 @@ class Calibration(object):
 
     """
 
-    def __init__(self):
-        """Initializes the Calibration Class."""
+    def __init__(self, type, serial=None, coefficients={}, 
+                 asset_tracking_number=None):
+        """Initializes the Calibration Class.
+        
+        Args:
+            type (str): instrument
+            serial (str):
+            coefficients (dict):
+        """
 
-        self.asset_tracking_number = None
-        self.serial = None
+        self.asset_tracking_number = asset_tracking_number
+        self.coefficients = coefficients
         self.date = None
-        self.coefficients = {}
-        self.type = None
+        self.serial = serial
+        self.type = type
+
 
     def write_cal_info(self):
         """Writes data to a CSV file in the format defined by OOI integration"""
@@ -44,7 +52,7 @@ class Calibration(object):
             return
         complete_path = os.path.join(os.path.realpath('../..'), 'calibration',
                                      self.type)
-        file_name = '{0}__{1}.csv'.format(self.asset_tracking_number, self.date)
+        file_name = '{0}__{1}.csv'.format(self.asset_tracking_number, self.date.strftime('%Y%m%d'))
         with open(os.path.join(complete_path, file_name),
                   'w') as info:
             writer = csv.writer(info)
@@ -54,6 +62,7 @@ class Calibration(object):
                 row.append('')
                 writer.writerow(row)
             info.close()
+
 
     def move_to_archive(self, inst_type, file):
         """Moves parsed calibration file to the manufacturer_ARCHIVE
@@ -69,6 +78,7 @@ class Calibration(object):
         os.rename(os.path.join(os.getcwd(), inst_type, 'manufacturer', file), \
                     os.path.join(os.getcwd(), inst_type,
                                  'manufacturer_ARCHIVE', file))
+
 
     def get_uid(self):
         """Retrieves the ASSET UID of the instrument according to its serial number.
@@ -90,11 +100,3 @@ class Calibration(object):
             return False
         self.asset_tracking_number = uid_query_result[0]
         return True
-
-def get_uid_serial_mapping(csv_name):
-    lookup = {}
-    with open(csv_name, 'rb') as csvfile:
-        reader = csv.DictReader(csvfile, delimiter=',')
-        for row in reader:
-            lookup[row['serial']] = row['uid']
-    return lookup
