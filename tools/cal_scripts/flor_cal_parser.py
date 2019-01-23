@@ -63,10 +63,11 @@ class FLORCalibration(Calibration):
                     self.coefficients['CC_scale_factor_cdom'] = parts[1]
                     self.coefficients['CC_dark_counts_cdom'] = parts[2]
                     break
+            fh.close()
 
 
 def main():
-    for path, directories, files in os.walk('FLOR/manufacturer'):
+    for path, _, files in os.walk('FLOR/manufacturer'):
         for file in files:
             # Skip hidden files
             if file[0] == '.':

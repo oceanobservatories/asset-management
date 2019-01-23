@@ -49,7 +49,7 @@ class PARADACalibration(Calibration):
 
 
 def main():
-    for path, directories, files in os.walk('PARADA/manufacturer'):
+    for path, _, files in os.walk('PARADA/manufacturer'):
         for file in files:
             # Skip hidden files
             if file[0] == '.':

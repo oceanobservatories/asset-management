@@ -44,9 +44,8 @@ class Calibration(object):
             return
         complete_path = os.path.join(os.path.realpath('../..'), 'calibration',
                                      self.type)
-        file_name = '{0}__{1}'.format(self.asset_tracking_number, self.date)
-        file_name = self.asset_tracking_number + '__' + self.date
-        with open(os.path.join(complete_path, '%s.csv' % file_name),
+        file_name = '{0}__{1}.csv'.format(self.asset_tracking_number, self.date)
+        with open(os.path.join(complete_path, file_name),
                   'w') as info:
             writer = csv.writer(info)
             writer.writerow(['serial','name', 'value', 'notes'])
@@ -54,6 +53,7 @@ class Calibration(object):
                 row = [self.serial] + list(each)
                 row.append('')
                 writer.writerow(row)
+            info.close()
 
     def move_to_archive(self, inst_type, file):
         """Moves parsed calibration file to the manufacturer_ARCHIVE

@@ -31,6 +31,12 @@ class SBE43Calibration(Calibration):
         }
 
     def _read_xml(self, filename):
+        """Reads xmlcon file and scrapes it for calibration values.
+        
+        Arguments:
+            filename (str) -- path to the calibration file.
+        """
+
         if not filename.endswith('.xmlcon'):
             return False
 
@@ -56,6 +62,12 @@ class SBE43Calibration(Calibration):
             return True
 
     def read_cal(self, filename):
+        """Reads cal file and scrapes it for calibration values.
+        
+        Arguments:
+            filename (str) -- path to the calibration file.
+        """
+
         if self._read_xml(filename):
             return
 

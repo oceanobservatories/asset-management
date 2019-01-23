@@ -62,10 +62,11 @@ class SPKIRCalibration(Calibration):
                         self.coefficients['CC_scale'] = json.dumps(self.scale)
                         self.coefficients['CC_immersion_factor'] = self.immersion_factor
                         read_record = False
+            fh.close()
 
 
 def main():
-    for path, directories, files in os.walk('SPKIRA/manufacturer'):
+    for path, _, files in os.walk('SPKIRA/manufacturer'):
         for file in files:
             # Skip hidden files
             if file[0] == '.':

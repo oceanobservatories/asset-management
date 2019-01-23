@@ -45,10 +45,11 @@ class FLCDRACalibration(Calibration):
                     self.scale = parts[1]
                     self.coefficients['CC_dark_counts_cdom'] = self.dark
                     self.coefficients['CC_scale_factor_cdom'] = self.scale
+            fh.close()
 
 
 def main():
-    for path, directories, files in os.walk('FLCDRA/manufacturer'):
+    for path, _, files in os.walk('FLCDRA/manufacturer'):
         for file in files:
             # Skip hidden files
             if file[0] == '.':

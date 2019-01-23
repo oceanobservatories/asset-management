@@ -20,6 +20,7 @@ class NUTNRCalibration(Calibration):
             lower (str): lower wavelength bound. Default of 217 nm
             upper (str): upper wavelength bound. Default of 240 nm
         """
+
         self.cal_temp = None
         self.wavelengths = []
         self.eno3 = []
@@ -75,6 +76,7 @@ class NUTNRCalibration(Calibration):
                     self.coefficients['CC_eno3'] = json.dumps(self.eno3)
                     self.coefficients['CC_eswa'] = json.dumps(self.eswa)
                     self.coefficients['CC_di'] = json.dumps(self.di)
+            fh.close()
 
 
 def main():

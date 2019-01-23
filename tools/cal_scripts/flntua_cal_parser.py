@@ -56,11 +56,12 @@ class FLNTUACalibration(Calibration):
                     self.chl = (parts[1], parts[2])
                     self.coefficients['CC_scale_factor_chlorophyll_a'] = parts[1]
                     self.coefficients['CC_dark_counts_chlorophyll_a'] = parts[2]
+            fh.close()
         return True
 
 
 def main():
-    for path, directories, files in os.walk('FLNTUA/manufacturer'):
+    for path, _, files in os.walk('FLNTUA/manufacturer'):
         for file in files:
             # Skip hidden files
             if file[0] == '.':

@@ -36,8 +36,10 @@ class OPTAACalibration(Calibration):
         self.nbins = None  # number of temperature bins
         self.serial = serial
         self.date = None
-        self.coefficients = {'CC_taarray': 'SheetRef:CC_taarray',
-                             'CC_tcarray': 'SheetRef:CC_tcarray'}
+        self.coefficients = {
+            'CC_taarray': 'SheetRef:CC_taarray',
+            'CC_tcarray': 'SheetRef:CC_tcarray'
+        }
         self.type = 'OPTAA'
 
     def read_cal(self, filename):
@@ -88,8 +90,11 @@ class OPTAACalibration(Calibration):
                     self.coefficients['CC_awlngth'] = json.dumps(self.awlngth)
                     self.coefficients['CC_ccwo'] = json.dumps(self.ccwo)
                     self.coefficients['CC_acwo'] = json.dumps(self.acwo)
+            fh.close()
 
     def write_cal_info(self):
+        """Writes data to a CSV file in the format defined by OOI integration"""
+        
         inst_type = None
         self.get_uid()
         if self.asset_tracking_number.find('58332') != -1:
@@ -98,8 +103,8 @@ class OPTAACalibration(Calibration):
             inst_type = 'OPTAAC'
         complete_path = os.path.join(
             os.path.realpath('../..'), 'calibration', inst_type)
-        file_name = self.asset_tracking_number + '__' + self.date
-        with open(os.path.join(complete_path, '%s.csv' % file_name), 'w') as info:
+        file_name = '{0}__{1}'.format(self.asset_tracking_number, self.date)
+        with open(os.path.join(complete_path, '{0}.csv'.format(file_name)), 'w') as info:
             writer = csv.writer(info)
             writer.writerow(['serial', 'name', 'value', 'notes'])
             for each in sorted(self.coefficients.items()):
@@ -109,15 +114,17 @@ class OPTAACalibration(Calibration):
             with open(filename, 'w') as out:
                 array_writer = csv.writer(out)
                 array_writer.writerows(cal_array)
+            out.close()
 
-        write_array(os.path.join(complete_path, '%s__CC_tcarray.ext' %
-                                 file_name), self.tcarray)
-        write_array(os.path.join(complete_path, '%s__CC_taarray.ext' %
-                                 file_name), self.taarray)
+        write_array(os.path.join(complete_path, '{0}__CC_tcarray.ext'.format(
+                                 file_name)), self.tcarray)
+        write_array(os.path.join(complete_path, '{0}__CC_taarray.ext'.format(
+                                 file_name)), self.taarray)
+        info.close()
 
 
 def main():
-    for path, directories, files in os.walk('OPTAA/manufacturer'):
+    for path, _, files in os.walk('OPTAA/manufacturer'):
         for file in files:
             # Skip hidden files
             if file[0] == '.':

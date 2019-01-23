@@ -37,6 +37,7 @@ class CTDCalibration(Calibration):
     """
     def __init__(self):
         """Initializes the SBE43Calibration Class."""
+
         self.coefficient_name_map = {
             'TA0': 'CC_a0',
             'TA1': 'CC_a1',
@@ -158,12 +159,12 @@ class CTDCalibration(Calibration):
         return True
 
     def read_cal(self, filename):
-        """ Reads in .cal file from manufacturer
-
-        Args:
-            filename (str):
-
+        """Reads cal file and scrapes it for calibration values.
+        
+        Arguments:
+            filename (str) -- path to the calibration file.
         """
+
         if self._read_xml(filename):
             return
         with open(filename) as fh:
@@ -192,6 +193,7 @@ class CTDCalibration(Calibration):
 
                 self.coefficients[name] = value
 
+ 
     def write_cal_info(self):
         inst_type = None
         if not self.get_uid():
@@ -215,11 +217,10 @@ class CTDCalibration(Calibration):
                         key)]
                 except KeyError:
                     continue
-        complete_path = os.path.join(self.type, 'cal_sheets', inst_type)
         complete_path = os.path.join(
             os.path.realpath('../..'), 'calibration', inst_type)
-        file_name = self.asset_tracking_number + '__' + self.date
-        with open(os.path.join(complete_path, '%s.csv' % file_name), 'w') as info:
+        file_name = '{0}__{1}.csv'.format(self.asset_tracking_number, self.date)
+        with open(os.path.join(complete_path, file_name), 'w') as info:
             writer = csv.writer(info)
             writer.writerow(['serial', 'name', 'value', 'notes'])
             for each in sorted(self.coefficients.items()):
@@ -228,11 +229,11 @@ class CTDCalibration(Calibration):
                 writer.writerow(row)
             if inst_type.startswith('CTDPF'):
                 writer.writerow([self.serial, 'CC_offset', 0, ''])
+            info.close()
 
 
 def main():
-    for path, directories, files in os.walk('CTD/manufacturer'):
-        print(files)
+    for path, _, files in os.walk('CTD/manufacturer'):
         for file in files:
             # Skip hidden files
             if file[0] == '.':
