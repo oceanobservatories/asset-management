@@ -20,6 +20,7 @@ __author__ = "Daniel Tran"
 __version__ = "0.1.0"
 __license__ = "MIT"
 
+
 class CTDCalibration(Calibration):
     """Calibration class for DOFSTA instruments.
 
@@ -27,14 +28,14 @@ class CTDCalibration(Calibration):
         asset_tracking_number (str): Asset UID
         serial (str): Serial number associated with the instrument
         date (datetime): Date when the calibration was performed
-        coefficients (dict): dictionary containing all the relevant coefficients
-                             associated with the instrument.
+        coefficients (dict): dictionary containing all the relevant
+                             coefficients associated with the instrument.
         o_series_coefficients_map (dict)
         coefficients_name_map (dict)
         o2_coefficients_map (dict)
 
     """
-    
+
     def __init__(self):
         """Initializes the SBE43Calibration Class."""
 
@@ -99,7 +100,6 @@ class CTDCalibration(Calibration):
             'OFFSET': 'CC_frequency_offset'
         }
 
-
     def _read_xml(self, filename):
         """ Reads XML calibration file from manufacturer and obtains
             calibration values. Cal files should preferably be in this file
@@ -157,7 +157,7 @@ class CTDCalibration(Calibration):
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
-        
+
         Arguments:
             filename (str) -- path to the calibration file.
         """
@@ -189,8 +189,8 @@ class CTDCalibration(Calibration):
                     continue
 
                 self.coefficients[name] = value
+        fh.close()
 
- 
     def write_cal_info(self):
         inst_type = None
         if not self.get_uid():
@@ -216,7 +216,8 @@ class CTDCalibration(Calibration):
                     continue
         complete_path = os.path.join(
             os.path.realpath('../..'), 'calibration', inst_type)
-        file_name = '{0}__{1}.csv'.format(self.asset_tracking_number, self.date)
+        file_name = '{0}__{1}.csv'.format(
+            self.asset_tracking_number, self.date)
         with open(os.path.join(complete_path, file_name), 'w') as info:
             writer = csv.writer(info)
             writer.writerow(['serial', 'name', 'value', 'notes'])

@@ -25,7 +25,7 @@ class FLNTUACalibration(Calibration):
         type (str)
 
     """
-    
+
     def __init__(self):
         """Initializes the NUTNRACalibration Class."""
 
@@ -41,11 +41,11 @@ class FLNTUACalibration(Calibration):
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
-        
+
         Arguments:
             filename (str) -- path to the calibration file.
         """
-        
+
         with open(filename, 'r') as fh:
             for line in fh:
                 parts = line.split()
@@ -55,7 +55,7 @@ class FLNTUACalibration(Calibration):
                     self.serial = parts[1]
                 elif 'Created' == parts[0]:
                     self.date = datetime.datetime.strptime(
-                        parts[-1], '%m/%d/%y').strftime('%Y%m%d')
+                        parts[-1], '%m/%d/%y')
                 deconstruct = parts[0].split('=')
                 if deconstruct[0].lower() == 'lambda':
                     self.vol = (parts[1], parts[2])

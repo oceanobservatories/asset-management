@@ -27,25 +27,24 @@ class SPKIRCalibration(Calibration):
         scale (list):
 
     """
-    
+
     def __init__(self):
         """Initializes the SPKIRCalibration Class."""
-        
+
         super(SPKIRCalibration, self).__init__('SPKIRA')
         self.immersion_factor = []
         self.offset = []
         self.scale = []
-        
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
-        
+
         Arguments:
             filename (str) -- path to the calibration file.
         """
-        
+
         with open(filename) as fh:
-            read_record = False  # indicates next line is record we want to read
+            read_record = False  # indicates next line desired record
             for line in fh:
                 parts = line.split()
                 if 'OCR-507' in line:

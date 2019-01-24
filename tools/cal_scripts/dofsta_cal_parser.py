@@ -22,7 +22,7 @@ class SBE43Calibration(Calibration):
         coefficient_name_map (dict of str:str):
 
     """
-    
+
     def __init__(self):
         """Initializes the SBE43Calibration Class."""
 
@@ -40,7 +40,7 @@ class SBE43Calibration(Calibration):
 
     def _read_xml(self, filename):
         """Reads xmlcon file and scrapes it for calibration values.
-        
+
         Arguments:
             filename (str) -- path to the calibration file.
         """
@@ -54,9 +54,11 @@ class SBE43Calibration(Calibration):
                 key = child.tag.upper()
                 if key == '':
                     continue
-                if child.tag == 'SerialNumber' and child.text is not None and self.serial is None:
+                if child.tag == 'SerialNumber' and child.text is not None and\
+                   self.serial is None:
                     self.serial = '43-' + child.text
-                if child.tag == 'CalibrationDate' and child.text is not None and self.date is None:
+                if child.tag == 'CalibrationDate' and child.text is not None\
+                   and self.date is None:
                     self.date = datetime.datetime.strptime(
                         child.text, '%d-%b-%y')
                 name = self.coefficient_name_map.get(key)
@@ -70,7 +72,7 @@ class SBE43Calibration(Calibration):
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
-        
+
         Arguments:
             filename (str) -- path to the calibration file.
         """
@@ -109,7 +111,6 @@ class SBE43Calibration(Calibration):
 
 
 def main():
-    # Begin writing files
     for path, _, files in os.walk('DOFSTA/manufacturer'):
         for file in files:
             # Skip hidden files

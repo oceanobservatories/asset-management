@@ -2,7 +2,7 @@
 
 """
 NUTNR Calibration Parser
-Create the necessary CI calibration ingest information from a NUTNR 
+Create the necessary CI calibration ingest information from a NUTNR
 calibration file.
 """
 
@@ -28,10 +28,10 @@ class NUTNRCalibration(Calibration):
         coefficients (dict): values that are stored and needed in the CSVs
 
     """
-    
+
     def __init__(self, lower=217, upper=240):
         """Initializes the NUTNRACalibration Class.
-        
+
         Args:
             lower (str): lower wavelength bound. Default of 217 nm
             upper (str): upper wavelength bound. Default of 240 nm
@@ -51,7 +51,7 @@ class NUTNRCalibration(Calibration):
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
-        
+
         Arguments:
             filename (str) -- path to the calibration file.
         """
@@ -93,7 +93,7 @@ class NUTNRCalibration(Calibration):
 
 
 def main():
-    for path, directories, files in os.walk('NUTNRA/manufacturer'):
+    for path, _, files in os.walk('NUTNRA/manufacturer'):
         for file in files:
             # Skip hidden files
             if file[0] == '.':

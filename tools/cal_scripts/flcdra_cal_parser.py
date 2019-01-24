@@ -20,10 +20,10 @@ class FLCDRACalibration(Calibration):
 
     Attributes:
         dark (int): counts
-        scale (float): 
+        scale (float):
 
     """
-    
+
     def __init__(self):
         """Initializes the FLCDRACalibration Class."""
 
@@ -33,7 +33,7 @@ class FLCDRACalibration(Calibration):
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
-        
+
         Arguments:
             filename (str) -- path to the calibration file.
         """

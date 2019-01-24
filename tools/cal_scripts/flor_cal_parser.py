@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 
-# FLOR calibration parser
-#
-# Create the necessary CI calibration ingest information from a FLOR calibration file
+"""
+FLOR Calibration Parser
+Create the necessary CI calibration ingest information from a FLOR
+calibration file.
+"""
 
 import csv
 import datetime
@@ -16,7 +18,7 @@ from common_code.cal_parser_template import Calibration
 class FLORCalibration(Calibration):
     def __init__(self):
         """Initializes the NUTNRACalibration Class."""
-        
+
         self.cdom = None
         self.chl = None
         self.vol = None
@@ -25,15 +27,15 @@ class FLORCalibration(Calibration):
         self.date = None
         self.type = 'FLORDD'
         self.coefficients = {
-            'CC_angular_resolution': 1.076, 
+            'CC_angular_resolution': 1.076,
             'CC_depolarization_ratio': 0.039,
-            'CC_measurement_wavelength': 700, 
+            'CC_measurement_wavelength': 700,
             'CC_scattering_angle': 124
         }
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
-        
+
         Arguments:
             filename (str) -- path to the calibration file.
         """
@@ -48,7 +50,7 @@ class FLORCalibration(Calibration):
                     self.serial = serial[-1]
                 elif 'Created' == parts[0]:
                     self.date = datetime.datetime.strptime(
-                        parts[-1], '%m/%d/%y').strftime('%Y%m%d')
+                        parts[-1], '%m/%d/%y')
                 deconstruct = parts[0].upper().split('=')
                 if deconstruct[0] == 'LAMBDA':
                     self.vol = (parts[1], parts[2])
@@ -63,7 +65,7 @@ class FLORCalibration(Calibration):
                     self.coefficients['CC_scale_factor_cdom'] = parts[1]
                     self.coefficients['CC_dark_counts_cdom'] = parts[2]
                     break
-            fh.close()
+        fh.close()
 
 
 def main():

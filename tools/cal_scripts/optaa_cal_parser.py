@@ -19,7 +19,7 @@ from common_code.cal_parser_template import Calibration
 
 class OPTAACalibration(Calibration):
     """[summary]
-    
+
     Attrs:
         asset_tracking_number (str)
         cwlngth (list)
@@ -39,10 +39,10 @@ class OPTAACalibration(Calibration):
 
     def __init__(self, serial):
         """Initializes the OPTAACalibration Class.
-        
+
         Args:
             serial (str): serial number for the OPTAA
-        
+
         """
         super(OPTAACalibration, self).__init__('OPTAA', serial)
         self.cwlngth = []
@@ -59,14 +59,13 @@ class OPTAACalibration(Calibration):
             'CC_tcarray': 'SheetRef:CC_tcarray'
         }
 
-
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
-        
+
         Arguments:
             filename (str) -- path to the calibration file.
         """
-        
+
         with open(filename, 'r') as fh:
             for line in fh:
                 parts = line.split(';')
@@ -76,9 +75,9 @@ class OPTAACalibration(Calibration):
                         self.tcal = parts[1]
                         self.coefficients['CC_tcal'] = self.tcal
                         cal_date = parts[-1:][0].strip(string.punctuation)
-                        cal_date = dateutil.parser.parse(cal_date, dayfirst=False, 
-                                                         yearfirst=False)
-                        self.date = cal_date.strftime('%Y%m%d')
+                        self.date = dateutil.parser.parse(cal_date,
+                                                          dayfirst=False,
+                                                          yearfirst=False)
                     continue
                 data, comment = parts
 
@@ -92,7 +91,8 @@ class OPTAACalibration(Calibration):
 
                 elif comment.startswith(' C and A offset'):
                     if self.nbins is None:
-                        print('Error - failed to read number of temperature bins')
+                        print('''Error - failed to read number
+                                of temperature bins''')
                         sys.exit(1)
                     parts = data.split()
                     self.cwlngth.append(float(parts[0][1:]))
@@ -110,10 +110,9 @@ class OPTAACalibration(Calibration):
                     self.coefficients['CC_acwo'] = json.dumps(self.acwo)
             fh.close()
 
-
     def write_cal_info(self):
-        """Writes data to a CSV file in the format defined by OOI integration"""
-        
+        """Writes data to a CSV file in format defined by OOI integration"""
+
         inst_type = None
         self.get_uid()
         if self.asset_tracking_number.find('58332') != -1:
@@ -123,7 +122,8 @@ class OPTAACalibration(Calibration):
         complete_path = os.path.join(
             os.path.realpath('../..'), 'calibration', inst_type)
         file_name = '{0}__{1}'.format(self.asset_tracking_number, self.date)
-        with open(os.path.join(complete_path, '{0}.csv'.format(file_name)), 'w') as info:
+        with open(os.path.join(complete_path,
+                               '{0}.csv'.format(file_name)), 'w') as info:
             writer = csv.writer(info)
             writer.writerow(['serial', 'name', 'value', 'notes'])
             for each in sorted(self.coefficients.items()):

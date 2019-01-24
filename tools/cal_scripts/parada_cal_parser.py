@@ -20,8 +20,8 @@ class PARADACalibration(Calibration):
 
     Attributes:
         dark (int): counts
-        scale (float): 
-    
+        scale (float):
+
     """
 
     def __init__(self):
@@ -32,11 +32,11 @@ class PARADACalibration(Calibration):
 
     def read_cal(self, filename):
         """Reads cal file and scrapes it for calibration values.
-        
+
         Arguments:
             filename (str) -- path to the calibration file.
         """
-        
+
         with open(filename) as fh:
             for line in fh:
                 parts = line.split()
@@ -55,6 +55,7 @@ class PARADACalibration(Calibration):
                     self.coefficients['CC_a1'] = parts[-1]
                 elif coefficient_name == 'a0':
                     self.coefficients['CC_a0'] = parts[-1]
+        fh.close()
 
 
 def main():
