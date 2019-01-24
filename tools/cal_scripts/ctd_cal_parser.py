@@ -182,7 +182,6 @@ class CTDCalibration(Calibration):
 
                 if key == 'CCALDATE':
                     self.date = datetime.datetime.strptime(value, '%d-%b-%y')\
-                        .strftime('%Y%m%d')
 
                 name = self.coefficient_name_map.get(key)
                 if not name:
@@ -217,7 +216,7 @@ class CTDCalibration(Calibration):
         complete_path = os.path.join(
             os.path.realpath('../..'), 'calibration', inst_type)
         file_name = '{0}__{1}.csv'.format(
-            self.asset_tracking_number, self.date)
+            self.asset_tracking_number, self.date.strftime('%Y%m%d'))
         with open(os.path.join(complete_path, file_name), 'w') as info:
             writer = csv.writer(info)
             writer.writerow(['serial', 'name', 'value', 'notes'])

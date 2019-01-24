@@ -72,7 +72,7 @@ class OPTAACalibration(Calibration):
                 if len(parts) != 2:
                     parts = line.split()
                     if parts[0].lower() == '"tcal:':
-                        self.tcal = parts[1]
+                        self.tcal = float(parts[1])
                         self.coefficients['CC_tcal'] = self.tcal
                         cal_date = parts[-1:][0].strip(string.punctuation)
                         self.date = dateutil.parser.parse(cal_date,
@@ -121,7 +121,8 @@ class OPTAACalibration(Calibration):
             inst_type = 'OPTAAC'
         complete_path = os.path.join(
             os.path.realpath('../..'), 'calibration', inst_type)
-        file_name = '{0}__{1}'.format(self.asset_tracking_number, self.date)
+        file_name = '{0}__{1}'.format(self.asset_tracking_number, 
+                                      self.date.strftime('%Y%m%d'))
         with open(os.path.join(complete_path,
                                '{0}.csv'.format(file_name)), 'w') as info:
             writer = csv.writer(info)
@@ -149,7 +150,7 @@ def main():
             if file[0] == '.':
                 continue
             sheet_name = os.path.basename(file).partition('.')[0].upper()
-            serial = sheet_name[:3] + '-' + sheet_name[3:6]
+            serial = '{0}-{1}'.format(sheet_name[:3], sheet_name[3:6])
             cal = OPTAACalibration(serial)
             cal.read_cal(os.path.join(path, file))
             cal.write_cal_info()
