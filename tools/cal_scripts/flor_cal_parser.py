@@ -74,7 +74,7 @@ class FLORCalibration(Calibration):
 
 def main():
     """ Main entry point of the app """
-    
+
     for path, _, files in os.walk('FLOR/manufacturer'):
         for file in files:
             # Skip hidden files
@@ -82,8 +82,7 @@ def main():
                 continue
             cal = FLORCalibration()
             cal.read_cal(os.path.join(path, file))
-            cal.write_cal_info()
-            cal.move_to_archive('FLOR', file)
+            cal.write_cal_info(os.path.join(path, file))
 
 
 if __name__ == '__main__':

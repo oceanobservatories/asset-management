@@ -240,8 +240,7 @@ def main():
                 continue
             cal = CTDCalibration()
             cal.read_cal(os.path.join(path, file))
-            cal.write_cal_info()
-            cal.move_to_archive(cal.type, file)
+            cal.write_cal_info(os.path.join(path, file))
 
 
 if __name__ == '__main__':
