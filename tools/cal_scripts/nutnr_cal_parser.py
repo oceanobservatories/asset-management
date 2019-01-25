@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-
 """
 NUTNR Calibration Parser
 Create the necessary CI calibration ingest information from a NUTNR
 calibration file.
 """
+
+__author__ = "Daniel Tran"
+__version__ = "0.1.0"
+__license__ = "MIT"
 
 import csv
 import datetime
@@ -16,7 +19,7 @@ from common_code.cal_parser_template import Calibration
 
 class NUTNRCalibration(Calibration):
     """Calibration class for NUTNR instruments.
-
+    
     Attributes:
         cal_temp (float):
         wavelengths (list): wavelengths used during calibration
@@ -36,6 +39,7 @@ class NUTNRCalibration(Calibration):
             lower (str): lower wavelength bound. Default of 217 nm
             upper (str): upper wavelength bound. Default of 240 nm
         """
+
         super(NUTNRCalibration, self).__init__('NUTNRA')
         self.cal_temp = 0.0
         self.wavelengths = []
@@ -93,6 +97,8 @@ class NUTNRCalibration(Calibration):
 
 
 def main():
+    """ Main entry point of the app """
+
     for path, _, files in os.walk('NUTNRA/manufacturer'):
         for file in files:
             # Skip hidden files
@@ -102,8 +108,7 @@ def main():
             if not file.startswith('SNA'):
                 continue
             cal.read_cal(os.path.join(path, file))
-            cal.write_cal_info()
-            cal.move_to_archive(cal.type, file)
+            cal.write_cal_info(os.path.join(path, file))
 
 
 if __name__ == '__main__':

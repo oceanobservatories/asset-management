@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-
 """
 OPTAA Calibration Parser
 Create the necessary CI calibration ingest information from an OPTAA
 calibration file.
 """
+
+__author__ = "Daniel Tran"
+__version__ = "0.1.0"
+__license__ = "MIT"
 
 import csv
 import datetime
@@ -110,7 +113,7 @@ class OPTAACalibration(Calibration):
                     self.coefficients['CC_acwo'] = json.dumps(self.acwo)
             fh.close()
 
-    def write_cal_info(self):
+    def write_cal_info(self, file):
         """Writes data to a CSV file in format defined by OOI integration"""
 
         inst_type = None
@@ -141,9 +144,11 @@ class OPTAACalibration(Calibration):
         write_array(os.path.join(complete_path, '{0}__CC_taarray.ext'.format(
                                  file_name)), self.taarray)
         info.close()
+        os.remove(file)
 
 
 def main():
+    """ Main entry point of the app """
     for path, _, files in os.walk('OPTAA/manufacturer'):
         for file in files:
             # Skip hidden files
@@ -153,8 +158,7 @@ def main():
             serial = '{0}-{1}'.format(sheet_name[:3], sheet_name[3:6])
             cal = OPTAACalibration(serial)
             cal.read_cal(os.path.join(path, file))
-            cal.write_cal_info()
-            cal.move_to_archive(cal.type, file)
+            cal.write_cal_info(os.path.join(path, file))
 
 
 if __name__ == '__main__':

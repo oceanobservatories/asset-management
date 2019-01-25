@@ -6,6 +6,10 @@ Create the necessary CI calibration ingest information from a FLOR
 calibration file.
 """
 
+__author__ = "Daniel Tran"
+__version__ = "0.1.0"
+__license__ = "MIT"
+
 import csv
 import datetime
 import os
@@ -69,6 +73,8 @@ class FLORCalibration(Calibration):
 
 
 def main():
+    """ Main entry point of the app """
+    
     for path, _, files in os.walk('FLOR/manufacturer'):
         for file in files:
             # Skip hidden files

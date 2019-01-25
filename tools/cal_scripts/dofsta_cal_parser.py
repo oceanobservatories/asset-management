@@ -6,6 +6,10 @@ Create the necessary CI calibration ingest information from a DOFSTA
 calibration file, preferably an XMLCON file.
 """
 
+__author__ = "Daniel Tran"
+__version__ = "0.1.0"
+__license__ = "MIT"
+
 import csv
 import datetime
 import os
@@ -19,7 +23,8 @@ class SBE43Calibration(Calibration):
     """Calibration class for DOFSTA instruments.
 
     Attributes:
-        coefficient_name_map (dict of str:str):
+        coefficient_name_map (dict): translation of vendor calibration sheet 
+                                     vocabulary to 
 
     """
 
@@ -81,7 +86,7 @@ class SBE43Calibration(Calibration):
             return
 
         with open(filename) as fh:
-            c = fh.read(1)
+            fh.read(1)
             for line in fh:
                 parts = line.split('=')
 
@@ -111,6 +116,8 @@ class SBE43Calibration(Calibration):
 
 
 def main():
+    """ Main entry point of the app """
+
     for path, _, files in os.walk('DOFSTA/manufacturer'):
         for file in files:
             # Skip hidden files
@@ -118,8 +125,7 @@ def main():
                 continue
             cal = SBE43Calibration()
             cal.read_cal(os.path.join(path, file))
-            cal.write_cal_info()
-            cal.move_to_archive(cal.type, file)
+            cal.write_cal_info(os.path.join(path, file))
 
 
 if __name__ == '__main__':

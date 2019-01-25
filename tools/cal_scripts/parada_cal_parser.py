@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-
 """
 PARADA Calibration Parser
 Create the necessary CI calibration ingest information from a PARADA
 calibration file.
 """
+
+__author__ = "Daniel Tran"
+__version__ = "0.1.0"
+__license__ = "MIT"
 
 import csv
 import datetime
@@ -26,6 +29,7 @@ class PARADACalibration(Calibration):
 
     def __init__(self):
         """Initializes the PARADACalibration Class."""
+
         super(PARADACalibration, self).__init__('PARADA')
         self.dark = 0
         self.scale = 0.0
@@ -59,6 +63,8 @@ class PARADACalibration(Calibration):
 
 
 def main():
+    """ Main entry point of the app """
+
     for path, _, files in os.walk('PARADA/manufacturer'):
         for file in files:
             # Skip hidden files
@@ -66,8 +72,7 @@ def main():
                 continue
             cal = PARADACalibration()
             cal.read_cal(os.path.join(path, file))
-            cal.write_cal_info()
-            cal.move_to_archive(cal.type, file)
+            cal.write_cal_info(os.path.join(path, file))
 
 
 if __name__ == '__main__':

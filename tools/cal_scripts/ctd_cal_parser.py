@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
-
 """
 CTD Calibration Parser
 Create the necessary CI calibration ingest information from an CTD
 calibration file, preferably an XMLCON file.
 """
 
-from __future__ import absolute_import
+__author__ = "Daniel Tran"
+__version__ = "0.1.0"
+__license__ = "MIT"
+
 import csv
 import datetime
 import os
@@ -15,11 +17,6 @@ import sys
 import time
 import xml.etree.ElementTree as et
 from common_code.cal_parser_template import Calibration
-
-__author__ = "Daniel Tran"
-__version__ = "0.1.0"
-__license__ = "MIT"
-
 
 class CTDCalibration(Calibration):
     """Calibration class for DOFSTA instruments.
@@ -30,12 +27,12 @@ class CTDCalibration(Calibration):
         date (datetime): Date when the calibration was performed
         coefficients (dict): dictionary containing all the relevant
                              coefficients associated with the instrument.
-        o_series_coefficients_map (dict)
+        o_series_coefficients_map (dict): 
         coefficients_name_map (dict)
-        o2_coefficients_map (dict)
+        o2_coefficients_map (dict): 
 
     """
-
+    
     def __init__(self):
         """Initializes the SBE43Calibration Class."""
 
@@ -143,7 +140,7 @@ class CTDCalibration(Calibration):
                 if child.tag == 'CalibrationDate' and child.text is not None \
                                 and self.date is None:
                     self.date = datetime.datetime.strptime(
-                        child.text, '%d-%b-%y').strftime('%Y%m%d')
+                        child.text, '%d-%b-%y')
 
                 name = self.coefficient_name_map.get(key)
                 o2_name = self.o2_coefficients_map.get(key)
@@ -181,8 +178,8 @@ class CTDCalibration(Calibration):
                     self.serial += value
 
                 if key == 'CCALDATE':
-                    self.date = datetime.datetime.strptime(value, '%d-%b-%y')\
-
+                    self.date = datetime.datetime.strptime(value, '%d-%b-%y')
+                    
                 name = self.coefficient_name_map.get(key)
                 if not name:
                     continue
@@ -190,7 +187,11 @@ class CTDCalibration(Calibration):
                 self.coefficients[name] = value
         fh.close()
 
-    def write_cal_info(self):
+    def write_cal_info(self, file):
+        """Writes data to a CSV file in the format defined by OOI integration.
+           Also deletes the file used for creating the CSV file.
+        """
+
         inst_type = None
         if not self.get_uid():
             return
@@ -227,9 +228,11 @@ class CTDCalibration(Calibration):
             if inst_type.startswith('CTDPF'):
                 writer.writerow([self.serial, 'CC_offset', 0, ''])
             info.close()
+        os.remove(file)
 
 
 def main():
+    """ Main entry point of the app """
     for path, _, files in os.walk('CTD/manufacturer'):
         for file in files:
             # Skip hidden files

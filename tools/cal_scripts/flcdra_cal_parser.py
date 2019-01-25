@@ -6,6 +6,10 @@ Create the necessary CI calibration ingest information from a FLCDRA
 calibration file.
 """
 
+__author__ = "Daniel Tran"
+__version__ = "0.1.0"
+__license__ = "MIT"
+
 import csv
 import datetime
 import os
@@ -58,6 +62,8 @@ class FLCDRACalibration(Calibration):
 
 
 def main():
+    """ Main entry point of the app """
+
     for path, _, files in os.walk('FLCDRA/manufacturer'):
         for file in files:
             # Skip hidden files
@@ -65,8 +71,7 @@ def main():
                 continue
             cal = FLCDRACalibration()
             cal.read_cal(os.path.join(path, file))
-            cal.write_cal_info()
-            cal.move_to_archive(cal.type, file)
+            cal.write_cal_info(os.path.join(path, file))
 
 
 if __name__ == '__main__':

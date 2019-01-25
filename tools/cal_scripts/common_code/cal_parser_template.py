@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
-'''
+"""
 Common code shared between the different parsers in this file. Includes a
 Calibration object that defines some default fields and functions.
 Also includes a function to parse through a csv that shows the link
 between serial numbers and UIDs.
-'''
+"""
+
+__author__ = "Daniel Tran"
+__version__ = "0.1.0"
+__license__ = "MIT"
+
 import csv
 import datetime
 import os
@@ -45,8 +50,10 @@ class Calibration(object):
         self.type = type
 
 
-    def write_cal_info(self):
-        """Writes data to a CSV file in the format defined by OOI integration"""
+    def write_cal_info(self, file):
+        """Writes data to a CSV file in the format defined by OOI integration.
+           Also deletes the file used for creating the CSV file.
+        """
 
         if not self.get_uid():
             return
@@ -62,12 +69,13 @@ class Calibration(object):
                 row.append('')
                 writer.writerow(row)
             info.close()
+        os.remove(file)
 
 
     def move_to_archive(self, inst_type, file):
         """Moves parsed calibration file to the manufacturer_ARCHIVE
            directory.
-
+           DEPRECATED 2019-01-24
         Args:
             inst_type (str): type of instrument that indicates which folder to
                              move in the calibration directory.
@@ -78,13 +86,13 @@ class Calibration(object):
         os.rename(os.path.join(os.getcwd(), inst_type, 'manufacturer', file), \
                     os.path.join(os.getcwd(), inst_type,
                                  'manufacturer_ARCHIVE', file))
-
+        
 
     def get_uid(self):
         """Retrieves the ASSET UID of the instrument according to its serial number.
 
         Returns:
-            True if a UID is found. False otherwise.
+            True if a corresponding UID is found. False otherwise.
 
         """
         # TODO: Implementation involving sensor bulk load.

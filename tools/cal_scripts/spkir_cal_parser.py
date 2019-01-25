@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-
 """
 SPKIRA Calibration Parser
 Create the necessary CI calibration ingest information from a SPKIRA
 calibration file.
 """
+
+__author__ = "Daniel Tran"
+__version__ = "0.1.0"
+__license__ = "MIT"
 
 import csv
 import datetime
@@ -76,6 +79,8 @@ class SPKIRCalibration(Calibration):
 
 
 def main():
+    """ Main entry point of the app """
+
     for path, _, files in os.walk('SPKIRA/manufacturer'):
         for file in files:
             # Skip hidden files
@@ -83,8 +88,7 @@ def main():
                 continue
             cal = SPKIRCalibration()
             cal.read_cal(os.path.join(path, file))
-            cal.write_cal_info()
-            cal.move_to_archive(cal.type, file)
+            cal.write_cal_info(os.path.join(path, file))
 
 
 if __name__ == '__main__':
