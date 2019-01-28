@@ -24,6 +24,41 @@ These scripts are based on those written by Dan Mergens, who developed the origi
 
 Clone the repository into your local machine. In the repository, there are a set of directories of each of the supported instrument types. Navigate to the repository in your preferred terminal or a file explorer system. There are a series of folders which contain the parsers and subdirectories containing manufacturer calibration files and completed csv files. Put the manufacturer calibration files in the "manufacturer" directory. The parsers will search for the files in this folder while it is running.
 
+## File Structure
+
+    .
+    ├── common_code             # Common code shared among all parsers
+    # This section is where instrument calibration sheets from manufacturers
+    should be placed so the script knows where to look for sheets. Place them
+    in the appropriate calibration directory.
+    ├── CTD                       
+    |   ├── manufacturer        # Place manufaturer calibration files here to be scripted   
+    ├── FLCDRA                    
+    |   ├── manufacturer        # Place manufaturer calibration files here to be scripted   
+    ├── FLNTUA                    
+    |   ├── manufacturer        # Place manufaturer calibration files here to be scripted   
+    ├── FLOR                      
+    |   ├── manufacturer        # Place manufaturer calibration files here to be scripted   
+    ├── NUTNRA
+    |   ├── manufacturer        # Place manufaturer calibration files here to be scripted   
+    ├── OPTAA
+    |   ├── manufacturer        # Place manufaturer calibration files here to be scripted   
+    ├── PARADA
+    |   ├── manufacturer        # Place manufaturer calibration files here to be scripted   
+    ├── SPKIRA
+    |   ├── manufacturer        # Place manufaturer calibration files here to be scripted   
+    ├── ctd_cal_parser.py       # Script that parses CTD calibration files
+    ├── dofsta_cal_parser.py    # Script that parses DOFSTA calibration files
+    ├── flcdra_cal_parser.py    # Script that parses FLCDRA calibration files
+    ├── flntua_cal_parser.py    # Script that parses FLNTUA calibration files
+    ├── flor_cal_parser.py      # Script that parses FLOR calibrations files
+    ├── nutnr_cal_parser.py     # Script that parses NUTNR calibration files
+    ├── optaa_cal_parser.py     # Script that parses OPTAA calibration files
+    ├── parada_cal_parser.py    # Script that parses PARADA calibrations files
+    ├── spkira_cal_parser.py    # Script that parses SPKIRA calibrations files
+    ├── instrumentLookUp.db     # Lookup table in db mapping serial numbers to ASSET_UIDs
+    └── README.md
+
 ### Prerequisites
 
 * Python 3.x
@@ -72,6 +107,7 @@ pip install <package>
 ```
 
 ## Running the code
+First place the calibration files in their designated directories under the manufacturer directory. You may need to create a new manufacturer folder to hold it. After performing this step, you can run the script by simply calling it.
 
 To run the script, call it in this format.
 
@@ -119,4 +155,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Dan Mergens for starting the calibration scripts
 
-Last updated 17th January 2019
+Last updated 27th January 2019

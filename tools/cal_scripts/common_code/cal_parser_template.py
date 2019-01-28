@@ -24,12 +24,12 @@ class Calibration(object):
 
     Attributes:
         asset_tracking_number (str): Asset UID
-        serial (str): Serial number associated with the instrument
+        serial (str): Serial number associated with the instrument.
         date (datetime): Date when the calibration was performed
         coefficients (dict): Dictionary containing all the relevant coefficients
                              associated with the instrument. These values will
                              be written to the appropriate CSV file.
-        type (str): the type of instrument the calibration file is for.
+        type (str): Type of instrument the calibration file is for.
 
     """
 
@@ -38,9 +38,11 @@ class Calibration(object):
         """Initializes the Calibration Class.
         
         Args:
-            type (str): instrument
-            serial (str):
-            coefficients (dict):
+            type (str): Type of instrument the calibration file is for.
+            serial (str): Serial number associated with the instrument.
+            coefficients (dict): Dictionary of coefficient labels with their
+                                 numerical values.
+
         """
 
         self.asset_tracking_number = asset_tracking_number
@@ -53,6 +55,10 @@ class Calibration(object):
     def write_cal_info(self, file):
         """Writes data to a CSV file in the format defined by OOI integration.
            Also deletes the file used for creating the CSV file.
+
+           Args:
+               file (str): name of calibration file to delete.
+
         """
 
         if not self.get_uid():
@@ -75,11 +81,11 @@ class Calibration(object):
     def move_to_archive(self, inst_type, file):
         """Moves parsed calibration file to the manufacturer_ARCHIVE
            directory.
-           DEPRECATED 2019-01-24
+           DEPRECATED 2019-01-24 Protocol now is to delete file.
         Args:
             inst_type (str): type of instrument that indicates which folder to
                              move in the calibration directory.
-            file (str): name of the file to move
+            file (str): name of the file to move.
 
         """
 

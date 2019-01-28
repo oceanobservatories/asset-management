@@ -21,14 +21,16 @@ class NUTNRCalibration(Calibration):
     """Calibration class for NUTNR instruments.
     
     Attributes:
-        cal_temp (float):
-        wavelengths (list): wavelengths used during calibration
-        eno3 (list):
-        eswa (list):
-        di (list):
-        lower_limit (int):
-        upper_limit (int):
-        coefficients (dict): values that are stored and needed in the CSVs
+        cal_temp (float): Temperature at which calibrations were performed.
+        wavelengths (list): Wavelengths used during calibration.
+        eno3 (list): NO3 concentrations at different calibration wavelengths.
+        eswa (list): Salt water bins at different calibration wavelengths.
+        di (list): DI water bins at different calibrations.
+        lower_limit (int): lower wavelength bound. Default of 217 nm
+        upper_limit (int): upper wavelength bound. Default of 240 nm
+        coefficients (dict): Dictionary containing all the relevant coefficients
+                             associated with the instrument. These values will
+                             be written to the appropriate CSV file.
 
     """
 

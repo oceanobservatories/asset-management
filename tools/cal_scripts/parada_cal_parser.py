@@ -22,8 +22,8 @@ class PARADACalibration(Calibration):
     """Calibration class for PARADA instruments.
 
     Attributes:
-        dark (int): counts
-        scale (float):
+        dark (int): counts used in CDOM calculations.
+        scale (float): scale factor used in CDOM calculations.
 
     """
 
@@ -39,6 +39,7 @@ class PARADACalibration(Calibration):
 
         Arguments:
             filename (str) -- path to the calibration file.
+
         """
 
         with open(filename) as fh:
@@ -63,7 +64,7 @@ class PARADACalibration(Calibration):
 
 
 def main():
-    """ Main entry point of the app """
+    """Main entry point of the script."""
 
     for path, _, files in os.walk('PARADA/manufacturer'):
         for file in files:

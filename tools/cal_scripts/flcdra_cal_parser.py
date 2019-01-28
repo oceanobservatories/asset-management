@@ -23,8 +23,8 @@ class FLCDRACalibration(Calibration):
     """Calibration class for FLCDRA instruments.
 
     Attributes:
-        dark (int): counts
-        scale (float):
+        dark (int): counts used in CDOM calculations.
+        scale (float): scale factor used in CDOM calculations.
 
     """
 

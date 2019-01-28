@@ -20,16 +20,25 @@ from common_code.cal_parser_template import Calibration
 
 
 class FLORCalibration(Calibration):
+    """Calibration class for FLCDRA instruments.
+
+    Attributes:
+        chl (tuple): Dark count and scale factor values using chlorophyll 
+                     concentrations.
+        vol (tuple): Dark count and scale factor values using volume scatter.
+        cdom (tuple): Dark count and scale factor values using CDOM.
+        coefficients (dict): Dictionary containing all the relevant coefficients
+                             associated with the instrument. These values will
+                             be written to the appropriate CSV file.
+
+    """
+    
     def __init__(self):
         """Initializes the NUTNRACalibration Class."""
-
+        super(FLORCalibration, self).__init__('FLORDD')
         self.cdom = None
         self.chl = None
         self.vol = None
-        self.asset_tracking_number = None
-        self.serial = None
-        self.date = None
-        self.type = 'FLORDD'
         self.coefficients = {
             'CC_angular_resolution': 1.076,
             'CC_depolarization_ratio': 0.039,

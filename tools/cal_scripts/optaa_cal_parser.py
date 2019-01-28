@@ -21,23 +21,22 @@ from common_code.cal_parser_template import Calibration
 
 
 class OPTAACalibration(Calibration):
-    """[summary]
+    """Calibration class for OPTAA instruments.
 
     Attrs:
-        asset_tracking_number (str)
-        cwlngth (list)
-        awlngth (list)
-        tcal (float)
-        tbins (list)
-        ccwo (list)
-        acwo (list)
-        tcarray (list)
-        taarray (list)
-        nbins (list)
-        serial (str)
-        date (datetime)
-        coefficients (dict)
-        type (str)
+        cwlngth (list): Wavelengths for c calibrations.
+        awlngth (list): Wavelengths for a calibrations.
+        tcal (float): Water temperature in flow tubes during water calibration.
+        tbins (list): Temperature bins used for calibrations.
+        ccwo (list): Factory water calibration offsets for c calibrations.
+        acwo (list): Factory water calibration offsets for a calibrations.
+        tcarray (list): Temperature correction bins used for c calibrations.
+        taarray (list): Temperature correction bins used for a calibrations.
+        nbins (list): Number of temperature bins. 
+        coefficients (dict): Dictionary containing all the relevant coefficients
+                             associated with the instrument. These values will
+                             be written to the appropriate CSV file.
+
     """
 
     def __init__(self, serial):
@@ -47,6 +46,7 @@ class OPTAACalibration(Calibration):
             serial (str): serial number for the OPTAA
 
         """
+        
         super(OPTAACalibration, self).__init__('OPTAA', serial)
         self.cwlngth = []
         self.awlngth = []
@@ -56,7 +56,7 @@ class OPTAACalibration(Calibration):
         self.acwo = []
         self.tcarray = []
         self.taarray = []
-        self.nbins = None  # number of temperature bins
+        self.nbins = 0  # number of temperature bins
         self.coefficients = {
             'CC_taarray': 'SheetRef:CC_taarray',
             'CC_tcarray': 'SheetRef:CC_tcarray'
@@ -67,6 +67,7 @@ class OPTAACalibration(Calibration):
 
         Arguments:
             filename (str) -- path to the calibration file.
+
         """
 
         with open(filename, 'r') as fh:
@@ -148,7 +149,7 @@ class OPTAACalibration(Calibration):
 
 
 def main():
-    """ Main entry point of the app """
+    """Main entry point of the script."""
     for path, _, files in os.walk('OPTAA/manufacturer'):
         for file in files:
             # Skip hidden files

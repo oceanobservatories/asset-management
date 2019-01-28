@@ -20,13 +20,12 @@ class FLNTUACalibration(Calibration):
     """Calibration class for FLNTUA instruments.
 
     Attributes:
-        chl (int): Description of `attr1`.
-        vol (int):
-        asset_tracking_number (str)
-        serial (str)
-        date (datetime)
-        coefficients (dict): Description of `attr2`.
-        type (str)
+        chl (tuple): Dark count and scale factor values using chlorophyll 
+                     concentrations.
+        vol (tuple): Dark count and scale factor values using volume scatter.
+        coefficients (dict): Dictionary containing all the relevant coefficients
+                             associated with the instrument. These values will
+                             be written to the appropriate CSV file.
 
     """
 
@@ -44,10 +43,16 @@ class FLNTUACalibration(Calibration):
         self.vol = None
 
     def read_cal(self, filename):
-        """Reads cal file and scrapes it for calibration values.
-
-        Arguments:
-            filename (str) -- path to the calibration file.
+        """Reads cal file and scrapes it for calibration values. Rejects
+           file if NTU file given and not volume scatter.
+        
+            Arguments:
+                filename (str) -- path to the calibration file.
+        
+            Returns:
+                True if file parsed successfully with volume scatter values.
+                False if NTU file given. 
+        
         """
 
         with open(filename, 'r') as fh:

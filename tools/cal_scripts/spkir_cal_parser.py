@@ -25,9 +25,12 @@ class SPKIRCalibration(Calibration):
     """Calibration class for DOFSTA instruments.
 
     Attributes:
-        immersion_factor (list):
-        offset (list):
-        scale (list):
+        immersion_factor (list): factors used in calculations at different 
+                                 wavelengths.
+        offset (list): offsets used in calculations at different 
+                                 wavelengths.
+        scale (list): scale factors used in calculations at different 
+                                 wavelengths.
 
     """
 
@@ -44,6 +47,7 @@ class SPKIRCalibration(Calibration):
 
         Arguments:
             filename (str) -- path to the calibration file.
+
         """
 
         with open(filename) as fh:
@@ -79,7 +83,7 @@ class SPKIRCalibration(Calibration):
 
 
 def main():
-    """ Main entry point of the app """
+    """Main entry point of the script."""
 
     for path, _, files in os.walk('SPKIRA/manufacturer'):
         for file in files:

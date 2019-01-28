@@ -24,7 +24,8 @@ class SBE43Calibration(Calibration):
 
     Attributes:
         coefficient_name_map (dict): translation of vendor calibration sheet 
-                                     vocabulary to 
+                                     vocabulary to OOI equivalent that is
+                                     used in CSVs.
 
     """
 

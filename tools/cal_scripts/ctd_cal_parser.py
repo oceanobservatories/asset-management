@@ -22,14 +22,22 @@ class CTDCalibration(Calibration):
     """Calibration class for DOFSTA instruments.
 
     Attributes:
-        asset_tracking_number (str): Asset UID
-        serial (str): Serial number associated with the instrument
+        asset_tracking_number (str): Asset UID associated with this
+                                     instrument.
+        serial (str): Serial number associated with this instrument
         date (datetime): Date when the calibration was performed
         coefficients (dict): dictionary containing all the relevant
                              coefficients associated with the instrument.
-        o_series_coefficients_map (dict): 
-        coefficients_name_map (dict)
-        o2_coefficients_map (dict): 
+        o_series_coefficients_map (dict): Mapping of vocab in manufacturer
+                                          calibration sheet to OOI equivalent
+                                          that is used in CSVs for O series 
+                                          CTDs.
+        coefficients_name_map (dict): Mapping of vocab in manufacturer
+                                      calibration sheet to OOI equivalent
+                                      that is used in CSVs for all CTDs.
+        o2_coefficients_map (dict): Mapping of oxygen vocab in manufacturer
+                                    calibration sheet to OOI equivalent
+                                    that is used in CSVs for all CTDs.
 
     """
     
@@ -190,6 +198,9 @@ class CTDCalibration(Calibration):
     def write_cal_info(self, file):
         """Writes data to a CSV file in the format defined by OOI integration.
            Also deletes the file used for creating the CSV file.
+
+           Args:
+               file (str): name of calibration file to delete.
         """
 
         inst_type = None
@@ -232,7 +243,7 @@ class CTDCalibration(Calibration):
 
 
 def main():
-    """ Main entry point of the app """
+    """Main entry point of the script."""
     for path, _, files in os.walk('CTD/manufacturer'):
         for file in files:
             # Skip hidden files
