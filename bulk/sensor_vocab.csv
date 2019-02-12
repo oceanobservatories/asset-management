@@ -49,9 +49,6 @@ Bulk Meteorology Instrument Package: METBK SWR Module,Star Engineering,ABS105-SW
 Bulk Meteorology Instrument Package: METBK WND Module,Star Engineering,ABS101-SWND
 Cabled Wire-Following Profiler Controller: Docking Station,APL,DP Docking Station
 CDOM Fluorometer: FLCDR Series A,WET Labs,FLCDRTD
-Coastal Surface Piercing Profiler Controller,WET Labs,AMP
-Coastal Wire-Following Profiler Controller,McLane,MMP-7
-Communications and Power Manager,WHOI,CPM
 CTD for Glider: CTDGV Series M,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD)
 CTD Mooring (Inductive): CTDMO Series G,Sea-Bird Electronics,SBE 37-IM
 CTD Mooring (Inductive): CTDMO Series H,Sea-Bird Electronics,SBE 37-IM
@@ -70,7 +67,6 @@ CTD Pumped: CTDBP Series F,Sea-Bird Electronics,SBE 16plus V2
 CTD Pumped: CTDBP Series N,Sea-Bird Electronics,SBE 16plus V2
 CTD Pumped: CTDBP Series O,Sea-Bird Electronics,SBE 16plus V2
 CTD Pumped: CTDBP Series P,Sea-Bird Electronics,SBE 16plus-IM V2
-Data Concentrator Logger,WHOI,DCL
 Diffuse Vent Fluid 3-D Temperature Array: TMPSF Series A,RBR Global,XR-420-T24
 Direct Covariance Flux: FDCHP Series A,WHOI,DCFS
 Dissolved Oxygen Fast Response: DOFST Series A,Sea-Bird Electronics,SBE 43
@@ -79,7 +75,6 @@ Dissolved Oxygen Stable Response for Glider: DOSTA Series M,Aanderaa,Optode 4831
 Dissolved Oxygen Stable Response: DOSTA Series D,Aanderaa,Optode 4831
 Dissolved Oxygen Stable Response: DOSTA Series J,Aanderaa,Optode 4831
 Dissolved Oxygen Stable Response: DOSTA Series L,Aanderaa,Optode 4330
-Global Wire-Following Profiler Controller,McLane,MMP 210-3512
 HD Digital Video Camera with Strobes: CAMHD Series A,APL,Custom
 "Horizontal Electric Field, Pressure and Inverted Echo Sounder: HPIES Series A",APL,Custom
 Hydrogen Sensor: HYDGN,RKI Instruments,M2A transmitters
@@ -87,13 +82,6 @@ Hydrothermal Vent Fluid In-situ Chemistry: THSPH Series A,University of Minnesot
 Hydrothermal Vent Fluid Interactive Sampler (Remote Access Sampler): RASFL Series A,NOAA-PMEL,RASPPS
 Hydrothermal Vent Fluid Temperature and Resistivity: TRHPH Series A,"Marv Lilley Lab, UW",Custom
 Low Frequency Broadband Acoustic Receiver (Hydrophone): HYDLF Series A,HTI,HTI-90-U
-Mobile Asset Controller for Coastal Glider,Teledyne Webb,G2 Slocum Gliders
-Mobile Asset Controller for Profiling Glider,Teledyne Webb,G2 Slocum Gliders
-Mobile Asset Controller for Open Ocean Glider,Teledyne Webb,G2 Slocum Gliders
-Multi-Function Node Communications and Power Manager,WHOI,CPM
-Multi-Function Node Data Concentrator Logger,WHOI,DCL
-Near Surface Instrument Frame Communications and Power Manager,WHOI,CPM
-Near Surface Instrument Frame Data Concentrator Logger,WHOI,DCL
 Nitrate for Glider: NUTNR Series M,Satlantic,SUNA
 Nitrate: NUTNR Series A,Satlantic,Deep SUNA
 Nitrate: NUTNR Series B,Satlantic,ISUS
@@ -120,7 +108,6 @@ Seawater pH: PHSEN Series A,Sunburst Sensors,SAMI-pH
 Seawater pH: PHSEN Series D,Sunburst Sensors,SAMI-pH
 Seawater pH: PHSEN Series E,Sunburst Sensors,SAMI-pH
 Seawater pH: PHSEN Series F,Sunburst Sensors,SAMI-pH
-Sensor and Telemetry Platform Controller,WHOI,STC
 Short-Period Ocean Bottom Seismometer 1 to 100Hz: OBSSP Series A,Guralp,CMG-6TF
 Single Point Velocity Meter: VELPT Series A,Nortek,Aquadopp
 Single Point Velocity Meter: VELPT Series B,Nortek,Aquadopp
@@ -132,16 +119,12 @@ Spectral Irradiance: SPKIR Series J,Satlantic,OCR507 ICSW w/ Bioshutter II (Midr
 Spectrophotometer: OPTAA Series C,WET Labs,AC-S Deep
 Spectrophotometer: OPTAA Series D,WET Labs,AC-S
 Spectrophotometer: OPTAA Series J,WET Labs,AC-S
-Subsurface Mooring Platform Controller,SIO,Subsurface Mooring Controller
-Surface Buoy Communications and Power Manager,WHOI,CPM
-Surface Buoy Data Concentrator Logger,WHOI,DCL
 Surface Wave Spectra: WAVSS Series A,AXYS Technologies,TRIAXYS Directional Wave Sensor
 "Tidal Seafloor Pressure (Tsunameter 2,000 psia): PREST Series B",Sea-Bird Electronics,SBE 54
 "Tidal Seafloor Pressure (Tsunameter 6,000 psia): PREST Series A",Sea-Bird Electronics,SBE 54
 Underwater Digital Still Camera: CAMDS Series A,Kongsberg Underwater Technology Inc,Custom
 Underwater Digital Still Camera: CAMDS Series B,Kongsberg Underwater Technology Inc,Custom
 Underwater Digital Still Camera: CAMDS Series C,Kongsberg Underwater Technology Inc,Custom
-Mobile Asset Controller for Coastal AUV,Hydroid,AUV
 3-Wavelength Flourometer for AUV: FLORT Series N,WET Labs,BBFL2HYD
 Dissolved Oxygen for AUV: DOSTA Series N,Aanderaa,Optode 4330
 CTD for AUV: CTD Series N,Sea-Bird Electronics,SBE AUV Payload CTD

@@ -152,3 +152,16 @@ This folder contains scripts used to transform this CSV data into XLSX files as 
 
 This folder contains scripts used to transform calibration data sheets from instrument manufacturers into calibration CSV files. These
 are organized by instrument type.
+
+### vessel
+
+This folder contains the shiplist.csv file. The shiplist.csv file is a direct copy of the ship data provided by the 
+Rolling Deck to Repository (R2R) program at http://www.rvdata.us/voc/vessel. The entries therein identify the ships 
+for which R2R takes cruise Digital Object Identifier (DOI) minting responsibility. Ships that are not tracked by R2R 
+should be omitted from the shiplist.csv file - the OOI CI may still record their cruise data and will take 
+responsibility for minting their cruise DOIs.
+
+### vocab
+
+This folder contains the vocab.csv file and a script for ingesting vocab records, vocab_csv_ingest.py. The vocab 
+entries in the vocab.csv file associate reference designators with other metadata, particularly TOC identifiers.
