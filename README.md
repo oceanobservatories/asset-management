@@ -165,3 +165,5 @@ responsibility for minting their cruise DOIs.
 
 This folder contains the vocab.csv file and a script for ingesting vocab records, vocab_csv_ingest.py. The vocab 
 entries in the vocab.csv file associate reference designators with other metadata, particularly TOC identifiers.
+
+Searching for admins - please respond and forward the admin rights for this organization (ooi-integration).
