@@ -68,9 +68,9 @@ fclose(fid);
 idx = find(~cellfun(@isempty, strfind(C{2},'BBFL2W-')), 1);
 if ~isempty(idx)
     idx_ch = strfind(C{2}{idx}, 'BBFL2W-');
-    sernum = str2double(C2}{idx}(idx_ch+7:end));
+    sernum = str2double(C{2}{idx}(idx_ch+7:end));
 else
-    idx = find(~cellfun(@isempty, strfind(C{1},'BBFL2-')), 1);
+    idx = find(~cellfun(@isempty, strfind(C{2},'BBFL2-')), 1);
     if ~isempty(idx)
         idx_ch = strfind(C{2}{idx}, 'BBFL2-');
         sernum = str2double(C{2}{idx}(idx_ch+6:end));
