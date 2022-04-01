@@ -1,4 +1,39 @@
 ASSET_UID,LEGACY_ASSET_UID,TYPE,Mobile,DESCRIPTION OF EQUIPMENT,MIO_Inventory_Description,Manufacturer,Model,Manufacturer's Serial No./Other Identifier,Firmware Version,ACQUISITION DATE,ORIGINAL COST,comments,MIO
+3703-00051-00001-00087,,Sensor,0,Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00051-00001-00087,,,,,Woods Hole Oceanographic Institution
+3703-00051-00001-00090,,Sensor,0,Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00051-00001-00090,,,,,Woods Hole Oceanographic Institution
+3703-00051-00001-00099,,Sensor,0,Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00051-00001-00099,,,,,Woods Hole Oceanographic Institution
+3703-00051-00001-00100,,Sensor,0,Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00051-00001-00100,,,,,Woods Hole Oceanographic Institution
+3703-00051-00001-01072,,Sensor,0,Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00051-00001-01072,,,,,Woods Hole Oceanographic Institution
+3703-00051-00001-01073,,Sensor,0,Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00051-00001-01073,,,,,Woods Hole Oceanographic Institution
+3703-00051-00001-01076,,Sensor,0,Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00051-00001-01076,,,,,Woods Hole Oceanographic Institution
+3703-00051-00001-01077,,Sensor,0,Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00051-00001-01077,,,,,Woods Hole Oceanographic Institution
+3703-00051-00001-01078,,Sensor,0,Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00051-00001-01078,,,,,Woods Hole Oceanographic Institution
+3703-00051-00001-01079,,Sensor,0,Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00051-00001-01079,,,,,Woods Hole Oceanographic Institution
+3703-00051-00001-01081,,Sensor,0,Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00051-00001-01081,,,,,Woods Hole Oceanographic Institution
+3703-00051-00001-01082,,Sensor,0,Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00051-00001-01082,,,,,Woods Hole Oceanographic Institution
+3717-00004-00001-00002,,Sensor,0,Sensor and Telemetry Controller,Sensor and Telemetry Controller,WHOI,STC,3717-00004-00001-00002,,,,,Woods Hole Oceanographic Institution
+3717-00004-00001-00003,,Sensor,0,Sensor and Telemetry Controller,Sensor and Telemetry Controller,WHOI,STC,3717-00004-00001-00003,,,,,Woods Hole Oceanographic Institution
+3717-00004-00001-00007,,Sensor,0,Sensor and Telemetry Controller,Sensor and Telemetry Controller,WHOI,STC,3717-00004-00001-00007,,,,,Woods Hole Oceanographic Institution
+3717-00004-00001-00008,,Sensor,0,Sensor and Telemetry Controller,Sensor and Telemetry Controller,WHOI,STC,3717-00004-00001-00008,,,,,Woods Hole Oceanographic Institution
+3717-00004-00001-00010,,Sensor,0,Sensor and Telemetry Controller,Sensor and Telemetry Controller,WHOI,STC,3717-00004-00001-00010,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00008,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00008,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00014,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00014,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00046,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00046,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00051,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00051,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00053,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00053,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00054,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00054,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00055,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00055,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00056,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00056,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00057,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00057,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00058,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00058,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00061,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00061,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00062,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00062,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00066,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00066,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00068,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00068,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00069,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00069,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00071,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00071,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00072,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00072,,,,,Woods Hole Oceanographic Institution
+3718-00001-00001-00074,,Sensor,0,Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3718-00001-00001-00074,,,,,Woods Hole Oceanographic Institution
 CGCON-AUVPNR-06263,,Sensor,1,Mobile Asset Controller for Coastal AUV,A6263 Controller,Hydroid,AUV,6263,,,,,Woods Hole Oceanographic Institution
 CGCON-AUVPNR-06264,,Sensor,1,Mobile Asset Controller for Coastal AUV,A6264 Controller,Hydroid,AUV,6264,,,,,Woods Hole Oceanographic Institution
 CGCON-BCPM01-00001,OL000483,Sensor,0,Surface Buoy Communications and Power Manager,Communications and Power Manager,WHOI,CPM,0001,,,,CP01CNSM-00001-CPM1,Woods Hole Oceanographic Institution
