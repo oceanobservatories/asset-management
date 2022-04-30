@@ -1,0 +1,7 @@
+serial,name,value,notes
+43-2726,CC_frequency_offset,-8.321104e+002, source_file DOFST-K_SBE43F_SN_2726_Calibration_2022-02-08.zip > 2726.CAL and SBE 43F O2726 SOCAdjusted 17Feb22.pdf
+43-2726,CC_oxygen_signal_slope,3.4167e-004, adjusted Soc value
+43-2726,CC_residual_temperature_correction_factor_a,-4.458676e-003,
+43-2726,CC_residual_temperature_correction_factor_b,1.736493e-004,
+43-2726,CC_residual_temperature_correction_factor_c,-2.283460e-006,
+43-2726,CC_residual_temperature_correction_factor_e,3.600000e-002,

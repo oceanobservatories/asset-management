@@ -1,0 +1,8 @@
+serial,name,value,notes
+P0080,CC_ea434,17372.0, source_file PHSEN-F_SAMI-pH_SN_P0080_Validation_Files_2022-04-01.zip > SAMI_P0080_010422T_ValCert.pdf
+P0080,CC_ea578,94.1,
+P0080,CC_eb434,2284.0,
+P0080,CC_eb578,38676.0,
+P0080,CC_ind_off,0,
+P0080,CC_ind_slp,1,
+P0080,CC_psal,35,Constant
