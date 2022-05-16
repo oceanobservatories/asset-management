@@ -7,6 +7,7 @@ the link between serial numbers and UIDs.
 import csv
 import datetime
 import os
+import pandas as pd
 import sqlite3
 import sys
 import time
@@ -20,7 +21,7 @@ class Calibration(object):
         self.type = None
 
     def write_cal_info(self):
-        if not self.get_uid():
+        if not self.assetID_lookup():
             return
         complete_path = os.path.join(os.path.realpath('../..'), 'calibration', self.type)
         file_name = self.asset_tracking_number + '__' + self.date
@@ -33,22 +34,20 @@ class Calibration(object):
                 writer.writerow(row)
 
     def move_to_archive(self, inst_type, file):
+        archive_file = self.asset_tracking_number + '__' + self.date + '.marks'
         os.rename(os.path.join(os.getcwd(), inst_type, 'manufacturer', file), \
-                    os.path.join(os.getcwd(), inst_type, 'manufacturer_ARCHIVE', file))
+                    os.path.join(os.getcwd(), inst_type, 'manufacturer_ARCHIVE', archive_file))
     
-    def get_uid(self):
-        sql = sqlite3.connect('instrumentLookUp.db')
-        uid_query_result = sql.execute('select uid from instrument_lookup where serial=:sn',\
-                                             {'sn':self.serial}).fetchone()
-        if len(uid_query_result) != 1:
-            return False
-        self.asset_tracking_number = uid_query_result[0]
-        return True
+    def assetID_lookup(self):
+        rca_sensorMap = pd.read_csv('RCA_sensorMap.csv')
+        dictKeys = set(rca_sensorMap['instrumentType']) 
+        sensorDict = {}
+        for item in dictKeys:
+            sensorDict[item] = {}
+        for index, row in rca_sensorMap.iterrows():
+            sensorDict[row['instrumentType']][row['assetID']] = row['mfgSN']
+        for key, value in sensorDict[self.type].items():
+            if self.serial in value:
+                self.asset_tracking_number = key
+                return True
 
-def get_uid_serial_mapping(csv_name):
-    lookup = {}
-    with open(csv_name, 'rb') as csvfile:
-        reader = csv.DictReader(csvfile, delimiter=',')
-        for row in reader:
-            lookup[row['serial']] = row['uid']
-    return lookup

@@ -5,12 +5,10 @@ serial,name,value,notes
 16-7232,CC_a3,1.91015841e-007,
 16-7232,CC_cpcor,-9.57000000e-008,
 16-7232,CC_ctcor,3.2500e-006,
-16-7232,CC_frequency_offset,-0.4512,
 16-7232,CC_g,-9.71662954e-001,
 16-7232,CC_h,1.34200860e-001,
 16-7232,CC_i,-2.55402557e-004,
 16-7232,CC_j,3.65853465e-005,
-16-7232,CC_oxygen_signal_slope,5.2254e-001,
 16-7232,CC_pa0,2.68596113e-002,
 16-7232,CC_pa1,1.55036407e-003,
 16-7232,CC_pa2,7.69474806e-012,
@@ -23,8 +21,11 @@ serial,name,value,notes
 16-7232,CC_ptempa0,-5.29246556e+001,
 16-7232,CC_ptempa1,5.60635948e+001,
 16-7232,CC_ptempa2,-4.39127925e-001,
-16-7232,CC_residual_temperature_correction_factor_a,-4.1281e-003,
-16-7232,CC_residual_temperature_correction_factor_b, 1.9735e-004,
-16-7232,CC_residual_temperature_correction_factor_c,-2.9752e-006,
-16-7232,CC_residual_temperature_correction_factor_e, 3.6000e-002,
 16-7232,CC_offset,0,
+16-7232,CC_frequency_offset,-4.512248e-001,copied from DOFSTA/ATAPL-58694-00002__20160210.csv SN 43-2484
+16-7232,CC_oxygen_signal_slope,5.225431e-001,copied from DOFSTA/ATAPL-58694-00002__20160210.csv SN 43-2484
+16-7232,CC_residual_temperature_correction_factor_a,-4.128051e-003,copied from DOFSTA/ATAPL-58694-00002__20160210.csv SN 43-2484
+16-7232,CC_residual_temperature_correction_factor_b,1.973483e-004,copied from DOFSTA/ATAPL-58694-00002__20160210.csv SN 43-2484
+16-7232,CC_residual_temperature_correction_factor_c,-2.975241e-006,copied from DOFSTA/ATAPL-58694-00002__20160210.csv SN 43-2484
+16-7232,CC_residual_temperature_correction_factor_e,3.600000e-002,copied from DOFSTA/ATAPL-58694-00002__20160210.csv SN 43-2484
+16-7232,CC_voltage_offset,-4.512248e-001,copied from DOFSTA/ATAPL-58694-00002__20160210.csv SN 43-2484

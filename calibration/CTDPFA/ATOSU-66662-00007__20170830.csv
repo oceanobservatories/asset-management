@@ -9,7 +9,6 @@ serial,name,value,notes
 16-50019,CC_h,1.43566835e-001,
 16-50019,CC_i,-2.02529943e-004,
 16-50019,CC_j,3.69761032e-005,
-16-50019,CC_oxygen_signal_slope,5.1278e-001,from 2853.cal - using sbe43_cal_parser.py
 16-50019,CC_pa0,1.08292374e-001,
 16-50019,CC_pa1,1.54632903e-003,
 16-50019,CC_pa2,6.89204481e-012,
@@ -22,9 +21,11 @@ serial,name,value,notes
 16-50019,CC_ptempa0,-6.56318225e+001,
 16-50019,CC_ptempa1,5.20705808e+001,
 16-50019,CC_ptempa2,-2.90620166e-001,
-16-50019,CC_residual_temperature_correction_factor_a,-3.7397e-003,
-16-50019,CC_residual_temperature_correction_factor_b,1.7162e-004,
-16-50019,CC_residual_temperature_correction_factor_c,-2.1638e-006,
-16-50019,CC_residual_temperature_correction_factor_e,3.6000e-002,
-16-50019,CC_voltage_offset,-0.5280,
 16-50019,CC_offset,0,
+16-50019,CC_frequency_offset,-5.223712e-001,copied from DOFSTA/ATOSU-58694-00004__20180314.csv SN 43-2853
+16-50019,CC_oxygen_signal_slope,5.205775e-001,copied from DOFSTA/ATOSU-58694-00004__20180314.csv SN 43-2853
+16-50019,CC_residual_temperature_correction_factor_a,-3.921565e-003,copied from DOFSTA/ATOSU-58694-00004__20180314.csv SN 43-2853
+16-50019,CC_residual_temperature_correction_factor_b,2.070856e-004,copied from DOFSTA/ATOSU-58694-00004__20180314.csv SN 43-2853
+16-50019,CC_residual_temperature_correction_factor_c,-3.227963e-006,copied from DOFSTA/ATOSU-58694-00004__20180314.csv SN 43-2853
+16-50019,CC_residual_temperature_correction_factor_e,3.600000e-002,copied from DOFSTA/ATOSU-58694-00004__20180314.csv SN 43-2853
+16-50019,CC_voltage_offset,-5.223712e-001,copied from DOFSTA/ATOSU-58694-00004__20180314.csv SN 43-2853
