@@ -22,3 +22,10 @@ serial,name,value,notes
 16-50115,CC_ptempa1,4.71730975e+001,
 16-50115,CC_ptempa2,-2.37227143e-001,
 16-50115,CC_offset,0,
+16-50115,CC_oxygen_signal_slope,4.395260e-001,copied from DOFSTA/ATAPL-58694-00005__20170117.csv SN 43-3163
+16-50115,CC_residual_temperature_correction_factor_a,-3.938871e-003,copied from DOFSTA/ATAPL-58694-00005__20170117.csv SN 43-3163
+16-50115,CC_residual_temperature_correction_factor_b,2.615523e-004,copied from DOFSTA/ATAPL-58694-00005__20170117.csv SN 43-3163
+16-50115,CC_residual_temperature_correction_factor_c,-4.380896e-006,copied from DOFSTA/ATAPL-58694-00005__20170117.csv SN 43-3163
+16-50115,CC_residual_temperature_correction_factor_e,3.600000e-002,copied from DOFSTA/ATAPL-58694-00005__20170117.csv SN 43-3163
+16-50115,CC_voltage_offset,-4.891085e-001,copied from DOFSTA/ATAPL-58694-00005__20170117.csv SN 43-3163
+16-50115,CC_frequency_offset,-4.891085e-001,copied from DOFSTA/ATAPL-58694-00005__20170117.csv SN 43-3163
