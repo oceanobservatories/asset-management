@@ -662,6 +662,7 @@ CGINS-CTDGVM-09230,N00650,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Sloc
 CGINS-CTDGVM-09231,N00653,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9231,,20141223,,,
 CGINS-CTDGVM-09232,N00644,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9232,,20150326,,,
 CGINS-CTDGVM-09235,N00641,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9235,,20150316,171195,,
+CGINS-CTDGVM-09236,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9236,,,,,
 CGINS-CTDGVM-09237,N00647,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9237,,20150522,,,
 CGINS-CTDGVM-09238,OL000115,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9238,,,,,
 CGINS-CTDGVM-09258,N00543,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9258,,20150803,,,
@@ -1512,6 +1513,7 @@ CGINS-FLORTM-05133,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M
 CGINS-FLORTM-06168,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,6168,,,,,
 CGINS-FLORTM-06744,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,6744,4.07D,20210403,,,Oregon State University
 CGINS-FLORTM-06642,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,6642,,,,,
+CGINS-FLORTM-07031,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,7031,,20220406,,,Oregon State University
 CGINS-FLORTN-01108,,Sensor,1,3-Wavelength Fluorometer for AUV: FLORT Series N,FLORT for AUV,WET Labs,ECO Triplet,1108,,,,CGSN AUV Instrument Pool,
 CGINS-FLORTN-01109,,Sensor,1,3-Wavelength Fluorometer for AUV: FLORT Series N,FLORT for AUV,WET Labs,ECO Triplet,1109,,,,CGSN AUV Instrument Pool,
 CGINS-FLORTN-01645,,Sensor,1,3-Wavelength Fluorometer for AUV: FLORT Series N,FLORT for AUV,WET Labs,ECO Triplet,1645,,,,CGSN AUV Instrument Pool,
