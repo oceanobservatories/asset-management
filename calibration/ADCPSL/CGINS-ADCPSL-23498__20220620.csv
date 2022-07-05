@@ -1,0 +1,8 @@
+serial,name,value,notes
+23498,CC_scale_factor1,0.45,constant; GI03FLMA-00009
+23498,CC_scale_factor2,0.45,constant
+23498,CC_scale_factor3,0.45,constant
+23498,CC_scale_factor4,0.45,constant
+23498,CC_bin_size,1000.0,in cm
+23498,CC_dist_first_bin,1647.0,in cm
+23498,CC_orientation,1.0,1 is upward looking; 0 is downward looking
