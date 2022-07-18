@@ -21,13 +21,13 @@ class FLCDRACalibration(Calibration):
         self.type = 'FLCDRA'
 
     def read_cal(self, filename):
-        with open(filename) as fh:
+        with open(filename, encoding="utf8", errors='ignore') as fh:
             for line in fh:
                 parts = line.split()
                 if not len(parts):  # skip blank lines
                     continue
                 if 'ECO' == parts[0]:
-                    self.serial = parts[-1]
+                    self.serial = parts[-1].split('-')[1]
                 elif 'Created' == parts[0]:
                     try:
                         self.date = datetime.datetime.strptime(parts[-1], '%m/%d/%Y').strftime('%Y%m%d')

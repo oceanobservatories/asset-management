@@ -2,7 +2,7 @@
 
 # VEL3DA calibration parser
 #
-# Create the necessary CI calibration ingest information from an VEL3DAA calibration file
+# Create the necessary CI calibration ingest information from an VEL3DA calibration file
 
 import csv
 import datetime
