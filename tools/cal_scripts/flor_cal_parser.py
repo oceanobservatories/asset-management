@@ -38,11 +38,11 @@ class FLORCalibration(Calibration):
                     serial = parts[1].split('-')
                     self.serial = serial[-1]
                 elif 'Created' == parts[0]:
-		    try:
+                    try:
                         self.date = datetime.datetime.strptime(parts[-1], '%m/%d/%y').strftime('%Y%m%d')
-		    except ValueError:
-		        try:
-			    self.date = datetime.datetime.strptime(parts[-1], '%m/%d/%Y').strftime('%Y%m%d')
+                    except ValueError:
+                        try:
+                            self.date = datetime.datetime.strptime(parts[-1], '%m/%d/%Y').strftime('%Y%m%d')
                         except ValueError:
                             print('Unanticipated Date Format: ', parts[-1])
                             sys.exit(1)  
