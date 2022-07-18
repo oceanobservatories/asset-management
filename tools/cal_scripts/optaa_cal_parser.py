@@ -11,11 +11,11 @@ import json
 import string
 import sys
 import time
-from common_code.cal_parser_template import Calibration
+from common_code.cal_parser_template import Calibration, mfgSN_lookup
 
 
 class OPTAACalibration(Calibration):
-    def __init__(self, serial):
+    def __init__(self, serial, atn):
         self.asset_tracking_number = None
         self.cwlngth = []
         self.awlngth = []
@@ -27,6 +27,7 @@ class OPTAACalibration(Calibration):
         self.taarray = []
         self.nbins = None  # number of temperature bins
         self.serial = serial
+        self.asset_tracking_number = atn
         self.date = None
         self.coefficients = {'CC_taarray': 'SheetRef:CC_taarray',
                              'CC_tcarray': 'SheetRef:CC_tcarray'}
@@ -80,13 +81,14 @@ class OPTAACalibration(Calibration):
 
     def write_cal_info(self):
         inst_type = None
-        self.get_uid()
         if self.asset_tracking_number.find('58332') != -1:
             inst_type = 'OPTAAD'
         elif self.asset_tracking_number.find('69943') != -1:
             inst_type = 'OPTAAC'
         complete_path = os.path.join(
             os.path.realpath('../..'), 'calibration', inst_type)
+        print(self.asset_tracking_number)
+        print(self.date)
         file_name = self.asset_tracking_number + '__' + self.date
         with open(os.path.join(complete_path, '%s.csv' % file_name), 'w') as info:
             writer = csv.writer(info, lineterminator='\n')
@@ -111,9 +113,9 @@ def main():
             # Skip hidden files
             if file[0] == '.':
                 continue
-            sheet_name = os.path.basename(file).partition('.')[0].upper()
-            serial = sheet_name[:3] + '-' + sheet_name[3:6]
-            cal = OPTAACalibration(serial)
+            atn = os.path.basename(file).partition('__')[0]
+            serial = mfgSN_lookup('OPTAA',atn)
+            cal = OPTAACalibration(serial, atn)
             cal.read_cal(os.path.join(path, file))
             cal.write_cal_info()
             cal.move_to_archive(cal.type, file)

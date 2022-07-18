@@ -34,7 +34,8 @@ class Calibration(object):
                 writer.writerow(row)
 
     def move_to_archive(self, inst_type, file):
-        archive_file = self.asset_tracking_number + '__' + self.date + '.marks'
+        fileType = file.split('.')[-1]
+        archive_file = self.asset_tracking_number + '__' + self.date + '.' + fileType
         os.rename(os.path.join(os.getcwd(), inst_type, 'manufacturer', file), \
                     os.path.join(os.getcwd(), inst_type, 'manufacturer_ARCHIVE', archive_file))
     
@@ -46,8 +47,25 @@ class Calibration(object):
             sensorDict[item] = {}
         for index, row in rca_sensorMap.iterrows():
             sensorDict[row['instrumentType']][row['assetID']] = row['mfgSN']
-        for key, value in sensorDict[self.type].items():
-            if self.serial in value:
-                self.asset_tracking_number = key
-                return True
+        sensorKeys = [x for x in sensorDict.keys() if self.type in x]
+        for entry in sensorKeys:
+            for key, value in sensorDict[entry].items():
+                if self.serial in value:
+                    self.asset_tracking_number = key
+                    return True
+
+def mfgSN_lookup(inst_type,atn):
+    rca_sensorMap = pd.read_csv('RCA_sensorMap.csv')
+    dictKeys = set(rca_sensorMap['instrumentType'])
+    sensorDict = {}
+    for item in dictKeys:
+        sensorDict[item] = {}
+    for index, row in rca_sensorMap.iterrows():
+        sensorDict[row['instrumentType']][row['assetID']] = row['mfgSN']
+    sensorKeys = [x for x in sensorDict.keys() if inst_type in x]
+    for entry in sensorKeys:
+        for key, value in sensorDict[entry].items():
+            if atn in key:
+                serial = value
+                return serial
 
