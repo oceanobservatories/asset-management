@@ -163,7 +163,7 @@ class CTDCalibration(Calibration):
 
     def write_cal_info(self):
         inst_type = None
-        if not self.get_uid():
+        if not self.assetID_lookup():
             return
         if self.asset_tracking_number.find('66662') != -1:
             inst_type = 'CTDPFA'
