@@ -22,10 +22,3 @@ serial,name,value,notes
 16-50122,CC_ptempa1,-5.52798885e+001,
 16-50122,CC_ptempa2,-5.57392179e+000,
 16-50122,CC_offset,-5.77,Added pressure offset for miscalibrated Sea-Bird Druck Pressure Sensors (Redmine #12180)
-16-50122,CC_frequency_offset,-4.876759e-001,copied from DOFSTA/ATAPL-58694-00006__20150508.csv SN 43-3164
-16-50122,CC_oxygen_signal_slope,4.991161e-001,copied from DOFSTA/ATAPL-58694-00006__20150508.csv SN 43-3164
-16-50122,CC_residual_temperature_correction_factor_a,-3.769794e-003,copied from DOFSTA/ATAPL-58694-00006__20150508.csv SN 43-3164
-16-50122,CC_residual_temperature_correction_factor_b,1.832093e-004,copied from DOFSTA/ATAPL-58694-00006__20150508.csv SN 43-3164
-16-50122,CC_residual_temperature_correction_factor_c,-2.801791e-006,copied from DOFSTA/ATAPL-58694-00006__20150508.csv SN 43-3164
-16-50122,CC_residual_temperature_correction_factor_e,3.600000e-002,copied from DOFSTA/ATAPL-58694-00006__20150508.csv SN 43-3164
-16-50122,CC_voltage_offset,-4.876759e-001,copied from DOFSTA/ATAPL-58694-00006__20150508.csv SN 43-3164
