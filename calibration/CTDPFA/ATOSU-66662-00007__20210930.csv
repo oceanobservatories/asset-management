@@ -22,11 +22,4 @@ serial,name,value,notes
 16-50019,CC_ptempa1,5.23905624e+001,
 16-50019,CC_ptempa2,-3.96698331e-001,
 16-50019,CC_offset,0,
-16-50019,CC_frequency_offset,-5.199926e-001,copied from DOFSTA/ATOSU-58694-00004__20211019.csv SN 43-2853
-16-50019,CC_oxygen_signal_slope,4.949919e-001,copied from DOFSTA/ATOSU-58694-00004__20211019.csv SN 43-2853
-16-50019,CC_residual_temperature_correction_factor_a,-4.306176e-003,copied from DOFSTA/ATOSU-58694-00004__20211019.csv SN 43-2853
-16-50019,CC_residual_temperature_correction_factor_b,1.512845e-004,copied from DOFSTA/ATOSU-58694-00004__20211019.csv SN 43-2853
-16-50019,CC_residual_temperature_correction_factor_c,-1.836814e-006,copied from DOFSTA/ATOSU-58694-00004__20211019.csv SN 43-2853
-16-50019,CC_residual_temperature_correction_factor_e,3.600000e-002,copied from DOFSTA/ATOSU-58694-00004__20211019.csv SN 43-2853
-16-50019,CC_voltage_offset,-5.199926e-001,copied from DOFSTA/ATOSU-58694-00004__20211019.csv SN 43-2853
 
