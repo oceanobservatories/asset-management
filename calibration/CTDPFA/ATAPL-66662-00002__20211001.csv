@@ -22,11 +22,4 @@ serial,name,value,notes
 16-7205,CC_ptempa1,5.48412222e+001,
 16-7205,CC_ptempa2,-2.25924435e-001,
 16-7205,CC_offset,0,
-16-7205,CC_frequency_offset,-4.304839e-001,copied from DOFSTA/ ATAPL-58694-00001__20211008.csv SN 43-2463
-16-7205,CC_oxygen_signal_slope,4.092379e-001,copied from DOFSTA/ ATAPL-58694-00001__20211008.csv SN 43-2463
-16-7205,CC_residual_temperature_correction_factor_a,-4.665289e-003,copied from DOFSTA/ ATAPL-58694-00001__20211008.csv SN 43-2463
-16-7205,CC_residual_temperature_correction_factor_b,1.815327e-004,copied from DOFSTA/ ATAPL-58694-00001__20211008.csv SN 43-2463
-16-7205,CC_residual_temperature_correction_factor_c,-2.487595e-006,copied from DOFSTA/ ATAPL-58694-00001__20211008.csv SN 43-2463
-16-7205,CC_residual_temperature_correction_factor_e,3.600000e-002,copied from DOFSTA/ ATAPL-58694-00001__20211008.csv SN 43-2463
-16-7205,CC_voltage_offset,-4.304839e-001,copied from DOFSTA/ ATAPL-58694-00001__20211008.csv SN 43-2463
 
