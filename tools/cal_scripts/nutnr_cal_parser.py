@@ -50,7 +50,10 @@ class NUTNRCalibration(Calibration):
                         cal_date = key_value[-2]
                         cal_date = datetime.datetime.strptime(
                             cal_date, '%d-%b-%Y').strftime('%Y%m%d')
-                        if self.date < cal_date:
+                        if self.date is not None:
+                            if self.date < cal_date:
+                                self.date = cal_date
+                        else:
                             self.date = cal_date
                     elif 'SUNA' in key_value:
                         self.serial = str(key_value[1]).lstrip('0')
