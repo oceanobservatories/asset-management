@@ -1,0 +1,3 @@
+serial,name,value,notes
+20438,CC_dark_offset,1.16,probe dark [mV]
+20438,CC_scale_wet,9.61e-18,[V/(quanta/cm2-sec)]
