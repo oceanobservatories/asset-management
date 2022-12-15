@@ -6,3 +6,4 @@ P0080,CC_eb578,38502,
 P0080,CC_ind_off,0,
 P0080,CC_ind_slp,1,
 P0080,CC_psal,35,"Default per <ph_calc_phwater(ref, light, therm, ea434, eb434, ea578, eb578, ind_slp, ind_off, psal=35.0)>"
+P0080,CC_sami_bits,12,

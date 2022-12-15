@@ -6,3 +6,4 @@ P0166,CC_eb578,38502,
 P0166,CC_ind_off,0,value and fillcolor as on 00001
 P0166,CC_ind_slp,1,value and fillcolor as on 00001
 P0166,CC_psal,35,DELETE: use salinity from co-located CTDBP
+P0166,CC_sami_bits,12,
