@@ -6,3 +6,4 @@ P0170,CC_eb578,42178,
 P0170,CC_ind_off,0,
 P0170,CC_ind_slp,1,
 P0170,CC_psal,35,DELETE: use salinity from co-located CTDBP
+P0170,CC_sami_bits,12,
