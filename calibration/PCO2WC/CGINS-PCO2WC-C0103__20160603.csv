@@ -8,4 +8,4 @@ C0103,CC_ea620,34,constant for each batch of reagent
 C0103,CC_eb434,3073,constant for each batch of reagent
 C0103,CC_eb620,44327,constant for each batch of reagent
 C0103,CC_sami_bits,12,
-C0103,CC_cal_range,"[0,0]",
+C0103,CC_cal_range,"[203,590]",
