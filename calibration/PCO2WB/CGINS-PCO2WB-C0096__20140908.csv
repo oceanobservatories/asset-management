@@ -8,4 +8,4 @@ C0096,CC_ea620,34,Reagent specific calibration coefficient
 C0096,CC_eb434,3073,Reagent specific calibration coefficient
 C0096,CC_eb620,44327,Reagent specific calibration coefficient
 C0096,CC_sami_bits,12,
-C0096,CC_cal_range,"[0,0]",
+C0096,CC_cal_range,"[200,600]",
