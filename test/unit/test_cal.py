@@ -166,6 +166,7 @@ class CalibrationFilesUnitTest(AssetManagementUnitTest):
         # due to DOFST constants being included on cabled CTDPFA
         # and DOSTAD inconsistenly defining CC_ct_depth, which will be removed
         # in favor of deployed instrument depth
+        # and METBKA that contains cal csvs for METLGRs and METCTD
         allowed_diff = {
             'CTDPFA': {
                 'CC_residual_temperature_correction_factor_b',
@@ -178,6 +179,27 @@ class CalibrationFilesUnitTest(AssetManagementUnitTest):
             },
             'DOSTAD': {
                 'CC_ct_depth'
+            },
+            'METBKA': {
+                'CC_a0',
+                'CC_a1',
+                'CC_a2',
+                'CC_a3',
+                'CC_g',
+                'CC_h',
+                'CC_i',
+                'CC_j',
+                'CC_ctcor',
+                'CC_cpcor',
+                'CC_wbotc',
+                'CC_depth_of_conductivity_and_temperature_measurements_m',
+                'CC_height_of_air_humidity_measurement_m',
+                'CC_height_of_air_temperature_measurement_m',
+                'CC_height_of_windspeed_sensor_above_sealevel_m',
+                'CC_jcool',
+                'CC_jwarm',
+                'CC_zinvpbl',
+                'CC_use_velpt'
             }
         }
 
