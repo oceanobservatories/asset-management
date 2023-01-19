@@ -8,4 +8,4 @@ C0090,CC_ea620,34,"pco2_pco2wat DPA ignores this argument"
 C0090,CC_eb434,3073,"pco2_pco2wat DPA ignores this argument"
 C0090,CC_eb620,44327,"pco2_pco2wat DPA ignores this argument"
 C0090,CC_sami_bits,12,
-C0090,CC_cal_range,"[0,0]",
+C0090,CC_cal_range,"[200,1196]",
