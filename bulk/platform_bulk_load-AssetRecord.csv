@@ -91,6 +91,7 @@ CGMCE-02SHSP-00025,,Platform,0,Coastal Endurance Oregon Shelf Surface Piercing P
 CGMCE-02SHSP-00026,,Platform,0,Coastal Endurance Oregon Shelf Surface Piercing Profiler Mooring,MOORING ENDURANCE,WHOI,CE02SHSP,CE02SHSP-00026,,,,,Oregon State University
 CGMCE-02SHSP-00027,,Platform,0,Coastal Endurance Oregon Shelf Surface Piercing Profiler Mooring,MOORING ENDURANCE,WHOI,CE02SHSP,CE02SHSP-00027,,,,,Oregon State University
 CGMCE-02SHSP-00028,,Platform,0,Coastal Endurance Oregon Shelf Surface Piercing Profiler Mooring,MOORING ENDURANCE,WHOI,CE02SHSP,CE02SHSP-00028,,,,,Oregon State University
+CGMCE-02SHSP-00029,,Platform,0,Coastal Endurance Oregon Shelf Surface Piercing Profiler Mooring,MOORING ENDURANCE,WHOI,CE02SHSP,CE02SHSP-00029,,,,,Oregon State University
 CGMCE-04OSSM-00001,N00212,Platform,0,Coastal Endurance Oregon Offshore Surface Mooring,MOORING ENDURANCE OS SURFACE,WHOI,CE04OSSM,CE04OSSM-00001,,,,,Oregon State University
 CGMCE-04OSSM-00002,OL000385,Platform,0,Coastal Endurance Oregon Offshore Surface Mooring,MOORING ENDURANCE OS SURFACE,WHOI,CE04OSSM,CE04OSSM-00002,,,,,Oregon State University
 CGMCE-04OSSM-00003,,Platform,0,Coastal Endurance Oregon Offshore Surface Mooring,MOORING ENDURANCE OS SURFACE,WHOI,CE04OSSM,CE04OSSM-00003,,,,,Oregon State University
@@ -369,6 +370,7 @@ CGMGI-01SUMO-00006,,Platform,0,Global Irminger Sea Apex Surface Mooring,MOORING 
 CGMGI-01SUMO-00007,,Platform,0,Global Irminger Sea Apex Surface Mooring,MOORING Irminger OS,WHOI,GI01SUMO,GI01SUMO-00007,,,,,Woods Hole Oceanographic Institution
 CGMGI-01SUMO-00008,,Platform,0,Global Irminger Sea Apex Surface Mooring,MOORING Irminger OS,WHOI,GI01SUMO,GI01SUMO-00008,,,,,Woods Hole Oceanographic Institution
 CGMGI-01SUMO-00009,,Platform,0,Global Irminger Sea Apex Surface Mooring,MOORING Irminger OS,WHOI,GI01SUMO,GI01SUMO-00009,,,,,Woods Hole Oceanographic Institution
+CGMGI-01SUMO-00010,,Platform,0,Global Irminger Sea Apex Surface Mooring,MOORING Irminger OS,WHOI,GI01SUMO,GI01SUMO-00010,,,,,Woods Hole Oceanographic Institution
 CGMGI-02HYPM-00001,N00222,Platform,0,Global Irminger Sea Apex Profiler Mooring,MOORING Irminger OS,WHOI,GI02HYPM,GI02HYPM-00001,,,,,Woods Hole Oceanographic Institution
 CGMGI-02HYPM-00002,N00223,Platform,0,Global Irminger Sea Apex Profiler Mooring,MOORING Irminger OS,WHOI,GI02HYPM,GI02HYPM-00002,,,,,Woods Hole Oceanographic Institution
 CGMGI-02HYPM-00003,OL000597,Platform,0,Global Irminger Sea Apex Profiler Mooring,MOORING Irminger OS,WHOI,GI02HYPM,GI02HYPM-00003,,,,,Woods Hole Oceanographic Institution
@@ -378,6 +380,7 @@ CGMGI-02HYPM-00006,,Platform,0,Global Irminger Sea Apex Profiler Mooring,MOORING
 CGMGI-02HYPM-00007,,Platform,0,Global Irminger Sea Apex Profiler Mooring,MOORING Irminger OS,WHOI,GI02HYPM,GI02HYPM-00007,,,,,Woods Hole Oceanographic Institution
 CGMGI-02HYPM-00008,,Platform,0,Global Irminger Sea Apex Profiler Mooring,MOORING Irminger OS,WHOI,GI02HYPM,GI02HYPM-00008,,,,,Woods Hole Oceanographic Institution
 CGMGI-02HYPM-00009,,Platform,0,Global Irminger Sea Apex Profiler Mooring,MOORING Irminger OS,WHOI,GI02HYPM,GI02HYPM-00009,,,,,Woods Hole Oceanographic Institution
+CGMGI-02HYPM-00010,,Platform,0,Global Irminger Sea Apex Profiler Mooring,MOORING Irminger OS,WHOI,GI02HYPM,GI02HYPM-00010,,,,,Woods Hole Oceanographic Institution
 CGMGI-03FLMA-00001,N00224,Platform,0,Global Irminger Sea Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GI03FLMA,GI03FLMA-00001,,,,,Woods Hole Oceanographic Institution
 CGMGI-03FLMA-00002,N00225,Platform,0,Global Irminger Sea Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GI03FLMA,GI03FLMA-00002,,,,,Woods Hole Oceanographic Institution
 CGMGI-03FLMA-00003,OL000601,Platform,0,Global Irminger Sea Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GI03FLMA,GI03FLMA-00003,,,,,Woods Hole Oceanographic Institution
@@ -387,6 +390,7 @@ CGMGI-03FLMA-00006,,Platform,0,Global Irminger Sea Flanking Subsurface Mooring A
 CGMGI-03FLMA-00007,,Platform,0,Global Irminger Sea Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GI03FLMA,GI03FLMA-00007,,,,,Woods Hole Oceanographic Institution
 CGMGI-03FLMA-00008,,Platform,0,Global Irminger Sea Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GI03FLMA,GI03FLMA-00008,,,,,Woods Hole Oceanographic Institution
 CGMGI-03FLMA-00009,,Platform,0,Global Irminger Sea Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GI03FLMA,GI03FLMA-00009,,,,,Woods Hole Oceanographic Institution
+CGMGI-03FLMA-00010,,Platform,0,Global Irminger Sea Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GI03FLMA,GI03FLMA-00010,,,,,Woods Hole Oceanographic Institution
 CGMGI-03FLMB-00001,N00226,Platform,0,Global Irminger Sea Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GI03FLMB,GI03FLMB-00001,,,,,Woods Hole Oceanographic Institution
 CGMGI-03FLMB-00002,N00227,Platform,0,Global Irminger Sea Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GI03FLMB,GI03FLMB-00002,,,,,Woods Hole Oceanographic Institution
 CGMGI-03FLMB-00003,OL000603,Platform,0,Global Irminger Sea Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GI03FLMB,GI03FLMB-00003,,,,,Woods Hole Oceanographic Institution
@@ -396,6 +400,7 @@ CGMGI-03FLMB-00006,,Platform,0,Global Irminger Sea Flanking Subsurface Mooring B
 CGMGI-03FLMB-00007,,Platform,0,Global Irminger Sea Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GI03FLMB,GI03FLMB-00007,,,,,Woods Hole Oceanographic Institution
 CGMGI-03FLMB-00008,,Platform,0,Global Irminger Sea Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GI03FLMB,GI03FLMB-00008,,,,,Woods Hole Oceanographic Institution
 CGMGI-03FLMB-00009,,Platform,0,Global Irminger Sea Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GI03FLMB,GI03FLMB-00009,,,,,Woods Hole Oceanographic Institution
+CGMGI-03FLMB-00010,,Platform,0,Global Irminger Sea Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GI03FLMB,GI03FLMB-00010,,,,,Woods Hole Oceanographic Institution
 CGMGP-02HYPM-00001,A00363,Platform,0,Global Station Papa Apex Profiler Mooring,HYBRID PROFILER STATION PAPA,WHOI/SIO,GP02HYPM,GP02HYPM-00001,,20130715,698400,,Woods Hole Oceanographic Institution
 CGMGP-02HYPM-00002,N00250,Platform,0,Global Station Papa Apex Profiler Mooring,HYBRID PROFILER STATION PAPA,WHOI,GP02HYPM,GP02HYPM-00002,,,698400,,Woods Hole Oceanographic Institution
 CGMGP-02HYPM-00003,N00251,Platform,0,Global Station Papa Apex Profiler Mooring,HYBRID PROFILER STATION PAPA,WHOI,GP02HYPM,GP02HYPM-00003,,,698400,,Woods Hole Oceanographic Institution
@@ -405,6 +410,7 @@ CGMGP-02HYPM-00006,,Platform,0,Global Station Papa Apex Profiler Mooring,HYBRID 
 CGMGP-02HYPM-00007,,Platform,0,Global Station Papa Apex Profiler Mooring,HYBRID PROFILER STATION PAPA,WHOI,GP02HYPM,GP02HYPM-00007,,,,,Woods Hole Oceanographic Institution
 CGMGP-02HYPM-00008,,Platform,0,Global Station Papa Apex Profiler Mooring,HYBRID PROFILER STATION PAPA,WHOI,GP02HYPM,GP02HYPM-00008,,,,,Woods Hole Oceanographic Institution
 CGMGP-02HYPM-00009,,Platform,0,Global Station Papa Apex Profiler Mooring,HYBRID PROFILER STATION PAPA,WHOI,GP02HYPM,GP02HYPM-00009,,,,,Woods Hole Oceanographic Institution
+CGMGP-02HYPM-00010,,Platform,0,Global Station Papa Apex Profiler Mooring,HYBRID PROFILER STATION PAPA,WHOI,GP02HYPM,GP02HYPM-00010,,,,,Woods Hole Oceanographic Institution
 CGMGP-03FLMA-00001,A00364,Platform,0,Global Station Papa Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI/SIO,GP03FLMA,GP03FLMA-00001,,20130715,35611.94,,Woods Hole Oceanographic Institution
 CGMGP-03FLMA-00002,N00252,Platform,0,Global Station Papa Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GP03FLMA,GP03FLMA-00002,,,35611.94,,Woods Hole Oceanographic Institution
 CGMGP-03FLMA-00003,N00253,Platform,0,Global Station Papa Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GP03FLMA,GP03FLMA-00003,,,35611.94,,Woods Hole Oceanographic Institution
@@ -414,6 +420,7 @@ CGMGP-03FLMA-00006,,Platform,0,Global Station Papa Flanking Subsurface Mooring A
 CGMGP-03FLMA-00007,,Platform,0,Global Station Papa Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GP03FLMA,GP03FLMA-00007,,,,,Woods Hole Oceanographic Institution
 CGMGP-03FLMA-00008,,Platform,0,Global Station Papa Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GP03FLMA,GP03FLMA-00008,,,,,Woods Hole Oceanographic Institution
 CGMGP-03FLMA-00009,,Platform,0,Global Station Papa Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GP03FLMA,GP03FLMA-00009,,,,,Woods Hole Oceanographic Institution
+CGMGP-03FLMA-00010,,Platform,0,Global Station Papa Flanking Subsurface Mooring A,MOORING MESCALE FLANKING A SP,WHOI,GP03FLMA,GP03FLMA-00010,,,,,Woods Hole Oceanographic Institution
 CGMGP-03FLMB-00001,A00365,Platform,0,Global Station Papa Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI/SIO,GP03FLMB,GP03FLMB-00001,,20130715,2150308.47,,Woods Hole Oceanographic Institution
 CGMGP-03FLMB-00002,N00254,Platform,0,Global Station Papa Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GP03FLMB,GP03FLMB-00002,,,2150308.47,,Woods Hole Oceanographic Institution
 CGMGP-03FLMB-00003,N00255,Platform,0,Global Station Papa Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GP03FLMB,GP03FLMB-00003,,,2150308.47,,Woods Hole Oceanographic Institution
@@ -423,6 +430,7 @@ CGMGP-03FLMB-00006,,Platform,0,Global Station Papa Flanking Subsurface Mooring B
 CGMGP-03FLMB-00007,,Platform,0,Global Station Papa Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GP03FLMB,GP03FLMB-00007,,,,,Woods Hole Oceanographic Institution
 CGMGP-03FLMB-00008,,Platform,0,Global Station Papa Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GP03FLMB,GP03FLMB-00008,,,,,Woods Hole Oceanographic Institution
 CGMGP-03FLMB-00009,,Platform,0,Global Station Papa Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GP03FLMB,GP03FLMB-00009,,,,,Woods Hole Oceanographic Institution
+CGMGP-03FLMB-00010,,Platform,0,Global Station Papa Flanking Subsurface Mooring B,MOORING MESCALE FLANKING B SP,WHOI,GP03FLMB,GP03FLMB-00010,,,,,Woods Hole Oceanographic Institution
 CGMGS-01SUMO-00001,N00256,Platform,0,Global Southern Ocean Apex Surface Mooring,MOORING SOUTHERN OS,WHOI,GS01SUMO,GS01SUMO-00001,,,,,Woods Hole Oceanographic Institution
 CGMGS-01SUMO-00002,OL000063,Platform,0,Global Southern Ocean Apex Surface Mooring,MOORING SOUTHERN OS,WHOI,GS01SUMO,GS01SUMO-00002,,,,,Woods Hole Oceanographic Institution
 CGMGS-01SUMO-00003,,Platform,0,Global Southern Ocean Apex Surface Mooring,MOORING SOUTHERN OS,WHOI,GS01SUMO,GS01SUMO-00003,,,,,Woods Hole Oceanographic Institution

@@ -1608,37 +1608,44 @@ CGINS-METBPR-00263,A01264,Sensor,0,Bulk Meteorology Instrument Package: METBK BP
 CGINS-METBPR-00264,A01265,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR264,,20140227,7200,,
 CGINS-METBPR-00274,A01720,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR274,,20150815,7200,,
 CGINS-METBPR-00275,A01721,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR275,,20150815,7200,,
-CGINS-METCTD-08028,A00207,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37SM61212-8028,,20101122,5816,,
-CGINS-METCTD-10137,A00190,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10137,,20130131,5816,Missing from inventory,
-CGINS-METCTD-10138,A00197,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10138,,20121226,5816,,
-CGINS-METCTD-10139,A00204,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10139,,20130131,5816,Missing from inventory,
-CGINS-METCTD-10903,A00500,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10903,,20131101,5816,,
-CGINS-METCTD-10904,A00476,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10904,,20131021,5816,,
-CGINS-METCTD-10905,A00499,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10905,,20131101,5816,,
-CGINS-METCTD-10906,A00498,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10906,,20131101,5816.32,,
-CGINS-METCTD-11000,A00120,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11000,,20121226,5816,,
-CGINS-METCTD-11001,A00121,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11001,,20150604,5816,,
-CGINS-METCTD-11002,A00477,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11002,,20131021,5816,,
-CGINS-METCTD-11003,A00440,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11003,,20130930,5816,,
-CGINS-METCTD-11090,A00730,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11090,,20140305,5816,,
-CGINS-METCTD-11091,A00728,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11091,,20150604,5816,,
-CGINS-METCTD-11092,A00727,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11092,,20140305,5816,,
-CGINS-METCTD-11093,A00729,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11093,,20150604,5816,,
-CGINS-METCTD-11116,A00183,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11116,,20150604,5816,,
-CGINS-METCTD-11117,A00600,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11117,,20140108,5816,original ooi barcode A000600,
-CGINS-METCTD-11123,A00601,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11123E,,20140108,5816,,
-CGINS-METCTD-11558,A00716,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11558,,20140227,5816,,
-CGINS-METCTD-11559,A00751,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11559,,20140312,5816,,
-CGINS-METCTD-11560,A00752,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11560,,20140312,5816,,
-CGINS-METCTD-11561,A00715,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11561,,20140227,5816,,
-CGINS-METCTD-12754,A01266,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-12754,,20141214,5816,,
-CGINS-METCTD-12755,A01267,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-12755,,20141214,5816,,
-CGINS-METCTD-12756,A01268,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-12756,,20141214,5816,,
-CGINS-METCTD-12757,A01269,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-12757,,20141214,5816,,
-CGINS-METCTD-12758,A01270,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-12758,,20141214,5816,,
+CGINS-METCTD-08028,A00207,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37SM61212-8028,,20101122,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-10137,A00190,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10137,,20130131,5816,Lost at sea on CP01CNSM-00001,Woods Hole Oceanographic Institution
+CGINS-METCTD-10138,A00197,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10138,,20121226,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-10139,A00204,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10139,,20130131,5816,Lost at sea on CP01CNSM-00001,Woods Hole Oceanographic Institution
+CGINS-METCTD-10903,A00500,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10903,,20131101,5816,,Oregon State University
+CGINS-METCTD-10904,A00476,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10904,,20131021,5816,,Oregon State University
+CGINS-METCTD-10905,A00499,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10905,,20131101,5816,,Oregon State University
+CGINS-METCTD-10906,A00498,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-10906,,20131101,5816.32,,Oregon State University
+CGINS-METCTD-11000,A00120,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11000,,20121226,5816,,Oregon State University
+CGINS-METCTD-11001,A00121,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11001,,20150604,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-11002,A00477,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11002,,20131021,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-11003,A00440,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11003,,20130930,5816,Lost at sea on GI01SUMO-00004,Woods Hole Oceanographic Institution
+CGINS-METCTD-11090,A00730,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11090,,20140305,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-11091,A00728,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11091,,20150604,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-11092,A00727,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11092,,20140305,5816,,Oregon State University
+CGINS-METCTD-11093,A00729,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11093,,20150604,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-11116,A00183,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11116,,20150604,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-11117,A00600,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11117,,20140108,5816,original ooi barcode A000600,Woods Hole Oceanographic Institution
+CGINS-METCTD-11123,A00601,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11123,,20140108,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-11558,A00716,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11558,,20140227,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-11559,A00751,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11559,,20140312,5816,,Oregon State University
+CGINS-METCTD-11560,A00752,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11560,,20140312,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-11561,A00715,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-11561,,20140227,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-12754,A01266,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-12754,,20141214,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-12755,A01267,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-12755,,20141214,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-12756,A01268,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-12756,,20141214,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-12757,A01269,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-12757,,20141214,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-12758,A01270,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-12758,,20141214,5816,,Woods Hole Oceanographic Institution
+CGINS-METCTD-13468,A01608,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13468,,,,,Oregon State University
+CGINS-METCTD-13469,A01609,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13469,,,,,Oregon State University
+CGINS-METCTD-13470,A01858,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13470,,,,,Oregon State University
+CGINS-METCTD-13471,A01859,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13471,,,,,Oregon State University
+CGINS-METCTD-13472,A01860,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13472,,,,,Woods Hole Oceanographic Institution
 CGINS-METCTD-13542,A01861,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13542,,,,,Woods Hole Oceanographic Institution
 CGINS-METCTD-13543,A01862,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13543,,,,,Woods Hole Oceanographic Institution
-CGINS-METCTD-13545,A01864,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13545,,,,,Woods Hole Oceanographic Institution
+CGINS-METCTD-13544,A01863,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13544,,,,,Woods Hole Oceanographic Institution
+CGINS-METCTD-13545,A01864,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13545,,,,Lost at sea on GI01SUMO-00004,Woods Hole Oceanographic Institution
+CGINS-METCTD-13546,A01865,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37-13546,,,,,Woods Hole Oceanographic Institution
 CGINS-METHRH-00260,A00184,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH260,,20121226,8050,,
 CGINS-METHRH-00261,A00191,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH261,,20121226,8050,,
 CGINS-METHRH-00262,A00198,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH262,,20121231,8050,,
@@ -2579,6 +2586,7 @@ PIRSN-CAMPIA-00001,,Sensor,0,,,MARUM,,1,,,,,
 PIRSN-COVISA-00001,,Sensor,0,Cabled Observatory Vent Imaging System,COVIS Series A,Bemis,,1,,,,,
 PIRSN-CTDPFA-10001,,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50216,,,,,
 PIRSN-CTDPFA-10002,,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50347,,,,,
+PIRSN-FETCHA-00001,,Sensor,0,,,Wilcock/Manalang,,1,,,,,
 PIRSN-OVRSRA-00001,,Sensor,0,Overview Sonar,OVRSR Series A,MARUM,R2 Sonic 2022,101409,,,,,
 PIRSN-PADCPA-00001,,Sensor,0,ADCP Velocity Profiler,Pinnacle ADCP,Teledyne RDI,Pinnacle ADCP (45 kHz),1023,,,,,
 PIRSN-QNTSRA-00001,,Sensor,0,Quantification Sonar,QNTSR Series A,MARUM,Kongsberg 1171-Series Scanning Sonar,1708062,,,,,

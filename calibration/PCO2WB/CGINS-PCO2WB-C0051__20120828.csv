@@ -1,9 +1,11 @@
 serial,name,value,notes
-C0051,CC_cala,-0.0459,Instrument specific calibration coefficient for the pCO2 measurements
-C0051,CC_calb,1.0761,Instrument specific calibration coefficient for the pCO2 measurements
-C0051,CC_calc,-2.1138,Instrument specific calibration coefficient for the pCO2 measurements
-C0051,CC_calt,14.2,Instrument specific calibration coefficient for temperature
-C0051,CC_ea434,19706,Parameters per vendor via Chris Wingard; Reagent specific calibration coefficient
-C0051,CC_ea620,34,Parameters per vendor via Chris Wingard; Reagent specific calibration coefficient
-C0051,CC_eb434,3073,Parameters per vendor via Chris Wingard; Reagent specific calibration coefficient
-C0051,CC_eb620,44327,Parameters per vendor via Chris Wingard; Reagent specific calibration coefficient
+C0051,CC_cala,-0.0459,
+C0051,CC_calb,1.0761,
+C0051,CC_calc,-2.1138,
+C0051,CC_calt,14.2,
+C0051,CC_ea434,19706,
+C0051,CC_ea620,34,
+C0051,CC_eb434,3073,
+C0051,CC_eb620,44327,
+C0051,CC_sami_bits,12,
+C0051,CC_cal_range,"[200,600]",
