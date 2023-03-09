@@ -1,0 +1,11 @@
+serial,name,value,notes
+C0061,CC_cala,0.0488,coeffs from C0061_CalCert_20230201.pdf
+C0061,CC_calb,0.6259,
+C0061,CC_calc,-1.6556,
+C0061,CC_calt,14.0747,
+C0061,CC_ea434,19706,constant
+C0061,CC_ea620,34,constant
+C0061,CC_eb434,3073,constant
+C0061,CC_eb620,44327,constant
+C0061,CC_sami_bits,12,
+C0061,CC_cal_range,"[201,1981]",
