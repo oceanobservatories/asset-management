@@ -1,0 +1,7 @@
+serial,name,value,notes
+43-4361,CC_frequency_offset,-7.999088e+002,date in filename comes from Soc caldate
+43-4361,CC_oxygen_signal_slope,2.65922e-004,adjusted Soc determined from fit as 1.03540*Soc R2=0.99973
+43-4361,CC_residual_temperature_correction_factor_a,-3.845252e-003,
+43-4361,CC_residual_temperature_correction_factor_b,1.953187e-004,
+43-4361,CC_residual_temperature_correction_factor_c,-3.183075e-006,
+43-4361,CC_residual_temperature_correction_factor_e,3.600000e-002,
