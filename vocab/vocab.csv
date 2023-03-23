@@ -283,6 +283,13 @@ CE05MOAS-G0917-02-FLORTM000,Coastal Endurance,Mobile Assets,Coastal Glider 917,3
 CE05MOAS-G0917-03-ADCPAM000,Coastal Endurance,Mobile Assets,Coastal Glider 917,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
 CE05MOAS-G0917-04-DOSTAM000,Coastal Endurance,Mobile Assets,Coastal Glider 917,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
 CE05MOAS-G0917-05-CTDGVM000,Coastal Endurance,Mobile Assets,Coastal Glider 917,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CE05MOAS-G1012,Coastal Endurance,Mobile Assets,Coastal Glider 1012,,,,0,1000
+CE05MOAS-G1012-00-ENG000000,Coastal Endurance,Mobile Assets,Coastal Glider 1012,Mobile Asset Controller,Teledyne Webb,G3 Slocum Glider,0,1000
+CE05MOAS-G1012-01-PARADM000,Coastal Endurance,Mobile Assets,Coastal Glider 1012,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CE05MOAS-G1012-02-FLORTM000,Coastal Endurance,Mobile Assets,Coastal Glider 1012,3-Wavelength Fluorometer,Sea-Bird/WET Labs,ECO Puck FLBBCD-SLC,0,1000
+CE05MOAS-G1012-03-ADCPAM000,Coastal Endurance,Mobile Assets,Coastal Glider 1012,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CE05MOAS-G1012-04-DOSTAM000,Coastal Endurance,Mobile Assets,Coastal Glider 1012,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CE05MOAS-G1012-05-CTDGVM000,Coastal Endurance,Mobile Assets,Coastal Glider 1012,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
 CE06ISSM,Coastal Endurance,Washington Inshore Surface Mooring,,,,,0,29
 CE06ISSM-MFC31,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,29,29
 CE06ISSM-MFC31-00-CPMENG000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Platform Controller,WHOI,Communications and Power Manager,29,29
