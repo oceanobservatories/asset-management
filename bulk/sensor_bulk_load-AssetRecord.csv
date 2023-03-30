@@ -1060,6 +1060,7 @@ CGINS-DOFSTK-03370,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFS
 CGINS-DOFSTK-03506,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML14300-01,Sea-Bird Electronics,SBE 43F,43-3506,,20170627,,,Woods Hole Oceanographic Institution
 CGINS-DOFSTK-03523,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML14300-02,Sea-Bird Electronics,SBE 43F,43-3523,,20170627,,,Woods Hole Oceanographic Institution
 CGINS-DOFSTK-03535,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML14378-01,Sea-Bird Electronics,SBE 43F,43-3535,,20170907,,,Oregon State University
+CGINS-DOFSTK-04361,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML14378-01,Sea-Bird Electronics,SBE 43F,43-4361,,20230201,,,Oregon State University
 CGINS-DOSTAD-00030,N00323,Sensor,0,Dissolved Oxygen Stable Response bought for Glider deployed on a surface mooring: DOSTA Series D,DOSTA for Slocum Glider,Aanderaa,Optode 4831,30,,20121228,,,
 CGINS-DOSTAD-00100,N00328,Sensor,0,Dissolved Oxygen Stable Response bought for Glider deployed on a surface mooring: DOSTA Series D,DOSTA for Slocum Glider,Aanderaa,Optode 4831,100,,20121228,,,
 CGINS-DOSTAD-00126,A00176,Sensor,0,Dissolved Oxygen Stable Response: DOSTA Series D,DOSTA SERIES D (AADI 4831),Aanderaa,Optode 4831,126,,20130128,5258.25,,Woods Hole Oceanographic Institution
@@ -2046,6 +2047,7 @@ CGINS-OPTAAD-00261,A01782,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIE
 CGINS-OPTAAD-00267,N00702,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIES D,WET Labs,AC-S,ACS-267,,,40133.74,,
 CGINS-OPTAAD-00315,,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIES D,WET Labs,AC-S,ACS-315,,,,,
 CGINS-OPTAAD-00344,,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIES D,WET Labs,AC-S,ACS-344,,,,,
+CGINS-OPTAAD-00397,,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIES D,WET Labs,AC-S,ACS-397,,,,,
 CGINS-OPTAAJ-00137,N00589,Sensor,0,Spectrophotometer: OPTAA Series J,OPTAA for WLP-001,WET Labs,AC-S,ACS-137,,20130630,38969.75,,Oregon State University
 CGINS-OPTAAJ-00138,N00573,Sensor,0,Spectrophotometer: OPTAA Series J,OPTAA for WLP-003,WET Labs,AC-S,ACS-138,,20140616,38969.75,,Oregon State University
 CGINS-OPTAAJ-00139,N00581,Sensor,0,Spectrophotometer: OPTAA Series J,OPTAA for WLP-002,WET Labs,AC-S,ACS-139,,20140630,38969.75,,Oregon State University

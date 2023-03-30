@@ -61,6 +61,7 @@ CGCON-BCPM01-50007,OL000323,Sensor,0,Surface Buoy Communications and Power Manag
 CGCON-BCPM01-50008,,Sensor,0,Surface Buoy Communications and Power Manager,Communications and Power Manager,WHOI,CPM,2015-0008,,,,CE09OSSM-00005-SBC11,Oregon State University
 CGCON-BCPM01-50009,,Sensor,0,Surface Buoy Communications and Power Manager,Communications and Power Manager,WHOI,CPM,2015-0009,,,,,Woods Hole Oceanographic Institution
 CGCON-BCPM01-50010,,Sensor,0,Surface Buoy Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00245-00001-50010,,,,Previously S/N 2015-0003,Woods Hole Oceanographic Institution
+CGCON-BCPM01-50013,,Sensor,0,Surface Buoy Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00245-00001-50013,,,,,Woods Hole Oceanographic Institution
 CGCON-BCPM01-50015,,Sensor,0,Surface Buoy Communications and Power Manager,Communications and Power Manager,WHOI,CPM,3703-00245-00001-50015,,,,,Woods Hole Oceanographic Institution
 CGCON-BCPM01-60002,OL000593,Sensor,0,Surface Buoy Communications and Power Manager,Communications and Power Manager,WHOI,CPM,2016-0002,,,,,Woods Hole Oceanographic Institution
 CGCON-BCPM01-60701,,Sensor,0,Surface Buoy Communications and Power Manager,Communications and Power Manager,WHOI,CPM,60701,,,,DELETE?,
@@ -92,6 +93,7 @@ CGCON-BDCL11-50007,OL000324,Sensor,0,Surface Buoy Data Concentrator Logger,Data 
 CGCON-BDCL11-50008,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,2015-0008,,,,CE09OSSM-00005-SBD11,Oregon State University
 CGCON-BDCL11-50009,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,2015-0009,,,,,Woods Hole Oceanographic Institution
 CGCON-BDCL11-50010,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3703-00245-00001-50010,,,,Previously S/N 2015-0003,Woods Hole Oceanographic Institution
+CGCON-BDCL11-50013,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3703-00245-00001-50013,,,,,Woods Hole Oceanographic Institution
 CGCON-BDCL11-50015,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3703-00245-00001-50015,,,,,Woods Hole Oceanographic Institution
 CGCON-BDCL11-60002,OL000594,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,2016-0002,,,,,Woods Hole Oceanographic Institution
 CGCON-BDCL11-60701,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,60701,,,,DELET?,
@@ -123,6 +125,7 @@ CGCON-BDCL12-50007,OL000325,Sensor,0,Surface Buoy Data Concentrator Logger,Data 
 CGCON-BDCL12-50008,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,2015-0008,,,,CE09OSSM-00005-SBD12,Oregon State University
 CGCON-BDCL12-50009,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,2015-0009,,,,,Woods Hole Oceanographic Institution
 CGCON-BDCL12-50010,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3703-00245-00001-50010,,,,Previously S/N 2015-0003,Woods Hole Oceanographic Institution
+CGCON-BDCL12-50013,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3703-00245-00001-50013,,,,,Woods Hole Oceanographic Institution
 CGCON-BDCL12-50015,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3703-00245-00001-50015,,,,,Woods Hole Oceanographic Institution
 CGCON-BDCL12-60002,OL000595,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,2016-0002,,,,,Woods Hole Oceanographic Institution
 CGCON-BDCL12-60701,,Sensor,0,Surface Buoy Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,60701,,,,DELETE?,
@@ -201,6 +204,7 @@ CGCON-GLDRCE-00384,OL000370,Sensor,1,Mobile Asset Controller for Coastal Glider,
 CGCON-GLDRCE-00386,OL000371,Sensor,1,Mobile Asset Controller for Coastal Glider,GL386 Controller,Teledyne Webb,G2 Slocum Gliders,386,,,,,Oregon State University
 CGCON-GLDRCE-00871,,Sensor,1,Mobile Asset Controller for Coastal Glider,G0871 Controller,Teledyne Webb,G3 Slocum Gliders,871,,,,,Oregon State University
 CGCON-GLDRCE-00917,,Sensor,1,Mobile Asset Controller for Coastal Glider,G0917 Controller,Teledyne Webb,G3 Slocum Gliders,917,,20210403,,,Oregon State University
+CGCON-GLDRCE-01012,,Sensor,1,Mobile Asset Controller for Coastal Glider,G1012 Controller,Teledyne Webb,G3 Slocum Glider,1012,,20220801,,,Oregon State University
 CGCON-GLDRCP-00335,OL000347,Sensor,1,Mobile Asset Controller for Coastal Glider,GL335 Controller,Teledyne Webb,G2 Slocum Gliders,335,,,,,Woods Hole Oceanographic Institution
 CGCON-GLDRCP-00336,OL000348,Sensor,1,Mobile Asset Controller for Coastal Glider,GL336 Controller,Teledyne Webb,G2 Slocum Gliders,336,,,,,Woods Hole Oceanographic Institution
 CGCON-GLDRCP-00339,OL000349,Sensor,1,Mobile Asset Controller for Coastal Glider,GL339 Controller,Teledyne Webb,G2 Slocum Gliders,339,,,,,Woods Hole Oceanographic Institution
@@ -409,6 +413,7 @@ CGCON-NDCL16-00042,,Sensor,0,Near Surface Instrument Frame Data Concentrator Log
 CGCON-NDCL16-00043,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,43,,,,,
 CGCON-NDCL16-00047,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,47,,,,,
 CGCON-NDCL16-00049,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,3703-00272-00001-00049,,,,,Woods Hole Oceanographic Institution
+CGCON-NDCL16-00055,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,55,,,,,
 CGCON-NDCL26-00002,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,2,,,,,
 CGCON-NDCL26-00004,OL000488,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,0004,,,,CP01CNSM-00001-DCL26,Woods Hole Oceanographic Institution
 CGCON-NDCL26-00006,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,0006,,,,,Woods Hole Oceanographic Institution
