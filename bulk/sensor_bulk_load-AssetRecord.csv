@@ -696,6 +696,7 @@ CGINS-CTDGVM-09363,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Gli
 CGINS-CTDGVM-09364,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9364,,,,,
 CGINS-CTDGVM-09453,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9453,,,,,Woods Hole Oceanographic Institution
 CGINS-CTDGVM-09658,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9658,,,,,
+CGINS-CTDGVM-09686,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9686,,,,,Woods Hole Oceanographic Institution
 CGINS-CTDGVM-09690,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9690,,,,,
 CGINS-CTDGVM-09692,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9692,1.3.1,20210403,,,Oregon State University
 CGINS-CTDMOG-10214,A00103,Sensor,0,CTD Mooring (Inductive): CTDMO Series G,CTDMO SERIES G (37IM),Sea-Bird Electronics,SBE 37-IM,37-10214,,20121212,6400,,Woods Hole Oceanographic Institution
@@ -1359,6 +1360,7 @@ CGINS-FLORDM-03769,OL000148,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD 
 CGINS-FLORDM-03770,OL000141,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,3770,,,,,
 CGINS-FLORDM-04027,OL000607,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,4027,,,,,
 CGINS-FLORDM-04095,OL000144,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,4095,,,,,
+CGINS-FLORDM-06990,,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,6990,,,,,Woods Hole Oceanographic Institution
 CGINS-FLORTD-00993,A00085,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,993,5.2,20150604,12634.25,,
 CGINS-FLORTD-00994,A00084,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,994,5.2,20150604,12634.25,,
 CGINS-FLORTD-00995,A00218,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,995,,20121107,12634.25,,
@@ -1607,6 +1609,14 @@ CGINS-METBPR-00261,A01262,Sensor,0,Bulk Meteorology Instrument Package: METBK BP
 CGINS-METBPR-00262,A01263,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR262,,20140227,7200,,
 CGINS-METBPR-00263,A01264,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR263,,20140227,7200,,
 CGINS-METBPR-00264,A01265,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR264,,20140227,7200,,
+CGINS-METBPR-00266,A01866,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR266,,,,,Woods Hole Oceanographic Institution
+CGINS-METBPR-00267,A01867,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR267,,,,,Woods Hole Oceanographic Institution
+CGINS-METBPR-00268,A01868,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR268,,,,,Woods Hole Oceanographic Institution
+CGINS-METBPR-00269,A01869,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR269,,,,,Woods Hole Oceanographic Institution
+CGINS-METBPR-00270,A01870,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR270,,,,,Woods Hole Oceanographic Institution
+CGINS-METBPR-00271,A01871,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR271,,,,,Woods Hole Oceanographic Institution
+CGINS-METBPR-00272,A01872,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR272,,,,,Woods Hole Oceanographic Institution
+CGINS-METBPR-00273,A01873,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR273,,,,,Woods Hole Oceanographic Institution
 CGINS-METBPR-00274,A01720,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR274,,20150815,7200,,
 CGINS-METBPR-00275,A01721,Sensor,0,Bulk Meteorology Instrument Package: METBK BPR Module,METBK BPR MODULE,Star Engineering,ABS106-BPR,BPR275,,20150815,7200,,
 CGINS-METCTD-08028,A00207,Sensor,0,Bulk Meteorology Instrument Package: METBK CTD Module,METBK CTD MODULE,Sea-Bird Electronics,SBE 37-SM,37SM61212-8028,,20101122,5816,,Woods Hole Oceanographic Institution
@@ -1673,8 +1683,18 @@ CGINS-METHRH-00285,A01276,Sensor,0,Bulk Meteorology Instrument Package: METBK HR
 CGINS-METHRH-00286,A01277,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH286,,20150227,8050,,
 CGINS-METHRH-00287,A01278,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH287,,20150227,8050,,
 CGINS-METHRH-00288,A01279,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH288,,20150227,8050,,
+CGINS-METHRH-00289,A01280,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH289,,,,,Woods Hole Oceanographic Institution
+CGINS-METHRH-00291,A01874,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH291,,,,,Woods Hole Oceanographic Institution
+CGINS-METHRH-00292,A01875,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH292,,,,,Woods Hole Oceanographic Institution
+CGINS-METHRH-00293,A01876,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH293,,,,,Woods Hole Oceanographic Institution
+CGINS-METHRH-00294,A01877,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH294,,,,,Oregon State University
+CGINS-METHRH-00295,A01878,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH295,,,,,Woods Hole Oceanographic Institution
+CGINS-METHRH-00296,A01879,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH296,,,,,Woods Hole Oceanographic Institution
+CGINS-METHRH-00297,A01880,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH297,,,,,Woods Hole Oceanographic Institution
+CGINS-METHRH-00298,A01881,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH298,,,,,Woods Hole Oceanographic Institution
 CGINS-METHRH-00360,A01718,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH360,,20150817,8050,,
 CGINS-METHRH-00361,A01719,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH361,,20150817,8050,,
+CGINS-METHRH-00362,A02136,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH362,,,,,Woods Hole Oceanographic Institution
 CGINS-METLGR-00001,N00745,Sensor,0,Bulk Meteorology Instrument Package: METBK LGR Module,METBK LGR MODULE,Star Engineering,ASIMET,LGR001,,,,Destroyed on CP01CNSM-00001,Woods Hole Oceanographic Institution
 CGINS-METLGR-00002,N00746,Sensor,0,Bulk Meteorology Instrument Package: METBK LGR Module,METBK LGR MODULE,Star Engineering,ASIMET,LGR002,,,,Destroyed on CP01CNSM-00001,Woods Hole Oceanographic Institution
 CGINS-METLGR-00003,N00739,Sensor,0,Bulk Meteorology Instrument Package: METBK LGR Module,METBK LGR MODULE,Star Engineering,ASIMET,LGR003,,,,,Woods Hole Oceanographic Institution
@@ -1743,6 +1763,7 @@ CGINS-METLWR-00277,A00516,Sensor,0,Bulk Meteorology Instrument Package: METBK LW
 CGINS-METLWR-00278,A00448,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR278,,20130930,11600,,
 CGINS-METLWR-00279,A00504,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR279,,20150604,11600,,
 CGINS-METLWR-00280,A00609,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR280,,20140108,11600,,
+CGINS-METLWR-00281,A00746,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR281,,,,,Woods Hole Oceanographic Institution
 CGINS-METLWR-00282,A00755,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR282,,20140312,11600,,
 CGINS-METLWR-00283,A00709,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR283,,20140227,11600,,
 CGINS-METLWR-00284,A00710,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR284,,20140227,11200,,
@@ -1751,8 +1772,17 @@ CGINS-METLWR-00286,A01272,Sensor,0,Bulk Meteorology Instrument Package: METBK LW
 CGINS-METLWR-00287,A01273,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR287,,20150227,11600,,
 CGINS-METLWR-00288,A01274,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR288,,20150227,11600,,
 CGINS-METLWR-00289,A01275,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR289,,20150227,11600,,
+CGINS-METLWR-00291,A01883,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR291,,,,,Oregon State University
+CGINS-METLWR-00292,A02008,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR292,,,,,Woods Hole Oceanographic Institution
+CGINS-METLWR-00293,A02009,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR293,,,,,Woods Hole Oceanographic Institution
+CGINS-METLWR-00294,A01886,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR294,,,,,Oregon State University
+CGINS-METLWR-00295,A01887,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR295,,,,,Woods Hole Oceanographic Institution
+CGINS-METLWR-00296,A02010,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR296,,,,,Woods Hole Oceanographic Institution
+CGINS-METLWR-00297,A01889,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR297,,,,,Woods Hole Oceanographic Institution
+CGINS-METLWR-00298,A01890,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR298,,,,,Oregon State University
+CGINS-METLWR-00299,A01882,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR299,,,,,Oregon State University
 CGINS-METLWR-00313,,Sensor,0,Bulk Meteorology Instrument Package: METBK LWR Module,METBK LWR MODULE,Star Engineering,ABS104-LWR,LWR313,,,,,
-CGINS-METPRC-000231,A00186,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC231,,20121226,8200,,
+CGINS-METPRC-00231,A00186,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC231,,20121226,8200,,
 CGINS-METPRC-00232,A00200,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC232,,20121231,8200,,
 CGINS-METPRC-00233,A00193,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC233,,20121226,8200,,
 CGINS-METPRC-00236,A00479,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC236,,20131021,8200,,
@@ -1779,8 +1809,18 @@ CGINS-METPRC-00258,A01282,Sensor,0,Bulk Meteorology Instrument Package: METBK PR
 CGINS-METPRC-00259,A01283,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC259,,20150227,8200,,
 CGINS-METPRC-00260,A01284,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC260,,20150227,8200,,
 CGINS-METPRC-00261,A01285,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC261,,20150227,8200,,
+CGINS-METPRC-00263,A01892,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC263,,,,,Woods Hole Oceanographic Institution
+CGINS-METPRC-00264,A01893,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC264,,,,,Woods Hole Oceanographic Institution
+CGINS-METPRC-00265,A01894,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC265,,,,,Oregon State University
+CGINS-METPRC-00266,A01895,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC266,,,,,Woods Hole Oceanographic Institution
+CGINS-METPRC-00267,A01896,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC267,,,,,Oregon State University
+CGINS-METPRC-00268,A01897,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC268,,,,,Woods Hole Oceanographic Institution
+CGINS-METPRC-00269,A01898,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC269,,,,,Woods Hole Oceanographic Institution
+CGINS-METPRC-00270,A01899,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC270,,,,,Woods Hole Oceanographic Institution
+CGINS-METPRC-00271,A02007,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC271,,,,,Oregon State University
 CGINS-METPRC-00272,A01722,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC272,,20150815,8560,,
 CGINS-METPRC-00273,A01724,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC273,,20150815,8560,,
+CGINS-METPRC-00276,A02137,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC276,,,,,Woods Hole Oceanographic Institution
 CGINS-METSWR-00242,A00188,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR242,,20121226,11200,,
 CGINS-METSWR-00243,A00195,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR243,,20121226,11200,,
 CGINS-METSWR-00244,A00202,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR244,,20121231,11200,,
@@ -1816,11 +1856,21 @@ CGINS-METSWR-00280,A01287,Sensor,0,Bulk Meteorology Instrument Package: METBK SW
 CGINS-METSWR-00281,A01288,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR281,,20150227,11200,,
 CGINS-METSWR-00282,A01289,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR282,,20150227,11200,,
 CGINS-METSWR-00283,A01290,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR283,,20150227,11200,,
+CGINS-METSWR-00286,A01909,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR286,,,,,Woods Hole Oceanographic Institution
+CGINS-METSWR-00287,A01910,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR287,,,,,Woods Hole Oceanographic Institution
+CGINS-METSWR-00288,A01911,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR288,,,,,Woods Hole Oceanographic Institution
+CGINS-METSWR-00289,A01912,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR289,,,,,Woods Hole Oceanographic Institution
+CGINS-METSWR-00290,A01913,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR290,,,,,Woods Hole Oceanographic Institution
+CGINS-METSWR-00291,A01914,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR291,,,,,Oregon State University
+CGINS-METSWR-00292,A01915,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR292,,,,,Woods Hole Oceanographic Institution
+CGINS-METSWR-00293,A01916,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR293,,,,,Woods Hole Oceanographic Institution
+CGINS-METSWR-00294,A01917,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR294,,,,,Woods Hole Oceanographic Institution
 CGINS-METWND-00229,A00187,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND229,,20121226,12250,,
 CGINS-METWND-00230,A00194,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND230,,20150604,12250,,
 CGINS-METWND-00231,A00201,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND231,,20121231,12250,,
 CGINS-METWND-00232,A00612,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND232,,20140108,12250,,
 CGINS-METWND-00233,A00507,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND233,,20131101,12250,,
+CGINS-METWND-00234,A00606,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND234,,,,,Woods Hole Oceanographic Institution
 CGINS-METWND-00235,A00725,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND235,,20140307,12250,,
 CGINS-METWND-00236,A00401,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND236,,20130830,12250,,
 CGINS-METWND-00237,A00726,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND237,,20140307,12250,,
@@ -1842,7 +1892,20 @@ CGINS-METWND-00252,A01292,Sensor,0,Bulk Meteorology Instrument Package: METBK WN
 CGINS-METWND-00253,A01293,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND253,,20150227,12250,,
 CGINS-METWND-00254,A01294,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND254,,20150227,12250,,
 CGINS-METWND-00255,A01295,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND255,,20150227,12250,,
+CGINS-METWND-00257,A01900,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND257,,,,,Oregon State University
+CGINS-METWND-00258,A01901,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND258,,,,,Woods Hole Oceanographic Institution
+CGINS-METWND-00259,A01902,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND259,,,,,Oregon State University
+CGINS-METWND-00260,A01903,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND260,,,,,Oregon State University
+CGINS-METWND-00261,A01904,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND261,,,,,Oregon State University
+CGINS-METWND-00262,A01905,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND262,,,,,Oregon State University
+CGINS-METWND-00263,A01906,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND263,,,,,Oregon State University
+CGINS-METWND-00264,A01907,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND264,,,,,Woods Hole Oceanographic Institution
+CGINS-METWND-00265,A01908,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND265,,,,,Woods Hole Oceanographic Institution
 CGINS-METWND-00266,A01473,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WIND MODULE 98-ABS101,Star Engineering,ABS101-SWND,SWND266,,20150601,12634,,
+CGINS-METWND-00268,A02135,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND268,,,,,Woods Hole Oceanographic Institution
+CGINS-METWND-00269,A02134,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND269,,,,,Woods Hole Oceanographic Institution
+CGINS-METWND-00270,,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND270,,,,,Woods Hole Oceanographic Institution
+CGINS-METWND-00271,,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND271,,,,,Oregon State University
 CGINS-MOPAK0-11343,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-11343,,,,,
 CGINS-MOPAK0-11345,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-11345,,,,,Woods Hole Oceanographic Institution
 CGINS-MOPAK0-11347,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-11347,,,,,
@@ -2123,6 +2186,7 @@ CGINS-PARADM-50204,,Sensor,1,Photosynthetically Available Radiation for Glider: 
 CGINS-PARADM-50207,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50207,,,,,
 CGINS-PARADM-50208,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50208,,,,,
 CGINS-PARADM-50210,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50210,,,,,
+CGINS-PARADM-50213,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50213,,,,,Woods Hole Oceangraphic Institution
 CGINS-PARADM-50215,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50215,,,,,
 CGINS-PARADM-50216,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50216,,,,,
 CGINS-PARADM-50217,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50217,,,,,
