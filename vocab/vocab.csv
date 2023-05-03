@@ -1241,6 +1241,11 @@ GI05MOAS-GL560-00-ENG000000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 
 GI05MOAS-GL560-01-FLORDM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 560,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
 GI05MOAS-GL560-02-DOSTAM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 560,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
 GI05MOAS-GL560-04-CTDGVM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 560,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GI05MOAS-G0898,Global Irminger Sea,Mobile Assets,Open Ocean Glider 898,,,,0,1000
+GI05MOAS-G0898-00-ENG000000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 898,Mobile Asset Controller,Teledyne Webb,G3 Slocum Gliders,0,1000
+GI05MOAS-G0898-01-FLORDM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 898,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GI05MOAS-G0898-02-DOSTAM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 898,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GI05MOAS-G0898-04-CTDGVM000,Global Irminger Sea,Mobile Assets,Open Ocean Glider 898,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
 GI05MOAS-PG515,Global Irminger Sea,Mobile Assets,Profiling Glider 515,,,,0,200
 GI05MOAS-PG515-00-ENG000000,Global Irminger Sea,Mobile Assets,Profiling Glider 515,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
 GI05MOAS-PG515-01-CTDGVM000,Global Irminger Sea,Mobile Assets,Profiling Glider 515,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
@@ -1414,11 +1419,6 @@ GP05MOAS-GL537-00-ENG000000,Global Station Papa,Mobile Assets,Open Ocean Glider 
 GP05MOAS-GL537-01-FLORDM000,Global Station Papa,Mobile Assets,Open Ocean Glider 537,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
 GP05MOAS-GL537-02-DOSTAM000,Global Station Papa,Mobile Assets,Open Ocean Glider 537,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
 GP05MOAS-GL537-04-CTDGVM000,Global Station Papa,Mobile Assets,Open Ocean Glider 537,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-GP05MOAS-G0898,Global Station Papa,Mobile Assets,Open Ocean Glider 898,,,,0,1000
-GP05MOAS-G0898-00-ENG000000,Global Station Papa,Mobile Assets,Open Ocean Glider 898,Mobile Asset Controller,Teledyne Webb,G3 Slocum Gliders,0,1000
-GP05MOAS-G0898-01-FLORDM000,Global Station Papa,Mobile Assets,Open Ocean Glider 898,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
-GP05MOAS-G0898-02-DOSTAM000,Global Station Papa,Mobile Assets,Open Ocean Glider 898,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
-GP05MOAS-G0898-04-CTDGVM000,Global Station Papa,Mobile Assets,Open Ocean Glider 898,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
 GP05MOAS-G0899,Global Station Papa,Mobile Assets,Open Ocean Glider 899,,,,0,1000
 GP05MOAS-G0899-00-ENG000000,Global Station Papa,Mobile Assets,Open Ocean Glider 899,Mobile Asset Controller,Teledyne Webb,G3 Slocum Gliders,0,1000
 GP05MOAS-G0899-01-FLORDM000,Global Station Papa,Mobile Assets,Open Ocean Glider 899,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
