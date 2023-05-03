@@ -877,13 +877,13 @@ GA01SUMO-SBD11-03-HYDGN0000,Global Argentine Basin,Apex Surface Mooring,Surface 
 GA01SUMO-SBD11-04-DOSTAD000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Dissolved Oxygen,Aanderaa,Optode 4831,1,1
 GA01SUMO-SBD11-05-SPKIRB000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-5,-5
 GA01SUMO-SBD11-06-METBKA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
-GA01SUMO-SBD11-06-METBKA001,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,SBE 37-SM,1,1,,,,
-GA01SUMO-SBD11-06-METBKA002,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-5,-5,,,,
-GA01SUMO-SBD11-06-METBKA003,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-5,-5,,,,
-GA01SUMO-SBD11-06-METBKA004,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-5,-5,,,,
-GA01SUMO-SBD11-06-METBKA005,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-5,-5,,,,
-GA01SUMO-SBD11-06-METBKA006,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-5,-5,,,,
-GA01SUMO-SBD11-06-METBKA007,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-6,-6,,,,
+GA01SUMO-SBD11-06-METBKA001,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,SBE 37-SM,1,1
+GA01SUMO-SBD11-06-METBKA002,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-5,-5
+GA01SUMO-SBD11-06-METBKA003,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-5,-5
+GA01SUMO-SBD11-06-METBKA004,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-5,-5
+GA01SUMO-SBD11-06-METBKA005,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-5,-5
+GA01SUMO-SBD11-06-METBKA006,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-5,-5
+GA01SUMO-SBD11-06-METBKA007,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-6,-6
 GA01SUMO-SBD11-08-NUTNRB000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Nitrate,Satlantic,ISUS,1,1
 GA01SUMO-SBD12,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,,,,0,0
 GA01SUMO-SBD12-00-DCLENG000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
@@ -893,13 +893,13 @@ GA01SUMO-SBD12-03-HYDGN0000,Global Argentine Basin,Apex Surface Mooring,Surface 
 GA01SUMO-SBD12-04-PCO2AA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
 GA01SUMO-SBD12-05-WAVSSA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Surface Wave Spectra,Axys Technologies,TRIAXYS,0,0
 GA01SUMO-SBD12-06-METBKA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
-GA01SUMO-SBD12-06-METBKA001,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,SBE 37-SM,1,1,,,,
-GA01SUMO-SBD12-06-METBKA002,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-5,-5,,,,
-GA01SUMO-SBD12-06-METBKA003,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-5,-5,,,,
-GA01SUMO-SBD12-06-METBKA004,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-5,-5,,,,
-GA01SUMO-SBD12-06-METBKA005,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-5,-5,,,,
-GA01SUMO-SBD12-06-METBKA006,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-5,-5,,,,
-GA01SUMO-SBD12-06-METBKA007,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-6,-6,,,,
+GA01SUMO-SBD12-06-METBKA001,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,SBE 37-SM,1,1
+GA01SUMO-SBD12-06-METBKA002,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-5,-5
+GA01SUMO-SBD12-06-METBKA003,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-5,-5
+GA01SUMO-SBD12-06-METBKA004,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-5,-5
+GA01SUMO-SBD12-06-METBKA005,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-5,-5
+GA01SUMO-SBD12-06-METBKA006,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-5,-5
+GA01SUMO-SBD12-06-METBKA007,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-6,-6
 GA02HYPM,Global Argentine Basin,Apex Profiler Mooring,,,,,150,5200
 GA02HYPM-MPM01,Global Argentine Basin,Apex Profiler Mooring,Mooring Riser,,,,150,150
 GA02HYPM-MPM01-02-ZPLSGA009,Global Argentine Basin,Apex Profiler Mooring,Mooring Riser,Bio-acoustic Sonar (Global),ASL Environmental Sciences,AZFP,150,150
