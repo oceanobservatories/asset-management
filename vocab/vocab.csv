@@ -876,7 +876,14 @@ GA01SUMO-SBD11-01-MOPAK0000,Global Argentine Basin,Apex Surface Mooring,Surface 
 GA01SUMO-SBD11-03-HYDGN0000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
 GA01SUMO-SBD11-04-DOSTAD000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Dissolved Oxygen,Aanderaa,Optode 4831,1,1
 GA01SUMO-SBD11-05-SPKIRB000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-5,-5
-GA01SUMO-SBD11-06-METBKA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,-5,-5
+GA01SUMO-SBD11-06-METBKA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+GA01SUMO-SBD11-06-METBKA001,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,SBE 37-SM,1,1,,,,
+GA01SUMO-SBD11-06-METBKA002,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-5,-5,,,,
+GA01SUMO-SBD11-06-METBKA003,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-5,-5,,,,
+GA01SUMO-SBD11-06-METBKA004,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-5,-5,,,,
+GA01SUMO-SBD11-06-METBKA005,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-5,-5,,,,
+GA01SUMO-SBD11-06-METBKA006,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-5,-5,,,,
+GA01SUMO-SBD11-06-METBKA007,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-6,-6,,,,
 GA01SUMO-SBD11-08-NUTNRB000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Nitrate,Satlantic,ISUS,1,1
 GA01SUMO-SBD12,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,,,,0,0
 GA01SUMO-SBD12-00-DCLENG000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
@@ -885,7 +892,14 @@ GA01SUMO-SBD12-02-FLORTD000,Global Argentine Basin,Apex Surface Mooring,Surface 
 GA01SUMO-SBD12-03-HYDGN0000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
 GA01SUMO-SBD12-04-PCO2AA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
 GA01SUMO-SBD12-05-WAVSSA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Surface Wave Spectra,Axys Technologies,TRIAXYS,0,0
-GA01SUMO-SBD12-06-METBKA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,-5,-5
+GA01SUMO-SBD12-06-METBKA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+GA01SUMO-SBD12-06-METBKA001,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,SBE 37-SM,1,1,,,,
+GA01SUMO-SBD12-06-METBKA002,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-5,-5,,,,
+GA01SUMO-SBD12-06-METBKA003,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-5,-5,,,,
+GA01SUMO-SBD12-06-METBKA004,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-5,-5,,,,
+GA01SUMO-SBD12-06-METBKA005,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-5,-5,,,,
+GA01SUMO-SBD12-06-METBKA006,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-5,-5,,,,
+GA01SUMO-SBD12-06-METBKA007,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-6,-6,,,,
 GA02HYPM,Global Argentine Basin,Apex Profiler Mooring,,,,,150,5200
 GA02HYPM-MPM01,Global Argentine Basin,Apex Profiler Mooring,Mooring Riser,,,,150,150
 GA02HYPM-MPM01-02-ZPLSGA009,Global Argentine Basin,Apex Profiler Mooring,Mooring Riser,Bio-acoustic Sonar (Global),ASL Environmental Sciences,AZFP,150,150
@@ -1400,6 +1414,16 @@ GP05MOAS-GL537-00-ENG000000,Global Station Papa,Mobile Assets,Open Ocean Glider 
 GP05MOAS-GL537-01-FLORDM000,Global Station Papa,Mobile Assets,Open Ocean Glider 537,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
 GP05MOAS-GL537-02-DOSTAM000,Global Station Papa,Mobile Assets,Open Ocean Glider 537,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
 GP05MOAS-GL537-04-CTDGVM000,Global Station Papa,Mobile Assets,Open Ocean Glider 537,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GP05MOAS-G0898,Global Station Papa,Mobile Assets,Open Ocean Glider 898,,,,0,1000
+GP05MOAS-G0898-00-ENG000000,Global Station Papa,Mobile Assets,Open Ocean Glider 898,Mobile Asset Controller,Teledyne Webb,G3 Slocum Gliders,0,1000
+GP05MOAS-G0898-01-FLORDM000,Global Station Papa,Mobile Assets,Open Ocean Glider 898,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GP05MOAS-G0898-02-DOSTAM000,Global Station Papa,Mobile Assets,Open Ocean Glider 898,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GP05MOAS-G0898-04-CTDGVM000,Global Station Papa,Mobile Assets,Open Ocean Glider 898,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+GP05MOAS-G0899,Global Station Papa,Mobile Assets,Open Ocean Glider 899,,,,0,1000
+GP05MOAS-G0899-00-ENG000000,Global Station Papa,Mobile Assets,Open Ocean Glider 899,Mobile Asset Controller,Teledyne Webb,G3 Slocum Gliders,0,1000
+GP05MOAS-G0899-01-FLORDM000,Global Station Papa,Mobile Assets,Open Ocean Glider 899,2-Wavelength Fluorometer,WET Labs,ECO Puck FLBB-SLC,0,1000
+GP05MOAS-G0899-02-DOSTAM000,Global Station Papa,Mobile Assets,Open Ocean Glider 899,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+GP05MOAS-G0899-04-CTDGVM000,Global Station Papa,Mobile Assets,Open Ocean Glider 899,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
 GP05MOAS-PG514,Global Station Papa,Mobile Assets,Profiling Glider 514,,,,0,200
 GP05MOAS-PG514-00-ENG000000,Global Station Papa,Mobile Assets,Profiling Glider 514,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
 GP05MOAS-PG514-02-DOSTAM000,Global Station Papa,Mobile Assets,Profiling Glider 514,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
