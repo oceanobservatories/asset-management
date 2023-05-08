@@ -697,6 +697,7 @@ CGINS-CTDGVM-09364,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Gli
 CGINS-CTDGVM-09453,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9453,,,,,Woods Hole Oceanographic Institution
 CGINS-CTDGVM-09658,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9658,,,,,
 CGINS-CTDGVM-09686,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9686,,,,,Woods Hole Oceanographic Institution
+CGINS-CTDGVM-09687,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9687,,,,,Woods Hole Oceanographic Institution
 CGINS-CTDGVM-09690,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9690,,,,,
 CGINS-CTDGVM-09692,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9692,1.3.1,20210403,,,Oregon State University
 CGINS-CTDMOG-10214,A00103,Sensor,0,CTD Mooring (Inductive): CTDMO Series G,CTDMO SERIES G (37IM),Sea-Bird Electronics,SBE 37-IM,37-10214,,20121212,6400,,Woods Hole Oceanographic Institution
@@ -1254,6 +1255,7 @@ CGINS-DOSTAM-00570,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA 
 CGINS-DOSTAM-00604,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,604,,,,,
 CGINS-DOSTAM-00605,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,605,,,,,
 CGINS-DOSTAM-00662,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,662,,,,,Woods Hole Oceanographic Institution
+CGINS-DOSTAM-00685,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,685,,,,,Woods Hole Oceanographic Institution
 CGINS-DOSTAM-00864,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,864,,,,,Oregon State University
 CGINS-DOSTAM-00891,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,891,5.1.1,20210403,,,Oregon State University
 CGINS-DOSTAM-00909,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,909,,,,,
@@ -1360,6 +1362,7 @@ CGINS-FLORDM-03769,OL000148,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD 
 CGINS-FLORDM-03770,OL000141,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,3770,,,,,
 CGINS-FLORDM-04027,OL000607,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,4027,,,,,
 CGINS-FLORDM-04095,OL000144,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,4095,,,,,
+CGINS-FLORDM-06989,,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,6989,,,,,Woods Hole Oceanographic Institution
 CGINS-FLORDM-06990,,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,6990,,,,,Woods Hole Oceanographic Institution
 CGINS-FLORTD-00993,A00085,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,993,5.2,20150604,12634.25,,
 CGINS-FLORTD-00994,A00084,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,994,5.2,20150604,12634.25,,
