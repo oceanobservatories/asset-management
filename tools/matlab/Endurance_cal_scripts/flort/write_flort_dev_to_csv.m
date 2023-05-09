@@ -12,6 +12,9 @@ function csvfilename = write_flort_dev_to_csv(dev)
 %
 %.. reads in a FLORT (ECO BBFL2W) dev file and writes out the 
 %.. calibration coefficients to an OOI GitHub cal file.
+%
+%.. after csv file creation the pdf file(s) are opened and
+%.. the csv file is opened in Notepad for consistency check.
 
 %.. dev file  BBFL2W-1030.DEV
 %
@@ -30,10 +33,7 @@ function csvfilename = write_flort_dev_to_csv(dev)
 % CDOM=8		0.0650		47	
 % N/U=9				
 
-clear C
-
-% cd R:
-% cd ..
+clearvars C
 
 seriesD = [ 995  996 1121 1123   1151 1152 1153 1154  ...
            1155 1197 1290 1291   1302 1303 1487 1488]; 
@@ -128,29 +128,48 @@ end
 %.. write directly out to a text file, no xlsx in-between.
 fid = fopen(csvfilename, 'w');
 header = 'serial,name,value,notes';
-fprintf(fid, '%s\r\n', header);
+fprintf(fid, '%s\n', header);
 
-fprintf(fid, '%s,%s,%s,%s\r\n', ...
+fprintf(fid, '%s,%s,%s,%s\n', ...
     sn_str, 'CC_dark_counts_cdom', darkcounts{3}, caldate_provenance);
-fprintf(fid, '%s,%s,%s,\r\n', ...
+fprintf(fid, '%s,%s,%s,\n', ...
     sn_str, 'CC_scale_factor_cdom', scalefactor{3});
-fprintf(fid, '%s,%s,%s,\r\n', ...
+fprintf(fid, '%s,%s,%s,\n', ...
     sn_str, 'CC_dark_counts_chlorophyll_a', darkcounts{2});
-fprintf(fid, '%s,%s,%s,\r\n', ...
+fprintf(fid, '%s,%s,%s,\n', ...
     sn_str, 'CC_scale_factor_chlorophyll_a', scalefactor{2});
-fprintf(fid, '%s,%s,%s,\r\n', ...
+fprintf(fid, '%s,%s,%s,\n', ...
     sn_str, 'CC_dark_counts_volume_scatter', darkcounts{1});
-fprintf(fid, '%s,%s,%s,\r\n', ...
+fprintf(fid, '%s,%s,%s,\n', ...
     sn_str, 'CC_scale_factor_volume_scatter', scalefactor{1});
-fprintf(fid, '%s,%s,%s,%s\r\n', ...
+fprintf(fid, '%s,%s,%s,%s\n', ...
     sn_str, 'CC_depolarization_ratio', '0.039', 'Constant');
-fprintf(fid, '%s,%s,%s,%s\r\n', ...
+fprintf(fid, '%s,%s,%s,%s\n', ...
     sn_str, 'CC_measurement_wavelength', '700', '[nm]; Constant');
-fprintf(fid, '%s,%s,%s,%s\r\n', ...
+fprintf(fid, '%s,%s,%s,%s\n', ...
     sn_str, 'CC_scattering_angle', '124', '[degrees]; Constant');
-fprintf(fid, '%s,%s,%s,%s\r\n', ...
+fprintf(fid, '%s,%s,%s,%s\n', ...
     sn_str, 'CC_angular_resolution', '1.076', bug);
 
 fclose(fid);
+
+%.. now check the OOI csv calfile coeffs.
+%.. .. open the pdf file(s) first, because using notepad introduces
+%.. .. an automatic pause in code execution which can be used
+%.. .. to compare the coeffs. when notepad is closed, execution
+%.. .. will continue.
+pdfFilename = ls('*.pdf');
+if isempty(pdfFilename)
+    disp('No pdf file found in instrument folder. Continue.');
+else
+    %.. most of the time the vendor supplies 1 pdf file with 3 pages,
+    %.. one for each sensor. Occasionally 3 separate pdf files are
+    %.. supplied:
+    pdfFilename = cellstr(pdfFilename);
+    for ii = 1:numel(pdfFilename)
+        open(pdfFilename{ii});
+    end
+end
+system(['notepad ' csvfilename]);
 
 end
