@@ -21,7 +21,7 @@ function csvfilename = write_presf_qct_to_csv(txtfilename)
 %.. FUNCTION CALLS:
 %.. [cal] = rad_read_presf_cap(txtfilename)
 
-clear template C
+clearvars template C
 
 seriesA = [1328 1351 1382 1383 1391];
 seriesB = [1384 1396 1397];
@@ -103,12 +103,12 @@ template(1,4) = {caldate_provenance};
 %.. write directly out to a text file, no xlsx in-between.
 fid = fopen(csvfilename, 'w');
 header = 'serial,name,value,notes';  %  'notes' is the 4th column
-fprintf(fid, '%s\r\n', header);
+fprintf(fid, '%s\n', header);
 %.. first template line has 4 arguments
-fprintf(fid, '%s,%s,%s,%s\r\n', template{1, 1:4});
+fprintf(fid, '%s,%s,%s,%s\n', template{1, 1:4});
 %.. append a comma to each line to denote an empty 4th column.
 for ii = 2:length(template)
-    fprintf(fid, '%s,%s,%s,\r\n', template{ii, 1:3});
+    fprintf(fid, '%s,%s,%s,\n', template{ii, 1:3});
 end
 fclose(fid);
 
@@ -117,6 +117,13 @@ cal.offsetFactor = '0';
 cal.slopeFactor  = '1';
 P = [1:3 18 4:8 19 24 9 25 10:17 20:23];
 disp(orderfields(cal, P));
+
+%.. calling notepad using system results in putting matlab in "pause";
+%.. closing the notepad window will resume execution. therefore using
+%.. notepad to open both files can using system calls can only display
+%.. one file at a time. However, this is not how Wordpad acts, so
+system(['C:\Windows\System32\write.exe ' txtfilename]);
+system(['notepad ' csvfilename]);
 
 end
 
