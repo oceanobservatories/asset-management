@@ -56,9 +56,10 @@ function write_dofst_cal_to_csv(calfilename)
 % ADJSOC=2.8589e-004
 %***********************************************************************
 %***********************************************************************
-
-% cd R:
-% cd ..
+%
+%.. after csv file creation the source file is opened in Wordpad and
+%.. the csv file is opened in Notepad for consistency check.
+%
 
 %.. read in calcoeff values as strings
 value(1:6) ={''};
@@ -128,11 +129,18 @@ csvfilename = ['CGINS-DOFSTK-' sernumstr '__' caldate '.csv'];
 sernumstr = ['43-' num2str(sernumFix)];
 fid = fopen(csvfilename, 'w');
 header = 'serial,name,value,notes';
-fprintf(fid, '%s\r\n', header);
+fprintf(fid, '%s\n', header);
 for ii = 1:nvalues
-    fprintf(fid, '%s,%s,%s,%s\r\n', ...
+    fprintf(fid, '%s,%s,%s,%s\n', ...
         sernumstr, coeffname{ii}, value{ii}, notes{ii});
 end
 fclose(fid);
+
+%.. calling notepad using system results in putting matlab in "pause";
+%.. closing the notepad window will resume execution. therefore using
+%.. notepad to open both files can using system calls can only display
+%.. one file at a time. However, this is not how Wordpad acts, so
+system(['C:\Windows\System32\write.exe ' calfilename]);
+system(['notepad ' csvfilename]);
 
 end
