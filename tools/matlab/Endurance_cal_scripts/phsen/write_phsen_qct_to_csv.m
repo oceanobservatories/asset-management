@@ -1,5 +1,7 @@
 function csvfilename = write_phsen_qct_to_csv(qct)
 %.. desiderio 14-sep-2018
+%.. desiderio 05-jan-2023 added CC_sami_bits, 12
+%.. desiderio 17-feb-2023 finding caldate now insensitive to qct extension
 %
 %.. reads in cal values for a Sunburst SAMI pH instrument (PHSEN)
 %.. from the QCT to create an OOI GitHub cal file. 
@@ -31,6 +33,10 @@ function csvfilename = write_phsen_qct_to_csv(qct)
 % Cal5: 0.08
 % Cal6: 3
 % :ConfigHex
+%
+%.. The pdf calibration certificate and the OOI csv calfile are opened in
+%.. Acrobat and Notepad, respectively,  for consistency check.
+%
 
 disp(pwd)
 
@@ -52,7 +58,7 @@ C = strrep(C, char(9), ' ');  % replace tabs by spaces
 %.. delete everything after the 1st execution of :SAMIinfo;
 %.. first remove :SAMIinfoHex
 C = strrep(C, ':SAMIinfoHex', 'ZZTop');
-tf_SAMIinfo = ~cellfun('isempty', strfind(C, ':SAMIinfo'));
+tf_SAMIinfo = contains(C, ':SAMIinfo');
 if sum(tf_SAMIinfo)==0
     error('No '':SAMIinfo'' calcoeffs in the qct file.');
 end
@@ -89,8 +95,8 @@ sernum = strtrim(sernum);
 
 %.. find date of cal from filename;
 %.. must be appended as YYYYMMDD before running this code.
-idx = strfind(qct, '.txt');
-caldate = qct(idx-8:idx-1);
+[~, name, ~] = fileparts(qct);
+caldate      = name(end-7:end);
 
 %.. construct output filename
 csvfilename = ['CGINS-PHSEND-' sernum '__' caldate '.csv'];
@@ -98,16 +104,29 @@ csvfilename = ['CGINS-PHSEND-' sernum '__' caldate '.csv'];
 %.. write directly out
 fid = fopen(csvfilename, 'w');
 header = 'serial,name,value,notes';
-fprintf(fid, '%s\r\n', header);
+fprintf(fid, '%s\n', header);
 for ii=1:ncoeff
-    fprintf(fid, '%s,%s,%s,\r\n', sernum, ccOOI_name{ii}, calcoeff{ii});
+    fprintf(fid, '%s,%s,%s,\n', sernum, ccOOI_name{ii}, calcoeff{ii});
 end
 %.. these calcoeff entries do not change
-fprintf(fid, '%s,%s,\r\n', sernum, 'CC_ind_off,0');
-fprintf(fid, '%s,%s,\r\n', sernum, 'CC_ind_slp,1');
-fprintf(fid, '%s,%s\r\n', sernum, ['CC_psal,35,' ...
+fprintf(fid, '%s,%s,\n', sernum, 'CC_ind_off,0');
+fprintf(fid, '%s,%s,\n', sernum, 'CC_ind_slp,1');
+fprintf(fid, '%s,%s\n', sernum, ['CC_psal,35,' ...
     'DELETE: use salinity from co-located CTDBP']);
+fprintf(fid, '%s,%s,%s,\n', sernum, 'CC_sami_bits', '12');
 
 fclose(fid);
 
+%.. now check the OOI csv calfile coeffs.
+%.. .. open the pdf file first, because using notepad introduces
+%.. .. an automatic pause in code execution which can be used
+%.. .. to compare the coeffs. when notepad is closed, execution
+%.. .. will continue.
+pdfFilename = ls('*.pdf');
+if isempty(pdfFilename)
+    disp('No pdf file found in instrument folder. Continue.');
+else
+    open(pdfFilename);
+end
+system(['notepad ' csvfilename]);
 end
