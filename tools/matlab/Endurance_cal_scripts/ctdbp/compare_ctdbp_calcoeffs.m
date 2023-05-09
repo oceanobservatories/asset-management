@@ -2,13 +2,20 @@ function compare_ctdbp_calcoeffs
 %.. desiderio 26-feb-2020
 %.. desiderio 15-mar-2021 converted to function, this function is called by
 %..                       compare_ctdbp_calcoeffs_IN_FOLDERTREE.m
+%.. desiderio 14-feb-2023 also opens T,P,C pdfs in acrobat so that those
+%..                       coeffs can be compared to those in the matlab
+%..                       command window.
+%.. FUNCTION CALLS
+%.. rad_read_ctdbp_cal.m
+%.. rad_read_ctdbp_cap.m
+%.. rad_read_ctdbp_xmlcon.m
 %
 %.. the working directory must contain the vendor documentation
 %.. containing the calcoeffs to be compared:
-%..     xmlcon, QCT cap, cal.
+%..     xmlcon, QCT cap, cal, and pdfs.
 %
 %.. OUTPUTS EACH CALCOEFF FROM THESE 3 SOURCES TO THE MATLAB COMMAND WINDOW
-%.. FOR EASE OF COMPARISON.
+%.. FOR EASE OF COMPARISON. PDFs are also opened.
 %
 % xml; qct; cal:
 %
@@ -97,4 +104,21 @@ for ii = 2:length(field)
     end
     disp(['|maxdev|/mean = ' num2str(noi)]);
     disp(' ');
+end
+%.. now open T, P, and C pdfs on monitor:
+pdfFile = sort(listing(contains(listing, '.pdf')));
+if numel(pdfFile)~=3
+    disp('Warning, 3 pdfFiles were not found');
+    for ii=1:numel(pdfFile)
+        open(pdfFile{ii});
+    end
+else
+    %.. open the pdf files in the same order as coeffs are displayed
+    %.. in the command window
+    for ii=[3 2 1]
+        open(pdfFile{ii});
+        pause(1.0);  % needed so that pdfs open in desired order.
+    end
+    %.. opening order: T, P, C; order in matlab command window is T, P, C.
+    %.. Scroll command window as needed to view corresponding cdoeffs.
 end
