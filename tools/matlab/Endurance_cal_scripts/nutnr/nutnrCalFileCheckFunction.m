@@ -256,6 +256,3 @@ disp(' ');
 disp('CHECK LOWER AND UPPER WAVELENGTH LIMITS on csv sheet;');
 disp('Should always be 217 and 240.');
 disp(' ');
-
-%.. also copy all check files to one place  
-copyfile(xlsxFile, 'R:\');
