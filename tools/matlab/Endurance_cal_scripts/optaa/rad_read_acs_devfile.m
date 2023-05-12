@@ -23,6 +23,7 @@ dev.sernum = sscanf(['0x' C{2}(3:8)], '%i');  % instrument serial number
 %.. worked in 99% of the cases, but there was some funny business with
 %.. one of the dev files. Rather than kluging a fix, try a more general
 %.. approach.
+
 [dev.tcal, dev.ical, dev.date] = parse_devfile_offset_save_row(C{4});
 %.. dev.tcal = cal water temperature 
 %.. dev.ical = internal instrument temperature during cal
