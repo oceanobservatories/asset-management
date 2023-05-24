@@ -54,7 +54,7 @@ idx = strfind(str, '=');
 cal.caldate_temperature = strtrim(str(idx+1:end));
 
 %.. find the conductivity sensor caldate
-match = 'TCALDATE=';
+match = 'CCALDATE=';
 idx = find(contains(C, match), 1);
 if isempty(idx)
     error('Could not find Conductivity coefficients');
