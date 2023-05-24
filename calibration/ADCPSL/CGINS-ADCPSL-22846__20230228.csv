@@ -1,0 +1,8 @@
+serial,name,value,notes
+22846,CC_scale_factor1,0.45,constant; source_file ADCPS-L_WHLS75-1500-I_SN_22846_Configuration_Summary_2023-02-28.pdf
+22846,CC_scale_factor2,0.45,constant
+22846,CC_scale_factor3,0.45,constant
+22846,CC_scale_factor4,0.45,constant
+22846,CC_bin_size,0,in cm; return from vendor - not allocated yet
+22846,CC_dist_first_bin,0,in cm; return from vendor - not allocated yet
+22846,CC_orientation,1,1 is upward looking; 0 is downward looking

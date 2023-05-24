@@ -89,4 +89,4 @@ for ii=1:length(coeff_name)
     end
 end
 
-clear C
+clearvars C

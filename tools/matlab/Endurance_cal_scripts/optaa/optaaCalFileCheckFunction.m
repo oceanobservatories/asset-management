@@ -249,6 +249,3 @@ colorXlsxCells(xlsxFile, 'testbed', cellsToCheck, -39)
 
 %.. also highlight the tcal and caldate values in the OOI calfile
 colorXlsxCells(xlsxFile, 'csv', {'C2:C2' 'C4:C4'}, -39)
-
-%.. also copy all check files to one place  
-copyfile(xlsxFile, 'R:\');
