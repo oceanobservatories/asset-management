@@ -263,6 +263,8 @@ CGCON-GLDROO-00538,OL000112,Sensor,1,Mobile Asset Controller for Open Ocean Glid
 CGCON-GLDROO-00559,OL000610,Sensor,1,Mobile Asset Controller for Open Ocean Glider,GL559 Controller,Teledyne Webb,G2 Slocum Gliders,559,,,,,Woods Hole Oceanographic Institution
 CGCON-GLDROO-00560,OL000137,Sensor,1,Mobile Asset Controller for Open Ocean Glider,GL560 Controller,Teledyne Webb,G2 Slocum Gliders,560,,,,,Woods Hole Oceanographic Institution
 CGCON-GLDROO-00561,OL000138,Sensor,1,Mobile Asset Controller for Open Ocean Glider,GL561 Controller,Teledyne Webb,G2 Slocum Gliders,561,,,,,Woods Hole Oceanographic Institution
+CGCON-GLDROO-00898,,Sensor,1,Mobile Asset Controller for Open Ocean Glider,GL898 Controller,Teledyne Webb,G3 Slocum Gliders,898,,,,,Woods Hole Oceanographic Institution
+CGCON-GLDROO-00899,,Sensor,1,Mobile Asset Controller for Open Ocean Glider,GL899 Controller,Teledyne Webb,G3 Slocum Gliders,899,,,,,Woods Hole Oceanographic Institution
 CGCON-GWFPGX-10401,A00630.1,Sensor,0,Global Wire-Following Profiler Controller,WFP GLOBAL Electronics #1,McLane,MMP 210-3512,ML13104-01,,20140115,0,,Woods Hole Oceanographic Institution
 CGCON-GWFPGX-10402,A00631.1,Sensor,0,Global Wire-Following Profiler Controller,WFP GLOBAL Electronics #1,McLane,MMP 210-3512,ML13104-02,,20140115,0,,Woods Hole Oceanographic Institution
 CGCON-GWFPGX-10403,A00632.1,Sensor,0,Global Wire-Following Profiler Controller,WFP GLOBAL Electronics #1,McLane,MMP 210-3512,ML13104-03,,20140115,0,,Woods Hole Oceanographic Institution
