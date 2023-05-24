@@ -125,16 +125,16 @@ template(1,4) = {caldate_provenance};
 %.. write directly out to a text file, no xlsx in-between.
 header = 'serial,name,value,notes';  %  'notes' is the 4th column
 fid = fopen(csvfilename, 'w');
-fprintf(fid, '%s\r\n', header);
+fprintf(fid, '%s\n', header);
 %.. append a comma to each line to denote an empty 4th column.
 %.. on github, an entry of an array is enclosed in double quotes.
-fprintf(fid, '%i,%s,%.2f,%s\r\n', template{1, 1:4});
+fprintf(fid, '%i,%s,%.2f,%s\n', template{1, 1:4});
 for ii = 2:4
-    fprintf(fid, '%i,%s,"%s",\r\n', template{ii, 1:3});
+    fprintf(fid, '%i,%s,"%s",\n', template{ii, 1:3});
 end
-fprintf(fid, '%i,%s,%i,\r\n', template{5, 1:3});
-fprintf(fid, '%i,%s,%i,\r\n', template{6, 1:3});
-fprintf(fid, '%i,%s,"%s",\r\n', template{7, 1:3});
+fprintf(fid, '%i,%s,%i,\n', template{5, 1:3});
+fprintf(fid, '%i,%s,%i,\n', template{6, 1:3});
+fprintf(fid, '%i,%s,"%s",\n', template{7, 1:3});
 fclose(fid);
 
 end
