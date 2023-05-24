@@ -10,7 +10,10 @@ function csvfilename = write_spkir_cal_to_csv(calfilename)
 %.. [cal] = rad_read_spkir_cal(calfilename)
 %
 %.. desiderio 24-aug-2021: added screen output at end
-
+%
+%.. after csv file creation the source file is opened in Wordpad and
+%.. the csv file is opened in Notepad for consistency check.
+%
 clear template
 
 seriesB = [231 232 242 243 248:250 254 255 294:298]; 
@@ -61,17 +64,20 @@ template(1,4) = {caldate_provenance};
 %.. write directly out to a text file, no xlsx in-between.
 header = 'serial,name,value,notes';  %  'notes' is the 4th column
 fid = fopen(csvfilename, 'w');
-fprintf(fid, '%s\r\n', header);
-fprintf(fid, '%i,%s,"%s",%s\r\n', template{1,1:4});
+fprintf(fid, '%s\n', header);
+fprintf(fid, '%i,%s,"%s",%s\n', template{1,1:4});
 %.. append a comma to each line to denote an empty 4th column.
 %.. on github, an entry of an array is enclosed in double quotes.
 for ii = 2:3
-    fprintf(fid, '%i,%s,"%s",\r\n', template{ii,1:3});
+    fprintf(fid, '%i,%s,"%s",\n', template{ii,1:3});
 end
 fclose(fid);
 
-%. for output to screen to check OOI calfile coeffs in export code ...
-cal.date = {cal.date};  % so that transpose doesn't convert date to column vector
-disp(structfun(@transpose, cal, 'uni', 0));
+%.. calling notepad using system results in putting matlab in "pause";
+%.. closing the notepad window will resume execution. therefore using
+%.. notepad to open both files can using system calls can only display
+%.. one file at a time. However, this is not how Wordpad acts, so
+system(['C:\Windows\System32\write.exe ' calfilename]);
+system(['notepad ' csvfilename]);
 
 end

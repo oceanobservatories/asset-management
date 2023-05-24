@@ -17,12 +17,9 @@ function write_parad_dev_to_csv(dev)
 % a1=           tab    2890	
 % a0=           tab    4431	
 
-% cd R:
-% cd ..
-
 caldate_provenance = 'date in filename comes from factory devfile';
 
-clear C D
+clearvars C D
 
 fid = fopen(dev);
 %.. read in all lines. seems as if there may be some variation in the use
@@ -66,11 +63,11 @@ csvfilename = ['CGINS-PARADJ-' sn_str '__' caldate '.csv'];
 %.. write directly out to a text file, no xlsx in-between.
 fid = fopen(csvfilename, 'w');
 header = 'serial,name,value,notes';
-fprintf(fid, '%s\r\n', header);
+fprintf(fid, '%s\n', header);
 
-fprintf(fid, '%u,%s,%s,%s\r\n', sernum, 'CC_Im', Im, caldate_provenance);
-fprintf(fid, '%u,%s,%s,%s\r\n', sernum, 'CC_a0', a0, 'digital');
-fprintf(fid, '%u,%s,%s,%s\r\n', sernum, 'CC_a1', a1, 'digital');
+fprintf(fid, '%u,%s,%s,%s\n', sernum, 'CC_Im', Im, caldate_provenance);
+fprintf(fid, '%u,%s,%s,%s\n', sernum, 'CC_a0', a0, 'digital');
+fprintf(fid, '%u,%s,%s,%s\n', sernum, 'CC_a1', a1, 'digital');
 
 fclose(fid);
 

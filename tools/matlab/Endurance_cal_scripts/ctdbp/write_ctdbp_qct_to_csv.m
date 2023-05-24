@@ -17,10 +17,8 @@ function csvfilename = write_ctdbp_qct_to_csv(capfilename)
 %.. the calcoeffs into csv files for uploading to the appropriate
 %.. calibration folders in the github repository.
 %
-%.. as opposed to when the transferrance of calcoeffs was accomplished
-%.. by pasting them into an excel Omaha sheet, the method in this
-%.. program reads in the coeffs from the cap file as ascii and
-%.. writes them out as ascii; no sigfig problem.
+%.. after csv file creation the source file is opened in Wordpad and
+%.. the csv file is opened in Notepad for consistency check.
 %
 %.. FUNCTION CALLS:
 %.. [con] = rad_read_ctdbp_cap(capfilename)
@@ -88,19 +86,19 @@ template(1,4) = {caldate_provenance};
 %.. write directly out to a text file, no xlsx in-between.
 fid = fopen(csvfilename, 'w');
 header = 'serial,name,value,notes';  %  'notes' is the 4th column
-fprintf(fid, '%s\r\n', header);
-fprintf(fid, '%s,%s,%s,%s\r\n', template{1, 1:4});
+fprintf(fid, '%s\n', header);
+fprintf(fid, '%s,%s,%s,%s\n', template{1, 1:4});
 %.. append a comma to each line to denote an empty 4th column.
 for ii = 2:length(template)
-    fprintf(fid, '%s,%s,%s,\r\n', template{ii, 1:3});
+    fprintf(fid, '%s,%s,%s,\n', template{ii, 1:3});
 end
 fclose(fid);
 
-%.. for on-screen checking of calcoeffs, especially if this routine
-%.. has been called by the version of the 'export' code which has 
-%.. been modified to open up the OOI csv file just written out in 
-%.. notepad.
-P = [1:8 25 26 21:24 18:20 12:17 9:11];
-disp(orderfields(con, P));  % to match order in OOI csv calfile
+%.. calling notepad using system results in putting matlab in "pause";
+%.. closing the notepad window will resume execution. therefore using
+%.. notepad to open both files can using system calls can only display
+%.. one file at a time. However, this is not how Wordpad acts, so
+system(['C:\Windows\System32\write.exe ' capfilename]);
+system(['notepad ' csvfilename]);
 
 end
