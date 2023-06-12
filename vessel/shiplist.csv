@@ -24,7 +24,7 @@ HRS,R/V,Hugh R. Sharp,33H5,UDel,WDC6908,367063060,9388443,44.5,6.2,2.7,,Y,Y
 JCR,RRS,James Clark Ross,,BAS,,,,,,,,Y,N
 TY,CCGS,John P. Tully,,CCGS,,,,,,,,Y,N
 KOK,R/V,Ka`imikai-O-Kanaloa,33KI,Hawaii,WBN4310,303165000,7806233,68,5.7,4.2,,Y,Y
-KH,F/V,Kahuna,,Meredith,,,,16.5,,,,Y,N
+KH,F/V,Kahuna,,,,,,16.5,,,,Y,N
 KA,F/V,Karoline Marie,,,,,,,,,,Y,N
 KM,R/V,Kilo Moana,33KB,Hawaii,WDA7827,369565000,9229037,56.7,7.7,7.6,AGOR-26,Y,Y
 KN,R/V,Knorr,316N,WHOI,KCEJ,367246000,7738618,85,7.2,6,AGOR-15,(N),Y
@@ -65,6 +65,6 @@ WT,R/V,Thomas Washington,31WT,SIO,KGWU,,,63.7,13.8,4.9,AGOR-10,(N),Y
 TA,R/V,Tioga,,WHOI,,,,,,,,Y,N
 V,R/V,Vema,31VE,LDEO,J8RU,,7738383,,,,,(N),Y
 WJ,M/V,Warren Jr.,,BHC,,,,,,,,Y,N
-WOO,F/V,Wahoo,,Meredith,,,,,,,,Y,N
+WOO,F/V,Wahoo,,,,,,,,,,Y,N
 W,R/V,Wecoma,32WC,OSU,WSD7079,303014000,7604439,56.4,7.2,6,,(N),Y
 ZP,R/V,Zephyr,,Zephyr Northwest,WDG9976,338142000,8992845,24,5.1,2.4,,Y,N
