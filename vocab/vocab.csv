@@ -498,13 +498,27 @@ CP01CNSM-SBD11,Coastal Pioneer,Central Surface Mooring,Surface Buoy,,,,0,0
 CP01CNSM-SBD11-00-DCLENG000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CP01CNSM-SBD11-01-MOPAK0000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
 CP01CNSM-SBD11-02-HYDGN0000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
-CP01CNSM-SBD11-06-METBKA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,-3,-3
+CP01CNSM-SBD11-06-METBKA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+CP01CNSM-SBD11-06-METBKA001,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP01CNSM-SBD11-06-METBKA002,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP01CNSM-SBD11-06-METBKA003,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP01CNSM-SBD11-06-METBKA004,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP01CNSM-SBD11-06-METBKA005,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP01CNSM-SBD11-06-METBKA006,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP01CNSM-SBD11-06-METBKA007,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
 CP01CNSM-SBD12,Coastal Pioneer,Central Surface Mooring,Surface Buoy,,,,0,0
 CP01CNSM-SBD12-00-DCLENG000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CP01CNSM-SBD12-03-HYDGN0000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
 CP01CNSM-SBD12-04-PCO2AA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
 CP01CNSM-SBD12-05-WAVSSA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Surface Wave Spectra,Axys Technologies,TRIAXYS,0,0
-CP01CNSM-SBD12-06-METBKA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,0,0
+CP01CNSM-SBD12-06-METBKA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+CP01CNSM-SBD12-06-METBKA001,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP01CNSM-SBD12-06-METBKA002,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP01CNSM-SBD12-06-METBKA003,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP01CNSM-SBD12-06-METBKA004,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP01CNSM-SBD12-06-METBKA005,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP01CNSM-SBD12-06-METBKA006,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP01CNSM-SBD12-06-METBKA007,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
 CP01CNSM-SBD12-08-FDCHPA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,0,0
 CP01CNSP,Coastal Pioneer,Central Surface Piercing Profiler Mooring,,,,,0,100
 CP01CNSP-SP001,Coastal Pioneer,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,,,,0,100
@@ -618,7 +632,14 @@ CP03ISSM-SBD11,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,,,,0,0
 CP03ISSM-SBD11-00-DCLENG000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CP03ISSM-SBD11-01-MOPAK0000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
 CP03ISSM-SBD11-02-HYDGN0000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
-CP03ISSM-SBD11-06-METBKA000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,-3,-3
+CP03ISSM-SBD11-06-METBKA000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+CP03ISSM-SBD11-06-METBKA001,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP03ISSM-SBD11-06-METBKA002,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP03ISSM-SBD11-06-METBKA003,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP03ISSM-SBD11-06-METBKA004,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP03ISSM-SBD11-06-METBKA005,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP03ISSM-SBD11-06-METBKA006,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP03ISSM-SBD11-06-METBKA007,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
 CP03ISSM-SBD12,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,,,,0,0
 CP03ISSM-SBD12-00-DCLENG000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CP03ISSM-SBD12-03-HYDGN0000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
@@ -684,7 +705,14 @@ CP04OSSM-SBD11,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,,,,0,0
 CP04OSSM-SBD11-00-DCLENG000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CP04OSSM-SBD11-01-MOPAK0000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
 CP04OSSM-SBD11-02-HYDGN0000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
-CP04OSSM-SBD11-06-METBKA000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,-3,-3
+CP04OSSM-SBD11-06-METBKA000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+CP04OSSM-SBD11-06-METBKA001,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP04OSSM-SBD11-06-METBKA002,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP04OSSM-SBD11-06-METBKA003,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP04OSSM-SBD11-06-METBKA004,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP04OSSM-SBD11-06-METBKA005,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP04OSSM-SBD11-06-METBKA006,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP04OSSM-SBD11-06-METBKA007,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
 CP04OSSM-SBD11-08-FDCHPB000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS with R3-50 anemometer,0,0
 CP04OSSM-SBD12,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,,,,0,0
 CP04OSSM-SBD12-00-DCLENG000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
@@ -877,7 +905,7 @@ GA01SUMO-SBD11-03-HYDGN0000,Global Argentine Basin,Apex Surface Mooring,Surface 
 GA01SUMO-SBD11-04-DOSTAD000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Dissolved Oxygen,Aanderaa,Optode 4831,1,1
 GA01SUMO-SBD11-05-SPKIRB000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-5,-5
 GA01SUMO-SBD11-06-METBKA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
-GA01SUMO-SBD11-06-METBKA001,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,SBE 37-SM,1,1
+GA01SUMO-SBD11-06-METBKA001,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
 GA01SUMO-SBD11-06-METBKA002,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-5,-5
 GA01SUMO-SBD11-06-METBKA003,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-5,-5
 GA01SUMO-SBD11-06-METBKA004,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-5,-5
@@ -893,7 +921,7 @@ GA01SUMO-SBD12-03-HYDGN0000,Global Argentine Basin,Apex Surface Mooring,Surface 
 GA01SUMO-SBD12-04-PCO2AA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
 GA01SUMO-SBD12-05-WAVSSA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Surface Wave Spectra,Axys Technologies,TRIAXYS,0,0
 GA01SUMO-SBD12-06-METBKA000,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
-GA01SUMO-SBD12-06-METBKA001,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,SBE 37-SM,1,1
+GA01SUMO-SBD12-06-METBKA001,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
 GA01SUMO-SBD12-06-METBKA002,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-5,-5
 GA01SUMO-SBD12-06-METBKA003,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-5,-5
 GA01SUMO-SBD12-06-METBKA004,Global Argentine Basin,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-5,-5
@@ -1076,7 +1104,14 @@ GI01SUMO-SBD11-01-MOPAK0000,Global Irminger Sea,Apex Surface Mooring,Surface Buo
 GI01SUMO-SBD11-03-HYDGN0000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
 GI01SUMO-SBD11-04-DOSTAD000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Dissolved Oxygen,Aanderaa,Optode 4831,1,1
 GI01SUMO-SBD11-05-SPKIRB000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-5,-5
-GI01SUMO-SBD11-06-METBKA000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,-5,-5
+GI01SUMO-SBD11-06-METBKA000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+GI01SUMO-SBD11-06-METBKA001,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+GI01SUMO-SBD11-06-METBKA002,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-5,-5
+GI01SUMO-SBD11-06-METBKA003,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-5,-5
+GI01SUMO-SBD11-06-METBKA004,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-5,-5
+GI01SUMO-SBD11-06-METBKA005,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-5,-5
+GI01SUMO-SBD11-06-METBKA006,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-5,-5
+GI01SUMO-SBD11-06-METBKA007,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-6,-6
 GI01SUMO-SBD11-08-NUTNRB000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Nitrate,Satlantic,ISUS,1,1
 GI01SUMO-SBD12,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,,,,0,0
 GI01SUMO-SBD12-00-DCLENG000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
@@ -1085,7 +1120,14 @@ GI01SUMO-SBD12-02-FLORTD000,Global Irminger Sea,Apex Surface Mooring,Surface Buo
 GI01SUMO-SBD12-03-HYDGN0000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
 GI01SUMO-SBD12-04-PCO2AA000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
 GI01SUMO-SBD12-05-WAVSSA000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Surface Wave Spectra,Axys Technologies,TRIAXYS,0,0
-GI01SUMO-SBD12-06-METBKA000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,-5,-5
+GI01SUMO-SBD12-06-METBKA000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+GI01SUMO-SBD12-06-METBKA001,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+GI01SUMO-SBD12-06-METBKA002,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-5,-5
+GI01SUMO-SBD12-06-METBKA003,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-5,-5
+GI01SUMO-SBD12-06-METBKA004,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-5,-5
+GI01SUMO-SBD12-06-METBKA005,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-5,-5
+GI01SUMO-SBD12-06-METBKA006,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-5,-5
+GI01SUMO-SBD12-06-METBKA007,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-6,-6
 GI01SUMO-SBD12-08-FDCHPA000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,-5,-5
 GI02HYPM,Global Irminger Sea,Apex Profiler Mooring,,,,,150,2800
 GI02HYPM-MPM01,Global Irminger Sea,Apex Profiler Mooring,Mooring Riser,,,,150,150
@@ -1517,7 +1559,14 @@ GS01SUMO-SBD11-03-HYDGN0000,Global Southern Ocean,Apex Surface Mooring,Surface B
 GS01SUMO-SBD11-03-PCO2AA000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
 GS01SUMO-SBD11-04-DOSTAD000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Dissolved Oxygen,Aanderaa,Optode 4831,1,1
 GS01SUMO-SBD11-05-SPKIRB000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-5,-5
-GS01SUMO-SBD11-06-METBKA000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,-5,-5
+GS01SUMO-SBD11-06-METBKA000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+GS01SUMO-SBD11-06-METBKA001,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+GS01SUMO-SBD11-06-METBKA002,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-5,-5
+GS01SUMO-SBD11-06-METBKA003,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-5,-5
+GS01SUMO-SBD11-06-METBKA004,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-5,-5
+GS01SUMO-SBD11-06-METBKA005,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-5,-5
+GS01SUMO-SBD11-06-METBKA006,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-5,-5
+GS01SUMO-SBD11-06-METBKA007,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-6,-6
 GS01SUMO-SBD11-08-NUTNRB000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Nitrate,Satlantic,ISUS,1,1
 GS01SUMO-SBD12,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,,,,0,0
 GS01SUMO-SBD12-00-DCLENG000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
@@ -1526,7 +1575,14 @@ GS01SUMO-SBD12-02-FLORTD000,Global Southern Ocean,Apex Surface Mooring,Surface B
 GS01SUMO-SBD12-03-HYDGN0000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
 GS01SUMO-SBD12-04-PCO2AA000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
 GS01SUMO-SBD12-05-WAVSSA000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Surface Wave Spectra,Axys Technologies,TRIAXYS,0,0
-GS01SUMO-SBD12-06-METBKA000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,-5,-5
+GS01SUMO-SBD12-06-METBKA000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+GS01SUMO-SBD12-06-METBKA001,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,SBE 37-SM,1,1
+GS01SUMO-SBD12-06-METBKA002,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-5,-5
+GS01SUMO-SBD12-06-METBKA003,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-5,-5
+GS01SUMO-SBD12-06-METBKA004,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-5,-5
+GS01SUMO-SBD12-06-METBKA005,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-5,-5
+GS01SUMO-SBD12-06-METBKA006,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-5,-5
+GS01SUMO-SBD12-06-METBKA007,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-6,-6
 GS01SUMO-SBD12-08-FDCHPA000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,-5,-5
 GS02HYPM,Global Southern Ocean,Apex Profiler Mooring,,,,,150,4800
 GS02HYPM-MPM01,Global Southern Ocean,Apex Profiler Mooring,Mooring Riser,,,,150,150
