@@ -519,7 +519,7 @@ CP01CNSM-SBD12-06-METBKA004,Coastal Pioneer,Central Surface Mooring,Surface Buoy
 CP01CNSM-SBD12-06-METBKA005,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
 CP01CNSM-SBD12-06-METBKA006,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
 CP01CNSM-SBD12-06-METBKA007,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
-CP01CNSM-SBD12-08-FDCHPA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,0,0
+CP01CNSM-SBD12-08-FDCHPA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,-5,-5
 CP01CNSP,Coastal Pioneer,Central Surface Piercing Profiler Mooring,,,,,0,100
 CP01CNSP-SP001,Coastal Pioneer,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,,,,0,100
 CP01CNSP-SP001-00-SPPENG000,Coastal Pioneer,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Profiler Controller,WET Labs,AMP,0,100
@@ -1128,7 +1128,7 @@ GI01SUMO-SBD12-06-METBKA004,Global Irminger Sea,Apex Surface Mooring,Surface Buo
 GI01SUMO-SBD12-06-METBKA005,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-5,-5
 GI01SUMO-SBD12-06-METBKA006,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-5,-5
 GI01SUMO-SBD12-06-METBKA007,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-6,-6
-GI01SUMO-SBD12-08-FDCHPA000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,-5,-5
+GI01SUMO-SBD12-08-FDCHPA000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,-6,-6
 GI02HYPM,Global Irminger Sea,Apex Profiler Mooring,,,,,150,2800
 GI02HYPM-MPM01,Global Irminger Sea,Apex Profiler Mooring,Mooring Riser,,,,150,150
 GI02HYPM-MPM01-02-ZPLSGA009,Global Irminger Sea,Apex Profiler Mooring,Mooring Riser,Bio-acoustic Sonar (Global),ASL Environmental Sciences,AZFP,150,150
@@ -1583,7 +1583,7 @@ GS01SUMO-SBD12-06-METBKA004,Global Southern Ocean,Apex Surface Mooring,Surface B
 GS01SUMO-SBD12-06-METBKA005,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-5,-5
 GS01SUMO-SBD12-06-METBKA006,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-5,-5
 GS01SUMO-SBD12-06-METBKA007,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-6,-6
-GS01SUMO-SBD12-08-FDCHPA000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,-5,-5
+GS01SUMO-SBD12-08-FDCHPA000,Global Southern Ocean,Apex Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,-6,-6
 GS02HYPM,Global Southern Ocean,Apex Profiler Mooring,,,,,150,4800
 GS02HYPM-MPM01,Global Southern Ocean,Apex Profiler Mooring,Mooring Riser,,,,150,150
 GS02HYPM-MPM01-02-ZPLSGA009,Global Southern Ocean,Apex Profiler Mooring,Mooring Riser,Bio-acoustic Sonar (Global),ASL Environmental Sciences,AZFP,150,150
