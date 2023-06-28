@@ -633,13 +633,13 @@ CP03ISSM-SBD11-00-DCLENG000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy
 CP03ISSM-SBD11-01-MOPAK0000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
 CP03ISSM-SBD11-02-HYDGN0000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
 CP03ISSM-SBD11-06-METBKA000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
-CP03ISSM-SBD11-06-METBKA001,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
-CP03ISSM-SBD11-06-METBKA002,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
-CP03ISSM-SBD11-06-METBKA003,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
-CP03ISSM-SBD11-06-METBKA004,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
-CP03ISSM-SBD11-06-METBKA005,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
-CP03ISSM-SBD11-06-METBKA006,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
-CP03ISSM-SBD11-06-METBKA007,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
+CP03ISSM-SBD11-06-METBKA001,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP03ISSM-SBD11-06-METBKA002,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP03ISSM-SBD11-06-METBKA003,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP03ISSM-SBD11-06-METBKA004,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP03ISSM-SBD11-06-METBKA005,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP03ISSM-SBD11-06-METBKA006,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP03ISSM-SBD11-06-METBKA007,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
 CP03ISSM-SBD12,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,,,,0,0
 CP03ISSM-SBD12-00-DCLENG000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CP03ISSM-SBD12-03-HYDGN0000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
@@ -706,13 +706,13 @@ CP04OSSM-SBD11-00-DCLENG000,Coastal Pioneer,Offshore Surface Mooring,Surface Buo
 CP04OSSM-SBD11-01-MOPAK0000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
 CP04OSSM-SBD11-02-HYDGN0000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
 CP04OSSM-SBD11-06-METBKA000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
-CP04OSSM-SBD11-06-METBKA001,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
-CP04OSSM-SBD11-06-METBKA002,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
-CP04OSSM-SBD11-06-METBKA003,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
-CP04OSSM-SBD11-06-METBKA004,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
-CP04OSSM-SBD11-06-METBKA005,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
-CP04OSSM-SBD11-06-METBKA006,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
-CP04OSSM-SBD11-06-METBKA007,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
+CP04OSSM-SBD11-06-METBKA001,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP04OSSM-SBD11-06-METBKA002,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP04OSSM-SBD11-06-METBKA003,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP04OSSM-SBD11-06-METBKA004,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP04OSSM-SBD11-06-METBKA005,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP04OSSM-SBD11-06-METBKA006,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP04OSSM-SBD11-06-METBKA007,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
 CP04OSSM-SBD11-08-FDCHPB000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS with R3-50 anemometer,0,0
 CP04OSSM-SBD12,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,,,,0,0
 CP04OSSM-SBD12-00-DCLENG000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
