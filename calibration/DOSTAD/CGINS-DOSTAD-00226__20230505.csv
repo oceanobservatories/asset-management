@@ -1,3 +1,3 @@
 serial,name,value,notes
-226,CC_conc_coef,"[0.0, 1.0]","[offset, slope]"; source_file DOSTA-D_Optode-4831_SN_226_Multipoint_Calibration_2023-05-05.pdf
+226,CC_conc_coef,"[0.0, 1.0]","[offset, slope]; source_file DOSTA-D_Optode-4831_SN_226_Multipoint_Calibration_2023-05-05.pdf"
 226,CC_csv,"[2.62319E-03, 1.11562E-04, 2.20510E-06, 1.97522E+02, -2.54835E-01, -4.79570E+01, 3.91605E+00]",
