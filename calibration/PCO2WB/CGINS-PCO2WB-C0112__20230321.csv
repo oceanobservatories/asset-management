@@ -1,0 +1,11 @@
+serial,name,value,notes
+C0112,CC_cala,0.0807,source_file PCO2W-B_SAMI-CO2_SN_C0112_Calibration_Files_2023-03-21.zip > C0112_210323_CalCert.pdf
+C0112,CC_calb,0.4642,
+C0112,CC_calc,-1.3498,
+C0112,CC_calt,6.8512,
+C0112,CC_ea434,19706,constant
+C0112,CC_ea620,34,constant
+C0112,CC_eb434,3073,constant
+C0112,CC_eb620,44327,constant
+C0112,CC_sami_bits,12,
+C0112,CC_cal_range,"[205,988]",
