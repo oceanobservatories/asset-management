@@ -314,6 +314,8 @@ ATAPL-78452-00004,ATAPL-78452-00004,Sensor,0,Photosynthetically Available Radiat
 ATAPL-78452-00005,ATAPL-78452-00005,Sensor,0,Photosynthetically Available Radiation: PARAD Series B,PARADB,Seabird,PAR-SER ICSW,1403,,,,,University of Washington
 ATAPL-78452-00006,ATAPL-78452-00006,Sensor,0,Photosynthetically Available Radiation: PARAD Series B,PARADB,Seabird,PAR-SER ICSW,1404,,,,,University of Washington
 ATAPL-78452-00007,ATAPL-78452-00007,Sensor,0,Photosynthetically Available Radiation: PARAD Series B,PARADB,Seabird,PAR-SER ICSW,1405,,,,,University of Washington
+ATAPL-90485-20001,ATAPL-90485-20001,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Zoo Plankton (ZPLSC-B),Kongsberg Underwater Technology Inc,EK-80,1,,,,,University of Washington
+ATAPL-90485-20002,ATAPL-90485-20002,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Zoo Plankton (ZPLSC-B),Kongsberg Underwater Technology Inc,EK-80,2,,,,,University of Washington
 ATCWK-67627-00006,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 3500m,Sea-Bird Electronics,SBE 16plus V2,16-50209,3.1.8,20170401,16060,PI,University of Washington
 ATCWK-67627-00007,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 3500m,Sea-Bird Electronics,SBE 16plus V2,16-50210,3.1.8,20170401,16060,PI,University of Washington
 ATCWK-67627-00008,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 2000m,Sea-Bird Electronics,SBE 16plus V2,16-50321,3.1.8,,,PI,University of Washington
@@ -2651,15 +2653,17 @@ OL000458,OL000458,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instrument
 OL000459,OL000459,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instruments,M2A transmitters,CE09OSSM-00002-HYDGN12,,,,CE09OSSM-00002,
 OL000472,OL000472,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,CE09OSSM-00004+MOPAK,,,,CE09OSSM-00004,
 OL000473,OL000473,Sensor,0,Dissolved Oxygen Stable Response: DOSTA Series D,DOSTA SERIES D (AADI 4831),Aanderaa,Optode 4831,CE09OSSM-00004-DOSTA37-03,,,,CE09OSSM-00004,
-PIRSN-AOABPA-00001,,Sensor,0,,,Wilcock,,1,,,,,
-PIRSN-CAMPIA-00001,,Sensor,0,,,MARUM,,1,,,,,
-PIRSN-COVISA-00001,,Sensor,0,Cabled Observatory Vent Imaging System,COVIS Series A,Bemis,,1,,,,,
-PIRSN-CTDPFA-10001,,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50216,,,,,
-PIRSN-CTDPFA-10002,,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50347,,,,,
-PIRSN-FETCHA-00001,,Sensor,0,,,Wilcock/Manalang,,1,,,,,
-PIRSN-OVRSRA-00001,,Sensor,0,Overview Sonar,OVRSR Series A,MARUM,R2 Sonic 2022,101409,,,,,
-PIRSN-PADCPA-00001,,Sensor,0,ADCP Velocity Profiler,Pinnacle ADCP,Teledyne RDI,Pinnacle ADCP (45 kHz),1023,,,,,
-PIRSN-QNTSRA-00001,,Sensor,0,Quantification Sonar,QNTSR Series A,MARUM,Kongsberg 1171-Series Scanning Sonar,1708062,,,,,
-PIRSN-SCPRAA-00001,,Sensor,0,Self-Calibrating Pressure Recorder,SCPR Series A,PI Zumberge and Sasagawa,,001/C,,,,,
-PIRSN-SCTAAA-00001,,Sensor,0,Self-Calibrating Triaxial Accelerometer,SCTA Series A,PI Wilcock,,1,,,,,
+PIRSN-AOABPA-00001,PIRSN-AOABPA-00001,Sensor,0,A-0-A Calibrated Pressure Instrument,A-0-A Calibrated Pressure Instrument,Wilcock,Custom,1,,,,,PI
+PIRSN-CAMPIA-00001,PIRSN-CAMPIA-00001,Sensor,0,MARUM Camera System,MARUM Camera System,MARUM,Custom,1,,,,,PI
+PIRSN-COVISA-00001,PIRSN-COVISA-00001,Sensor,0,Cabled Observatory Vent Imaging System,COVIS Series A,Bemis,Cusotm,1,,,,,PI
+PIRSN-CTDPFA-10001,PIRSN-CTDPFA-10001,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50216,,,,,PI
+PIRSN-CTDPFA-10002,PIRSN-CTDPFA-10002,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50347,,,,,PI
+PIRSN-FETCHA-00001,PIRSN-FETCHA-00001,Sensor,0,AZA Acoustic Transponder,AZA Acoustic Transponder,Wilcock/Manalang,Cabled FETCH-AZA,1,,,,,PI
+PIRSN-FETCHA-00002,PIRSN-FETCHA-00002,Sensor,0,AZA Acoustic Transponder,AZA Acoustic Transponder,Wilcock/Manalang,Cabled FETCH-AZA,2,,,,,PI
+PIRSN-OVRSRA-00001,PIRSN-OVRSRA-00001,Sensor,0,Overview Sonar,OVRSR Series A,MARUM,R2 Sonic 2022,101409,,,,,PI
+PIRSN-PADCPA-00001,PIRSN-PADCPA-00001,Sensor,0,ADCP Velocity Profiler,Pinnacle ADCP,Teledyne RDI,Pinnacle ADCP (45 kHz),1023,,,,,PI
+PIRSN-QNTSRA-00001,PIRSN-QNTSRA-00001,Sensor,0,Quantification Sonar,QNTSR Series A,MARUM,Kongsberg 1171-Series Scanning Sonar,1708062,,,,,PI
+PIRSN-SCPRAA-00001,PIRSN-SCPRAA-00001,Sensor,0,Self-Calibrating Pressure Recorder,SCPR Series A,PI Zumberge and Sasagawa,Custom,001/C,,,,,PI
+PIRSN-SCTAAA-00001,PIRSN-SCTAAA-00001,Sensor,0,Self-Calibrating Triaxial Accelerometer,SCTA Series A,PI Wilcock,Custom,1,,,,,PI
+PIRSN-HYDBBA-00001,PIRSN-HYDBBA-00001,Sensor,0,Broadband Acoustic Receiver (Hydrophone): HYDBB Series A,Broadband Ethernet Hydrophone,Ocean Sonics,icListen HF-OceanSonics Element Test,6640,,,,,PI
 R00007,R00007,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,,,,,,Oregon State University

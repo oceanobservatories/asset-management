@@ -125,6 +125,7 @@ CE04OSBP-LJ01C-08-OPTAAC104,Coastal Endurance,Oregon Offshore Cabled Benthic Exp
 CE04OSBP-LJ01C-09-PCO2WB104,Coastal Endurance,Oregon Offshore Cabled Benthic Experiment Package,Low-Power JBox (LJ01C),pCO2 Water,Sunburst,SAMI-pCO2,580,580
 CE04OSBP-LJ01C-10-PHSEND107,Coastal Endurance,Oregon Offshore Cabled Benthic Experiment Package,Low-Power JBox (LJ01C),Seawater pH,Sunburst,SAMI-pH,580,580
 CE04OSBP-LJ01C-11-HYDBBA105,Coastal Endurance,Oregon Offshore Cabled Benthic Experiment Package,Low-Power JBox (LJ01C),Broadband Acoustic Receiver (Hydrophone),Ocean Sonics,icListen HF,580,580
+CE04OSBP-LJ01C-11-HYDBBA110,Coastal Endurance,Oregon Offshore Cabled Benthic Experiment Package,Low-Power JBox (LJ01C),Broadband Acoustic Receiver (Hydrophone),Ocean Sonics,icListen HF-OceanSonics Element Test,580,580
 CE04OSBP-LV01C,Coastal Endurance,Oregon Offshore Cabled Benthic Experiment Package,Low-Voltage Node (LV01C),,,,580,580
 CE04OSBP-LV01C-06-CAMDSB106,Coastal Endurance,Oregon Offshore Cabled Benthic Experiment Package,Low-Voltage Node (LV01C),Digital Still Camera,Kongsberg,Custom Digital Still Camera Assembly,580,580
 CE04OSPD,Coastal Endurance,Oregon Offshore Cabled Deep Profiler Mooring,,,,,175,500
@@ -1792,6 +1793,7 @@ RS03INT1-MJ03C-07-PPSDNA301,Cabled Axial Seamount,International District Vent Fi
 RS03INT1-MJ03C-07-RASFLA301,Cabled Axial Seamount,International District Vent Field 1,Medium-Power JBox (MJ03C),Hydrothermal Vent Fluid Interactive Sampler,PMEL/Butterfield,Modified McLane Remote Access Sampler,1520,1520
 RS03INT1-MJ03C-07-D1000A301,Cabled Axial Seamount,International District Vent Field 1,Medium-Power JBox (MJ03C),Temperature Sensor,PMEL/Butterfield,Modified McLane RTD Temperature Sensor,1520,1520
 RS03INT1-MJ03C-09-THSPHA301,Cabled Axial Seamount,International District Vent Field 1,Medium-Power JBox (MJ03C),Hydrothermal Vent Fluid In-situ Chemistry,"Kang/Seyfried, U Minnesota","Vent Chemistry Instrument (H2, H2S, pH)",1520,1520
+RS03INT1-MJ03C-09-TRHPHA302,Cabled Axial Seamount,International District Vent Field 1,Medium-Power JBox (MJ03C),Hydrothermal Vent Fluid Temperature and Resistivity,"Lilley, UW",Vent Temperature & Resistivity,1520,1520
 RS03INT1-MJ03C-10-TRHPHA301,Cabled Axial Seamount,International District Vent Field 1,Medium-Power JBox (MJ03C),Hydrothermal Vent Fluid Temperature and Resistivity,"Lilley, UW",Vent Temperature & Resistivity,1520,1520
 RS03INT2,Cabled Axial Seamount,International District Vent Field 2,,,,,1527,1527
 RS03INT2-MJ03D,Cabled Axial Seamount,International District Vent Field 2,Medium-Power JBox (MJ03D),,,,1527,1527
