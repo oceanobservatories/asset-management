@@ -3,7 +3,7 @@ serial,name,value,notes
 1705,CC_scale_factor_cdom,9.044E-02,
 1705,CC_dark_counts_chlorophyll_a,50,
 1705,CC_scale_factor_chlorophyll_a,1.211E-02,
-1705,CC_dark_counts_volume_scatter,49.3902439,
+1705,CC_dark_counts_volume_scatter,49,
 1705,CC_scale_factor_volume_scatter,3.174E-06,
 1705,CC_depolarization_ratio,0.039,Constant
 1705,CC_measurement_wavelength,700,[nm]; Constant
