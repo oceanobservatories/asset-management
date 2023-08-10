@@ -39,7 +39,8 @@ class OPTAACalibration(Calibration):
                 parts = line.split(';')
                 if len(parts) != 2:
                     parts = line.split()
-                    if 'tcal:' in parts[0]:
+                    tString = ['tcal:','Tcal:']
+                    if any(lineStart in parts[0] for lineStart in tString):
                     #if parts[0] == 'tcal:':
                         self.tcal = parts[1]
                         self.coefficients['CC_tcal'] = self.tcal
