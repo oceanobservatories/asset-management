@@ -1849,8 +1849,8 @@ RS03INT1-MJ03C-07-PPSDNA301,Cabled Axial Seamount,International District Vent Fi
 RS03INT1-MJ03C-07-RASFLA301,Cabled Axial Seamount,International District Vent Field 1,Medium-Power JBox (MJ03C),Hydrothermal Vent Fluid Interactive Sampler,PMEL/Butterfield,Modified McLane Remote Access Sampler,1520,1520
 RS03INT1-MJ03C-07-D1000A301,Cabled Axial Seamount,International District Vent Field 1,Medium-Power JBox (MJ03C),Temperature Sensor,PMEL/Butterfield,Modified McLane RTD Temperature Sensor,1520,1520
 RS03INT1-MJ03C-09-THSPHA301,Cabled Axial Seamount,International District Vent Field 1,Medium-Power JBox (MJ03C),Hydrothermal Vent Fluid In-situ Chemistry,"Kang/Seyfried, U Minnesota","Vent Chemistry Instrument (H2, H2S, pH)",1520,1520
-RS03INT1-MJ03C-09-TRHPHA302,Cabled Axial Seamount,International District Vent Field 1,Medium-Power JBox (MJ03C),Hydrothermal Vent Fluid Temperature and Resistivity,"Lilley, UW",Vent Temperature & Resistivity,1520,1520
-RS03INT1-MJ03C-10-TRHPHA301,Cabled Axial Seamount,International District Vent Field 1,Medium-Power JBox (MJ03C),Hydrothermal Vent Fluid Temperature and Resistivity,"Lilley, UW",Vent Temperature & Resistivity,1520,1520
+RS03INT1-MJ03C-09-TRHPHA302,Cabled Axial Seamount,International District Vent Field 1,Medium-Power JBox (MJ03C),Hydrothermal Vent Fluid Temperature and Resistivity 302,"Lilley, UW",Vent Temperature & Resistivity,1520,1520
+RS03INT1-MJ03C-10-TRHPHA301,Cabled Axial Seamount,International District Vent Field 1,Medium-Power JBox (MJ03C),Hydrothermal Vent Fluid Temperature and Resistivity 301,"Lilley, UW",Vent Temperature & Resistivity,1520,1520
 RS03INT2,Cabled Axial Seamount,International District Vent Field 2,,,,,1527,1527
 RS03INT2-MJ03D,Cabled Axial Seamount,International District Vent Field 2,Medium-Power JBox (MJ03D),,,,1527,1527
 RS03INT2-MJ03D-05-OBSSPA305,Cabled Axial Seamount,International District Vent Field 2,Medium-Power JBox (MJ03D),Short-Period Ocean Bottom Seismometer,Guralp,CMG-6TF,1527,1527
