@@ -6,8 +6,8 @@ CE01ISSM-MFD35,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-F
 CE01ISSM-MFD35-00-DCLENG000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,25,25
 CE01ISSM-MFD35-01-VEL3DD000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),3-D Single Point Velocity Meter,Nortek,VECTOR,25,25
 CE01ISSM-MFD35-02-PRESFA000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,Sea-Bird,SBE 26plus,25,25
-CE01ISSM-MFD35-04-ADCPTM000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (600kHz),Teledyne RDI,WorkHorse Sentinel 600khz with WavesMon,25,25
-CE01ISSM-MFD35-04-WAVSSM000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Surface Wave Spectra,Teledyne RDI,WorkHorse Sentinel 600khz with WavesMon,25,25
+CE01ISSM-MFD35-04-ADCPTM000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (600kHz),Teledyne RDI,WorkHorse Sentinel 600khz with Waves,25,25
+CE01ISSM-MFD35-04-WAVSSM000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Surface Wave Spectra,Teledyne RDI,WorkHorse Sentinel 600khz with Waves,25,25
 CE01ISSM-MFD35-05-PCO2WB000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,25,25
 CE01ISSM-MFD35-06-PHSEND000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,25,25
 CE01ISSM-MFD37,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,25,25
@@ -299,8 +299,8 @@ CE06ISSM-MFD35,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Mul
 CE06ISSM-MFD35-00-DCLENG000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,29,29
 CE06ISSM-MFD35-01-VEL3DD000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),3-D Single Point Velocity Meter,Nortek,VECTOR,29,29
 CE06ISSM-MFD35-02-PRESFA000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,Sea-Bird,SBE 26plus,29,29
-CE06ISSM-MFD35-04-ADCPTM000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (600kHz),Teledyne RDI,WorkHorse Sentinel 600khz with WavesMon,29,29
-CE06ISSM-MFD35-04-WAVSSM000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Surface Wave Spectra,Teledyne RDI,WorkHorse Sentinel 600khz with WavesMon,29,29
+CE06ISSM-MFD35-04-ADCPTM000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (600kHz),Teledyne RDI,WorkHorse Sentinel 600khz with Waves,29,29
+CE06ISSM-MFD35-04-WAVSSM000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Surface Wave Spectra,Teledyne RDI,WorkHorse Sentinel 600khz with Waves,29,29
 CE06ISSM-MFD35-05-PCO2WB000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,29,29
 CE06ISSM-MFD35-06-PHSEND000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,29,29
 CE06ISSM-MFD37,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,29,29
