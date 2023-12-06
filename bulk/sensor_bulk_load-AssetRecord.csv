@@ -314,6 +314,8 @@ ATAPL-78452-00004,ATAPL-78452-00004,Sensor,0,Photosynthetically Available Radiat
 ATAPL-78452-00005,ATAPL-78452-00005,Sensor,0,Photosynthetically Available Radiation: PARAD Series B,PARADB,Seabird,PAR-SER ICSW,1403,,,,,University of Washington
 ATAPL-78452-00006,ATAPL-78452-00006,Sensor,0,Photosynthetically Available Radiation: PARAD Series B,PARADB,Seabird,PAR-SER ICSW,1404,,,,,University of Washington
 ATAPL-78452-00007,ATAPL-78452-00007,Sensor,0,Photosynthetically Available Radiation: PARAD Series B,PARADB,Seabird,PAR-SER ICSW,1405,,,,,University of Washington
+ATAPL-90485-20001,ATAPL-90485-20001,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Bio-acoustic Sonar,Kongsberg Underwater Technology Inc,EK-80,1,,,,,University of Washington
+ATAPL-90485-20002,ATAPL-90485-20002,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Bio-acoustic Sonar,Kongsberg Underwater Technology Inc,EK-80,2,,,,,University of Washington
 ATCWK-67627-00006,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 3500m,Sea-Bird Electronics,SBE 16plus V2,16-50209,3.1.8,20170401,16060,PI,University of Washington
 ATCWK-67627-00007,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 3500m,Sea-Bird Electronics,SBE 16plus V2,16-50210,3.1.8,20170401,16060,PI,University of Washington
 ATCWK-67627-00008,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 2000m,Sea-Bird Electronics,SBE 16plus V2,16-50321,3.1.8,,,PI,University of Washington
@@ -357,10 +359,10 @@ ATOSU-58346-00007,ATOSU-58346-00007,Sensor,0,3-D Single Point Velocity Meter: VE
 ATOSU-58346-00008,ATOSU-58346-00008,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series A,"Falmouth Scientific 3D-ACM, with Impulse MCBH(WB)-5-FS-Ti connector (if available)",Falmouth Scientific,ACM-Plus-MP,1131,,20140128,10850,,
 ATOSU-58694-00004,ATOSU-58694-00004,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series A,DOFSTA for RSN,Sea-Bird Electronics,SBE 43,43-2853,,,,,
 ATOSU-58694-00007,ATOSU-58694-00007,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series A,DOFSTA for RSN,Sea-Bird Electronics,SBE 43,43-3136,,,,,
-ATOSU-63259-00001,ATOSU-63259-00001,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Zoo Plankton (ZPLSC-B) S/N: 3 OSU: PENDING,Kongsberg Underwater Technology Inc,EK-60,3,,20140523,174000,,
-ATOSU-63259-00002,ATOSU-63259-00002,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Zoo Plankton (ZPLSC-B) S/N: 4 OSU: PENDING,Kongsberg Underwater Technology Inc,EK-60,4,,,174000,,
-ATOSU-63259-00003,ATOSU-63259-00003,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Zoo Plankton (ZPLSC-B) S/N: 5 OSU: PENDING,Kongsberg Underwater Technology Inc,EK-60,5,,,174000,,
-ATOSU-63259-00004,ATOSU-63259-00004,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Zoo Plankton (ZPLSC-B) S/N: 1 OSU: PENDING,Kongsberg Underwater Technology Inc,EK-60,1,,,174000,,
+ATOSU-63259-00001,ATOSU-63259-00001,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Bio-acoustic Sonar,Kongsberg Underwater Technology Inc,EK-60,3,,20140523,174000,,
+ATOSU-63259-00002,ATOSU-63259-00002,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Bio-acoustic Sonar,Kongsberg Underwater Technology Inc,EK-60,4,,,174000,,
+ATOSU-63259-00003,ATOSU-63259-00003,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Bio-acoustic Sonar,Kongsberg Underwater Technology Inc,EK-60,5,,,174000,,
+ATOSU-63259-00004,ATOSU-63259-00004,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Bio-acoustic Sonar,Kongsberg Underwater Technology Inc,EK-60,1,,,174000,,
 ATOSU-63259-00005,ATOSU-63259-00005,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,ZPLSC-B,Kongsberg Underwater Technology Inc,EK-60,2,,,,,
 ATOSU-66645-00005,CGINS-PARADJ-00434,Sensor,0,Photosynthetically Available Radiation: PARAD Series A,PARAD,Satlantic,Satlantic digital PAR,434,,,,,
 ATOSU-66645-00008,ATOSU-66645-00008,Sensor,0,Photosynthetically Available Radiation: PARAD Series A,PARAD,Satlantic,Satlantic digital PAR,566,,,,,
@@ -520,11 +522,11 @@ CGINS-ADCPTG-20499,A00493,Sensor,0,ADCP Velocity Profiler (short range): ADCPT S
 CGINS-ADCPTG-24542,A02170,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series G,ADCP SERIES G (WHS150-1500),Teledyne RDI,WHS150-1500-I,24542,50.41,20170206,,,Woods Hole Oceanographic Institution
 CGINS-ADCPTG-24543,A02171,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series G,ADCP SERIES G (WHS150-1500),Teledyne RDI,WHS150-1500-I,24543,50.41,20170206,,,Woods Hole Oceanographic Institution
 CGINS-ADCPTG-24544,A02172,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series G,ADCP SERIES G (WHS150-1500),Teledyne RDI,WHS150-1500-I,24544,50.41,20170206,,,Woods Hole Oceanographic Institution
-CGINS-ADCPTM-18225,A00056,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series M,ADCP SERIES A (WH600-500),Teledyne RDI,WHS600-500,18225,,20120822,24822,,
-CGINS-ADCPTM-19023,A00245,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series M,ADCP SERIES M (WHS600-500),Teledyne RDI,WHS600-500,19023,,20121219,24882,,
-CGINS-ADCPTM-21517,A01051,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series M,ADCP SERIES M (WHS600-500),Teledyne RDI,WHS600-500,21517,,20140506,25569,,
-CGINS-ADCPTM-21522,A01052,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series M,ADCP SERIES M (WHS600-500),Teledyne RDI,WHS600-500,21522,,20140506,25569,,
-CGINS-ADCPTM-21524,A01053,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series M,ADCP SERIES M (WHS600-500),Teledyne RDI,WHS600-500,21524,,20140506,25569,,
+CGINS-ADCPTM-18225,A00056,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,18225,,20120822,24822,,Oregon State University
+CGINS-ADCPTM-19023,A00245,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,19023,,20121219,24882,,Oregon State University
+CGINS-ADCPTM-21517,A01051,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21517,,20140506,25569,,Oregon State University
+CGINS-ADCPTM-21522,A01052,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21522,,20140506,25569,,Oregon State University
+CGINS-ADCPTM-21524,A01053,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21524,,20140506,25569,,Oregon State University
 CGINS-CAMDSA-00109,N00682,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0109,,,,,
 CGINS-CAMDSA-00110,N00515,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0110,,,,,
 CGINS-CAMDSA-00111,N00679,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0111,,,,,
@@ -549,6 +551,7 @@ CGINS-CTDBPC-07242,A00128,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-
 CGINS-CTDBPC-07243,A00129,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7243,,20121227,11150,,
 CGINS-CTDBPC-50002,A00697,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50002,2.5.2,20140218,11500,,
 CGINS-CTDBPC-50003,A00698,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50003,2.5.2,20140218,11500,,
+CGINS-CTDBPC-50004,A00699,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50004,,20150604,11500,converted from CTDBP-E to -C for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDBPC-50006,A01035,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50006,,20140224,11500,,
 CGINS-CTDBPC-50007,A01040,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50007,,20140224,11500,,
 CGINS-CTDBPC-50009,A01037,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50009,,20140224,11500,,
@@ -561,8 +564,10 @@ CGINS-CTDBPC-50015,A01034,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-
 CGINS-CTDBPC-50055,A01090,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50055,,20140925,11835,,
 CGINS-CTDBPC-50056,A01089,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50056,,20150604,11835,,
 CGINS-CTDBPC-50057,A01146,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50057,,20141027,11835,,
+CGINS-CTDBPC-50067,A01091,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50067,,20150604,11835,converted from CTDBP-E to -C for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDBPC-50108,A01333,Sensor,0,CTD Pumped: CTDBP Series C,CTDPB SERIES C,Sea-Bird Electronics,SBE 16plus V2,16-50108,,20150410,13535,,
 CGINS-CTDBPC-50109,A01334,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C,Sea-Bird Electronics,SBE 16plus V2,16-50109,,20150414,13525,,
+CGINS-CTDBPC-50111,A01336,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50111,,20150414,13535,converted from CTDBP-E to -C for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDBPC-50150,A01755,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C,Sea-Bird Electronics,SBE 16plus V2,16-50150,,20150831,13535,,
 CGINS-CTDBPC-50151,A01756,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C,Sea-Bird Electronics,SBE 16plus V2,16-50151,,20150831,13535,,
 CGINS-CTDBPC-50152,A01757,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C,Sea-Bird Electronics,SBE 16plus V2,16-50152,,20150831,13535,,
@@ -696,8 +701,8 @@ CGINS-CTDGVM-09363,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Gli
 CGINS-CTDGVM-09364,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9364,,,,,
 CGINS-CTDGVM-09453,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9453,,,,,Woods Hole Oceanographic Institution
 CGINS-CTDGVM-09658,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9658,,,,,
+CGINS-CTDGVM-09678,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9678,,,,,
 CGINS-CTDGVM-09686,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9686,,,,,Woods Hole Oceanographic Institution
-CGINS-CTDGVM-09687,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9687,,,,,Woods Hole Oceanographic Institution
 CGINS-CTDGVM-09690,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9690,,,,,
 CGINS-CTDGVM-09692,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9692,1.3.1,20210403,,,Oregon State University
 CGINS-CTDMOG-10214,A00103,Sensor,0,CTD Mooring (Inductive): CTDMO Series G,CTDMO SERIES G (37IM),Sea-Bird Electronics,SBE 37-IM,37-10214,,20121212,6400,,Woods Hole Oceanographic Institution
@@ -864,6 +869,7 @@ CGINS-CTDMOG-13642,A01596,Sensor,0,CTD Mooring (Inductive): CTDMO Series G,CTDMO
 CGINS-CTDMOG-13643,A01601,Sensor,0,CTD Mooring (Inductive): CTDMO Series G,CTDMO SERIES G,Sea-Bird Electronics,SBE 37-IM,37-13643,,20150701,7000,,Woods Hole Oceanographic Institution
 CGINS-CTDMOG-13644,A01599,Sensor,0,CTD Mooring (Inductive): CTDMO Series G,CTDMO SERIES G,Sea-Bird Electronics,SBE 37-IM,37-13644,,20150701,7000,,Woods Hole Oceanographic Institution
 CGINS-CTDMOG-13645,A01600,Sensor,0,CTD Mooring (Inductive): CTDMO Series G,CTDMO SERIES G,Sea-Bird Electronics,SBE 37-IM,37-13645,,20150701,7000,,Woods Hole Oceanographic Institution
+CGINS-CTDMOG-25939,A01448,Sensor,0,CTD Mooring (Inductive): CTDMO Series G,CTDMO SERIES G,Sea-Bird Electronics,SBE 37-IM,37-25939,,20230905,7000,,Woods Hole Oceanographic Institution
 CGINS-CTDMOH-10226,A00133,Sensor,0,CTD Mooring (Inductive): CTDMO Series H,CTDMO SERIES H (37IM),Sea-Bird Electronics,SBE 37-IM,37-10226,,20121214,6400,,Woods Hole Oceanographic Institution
 CGINS-CTDMOH-10227,A00134,Sensor,0,CTD Mooring (Inductive): CTDMO Series H,CTDMO SERIES H (37IM),Sea-Bird Electronics,SBE 37-IM,37-10227,,20121214,6400,,Woods Hole Oceanographic Institution
 CGINS-CTDMOH-10228,A00135,Sensor,0,CTD Mooring (Inductive): CTDMO Series H,CTDMO SERIES H (37IM),Sea-Bird Electronics,SBE 37-IM,37-10228,,20121214,6400,,Woods Hole Oceanographic Institution
@@ -1443,6 +1449,7 @@ CGINS-FLORTK-01466,,Sensor,0,3-Wavelength Fluorometer: FLORT Series K,,WET Labs,
 CGINS-FLORTK-01537,,Sensor,0,3-Wavelength Fluorometer: FLORT Series K,,WET Labs,ECO Triplet,1537,,20170627,,,Woods Hole Oceanographic Institution
 CGINS-FLORTK-01538,,Sensor,0,3-Wavelength Fluorometer: FLORT Series K,,WET Labs,ECO Triplet,1538,,20170627,,,Woods Hole Oceanographic Institution
 CGINS-FLORTK-01602,,Sensor,0,3-Wavelength Fluorometer: FLORT Series K,FLOR for WFP Coastal ML14378-01,WET Labs,ECO Triplet,1602,,20170907,,,Oregon State University
+CGINS-FLORTK-01705,,Sensor,0,3-Wavelength Fluorometer: FLORT Series K,FLOR for WFP Coastal ML12991-03,WET Labs,ECO Triplet,1705,,20200708,,,Oregon State University
 CGINS-FLORTK-01707,,Sensor,0,3-Wavelength Fluorometer: FLORT Series K,FLOR for WFP Coastal ML12991-03,WET Labs,ECO Triplet,1707,,,,,Oregon State University
 CGINS-FLORTM-02110,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLK,2110,,,,,
 CGINS-FLORTM-02760,N00301,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLK,2760,,20121002,,,
@@ -2052,6 +2059,7 @@ CGINS-NUTNRM-00708,,Sensor,1,Nitrate for Glider: NUTNR Series M,,Satlantic,SUNA,
 CGINS-NUTNRM-00709,,Sensor,1,Nitrate for Glider: NUTNR Series M,,Satlantic,SUNA,709,,,,,
 CGINS-NUTNRM-00710,,Sensor,1,Nitrate for Glider: NUTNR Series M,,Satlantic,SUNA,710,,,,,Woods Hole Oceanographic Institution
 CGINS-NUTNRM-00711,,Sensor,1,Nitrate for Glider: NUTNR Series M,,Satlantic,SUNA,711,,,,,Woods Hole Oceanographic Institution
+CGINS-NUTNRM-00727,,Sensor,1,Nitrate for Glider: NUTNR Series M,,Satlantic,SUNA,727,,,,,Woods Hole Oceanographic Institution
 CGINS-NUTNRM-00728,,Sensor,1,Nitrate for Glider: NUTNR Series M,,Satlantic,SUNA,728,,,,,Woods Hole Oceanographic Institution
 CGINS-NUTNRM-00729,,Sensor,1,Nitrate for Glider: NUTNR Series M,,Satlantic,SUNA,729,,,,,Woods Hole Oceanographic Institution
 CGINS-NUTNRM-00730,,Sensor,1,Nitrate for Glider: NUTNR Series M,,Satlantic,SUNA,730,,,,,Woods Hole Oceanographic Institution
@@ -2152,6 +2160,7 @@ CGINS-PARADK-20582,,Sensor,0,Photosynthetically Available Radiation: PARAD Serie
 CGINS-PARADK-20608,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,,Biospherical Instruments,QSP-2200,20608,,,,,Woods Hole Oceanographic Institution
 CGINS-PARADK-20609,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,,Biospherical Instruments,QSP-2200,20609,,,,,Woods Hole Oceanographic Institution
 CGINS-PARADK-20610,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,,Biospherical Instruments,QSP-2200,20610,,,,,Woods Hole Oceanographic Institution
+CGINS-PARADK-20611,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,,Biospherical Instruments,QSP-2200,20611,,,,,Woods Hole Oceanographic Institution
 CGINS-PARADM-50145,N00304,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50145,,20121002,,,
 CGINS-PARADM-50146,N00309,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50146,,20121002,,,
 CGINS-PARADM-50147,N00314,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50147,,20121206,,,
@@ -2651,15 +2660,17 @@ OL000458,OL000458,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instrument
 OL000459,OL000459,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instruments,M2A transmitters,CE09OSSM-00002-HYDGN12,,,,CE09OSSM-00002,
 OL000472,OL000472,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,CE09OSSM-00004+MOPAK,,,,CE09OSSM-00004,
 OL000473,OL000473,Sensor,0,Dissolved Oxygen Stable Response: DOSTA Series D,DOSTA SERIES D (AADI 4831),Aanderaa,Optode 4831,CE09OSSM-00004-DOSTA37-03,,,,CE09OSSM-00004,
-PIRSN-AOABPA-00001,,Sensor,0,,,Wilcock,,1,,,,,
-PIRSN-CAMPIA-00001,,Sensor,0,,,MARUM,,1,,,,,
-PIRSN-COVISA-00001,,Sensor,0,Cabled Observatory Vent Imaging System,COVIS Series A,Bemis,,1,,,,,
-PIRSN-CTDPFA-10001,,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50216,,,,,
-PIRSN-CTDPFA-10002,,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50347,,,,,
-PIRSN-FETCHA-00001,,Sensor,0,,,Wilcock/Manalang,,1,,,,,
-PIRSN-OVRSRA-00001,,Sensor,0,Overview Sonar,OVRSR Series A,MARUM,R2 Sonic 2022,101409,,,,,
-PIRSN-PADCPA-00001,,Sensor,0,ADCP Velocity Profiler,Pinnacle ADCP,Teledyne RDI,Pinnacle ADCP (45 kHz),1023,,,,,
-PIRSN-QNTSRA-00001,,Sensor,0,Quantification Sonar,QNTSR Series A,MARUM,Kongsberg 1171-Series Scanning Sonar,1708062,,,,,
-PIRSN-SCPRAA-00001,,Sensor,0,Self-Calibrating Pressure Recorder,SCPR Series A,PI Zumberge and Sasagawa,,001/C,,,,,
-PIRSN-SCTAAA-00001,,Sensor,0,Self-Calibrating Triaxial Accelerometer,SCTA Series A,PI Wilcock,,1,,,,,
+PIRSN-AOABPA-00001,PIRSN-AOABPA-00001,Sensor,0,A-0-A Calibrated Pressure Instrument,A-0-A Calibrated Pressure Instrument,Wilcock,Custom,1,,,,,PI
+PIRSN-CAMPIA-00001,PIRSN-CAMPIA-00001,Sensor,0,MARUM Camera System,MARUM Camera System,MARUM,Custom,1,,,,,PI
+PIRSN-COVISA-00001,PIRSN-COVISA-00001,Sensor,0,Cabled Observatory Vent Imaging System,COVIS Series A,Bemis,Cusotm,1,,,,,PI
+PIRSN-CTDPFA-10001,PIRSN-CTDPFA-10001,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50216,,,,,PI
+PIRSN-CTDPFA-10002,PIRSN-CTDPFA-10002,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50347,,,,,PI
+PIRSN-FETCHA-00001,PIRSN-FETCHA-00001,Sensor,0,AZA Acoustic Transponder,AZA Acoustic Transponder,Wilcock/Manalang,Cabled FETCH-AZA,1,,,,,PI
+PIRSN-FETCHA-00002,PIRSN-FETCHA-00002,Sensor,0,AZA Acoustic Transponder,AZA Acoustic Transponder,Wilcock/Manalang,Cabled FETCH-AZA,2,,,,,PI
+PIRSN-OVRSRA-00001,PIRSN-OVRSRA-00001,Sensor,0,Overview Sonar,OVRSR Series A,MARUM,R2 Sonic 2022,101409,,,,,PI
+PIRSN-PADCPA-00001,PIRSN-PADCPA-00001,Sensor,0,ADCP Velocity Profiler,Pinnacle ADCP,Teledyne RDI,Pinnacle ADCP (45 kHz),1023,,,,,PI
+PIRSN-QNTSRA-00001,PIRSN-QNTSRA-00001,Sensor,0,Quantification Sonar,QNTSR Series A,MARUM,Kongsberg 1171-Series Scanning Sonar,1708062,,,,,PI
+PIRSN-SCPRAA-00001,PIRSN-SCPRAA-00001,Sensor,0,Self-Calibrating Pressure Recorder,SCPR Series A,PI Zumberge and Sasagawa,Custom,001/C,,,,,PI
+PIRSN-SCTAAA-00001,PIRSN-SCTAAA-00001,Sensor,0,Self-Calibrating Triaxial Accelerometer,SCTA Series A,PI Wilcock,Custom,1,,,,,PI
+PIRSN-HYDBBA-00001,PIRSN-HYDBBA-00001,Sensor,0,Broadband Acoustic Receiver (Hydrophone): HYDBB Series A,Broadband Ethernet Hydrophone,Ocean Sonics,icListen HF-OceanSonics Element Test,6640,,,,,PI
 R00007,R00007,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,,,,,,Oregon State University
