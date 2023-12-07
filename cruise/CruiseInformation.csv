@@ -331,5 +331,8 @@ TN422,Thomas G. Thompson,2023-08-13T00:00:00,2023-09-18T23:59:59,Cabled (rvdata)
 EK20230823,Elakha,2023-08-23T16:19:00,2023-08-23T20:09:00,Endurance cspp deployment CE01ISSP-00022
 AR76-03,Neil Armstrong,2023-08-28T10:00:00,2023-09-21T12:08:00,Irminger 10
 AT50-16,Atlantis,2023-09-21T15:40:00,2023-10-07T17:00:00,Endurance 19 moorings profilers and gliders
-EK20231026,Elakha,2023-10-26T16:01,2023-10-26T20:48:00,Endurance glider deployment 384-00014
+TS20231004,Tenacious II,2023-10-04T12:00:00,2023-10-05T04:00:00,ASMAT2a test glider deployments
 SU20231023,Pacific Surveyor,2023-10-23T14:00:00,2023-10-24T12:00:00,Papa 10a glider deployments
+AR78,Neil Armstrong,2023-10-23T14:29:00,2023-11-04T13:11:00,AST3 PM anchor and SM recoveries and AST4 SWM deployment
+EK20231026,Elakha,2023-10-26T16:01,2023-10-26T20:48:00,Endurance glider deployment 384-00014
+TS20231106,Tenacious II,2023-11-06T04:00:00,2023-11-07T02:00:00,ASMAT2b test glider deployments
