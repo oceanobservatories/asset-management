@@ -41,7 +41,6 @@ AT30-01,Atlantis,2015-08-05T18:30:00,2015-09-01T23:59:59,Irminger 2
 PS1508,Pacific Storm,2015-08-13T21:09:00,2015-08-13T21:09:00,Endurance GL info
 OC1508C,Oceanus,2015-08-13T21:38:00,2015-08-22T21:38:00,Endurance GL info (rvdata)
 EK-1508,Elakha,2015-08-21T00:00:00,2015-08-22T23:59:59,Endurance CE06ISSP CE07SHSP
-TN-330,Thomas G. Thompson,2015-09-22T00:00:00,2015-09-27T23:59:59,Endurance 4a - recover (rvdata) #TO BE DELETED
 TN330,Thomas G. Thompson,2015-09-22T00:00:00,2015-09-27T23:59:59,Endurance 4a - recover (rvdata)
 OC1510A,Oceanus,2015-10-07T00:00:00,2015-10-18T23:59:59,Endurance 4b (rvdata)
 AT31,Atlantis,2015-10-11T14:30:00,2015-11-01T11:30:00,Pioneer 5
@@ -61,7 +60,6 @@ AR1-07,Neil Armstrong,2016-04-02T17:17:00,2016-04-06T13:00:00,Pioneer Glider & M
 KA20160418,Karoline Marie,2016-04-18T00:00:00,2016-04-18T23:59:59,Pioneer glider cp_335 recovery
 WOO20160420,Wahoo,2016-04-20T00:00:00,2016-04-20T23:59:59,Pioneer glider cp_339 recovery
 AR3,Neil Armstrong ,2016-05-02T17:28:00,2016-05-09T13:01:00,Pioneer Dock Recovery - Armstrong Science Verification Cruise IV
-TN-342,Thomas G. Thompson,2016-05-04T00:00:00,2016-05-18T23:59:59,Endurance 5 (rvdata) #TO BE DELETED
 TN342,Thomas G. Thompson,2016-05-04T00:00:00,2016-05-18T23:59:59,Endurance 5 (rvdata)
 AR4,Neil Armstrong,2016-05-12T19:00:00,2016-06-01T07:30:00,Pioneer 6
 PS1605,Pacific Storm,2016-05-27T20:50:00,2016-05-27T20:50:00,
