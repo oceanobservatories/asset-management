@@ -6,7 +6,8 @@ CE01ISSM-MFD35,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-F
 CE01ISSM-MFD35-00-DCLENG000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,25,25
 CE01ISSM-MFD35-01-VEL3DD000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),3-D Single Point Velocity Meter,Nortek,VECTOR,25,25
 CE01ISSM-MFD35-02-PRESFA000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,Sea-Bird,SBE 26plus,25,25
-CE01ISSM-MFD35-04-ADCPTM000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (600kHz),Teledyne RDI,WorkHorse Sentinel 600khz,25,25
+CE01ISSM-MFD35-04-ADCPTM000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (600kHz),Teledyne RDI,WorkHorse Sentinel 600khz ADCP with Waves,25,25
+CE01ISSM-MFD35-04-WAVSSM000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Surface Wave Spectra,Teledyne RDI,WorkHorse Sentinel 600khz ADCP with Waves,25,25
 CE01ISSM-MFD35-05-PCO2WB000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,25,25
 CE01ISSM-MFD35-06-PHSEND000,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,25,25
 CE01ISSM-MFD37,Coastal Endurance,Oregon Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,25,25
@@ -87,7 +88,14 @@ CE02SHSM-SBD11-00-DCLENG000,Coastal Endurance,Oregon Shelf Surface Mooring,Surfa
 CE02SHSM-SBD11-01-MOPAK0000,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
 CE02SHSM-SBD11-02-HYDGN0000,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
 CE02SHSM-SBD11-04-VELPTA000,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,Single Point Velocity Meter,Nortek,Aquadopp 300m,1,1
-CE02SHSM-SBD11-06-METBKA000,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,-3,-3
+CE02SHSM-SBD11-06-METBKA000,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Data Logger,Star Engineering,ASIMET System,0,0
+CE02SHSM-SBD11-06-METBKA001,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Surface Conductivity and Temperature Sensor,Sea-Bird Electronics,SBE 37-SM MicroCAT CT Recorder,1,1
+CE02SHSM-SBD11-06-METBKA002,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Barometric Pressure Sensor,Heise,DXD Digital Pressure Transducer,-4,-4
+CE02SHSM-SBD11-06-METBKA003,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Humidity and Temperature Sensor,Rotronic Measurement Solutions,MP101A Humidity Temperature Probe,-4,-4
+CE02SHSM-SBD11-06-METBKA004,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Longwave Radiation Sensor,Eppley Laboratory,Precision Infrared Radiometer (PIR),-4,-4
+CE02SHSM-SBD11-06-METBKA005,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Precipitation Sensor,R.M. Young,Model 50202 Precipitation Gauge,-4,-4
+CE02SHSM-SBD11-06-METBKA006,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Shortwave Radiation Sensor,Eppley Laboratory,Precision Spectral Pyranometer (PSP),-4,-4
+CE02SHSM-SBD11-06-METBKA007,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Wind Sensor,Gill Instruments,WindObserver II Ultrasonic Anemometer,-5,-5
 CE02SHSM-SBD12,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,,,,0,0
 CE02SHSM-SBD12-00-DCLENG000,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CE02SHSM-SBD12-03-HYDGN0000,Coastal Endurance,Oregon Shelf Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
@@ -179,7 +187,14 @@ CE04OSSM-SBD11-00-DCLENG000,Coastal Endurance,Oregon Offshore Surface Mooring,Su
 CE04OSSM-SBD11-01-MOPAK0000,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
 CE04OSSM-SBD11-02-HYDGN0000,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
 CE04OSSM-SBD11-04-VELPTA000,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Single Point Velocity Meter,Nortek,Aquadopp 300m,1,1
-CE04OSSM-SBD11-06-METBKA000,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,-3,-3
+CE04OSSM-SBD11-06-METBKA000,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Data Logger,Star Engineering,ASIMET System,0,0
+CE04OSSM-SBD11-06-METBKA001,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Surface Conductivity and Temperature Sensor,Sea-Bird Electronics,SBE 37-SM MicroCAT CT Recorder,1,1
+CE04OSSM-SBD11-06-METBKA002,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Barometric Pressure Sensor,Heise,DXD Digital Pressure Transducer,-4,-4
+CE04OSSM-SBD11-06-METBKA003,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Humidity and Temperature Sensor,Rotronic Measurement Solutions,MP101A Humidity Temperature Probe,-4,-4
+CE04OSSM-SBD11-06-METBKA004,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Longwave Radiation Sensor,Eppley Laboratory,Precision Infrared Radiometer (PIR),-4,-4
+CE04OSSM-SBD11-06-METBKA005,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Precipitation Sensor,R.M. Young,Model 50202 Precipitation Gauge,-4,-4
+CE04OSSM-SBD11-06-METBKA006,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Shortwave Radiation Sensor,Eppley Laboratory,Precision Spectral Pyranometer (PSP),-4,-4
+CE04OSSM-SBD11-06-METBKA007,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Wind Sensor,Gill Instruments,WindObserver II Ultrasonic Anemometer,-5,-5
 CE04OSSM-SBD12,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,,,,0,0
 CE04OSSM-SBD12-00-DCLENG000,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CE04OSSM-SBD12-03-HYDGN0000,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
@@ -298,7 +313,8 @@ CE06ISSM-MFD35,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Mul
 CE06ISSM-MFD35-00-DCLENG000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,29,29
 CE06ISSM-MFD35-01-VEL3DD000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),3-D Single Point Velocity Meter,Nortek,VECTOR,29,29
 CE06ISSM-MFD35-02-PRESFA000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,Sea-Bird,SBE 26plus,29,29
-CE06ISSM-MFD35-04-ADCPTM000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (600kHz),Teledyne RDI,WorkHorse Sentinel 600khz,29,29
+CE06ISSM-MFD35-04-ADCPTM000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (600kHz),Teledyne RDI,WorkHorse Sentinel 600khz ADCP with Waves,29,29
+CE06ISSM-MFD35-04-WAVSSM000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Surface Wave Spectra,Teledyne RDI,WorkHorse Sentinel 600khz ADCP with Waves,29,29
 CE06ISSM-MFD35-05-PCO2WB000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,29,29
 CE06ISSM-MFD35-06-PHSEND000,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,29,29
 CE06ISSM-MFD37,Coastal Endurance,Washington Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,29,29
@@ -377,7 +393,14 @@ CE07SHSM-SBD11-00-DCLENG000,Coastal Endurance,Washington Shelf Surface Mooring,S
 CE07SHSM-SBD11-01-MOPAK0000,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
 CE07SHSM-SBD11-02-HYDGN0000,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
 CE07SHSM-SBD12-04-PCO2AA000,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
-CE07SHSM-SBD11-06-METBKA000,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,-3,-3
+CE07SHSM-SBD11-06-METBKA000,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Data Logger,Star Engineering,ASIMET System,0,0
+CE07SHSM-SBD11-06-METBKA001,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Surface Conductivity and Temperature Sensor,Sea-Bird Electronics,SBE 37-SM MicroCAT CT Recorder,1,1
+CE07SHSM-SBD11-06-METBKA002,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Barometric Pressure Sensor,Heise,DXD Digital Pressure Transducer,-4,-4
+CE07SHSM-SBD11-06-METBKA003,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Humidity and Temperature Sensor,Rotronic Measurement Solutions,MP101A Humidity Temperature Probe,-4,-4
+CE07SHSM-SBD11-06-METBKA004,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Longwave Radiation Sensor,Eppley Laboratory,Precision Infrared Radiometer (PIR),-4,-4
+CE07SHSM-SBD11-06-METBKA005,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Precipitation Sensor,R.M. Young,Model 50202 Precipitation Gauge,-4,-4
+CE07SHSM-SBD11-06-METBKA006,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Shortwave Radiation Sensor,Eppley Laboratory,Precision Spectral Pyranometer (PSP),-4,-4
+CE07SHSM-SBD11-06-METBKA007,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Wind Sensor,Gill Instruments,WindObserver II Ultrasonic Anemometer,-5,-5
 CE07SHSM-SBD12,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,,,,0,0
 CE07SHSM-SBD12-00-DCLENG000,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CE07SHSM-SBD12-03-HYDGN0000,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
@@ -444,7 +467,14 @@ CE09OSSM-SBD11-00-DCLENG000,Coastal Endurance,Washington Offshore Surface Moorin
 CE09OSSM-SBD11-01-MOPAK0000,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
 CE09OSSM-SBD11-02-HYDGN0000,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
 CE09OSSM-SBD11-04-VELPTA000,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Single Point Velocity Meter,Nortek,Aquadopp 300m,1,1
-CE09OSSM-SBD11-06-METBKA000,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET,-3,-3
+CE09OSSM-SBD11-06-METBKA000,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Data Logger,Star Engineering,ASIMET System,0,0
+CE09OSSM-SBD11-06-METBKA001,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Surface Conductivity and Temperature Sensor,Sea-Bird Electronics,SBE 37-SM MicroCAT CT Recorder,1,1
+CE09OSSM-SBD11-06-METBKA002,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Barometric Pressure Sensor,Heise,DXD Digital Pressure Transducer,-4,-4
+CE09OSSM-SBD11-06-METBKA003,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Humidity and Temperature Sensor,Rotronic Measurement Solutions,MP101A Humidity Temperature Probe,-4,-4
+CE09OSSM-SBD11-06-METBKA004,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Longwave Radiation Sensor,Eppley Laboratory,Precision Infrared Radiometer (PIR),-4,-4
+CE09OSSM-SBD11-06-METBKA005,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Precipitation Sensor,R.M. Young,Model 50202 Precipitation Gauge,-4,-4
+CE09OSSM-SBD11-06-METBKA006,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Shortwave Radiation Sensor,Eppley Laboratory,Precision Spectral Pyranometer (PSP),-4,-4
+CE09OSSM-SBD11-06-METBKA007,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package Wind Sensor,Gill Instruments,WindObserver II Ultrasonic Anemometer,-5,-5
 CE09OSSM-SBD12,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,,,,0,0
 CE09OSSM-SBD12-00-DCLENG000,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CE09OSSM-SBD12-03-HYDGN0000,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
