@@ -522,11 +522,11 @@ CGINS-ADCPTG-20499,A00493,Sensor,0,ADCP Velocity Profiler (short range): ADCPT S
 CGINS-ADCPTG-24542,A02170,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series G,ADCP SERIES G (WHS150-1500),Teledyne RDI,WHS150-1500-I,24542,50.41,20170206,,,Woods Hole Oceanographic Institution
 CGINS-ADCPTG-24543,A02171,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series G,ADCP SERIES G (WHS150-1500),Teledyne RDI,WHS150-1500-I,24543,50.41,20170206,,,Woods Hole Oceanographic Institution
 CGINS-ADCPTG-24544,A02172,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series G,ADCP SERIES G (WHS150-1500),Teledyne RDI,WHS150-1500-I,24544,50.41,20170206,,,Woods Hole Oceanographic Institution
-CGINS-ADCPTM-18225,A00056,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series M,ADCP SERIES A (WH600-500),Teledyne RDI,WHS600-500,18225,,20120822,24822,,
-CGINS-ADCPTM-19023,A00245,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series M,ADCP SERIES M (WHS600-500),Teledyne RDI,WHS600-500,19023,,20121219,24882,,
-CGINS-ADCPTM-21517,A01051,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series M,ADCP SERIES M (WHS600-500),Teledyne RDI,WHS600-500,21517,,20140506,25569,,
-CGINS-ADCPTM-21522,A01052,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series M,ADCP SERIES M (WHS600-500),Teledyne RDI,WHS600-500,21522,,20140506,25569,,
-CGINS-ADCPTM-21524,A01053,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series M,ADCP SERIES M (WHS600-500),Teledyne RDI,WHS600-500,21524,,20140506,25569,,
+CGINS-ADCPTM-18225,A00056,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,18225,,20120822,24822,,Oregon State University
+CGINS-ADCPTM-19023,A00245,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,19023,,20121219,24882,,Oregon State University
+CGINS-ADCPTM-21517,A01051,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21517,,20140506,25569,,Oregon State University
+CGINS-ADCPTM-21522,A01052,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21522,,20140506,25569,,Oregon State University
+CGINS-ADCPTM-21524,A01053,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21524,,20140506,25569,,Oregon State University
 CGINS-CAMDSA-00109,N00682,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0109,,,,,
 CGINS-CAMDSA-00110,N00515,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0110,,,,,
 CGINS-CAMDSA-00111,N00679,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0111,,,,,
@@ -551,6 +551,7 @@ CGINS-CTDBPC-07242,A00128,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-
 CGINS-CTDBPC-07243,A00129,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7243,,20121227,11150,,
 CGINS-CTDBPC-50002,A00697,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50002,2.5.2,20140218,11500,,
 CGINS-CTDBPC-50003,A00698,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50003,2.5.2,20140218,11500,,
+CGINS-CTDBPC-50004,A00699,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50004,,20150604,11500,converted from CTDBP-E to -C for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDBPC-50006,A01035,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50006,,20140224,11500,,
 CGINS-CTDBPC-50007,A01040,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50007,,20140224,11500,,
 CGINS-CTDBPC-50009,A01037,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50009,,20140224,11500,,
@@ -563,8 +564,10 @@ CGINS-CTDBPC-50015,A01034,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-
 CGINS-CTDBPC-50055,A01090,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50055,,20140925,11835,,
 CGINS-CTDBPC-50056,A01089,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50056,,20150604,11835,,
 CGINS-CTDBPC-50057,A01146,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50057,,20141027,11835,,
+CGINS-CTDBPC-50067,A01091,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50067,,20150604,11835,converted from CTDBP-E to -C for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDBPC-50108,A01333,Sensor,0,CTD Pumped: CTDBP Series C,CTDPB SERIES C,Sea-Bird Electronics,SBE 16plus V2,16-50108,,20150410,13535,,
 CGINS-CTDBPC-50109,A01334,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C,Sea-Bird Electronics,SBE 16plus V2,16-50109,,20150414,13525,,
+CGINS-CTDBPC-50111,A01336,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C (C-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50111,,20150414,13535,converted from CTDBP-E to -C for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDBPC-50150,A01755,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C,Sea-Bird Electronics,SBE 16plus V2,16-50150,,20150831,13535,,
 CGINS-CTDBPC-50151,A01756,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C,Sea-Bird Electronics,SBE 16plus V2,16-50151,,20150831,13535,,
 CGINS-CTDBPC-50152,A01757,Sensor,0,CTD Pumped: CTDBP Series C,CTDBP SERIES C,Sea-Bird Electronics,SBE 16plus V2,16-50152,,20150831,13535,,
