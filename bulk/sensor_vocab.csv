@@ -31,7 +31,7 @@ ADCP Velocity Profiler (short range): ADCPT Series E,Teledyne RDI,WHM150-6000
 ADCP Velocity Profiler (short range): ADCPT Series F,Teledyne RDI,WHS150-1500
 ADCP Velocity Profiler (short range): ADCPT Series G,Teledyne RDI,WHS150-1500-I
 ADCP Velocity Profiler (short range): ADCPT Series M,Teledyne RDI,WHS600-500-Waves
-ADCP Velocity Profiler (short range): ADCPT Series Q,Teledyne RDI,WHS600-200 [WHII]
+ADCP Velocity Profiler (short range): ADCPT Series Q,Teledyne RDI,WHS600-200-Waves [WHII]
 ADCP Velocity Profiler (ultra-short range): ADCPU Series P,Nortek,Aquadopp Profiler-S1VP
 Benthic Fluid Flow: FLOBN Series C,Michael Tryon,CAT
 Benthic Fluid Flow: FLOBN Series M,Solomon,Mosquito
@@ -56,7 +56,7 @@ CTD Mooring (Inductive): CTDMO Series G,Sea-Bird Electronics,SBE 37-IM
 CTD Mooring (Inductive): CTDMO Series H,Sea-Bird Electronics,SBE 37-IM
 CTD Mooring (Inductive): CTDMO Series Q,Sea-Bird Electronics,SBE 37-IM
 CTD Mooring (Inductive): CTDMO Series R,Sea-Bird Electronics,SBE 37-IM
-CTD Mooring (Inductive): CTDMO Series S,Sea-Bird Electronics,SBE 37IM
+CTD Mooring (Inductive): CTDMO Series S,Sea-Bird Electronics,SBE 37-IM
 CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode
 CTD Profiler: CTDPF Series A,Sea-Bird Electronics,SBE 16plus V2
 CTD Profiler: CTDPF Series B,Sea-Bird Electronics,SBE 16plus V2
