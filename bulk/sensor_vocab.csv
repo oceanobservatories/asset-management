@@ -16,6 +16,7 @@ DESCRIPTION OF EQUIPMENT,Manufacturer,Model
 3-Wavelength Fluorometer: FLORT Series D,WET Labs,ECO Triplet-w
 3-Wavelength Fluorometer: FLORT Series J,WET Labs,ECO Triplet-w
 3-Wavelength Fluorometer: FLORT Series K,WET Labs,ECO Triplet
+3-Wavelength Fluorometer: FLORT Series P,WET Labs,ECO BBFL2-w
 "ADCP 5-Beam, 600 kHz Acoustic Doppler Current Profiler: VADCP Series A",Teledyne RDI,WH600-I-5BEAM-UG2
 ADCP Velocity Profiler (long range): ADCPS Series I,Teledyne RDI,WHLM75-1500
 ADCP Velocity Profiler (long range): ADCPS Series J,Teledyne RDI,WHLS75-1500
@@ -63,6 +64,7 @@ CTD Profiler: CTDPF Series B,Sea-Bird Electronics,SBE 16plus V2
 CTD Profiler: CTDPF Series J,Sea-Bird Electronics,SBE 49 Fast CAT
 CTD Profiler: CTDPF Series K,Sea-Bird Electronics,SBE 52-MP
 CTD Profiler: CTDPF Series L,Sea-Bird Electronics,SBE 52-MP
+CTD Profiler: CTDPF Series P,Sea-Bird Electronics,SBE 37-SM
 CTD Pumped: CTDBP Series C,Sea-Bird Electronics,SBE 16plus V2
 CTD Pumped: CTDBP Series D,Sea-Bird Electronics,SBE 16plus V2
 CTD Pumped: CTDBP Series E,Sea-Bird Electronics,SBE 16plus V2
@@ -75,6 +77,7 @@ Direct Covariance Flux: FDCHP Series A,WHOI,DCFS
 Direct Covariance Flux: FDCHP Series B,WHOI,DCFS with R3-50 anemometer
 Dissolved Oxygen Fast Response: DOFST Series A,Sea-Bird Electronics,SBE 43
 Dissolved Oxygen Fast Response: DOFST Series K,Sea-Bird Electronics,SBE 43F
+Dissolved Oxygen Fast Response: DOFST Series P,Aanderaa,Optode 4831
 Dissolved Oxygen Stable Response for Glider: DOSTA Series M,Aanderaa,Optode 4831
 Dissolved Oxygen Stable Response: DOSTA Series D,Aanderaa,Optode 4831
 Dissolved Oxygen Stable Response: DOSTA Series J,Aanderaa,Optode 4831
@@ -116,7 +119,7 @@ Seawater pH: PHSEN Series A,Sunburst Sensors,SAMI-pH
 Seawater pH: PHSEN Series D,Sunburst Sensors,SAMI-pH
 Seawater pH: PHSEN Series E,Sunburst Sensors,SAMI-pH
 Seawater pH: PHSEN Series F,Sunburst Sensors,SAMI-pH
-Suspended Particulates: PRTSZ Series A,Sequoia,LISST-200X
+Particle Size Analyzer: PRTSZ Series A,Sequoia,LISST-200X
 Short-Period Ocean Bottom Seismometer 1 to 100Hz: OBSSP Series A,Guralp,CMG-6TF
 Turbidity: TURBD Series A,Sea-Bird Electronics,ECO
 Single Point Velocity Meter: VELPT Series A,Nortek,Aquadopp
@@ -131,6 +134,7 @@ Spectrophotometer: OPTAA Series D,WET Labs,AC-S
 Spectrophotometer: OPTAA Series J,WET Labs,AC-S
 Surface Wave Spectra: WAVSS Series A,AXYS Technologies,TRIAXYS Directional Wave Sensor
 Surface Wave Spectra: WAVSS Series M,Teledyne RDI,WorkHorse Sentinel 600khz ADCP with Waves
+Surface Wave Spectra: WAVSS Series Q,Teledyne RDI,WHS600-200 with Waves [WHII]
 "Tidal Seafloor Pressure (Tsunameter 2,000 psia): PREST Series B",Sea-Bird Electronics,SBE 54
 "Tidal Seafloor Pressure (Tsunameter 6,000 psia): PREST Series A",Sea-Bird Electronics,SBE 54
 Underwater Digital Still Camera: CAMDS Series A,Kongsberg Underwater Technology Inc,Custom
