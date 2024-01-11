@@ -31,6 +31,8 @@ ADCP Velocity Profiler (short range): ADCPT Series E,Teledyne RDI,WHM150-6000
 ADCP Velocity Profiler (short range): ADCPT Series F,Teledyne RDI,WHS150-1500
 ADCP Velocity Profiler (short range): ADCPT Series G,Teledyne RDI,WHS150-1500-I
 ADCP Velocity Profiler (short range): ADCPT Series M,Teledyne RDI,WHS600-500-Waves
+ADCP Velocity Profiler (short range): ADCPT Series Q,Teledyne RDI,WHS600-200 [WHII]
+ADCP Velocity Profiler (ultra-short range): ADCPU Series P,Nortek,Aquadopp Profiler-S1VP
 Benthic Fluid Flow: FLOBN Series C,Michael Tryon,CAT
 Benthic Fluid Flow: FLOBN Series M,Solomon,Mosquito
 Bio-acoustic Sonar: ZPLSC Series B,Kongsberg Underwater Technology Inc,EK-60
@@ -54,6 +56,7 @@ CTD Mooring (Inductive): CTDMO Series G,Sea-Bird Electronics,SBE 37-IM
 CTD Mooring (Inductive): CTDMO Series H,Sea-Bird Electronics,SBE 37-IM
 CTD Mooring (Inductive): CTDMO Series Q,Sea-Bird Electronics,SBE 37-IM
 CTD Mooring (Inductive): CTDMO Series R,Sea-Bird Electronics,SBE 37-IM
+CTD Mooring (Inductive): CTDMO Series S,Sea-Bird Electronics,SBE 37IM
 CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode
 CTD Profiler: CTDPF Series A,Sea-Bird Electronics,SBE 16plus V2
 CTD Profiler: CTDPF Series B,Sea-Bird Electronics,SBE 16plus V2
@@ -102,14 +105,20 @@ Photosynthetically Available Radiation: PARAD Series J,WET Labs,ECO PARS
 Photosynthetically Available Radiation: PARAD Series K,Biospherical Instruments,QSP-2200
 QNTSR Series A,MARUM,Kongsberg 1171-Series Scanning Sonar
 Seafloor Mass Spectrometer Instrument in titanium housing: MASSP Series A,Harvard University,Custom
+Phytoplankton Imagery: PLIMS Series A,McLane,ImagingFlowCytoBot (IFCB)
 Seafloor Pressure: PRESF Series A,Sea-Bird Electronics,SBE 26plus
 Seafloor Pressure: PRESF Series B,Sea-Bird Electronics,SBE 26plus
 Seafloor Pressure: PRESF Series C,Sea-Bird Electronics,SBE 26plus
+Seafloor Pressure: PRESF Series D,RBR,quartz3QPlus (P-55)
+Seafloor Pressure: PRESF Series E,RBR,quartz3QPlus (P-125)
+Seafloor Pressure: PRESF Series F,RBR,quartz3QPlus (P-1350)
 Seawater pH: PHSEN Series A,Sunburst Sensors,SAMI-pH
 Seawater pH: PHSEN Series D,Sunburst Sensors,SAMI-pH
 Seawater pH: PHSEN Series E,Sunburst Sensors,SAMI-pH
 Seawater pH: PHSEN Series F,Sunburst Sensors,SAMI-pH
+Suspended Particulates: PRTSZ Series A,Sequoia,LISST-200X
 Short-Period Ocean Bottom Seismometer 1 to 100Hz: OBSSP Series A,Guralp,CMG-6TF
+Turbidity: TURBD Series A,Sea-Bird Electronics,ECO
 Single Point Velocity Meter: VELPT Series A,Nortek,Aquadopp
 Single Point Velocity Meter: VELPT Series B,Nortek,Aquadopp
 Single Point Velocity Meter: VELPT Series D,Nortek,Aquadopp
