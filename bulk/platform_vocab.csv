@@ -41,17 +41,31 @@ Coastal Endurance Washington Offshore Profiler Mooring,WHOI,CE09OSPM
 Coastal Endurance Washington Offshore Surface Mooring,WHOI,CE09OSSM
 Coastal Endurance Washington Shelf Surface Mooring,WHOI,CE07SHSM
 Coastal Endurance Washington Shelf Surface Piercing Profiler Mooring,WHOI,CE07SHSP
-Coastal Pioneer Central Inshore Profiler Mooring,WHOI,CP02PMCI
-Coastal Pioneer Central Offshore Profiler Mooring,WHOI,CP02PMCO
-Coastal Pioneer Central Surface Mooring,WHOI,CP01CNSM
-Coastal Pioneer Central Surface Piercing Profiler Mooring,WHOI,CP01CNSP
-Coastal Pioneer Mobile Assets,Teledyne Webb/Hydroid,CP05MOAS
-Coastal Pioneer Inshore Surface Mooring,WHOI,CP03ISSM
-Coastal Pioneer Inshore Surface Piercing Profiler Mooring,WHOI,CP03ISSP
-Coastal Pioneer Offshore Profiler Mooring,WHOI,CP04OSPM
-Coastal Pioneer Offshore Surface Mooring,WHOI,CP04OSSM
-Coastal Pioneer Upstream Inshore Profiler Mooring,WHOI,CP02PMUI
-Coastal Pioneer Upstream Offshore Profiler Mooring,WHOI,CP02PMUO
+Coastal Pioneer MAB Central Shallow Water Mooring,WHOI,CP12CNSW
+Coastal Pioneer MAB Central Surface Mooring,WHOI,CP10CNSM
+Coastal Pioneer MAB Eastern Profiler Mooring,WHOI,CP13EAPM
+Coastal Pioneer MAB Mobile Assets - AUVs,Hydroid,CP16MOAS
+Coastal Pioneer MAB Mobile Assets - Gliders,Teledyne Webb,CP15MOAS
+Coastal Pioneer MAB Northeastern Profiler Mooring,WHOI,CP14NEPM
+Coastal Pioneer MAB Northern Profiler Mooring,WHOI,CP13NOPM
+Coastal Pioneer MAB Northern Surface Mooring,WHOI,CP11NOSM
+Coastal Pioneer MAB Southeastern Profiler Mooring,WHOI,CP14SEPM
+Coastal Pioneer MAB Southern Profiler Mooring,WHOI,CP13SOPM
+Coastal Pioneer MAB Southern Surface Mooring,WHOI,CP11SOSM
+Coastal Pioneer MAB Western Shallow Water Mooring,WHOI,CP12WESW
+Coastal Pioneer NES Central Inshore Profiler Mooring,WHOI,CP02PMCI
+Coastal Pioneer NES Central Offshore Profiler Mooring,WHOI,CP02PMCO
+Coastal Pioneer NES Central Profiler Mooring,WHOI,CP01CNPM
+Coastal Pioneer NES Central Surface Mooring,WHOI,CP01CNSM
+Coastal Pioneer NES Central Surface Piercing Profiler Mooring,WHOI,CP01CNSP
+Coastal Pioneer NES Inshore Profiler Mooring,WHOI,CP03ISPM
+Coastal Pioneer NES Inshore Surface Mooring,WHOI,CP03ISSM
+Coastal Pioneer NES Inshore Surface Piercing Profiler Mooring,WHOI,CP03ISSP
+Coastal Pioneer NES Mobile Assets,Teledyne Webb/Hydroid,CP05MOAS
+Coastal Pioneer NES Offshore Profiler Mooring,WHOI,CP04OSPM
+Coastal Pioneer NES Offshore Surface Mooring,WHOI,CP04OSSM
+Coastal Pioneer NES Upstream Inshore Profiler Mooring,WHOI,CP02PMUI
+Coastal Pioneer NES Upstream Offshore Profiler Mooring,WHOI,CP02PMUO
 Global Argentine Basin Apex Profiler Mooring,WHOI,GA02HYPM
 Global Argentine Basin Apex Surface Mooring,WHOI,GA01SUMO
 Global Argentine Basin Flanking Subsurface Mooring A,WHOI,GA03FLMA
@@ -71,5 +85,3 @@ Global Station Papa Apex Profiler Mooring,WHOI,GP02HYPM
 Global Station Papa Flanking Subsurface Mooring A,WHOI,GP03FLMA
 Global Station Papa Flanking Subsurface Mooring B,WHOI,GP03FLMB
 Global Station Papa Gliders,Teledyne Webb,GP05MOAS
-Coastal Pioneer Central Profiler Mooring,WHOI,CP01CNPM
-Coastal Pioneer Inshore Profiler Mooring,WHOI,CP03ISPM
