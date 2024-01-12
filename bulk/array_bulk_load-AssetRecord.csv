@@ -1,8 +1,9 @@
 ASSET_UID,LEGACY_ASSET_UID,TYPE,Mobile,DESCRIPTION OF EQUIPMENT,MIO_Inventory_Description,Manufacturer,Model,Manufacturer's Serial No./Other Identifier,Firmware Version,ACQUISITION DATE,ORIGINAL COST,comments,Array_geometry,Commission_Date,Decommission_Date,MIO
 N00290,N00290,Array,0,Coastal Endurance,CE Array Parent,,,,,,,,"POLYGON ((-128.18391 43.27154, -128.18391 48.22813, -123.79899 48.22813, -123.79899 43.27154, -128.18391 43.27154))",20160603,,Oregon State University
-N00291,N00291,Array,0,Coastal Pioneer,CP Array Parent,,,,,,,,"POLYGON ((-71.22397 39.02135, -71.22397 40.74562, -69.94158 40.74562, -69.94158 39.02135, -71.22397 39.02135))",20160603,,Woods Hole Oceanographic Institution
+N00291,N00291,Array,0,Coastal Pioneer NES,CP Array Parent,,,,,,,,"POLYGON ((-71.22397 39.02135, -71.22397 40.74562, -69.94158 40.74562, -69.94158 39.02135, -71.22397 39.02135))",20160603,,Woods Hole Oceanographic Institution
 N00292,N00292,Array,0,Global Argentine Basin,GA Array Parent,,,,,,,,"POLYGON ((-43.07073 -43.09882, -43.07073 -42.37107, -41.93719 -42.37107, -41.93719 -43.09882, -43.07073 -43.09882))",20160603,,Woods Hole Oceanographic Institution
 N00293,N00293,Array,0,Global Irminger Sea,GI Array Parent,,,,,,,,"POLYGON ((-39.97155 59.65167, -39.97155 60.03320, -39.18295 60.03320, -39.18295 59.65167, -39.97155 59.65167))",20160603,,Woods Hole Oceanographic Institution
 N00294,N00294,Array,0,Global Station Papa,GP Array Parent,,,,,,,,"POLYGON ((-144.94619 49.88512, -144.94619 50.41831, -144.09823 50.41831, -144.09823 49.88512, -144.94619 49.88512))",20160603,,Woods Hole Oceanographic Institution
 N00295,N00295,Array,0,Global Southern Ocean,GS Array Parent,,,,,,,,"POLYGON ((-89.83694 -54.56587, -89.83694 -53.98346, -88.75162 -53.98346, -88.75162 -54.56587, -89.83694 -54.56587))",20160603,,Woods Hole Oceanographic Institution
 N00296,N00296,Array,0,Cabled Array,RSN Array Parent,,,,,,,,"POLYGON ((-130.07880 44.45932, -130.07880 45.98948, -125.08603 45.98948, -125.08603 44.45932, -130.07880 44.45932))",20160603,,University of Washington
+N00297,N00297,Array,0,Coastal Pioneer MAB,CP Array Parent,,,,,,,,,,,Woods Hole Oceanographic Institution
