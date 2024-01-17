@@ -922,7 +922,6 @@ CP10CNSM-RID27-01-OPTAAD000,Coastal Pioneer MAB,Central Surface Mooring,Near Sur
 CP10CNSM-RID27-02-FLORTD000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,7,7
 CP10CNSM-RID27-03-CTDBPC000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,CTD,Sea-Bird,SBE 16plusV2,7,7
 CP10CNSM-RID27-04-DOSTAD000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Dissolved Oxygen,Aanderaa,Optode 4831,7,7
-CP10CNSM-RID27-06-ADCPUP000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,ADCP Velocity Profiler,Nortek,Aquadopp Profiler-S1VP,7,7
 CP10CNSM-RID27-07-PLIMSA000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Phytoplankton Imagery,McLane,ImagingFlowCytoBot (IFCB),7,7
 CP10CNSM-SBC11,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,,,,0,0
 CP10CNSM-SBC11-00-CPMENG000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
@@ -987,7 +986,6 @@ CP11NOSM-RID27-01-OPTAAD000,Coastal Pioneer MAB,Northern Surface Mooring,Near Su
 CP11NOSM-RID27-02-FLORTD000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,7,7
 CP11NOSM-RID27-03-CTDBPC000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,CTD,Sea-Bird,SBE 16plusV2,7,7
 CP11NOSM-RID27-04-DOSTAD000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Dissolved Oxygen,Aanderaa,Optode 4831,7,7
-CP11NOSM-RID27-06-ADCPUP000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,ADCP Velocity Profiler,Nortek,Aquadopp Profiler-S1VP,7,7
 CP11NOSM-SBC11,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,,,,0,0
 CP11NOSM-SBC11-00-CPMENG000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
 CP11NOSM-SBD11,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,,,,0,0
@@ -1042,7 +1040,6 @@ CP11SOSM-RID27-01-OPTAAD000,Coastal Pioneer MAB,Southern Surface Mooring,Near Su
 CP11SOSM-RID27-02-FLORTD000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,7,7
 CP11SOSM-RID27-03-CTDBPC000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,CTD,Sea-Bird,SBE 16plusV2,7,7
 CP11SOSM-RID27-04-DOSTAD000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Dissolved Oxygen,Aanderaa,Optode 4831,7,7
-CP11SOSM-RID27-06-ADCPUP000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,ADCP Velocity Profiler,Nortek,Aquadopp Profiler-S1VP,7,7
 CP11SOSM-SBC11,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,,,,0,0
 CP11SOSM-SBC11-00-CPMENG000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
 CP11SOSM-SBD11,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,,,,0,0
@@ -1182,7 +1179,7 @@ CP16MOAS-A6263,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,,,,0,600
 CP16MOAS-A6263-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,Mobile Asset Controller,Hydroid,AUV,0,600
 CP16MOAS-A6263-01-FLORTN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,3-Wavelength Fluorometer,WET Labs,BBFL2HYD,0,600
 CP16MOAS-A6263-02-DOSTAN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,Dissolved Oxygen,Aanderaa,Optode 4330,0,600
-CP16MOAS-A6263-03-CTDAVN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,CTD,Sea-Bird,SBE AUV Payload CTD,0,600
+CP16MOAS-A6263-03-CTDAVN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,CTD,NBOSI,NBOSI CT Sensor,0,600
 CP16MOAS-A6263-04-NUTNRN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,Nitrate,Satlantic,SUNA,0,600
 CP16MOAS-A6263-05-ADCPAN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,600
 CP16MOAS-A6263-06-PARADN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,600
@@ -1190,7 +1187,7 @@ CP16MOAS-A6264,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,,,,0,600
 CP16MOAS-A6264-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,Mobile Asset Controller,Hydroid,AUV,0,600
 CP16MOAS-A6264-01-FLORTN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,3-Wavelength Fluorometer,WET Labs,BBFL2HYD,0,600
 CP16MOAS-A6264-02-DOSTAN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,Dissolved Oxygen,Aanderaa,Optode 4330,0,600
-CP16MOAS-A6264-03-CTDAVN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,CTD,Sea-Bird,SBE AUV Payload CTD,0,600
+CP16MOAS-A6264-03-CTDAVN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,CTD,NBOSI,NBOSI CT Sensor,0,600
 CP16MOAS-A6264-04-NUTNRN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,Nitrate,Satlantic,SUNA,0,600
 CP16MOAS-A6264-05-ADCPAN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,600
 CP16MOAS-A6264-06-PARADN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,600
