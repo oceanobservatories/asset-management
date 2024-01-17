@@ -930,7 +930,7 @@ CP10CNSM-SBD11,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,,,,0,0
 CP10CNSM-SBD11-00-DCLENG000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CP10CNSM-SBD11-01-MOPAK0000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
 CP10CNSM-SBD11-02-HYDGN0000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
-CP10CNSM-SBD11-05-SPKIRB000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-5,-5
+CP10CNSM-SBD11-05-SPKIRB000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-4,-4
 CP10CNSM-SBD11-06-METBKA000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
 CP10CNSM-SBD11-06-METBKA001,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
 CP10CNSM-SBD11-06-METBKA002,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
@@ -994,7 +994,7 @@ CP11NOSM-SBD11,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,,,,0,0
 CP11NOSM-SBD11-00-DCLENG000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CP11NOSM-SBD11-01-MOPAK0000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
 CP11NOSM-SBD11-02-HYDGN0000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
-CP11NOSM-SBD11-05-SPKIRB000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-5,-5
+CP11NOSM-SBD11-05-SPKIRB000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-4,-4
 CP11NOSM-SBD11-06-METBKA000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
 CP11NOSM-SBD11-06-METBKA001,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
 CP11NOSM-SBD11-06-METBKA002,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
@@ -1049,7 +1049,7 @@ CP11SOSM-SBD11,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,,,,0,0
 CP11SOSM-SBD11-00-DCLENG000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CP11SOSM-SBD11-01-MOPAK0000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
 CP11SOSM-SBD11-02-HYDGN0000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
-CP11SOSM-SBD11-05-SPKIRB000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-5,-5
+CP11SOSM-SBD11-05-SPKIRB000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-4,-4
 CP11SOSM-SBD11-06-METBKA000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
 CP11SOSM-SBD11-06-METBKA001,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
 CP11SOSM-SBD11-06-METBKA002,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
@@ -1064,6 +1064,7 @@ CP11SOSM-SBD12-03-HYDGN0000,Coastal Pioneer MAB,Southern Surface Mooring,Surface
 CP11SOSM-SBD12-04-PCO2AA000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
 CP11SOSM-SBD12-05-WAVSSA000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Surface Wave Spectra,Axys Technologies,TRIAXYS,0,0
 CP12CNSW,Coastal Pioneer MAB,Central Shallow Water Mooring,,,,,0,30
+CP12CNSW-MFI01,Coastal Pioneer MAB,Central Shallow Water Mooring,Seafloor Multi-Function Node (MFN),,,,30,30
 CP12CNSW-MFI01-02-ADCPTQ010,Coastal Pioneer MAB,Central Shallow Water Mooring,Seafloor Multi-Function Node (MFN),ADCP Velocity Profiler,Teledyne RDI,WHS600-200-waves [WHII],30,30
 CP12CNSW-MFI01-02-CTDMOS031,Coastal Pioneer MAB,Central Shallow Water Mooring,Seafloor Multi-Function Node (MFN),CTD,Sea-Bird Electronics,SBE 37-IM,30,30
 CP12CNSW-MFI01-02-WAVSSQ010,Coastal Pioneer MAB,Central Shallow Water Mooring,Seafloor Multi-Function Node (MFN),Surface Wave Spectra,Teledyne RDI,WHS600-200-waves [WHII],30,30
@@ -1080,6 +1081,7 @@ CP12CNSW-WFP01-01-CTDPFP000,Coastal Pioneer MAB,Central Shallow Water Mooring,Wi
 CP12CNSW-WFP01-02-DOFSTP000,Coastal Pioneer MAB,Central Shallow Water Mooring,Wire-Following Profiler,Dissolved Oxygen,Aanderaa,Optode 4330F,2,22
 CP12CNSW-WFP01-03-FLORTP000,Coastal Pioneer MAB,Central Shallow Water Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO BBFL2-w,2,22
 CP12WESW,Coastal Pioneer MAB,Western Shallow Water Mooring,,,,,0,30
+CP12WESW-MFI01,Coastal Pioneer MAB,Western Shallow Water Mooring,Seafloor Multi-Function Node (MFN),,,,30,30
 CP12WESW-MFI01-02-ADCPTQ010,Coastal Pioneer MAB,Western Shallow Water Mooring,Seafloor Multi-Function Node (MFN),ADCP Velocity Profiler,Teledyne RDI,WHS600-200-waves [WHII],30,30
 CP12WESW-MFI01-02-CTDMOS031,Coastal Pioneer MAB,Western Shallow Water Mooring,Seafloor Multi-Function Node (MFN),CTD,Sea-Bird Electronics,SBE 37-IM,30,30
 CP12WESW-MFI01-02-WAVSSQ010,Coastal Pioneer MAB,Western Shallow Water Mooring,Seafloor Multi-Function Node (MFN),Surface Wave Spectra,Teledyne RDI,WHS600-200-waves [WHII],30,30
