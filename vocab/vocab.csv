@@ -480,414 +480,718 @@ CE09OSSM-SBD12-00-DCLENG000,Coastal Endurance,Washington Offshore Surface Moorin
 CE09OSSM-SBD12-03-HYDGN0000,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
 CE09OSSM-SBD12-04-PCO2AA000,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
 CE09OSSM-SBD12-05-WAVSSA000,Coastal Endurance,Washington Offshore Surface Mooring,Surface Buoy,Surface Wave Spectra,Axys Technologies,TRIAXYS,0,0
-CP01CNPM,Coastal Pioneer,Central Profiler Mooring,,,,,0,70
-CP01CNPM-SBS01,Coastal Pioneer,Central Profiler Mooring,Surface Buoy,,,,0,0
-CP01CNPM-SBS01-00-STCENG000,Coastal Pioneer,Central Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
-CP01CNPM-SBS01-01-MOPAK0000,Coastal Pioneer,Central Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
-CP01CNPM-RII01,Coastal Pioneer,Central Profiler Mooring,Mooring Riser,,,,70,70
-CP01CNPM-RII01-02-ADCPTG010,Coastal Pioneer,Central Profiler Mooring,Mooring Riser,Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel150khz - inductive,70,70
-CP01CNPM-WFP01,Coastal Pioneer,Central Profiler Mooring,Wire-Following Profiler,,,,15,70
-CP01CNPM-WFP01-00-WFPENG000,Coastal Pioneer,Central Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,15,70
-CP01CNPM-WFP01-01-VEL3DK000,Coastal Pioneer,Central Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,15,70
-CP01CNPM-WFP01-02-DOFSTK000,Coastal Pioneer,Central Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,15,70
-CP01CNPM-WFP01-03-CTDPFK000,Coastal Pioneer,Central Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,15,70
-CP01CNPM-WFP01-04-FLORTK000,Coastal Pioneer,Central Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,15,70
-CP01CNPM-WFP01-05-PARADK000,Coastal Pioneer,Central Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,15,70
-CP01CNSM,Coastal Pioneer,Central Surface Mooring,,,,,0,133
-CP01CNSM-MFD35,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),,,,133,133
-CP01CNSM-MFD35-00-DCLENG000,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,133,133
-CP01CNSM-MFD35-01-ADCPTF000,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel 150khz,133,133
-CP01CNSM-MFD35-02-PRESFB000,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,Sea-Bird,SBE 26plus,133,133
-CP01CNSM-MFD35-04-VELPTA000,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 300m,133,133
-CP01CNSM-MFD35-05-PCO2WB000,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,133,133
-CP01CNSM-MFD35-06-PHSEND000,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,133,133
-CP01CNSM-MFD37,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),,,,133,133
-CP01CNSM-MFD37-00-DCLENG000,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,133,133
-CP01CNSM-MFD37-01-OPTAAD000,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Spectrophotometer,WET Labs,AC-S,133,133
-CP01CNSM-MFD37-03-CTDBPD000,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),CTD,Sea-Bird,SBE 16plusV2,133,133
-CP01CNSM-MFD37-04-DOSTAD000,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Dissolved Oxygen,Aanderaa,Optode 4831,133,133
-CP01CNSM-MFD37-07-ZPLSCC000,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Bio-acoustic Sonar (Coastal),ASL Environmental Sciences,AZFP,133,133
-CP01CNSM-RIC21,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,,,,7,7
-CP01CNSM-RIC21-00-CPMENG000,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,Platform Controller,WHOI,Communications and Power Manager,7,7
-CP01CNSM-MFC31,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),,,,133,133
-CP01CNSM-MFC31-00-CPMENG000,Coastal Pioneer,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Platform Controller,WHOI,Communications and Power Manager,133,133
-CP01CNSM-RID26,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,,,,7,7
-CP01CNSM-RID26-00-DCLENG000,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
-CP01CNSM-RID26-04-VELPTA000,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
-CP01CNSM-RID26-06-PHSEND000,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
-CP01CNSM-RID26-07-NUTNRB000,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
-CP01CNSM-RID26-08-SPKIRB000,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
-CP01CNSM-RID27,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,,,,7,7
-CP01CNSM-RID27-00-DCLENG000,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
-CP01CNSM-RID27-01-OPTAAD000,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,Spectrophotometer,WET Labs,AC-S,7,7
-CP01CNSM-RID27-02-FLORTD000,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,7,7
-CP01CNSM-RID27-03-CTDBPC000,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,CTD,Sea-Bird,SBE 16plusV2,7,7
-CP01CNSM-RID27-04-DOSTAD000,Coastal Pioneer,Central Surface Mooring,Near Surface Instrument Frame,Dissolved Oxygen,Aanderaa,Optode 4831,7,7
-CP01CNSM-SBC11,Coastal Pioneer,Central Surface Mooring,Surface Buoy,,,,0,0
-CP01CNSM-SBC11-00-CPMENG000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
-CP01CNSM-SBD11,Coastal Pioneer,Central Surface Mooring,Surface Buoy,,,,0,0
-CP01CNSM-SBD11-00-DCLENG000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
-CP01CNSM-SBD11-01-MOPAK0000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
-CP01CNSM-SBD11-02-HYDGN0000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
-CP01CNSM-SBD11-06-METBKA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
-CP01CNSM-SBD11-06-METBKA001,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
-CP01CNSM-SBD11-06-METBKA002,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
-CP01CNSM-SBD11-06-METBKA003,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
-CP01CNSM-SBD11-06-METBKA004,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
-CP01CNSM-SBD11-06-METBKA005,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
-CP01CNSM-SBD11-06-METBKA006,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
-CP01CNSM-SBD11-06-METBKA007,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
-CP01CNSM-SBD12,Coastal Pioneer,Central Surface Mooring,Surface Buoy,,,,0,0
-CP01CNSM-SBD12-00-DCLENG000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
-CP01CNSM-SBD12-03-HYDGN0000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
-CP01CNSM-SBD12-04-PCO2AA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
-CP01CNSM-SBD12-05-WAVSSA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Surface Wave Spectra,Axys Technologies,TRIAXYS,0,0
-CP01CNSM-SBD12-06-METBKA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
-CP01CNSM-SBD12-06-METBKA001,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
-CP01CNSM-SBD12-06-METBKA002,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
-CP01CNSM-SBD12-06-METBKA003,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
-CP01CNSM-SBD12-06-METBKA004,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
-CP01CNSM-SBD12-06-METBKA005,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
-CP01CNSM-SBD12-06-METBKA006,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
-CP01CNSM-SBD12-06-METBKA007,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
-CP01CNSM-SBD12-08-FDCHPA000,Coastal Pioneer,Central Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,-5,-5
-CP01CNSP,Coastal Pioneer,Central Surface Piercing Profiler Mooring,,,,,0,100
-CP01CNSP-SP001,Coastal Pioneer,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,,,,0,100
-CP01CNSP-SP001-00-SPPENG000,Coastal Pioneer,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Profiler Controller,WET Labs,AMP,0,100
-CP01CNSP-SP001-02-OPTAAJ000,Coastal Pioneer,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Spectrophotometer,WET Labs,AC-S,0,100
-CP01CNSP-SP001-03-NUTNRJ000,Coastal Pioneer,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Nitrate,Satlantic,SUNA V2,0,100
-CP01CNSP-SP001-05-VELPTJ000,Coastal Pioneer,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Single Point Velocity Meter,Nortek,Aquadopp HR,0,100
-CP01CNSP-SP001-06-DOSTAJ000,Coastal Pioneer,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Dissolved Oxygen,Aanderaa,Optode 4831,0,100
-CP01CNSP-SP001-07-SPKIRJ000,Coastal Pioneer,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Spectral Irradiance,Satlantic,OCR507 ICSW,0,100
-CP01CNSP-SP001-08-CTDPFJ000,Coastal Pioneer,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,CTD,Sea-Bird,FastCAT 49 CTD,0,100
-CP01CNSP-SP001-09-FLORTJ000,Coastal Pioneer,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,0,100
-CP01CNSP-SP001-10-PARADJ000,Coastal Pioneer,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Photosynthetically Available Radiation,WET Labs,ECO PAR,0,100
-CP02PMCI,Coastal Pioneer,Central Inshore Profiler Mooring,,,,,0,127
-CP02PMCI-RII01,Coastal Pioneer,Central Inshore Profiler Mooring,Mooring Riser,,,,104,104
-CP02PMCI-RII01-02-ADCPTG010,Coastal Pioneer,Central Inshore Profiler Mooring,Mooring Riser,Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel150khz - inductive,104,104
-CP02PMCI-SBS01,Coastal Pioneer,Central Inshore Profiler Mooring,Surface Buoy,,,,0,0
-CP02PMCI-SBS01-00-STCENG000,Coastal Pioneer,Central Inshore Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
-CP02PMCI-SBS01-01-MOPAK0000,Coastal Pioneer,Central Inshore Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
-CP02PMCI-WFP01,Coastal Pioneer,Central Inshore Profiler Mooring,Wire-Following Profiler,,,,15,104
-CP02PMCI-WFP01-00-WFPENG000,Coastal Pioneer,Central Inshore Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,15,104
-CP02PMCI-WFP01-01-VEL3DK000,Coastal Pioneer,Central Inshore Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,15,104
-CP02PMCI-WFP01-02-DOFSTK000,Coastal Pioneer,Central Inshore Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,15,104
-CP02PMCI-WFP01-03-CTDPFK000,Coastal Pioneer,Central Inshore Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,15,104
-CP02PMCI-WFP01-04-FLORTK000,Coastal Pioneer,Central Inshore Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,15,104
-CP02PMCI-WFP01-05-PARADK000,Coastal Pioneer,Central Inshore Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,15,104
-CP02PMCO,Coastal Pioneer,Central Offshore Profiler Mooring,,,,,0,148
-CP02PMCO-RII01,Coastal Pioneer,Central Offshore Profiler Mooring,Mooring Riser,,,,125,125
-CP02PMCO-RII01-02-ADCPTG010,Coastal Pioneer,Central Offshore Profiler Mooring,Mooring Riser,Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel150khz - inductive,125,125
-CP02PMCO-SBS01,Coastal Pioneer,Central Offshore Profiler Mooring,Surface Buoy,,,,0,0
-CP02PMCO-SBS01-00-STCENG000,Coastal Pioneer,Central Offshore Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
-CP02PMCO-SBS01-01-MOPAK0000,Coastal Pioneer,Central Offshore Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
-CP02PMCO-WFP01,Coastal Pioneer,Central Offshore Profiler Mooring,Wire-Following Profiler,,,,15,125
-CP02PMCO-WFP01-00-WFPENG000,Coastal Pioneer,Central Offshore Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,15,125
-CP02PMCO-WFP01-01-VEL3DK000,Coastal Pioneer,Central Offshore Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,15,125
-CP02PMCO-WFP01-02-DOFSTK000,Coastal Pioneer,Central Offshore Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,15,125
-CP02PMCO-WFP01-03-CTDPFK000,Coastal Pioneer,Central Offshore Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,15,125
-CP02PMCO-WFP01-04-FLORTK000,Coastal Pioneer,Central Offshore Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,15,125
-CP02PMCO-WFP01-05-PARADK000,Coastal Pioneer,Central Offshore Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,15,125
-CP02PMUI,Coastal Pioneer,Upstream Inshore Profiler Mooring,,,,,0,95
-CP02PMUI-RII01,Coastal Pioneer,Upstream Inshore Profiler Mooring,Mooring Riser,,,,70,70
-CP02PMUI-RII01-02-ADCPTG010,Coastal Pioneer,Upstream Inshore Profiler Mooring,Mooring Riser,Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel150khz - inductive,70,70
-CP02PMUI-SBS01,Coastal Pioneer,Upstream Inshore Profiler Mooring,Surface Buoy,,,,0,0
-CP02PMUI-SBS01-00-STCENG000,Coastal Pioneer,Upstream Inshore Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
-CP02PMUI-SBS01-01-MOPAK0000,Coastal Pioneer,Upstream Inshore Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
-CP02PMUI-WFP01,Coastal Pioneer,Upstream Inshore Profiler Mooring,Wire-Following Profiler,,,,15,70
-CP02PMUI-WFP01-00-WFPENG000,Coastal Pioneer,Upstream Inshore Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,15,70
-CP02PMUI-WFP01-01-VEL3DK000,Coastal Pioneer,Upstream Inshore Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,15,70
-CP02PMUI-WFP01-02-DOFSTK000,Coastal Pioneer,Upstream Inshore Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,15,70
-CP02PMUI-WFP01-03-CTDPFK000,Coastal Pioneer,Upstream Inshore Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,15,70
-CP02PMUI-WFP01-04-FLORTK000,Coastal Pioneer,Upstream Inshore Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,15,70
-CP02PMUI-WFP01-05-PARADK000,Coastal Pioneer,Upstream Inshore Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,15,70
-CP02PMUO,Coastal Pioneer,Upstream Offshore Profiler Mooring,,,,,0,452
-CP02PMUO-RII01,Coastal Pioneer,Upstream Offshore Profiler Mooring,Mooring Riser,,,,425,425
-CP02PMUO-RII01-02-ADCPSL010,Coastal Pioneer,Upstream Offshore Profiler Mooring,Mooring Riser,Velocity Profiler (75 kHz),Teledyne RDI,WorkHorse LongRanger Sentinel 75khz - inductive,425,425
-CP02PMUO-SBS01,Coastal Pioneer,Upstream Offshore Profiler Mooring,Surface Buoy,,,,0,0
-CP02PMUO-SBS01-00-STCENG000,Coastal Pioneer,Upstream Offshore Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
-CP02PMUO-SBS01-01-MOPAK0000,Coastal Pioneer,Upstream Offshore Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
-CP02PMUO-WFP01,Coastal Pioneer,Upstream Offshore Profiler Mooring,Wire-Following Profiler,,,,20,425
-CP02PMUO-WFP01-00-WFPENG000,Coastal Pioneer,Upstream Offshore Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,20,425
-CP02PMUO-WFP01-01-VEL3DK000,Coastal Pioneer,Upstream Offshore Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,20,425
-CP02PMUO-WFP01-02-DOFSTK000,Coastal Pioneer,Upstream Offshore Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,20,425
-CP02PMUO-WFP01-03-CTDPFK000,Coastal Pioneer,Upstream Offshore Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,20,425
-CP02PMUO-WFP01-04-FLORTK000,Coastal Pioneer,Upstream Offshore Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,20,425
-CP02PMUO-WFP01-05-PARADK000,Coastal Pioneer,Upstream Offshore Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,20,425
-CP03ISPM,Coastal Pioneer,Inshore Profiler Mooring,,,,,0,70
-CP03ISPM-RII01,Coastal Pioneer,Inshore Profiler Mooring,Mooring Riser,,,,70,70
-CP03ISPM-RII01-02-ADCPTG010,Coastal Pioneer,Inshore Profiler Mooring,Mooring Riser,Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel150khz - inductive,70,70
-CP03ISPM-SBS01,Coastal Pioneer,Inshore Profiler Mooring,Surface Buoy,,,,0,0
-CP03ISPM-SBS01-00-STCENG000,Coastal Pioneer,Inshore Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
-CP03ISPM-SBS01-01-MOPAK0000,Coastal Pioneer,Inshore Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
-CP03ISPM-WFP01,Coastal Pioneer,Inshore Profiler Mooring,Wire-Following Profiler,,,,70,70
-CP03ISPM-WFP01-00-WFPENG000,Coastal Pioneer,Inshore Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,70,70
-CP03ISPM-WFP01-01-VEL3DK000,Coastal Pioneer,Inshore Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,70,70
-CP03ISPM-WFP01-02-DOFSTK000,Coastal Pioneer,Inshore Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,70,70
-CP03ISPM-WFP01-03-CTDPFK000,Coastal Pioneer,Inshore Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,70,70
-CP03ISPM-WFP01-04-FLORTK000,Coastal Pioneer,Inshore Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,70,70
-CP03ISPM-WFP01-05-PARADK000,Coastal Pioneer,Inshore Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,70,70
-CP03ISSM,Coastal Pioneer,Inshore Surface Mooring,,,,,0,92
-CP03ISSM-MFC31,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,91.5,91.5
-CP03ISSM-MFC31-00-CPMENG000,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Platform Controller,WHOI,Communications and Power Manager,91.5,91.5
-CP03ISSM-MFD35,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,91.5,91.5
-CP03ISSM-MFD35-00-DCLENG000,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,91.5,91.5
-CP03ISSM-MFD35-01-ADCPTF000,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel 150khz,91.5,91.5
-CP03ISSM-MFD35-02-PRESFB000,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,Sea-Bird,SBE 26plus,91.5,91.5
-CP03ISSM-MFD35-04-VELPTA000,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 300m,91.5,91.5
-CP03ISSM-MFD35-05-PCO2WB000,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,91.5,91.5
-CP03ISSM-MFD35-06-PHSEND000,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,91.5,91.5
-CP03ISSM-MFD37,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,91.5,91.5
-CP03ISSM-MFD37-00-DCLENG000,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,91.5,91.5
-CP03ISSM-MFD37-01-OPTAAD000,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Spectrophotometer,WET Labs,AC-S,91.5,91.5
-CP03ISSM-MFD37-03-CTDBPD000,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),CTD,Sea-Bird,SBE 16plusV2,91.5,91.5
-CP03ISSM-MFD37-04-DOSTAD000,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Dissolved Oxygen,Aanderaa,Optode 4831,91.5,91.5
-CP03ISSM-MFD37-07-ZPLSCC000,Coastal Pioneer,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Bio-acoustic Sonar (Coastal),ASL Environmental Sciences,AZFP,91.5,91.5
-CP03ISSM-RIC21,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,,,,7,7
-CP03ISSM-RIC21-00-CPMENG000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,Platform Controller,WHOI,Communications and Power Manager,7,7
-CP03ISSM-RID26,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,,,,7,7
-CP03ISSM-RID26-00-DCLENG000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
-CP03ISSM-RID26-04-VELPTA000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
-CP03ISSM-RID26-06-PHSEND000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
-CP03ISSM-RID26-07-NUTNRB000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
-CP03ISSM-RID26-08-SPKIRB000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
-CP03ISSM-RID27,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,,,,7,7
-CP03ISSM-RID27-00-DCLENG000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
-CP03ISSM-RID27-01-OPTAAD000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,Spectrophotometer,WET Labs,AC-S,7,7
-CP03ISSM-RID27-02-FLORTD000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,7,7
-CP03ISSM-RID27-03-CTDBPC000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,CTD,Sea-Bird,SBE 16plusV2,7,7
-CP03ISSM-RID27-04-DOSTAD000,Coastal Pioneer,Inshore Surface Mooring,Near Surface Instrument Frame,Dissolved Oxygen,Aanderaa,Optode 4831,7,7
-CP03ISSM-SBC11,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,,,,0,0
-CP03ISSM-SBC11-00-CPMENG000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
-CP03ISSM-SBD11,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,,,,0,0
-CP03ISSM-SBD11-00-DCLENG000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
-CP03ISSM-SBD11-01-MOPAK0000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
-CP03ISSM-SBD11-02-HYDGN0000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
-CP03ISSM-SBD11-06-METBKA000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
-CP03ISSM-SBD11-06-METBKA001,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
-CP03ISSM-SBD11-06-METBKA002,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
-CP03ISSM-SBD11-06-METBKA003,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
-CP03ISSM-SBD11-06-METBKA004,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
-CP03ISSM-SBD11-06-METBKA005,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
-CP03ISSM-SBD11-06-METBKA006,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
-CP03ISSM-SBD11-06-METBKA007,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
-CP03ISSM-SBD12,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,,,,0,0
-CP03ISSM-SBD12-00-DCLENG000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
-CP03ISSM-SBD12-03-HYDGN0000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
-CP03ISSM-SBD12-04-PCO2AA000,Coastal Pioneer,Inshore Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
-CP03ISSP,Coastal Pioneer,Inshore Surface Piercing Profiler Mooring,,,,,0,92
-CP03ISSP-SP001,Coastal Pioneer,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,,,,0,80
-CP03ISSP-SP001-00-SPPENG000,Coastal Pioneer,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Profiler Controller,WET Labs,AMP,80,80
-CP03ISSP-SP001-02-OPTAAJ000,Coastal Pioneer,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Spectrophotometer,WET Labs,AC-S,0,80
-CP03ISSP-SP001-03-NUTNRJ000,Coastal Pioneer,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Nitrate,Satlantic,SUNA V2,0,80
-CP03ISSP-SP001-05-VELPTJ000,Coastal Pioneer,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Single Point Velocity Meter,Nortek,Aquadopp HR,0,80
-CP03ISSP-SP001-06-DOSTAJ000,Coastal Pioneer,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Dissolved Oxygen,Aanderaa,Optode 4831,0,80
-CP03ISSP-SP001-07-SPKIRJ000,Coastal Pioneer,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Spectral Irradiance,Satlantic,OCR507 ICSW,0,80
-CP03ISSP-SP001-08-CTDPFJ000,Coastal Pioneer,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,CTD,Sea-Bird,FastCAT 49 CTD,0,80
-CP03ISSP-SP001-09-FLORTJ000,Coastal Pioneer,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,0,80
-CP03ISSP-SP001-10-PARADJ000,Coastal Pioneer,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Photosynthetically Available Radiation,WET Labs,ECO PAR,0,80
-CP04OSPM,Coastal Pioneer,Offshore Profiler Mooring,,,,,0,453
-CP04OSPM-RII01,Coastal Pioneer,Offshore Profiler Mooring,Mooring Riser,,,,425,425
-CP04OSPM-RII01-02-ADCPSL010,Coastal Pioneer,Offshore Profiler Mooring,Mooring Riser,Velocity Profiler (75 kHz),Teledyne RDI,WorkHorse LongRanger Sentinel 75khz - inductive,425,425
-CP04OSPM-SBS01,Coastal Pioneer,Offshore Profiler Mooring,Surface Buoy,,,,0,0
-CP04OSPM-SBS01-00-STCENG000,Coastal Pioneer,Offshore Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
-CP04OSPM-SBS11,Coastal Pioneer,Offshore Profiler Mooring,Surface Buoy,,,,0,0
-CP04OSPM-SBS11-02-MOPAK0000,Coastal Pioneer,Offshore Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
-CP04OSPM-WFP01,Coastal Pioneer,Offshore Profiler Mooring,Wire-Following Profiler,,,,15,427
-CP04OSPM-WFP01-00-WFPENG000,Coastal Pioneer,Offshore Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,15,427
-CP04OSPM-WFP01-01-VEL3DK000,Coastal Pioneer,Offshore Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,15,427
-CP04OSPM-WFP01-02-DOFSTK000,Coastal Pioneer,Offshore Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,15,427
-CP04OSPM-WFP01-03-CTDPFK000,Coastal Pioneer,Offshore Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,15,427
-CP04OSPM-WFP01-04-FLORTK000,Coastal Pioneer,Offshore Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,15,427
-CP04OSPM-WFP01-05-PARADK000,Coastal Pioneer,Offshore Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,15,427
-CP04OSSM,Coastal Pioneer,Offshore Surface Mooring,,,,,0,450
-CP04OSSM-MFC31,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,450,450
-CP04OSSM-MFC31-00-CPMENG000,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Platform Controller,WHOI,Communications and Power Manager,450,450
-CP04OSSM-MFD35,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,450,450
-CP04OSSM-MFD35-00-DCLENG000,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,450,450
-CP04OSSM-MFD35-01-ADCPSJ000,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (75 kHz),Teledyne RDI,WorkHorse LongRanger Sentinel 75khz,450,450
-CP04OSSM-MFD35-02-PRESFC000,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,Sea-Bird,SBE 26plus,450,450
-CP04OSSM-MFD35-04-VELPTB000,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 3000m,450,450
-CP04OSSM-MFD35-05-PCO2WB000,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,450,450
-CP04OSSM-MFD35-06-PHSEND000,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,450,450
-CP04OSSM-MFD37,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,450,450
-CP04OSSM-MFD37-00-DCLENG000,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,450,450
-CP04OSSM-MFD37-01-OPTAAD000,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Spectrophotometer,WET Labs,AC-S,450,450
-CP04OSSM-MFD37-03-CTDBPE000,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),CTD,Sea-Bird,SBE 16plusV2,450,450
-CP04OSSM-MFD37-04-DOSTAD000,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Dissolved Oxygen,Aanderaa,Optode 4831,450,450
-CP04OSSM-MFD37-07-ZPLSCC000,Coastal Pioneer,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Bio-acoustic Sonar (Coastal),ASL Environmental Sciences,AZFP,450,450
-CP04OSSM-RIC21,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,,,,7,7
-CP04OSSM-RIC21-00-CPMENG000,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,Platform Controller,WHOI,Communications and Power Manager,7,7
-CP04OSSM-RID26,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,,,,7,7
-CP04OSSM-RID26-00-DCLENG000,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
-CP04OSSM-RID26-04-VELPTA000,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
-CP04OSSM-RID26-06-PHSEND000,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
-CP04OSSM-RID26-07-NUTNRB000,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
-CP04OSSM-RID26-08-SPKIRB000,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
-CP04OSSM-RID27,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,,,,7,7
-CP04OSSM-RID27-00-DCLENG000,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
-CP04OSSM-RID27-01-OPTAAD000,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,Spectrophotometer,WET Labs,AC-S,7,7
-CP04OSSM-RID27-02-FLORTD000,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,7,7
-CP04OSSM-RID27-03-CTDBPC000,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,CTD,Sea-Bird,SBE 16plusV2,7,7
-CP04OSSM-RID27-04-DOSTAD000,Coastal Pioneer,Offshore Surface Mooring,Near Surface Instrument Frame,Dissolved Oxygen,Aanderaa,Optode 4831,7,7
-CP04OSSM-SBC11,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,,,,0,0
-CP04OSSM-SBC11-00-CPMENG000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
-CP04OSSM-SBD11,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,,,,0,0
-CP04OSSM-SBD11-00-DCLENG000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
-CP04OSSM-SBD11-01-MOPAK0000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
-CP04OSSM-SBD11-02-HYDGN0000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
-CP04OSSM-SBD11-06-METBKA000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
-CP04OSSM-SBD11-06-METBKA001,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
-CP04OSSM-SBD11-06-METBKA002,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
-CP04OSSM-SBD11-06-METBKA003,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
-CP04OSSM-SBD11-06-METBKA004,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
-CP04OSSM-SBD11-06-METBKA005,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
-CP04OSSM-SBD11-06-METBKA006,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
-CP04OSSM-SBD11-06-METBKA007,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
-CP04OSSM-SBD11-08-FDCHPB000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS with R3-50 anemometer,0,0
-CP04OSSM-SBD12,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,,,,0,0
-CP04OSSM-SBD12-00-DCLENG000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
-CP04OSSM-SBD12-03-HYDGN0000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
-CP04OSSM-SBD12-04-PCO2AA000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
-CP04OSSM-SBD12-08-FDCHPA000,Coastal Pioneer,Offshore Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,0,0
-CP05MOAS,Coastal Pioneer,Mobile Assets,,,,,0,1000
-CP05MOAS-A6263,Coastal Pioneer,Mobile Assets,Coastal AUV 6263,,,,0,600
-CP05MOAS-A6263-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal AUV 6263,Mobile Asset Controller,Hydroid,AUV,0,600
-CP05MOAS-A6263-01-FLORTN000,Coastal Pioneer,Mobile Assets,Coastal AUV 6263,3-Wavelength Fluorometer,WET Labs,BBFL2HYD,0,600
-CP05MOAS-A6263-02-DOSTAN000,Coastal Pioneer,Mobile Assets,Coastal AUV 6263,Dissolved Oxygen,Aanderaa,Optode 4330,0,600
-CP05MOAS-A6263-03-CTDAVN000,Coastal Pioneer,Mobile Assets,Coastal AUV 6263,CTD,Sea-Bird,SBE AUV Payload CTD,0,600
-CP05MOAS-A6263-04-NUTNRN000,Coastal Pioneer,Mobile Assets,Coastal AUV 6263,Nitrate,Satlantic,SUNA,0,600
-CP05MOAS-A6263-05-ADCPAN000,Coastal Pioneer,Mobile Assets,Coastal AUV 6263,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,600
-CP05MOAS-A6263-06-PARADN000,Coastal Pioneer,Mobile Assets,Coastal AUV 6263,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,600
-CP05MOAS-A6264,Coastal Pioneer,Mobile Assets,Coastal AUV 6264,,,,0,600
-CP05MOAS-A6264-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal AUV 6264,Mobile Asset Controller,Hydroid,AUV,0,600
-CP05MOAS-A6264-01-FLORTN000,Coastal Pioneer,Mobile Assets,Coastal AUV 6264,3-Wavelength Fluorometer,WET Labs,BBFL2HYD,0,600
-CP05MOAS-A6264-02-DOSTAN000,Coastal Pioneer,Mobile Assets,Coastal AUV 6264,Dissolved Oxygen,Aanderaa,Optode 4330,0,600
-CP05MOAS-A6264-03-CTDAVN000,Coastal Pioneer,Mobile Assets,Coastal AUV 6264,CTD,Sea-Bird,SBE AUV Payload CTD,0,600
-CP05MOAS-A6264-04-NUTNRN000,Coastal Pioneer,Mobile Assets,Coastal AUV 6264,Nitrate,Satlantic,SUNA,0,600
-CP05MOAS-A6264-05-ADCPAN000,Coastal Pioneer,Mobile Assets,Coastal AUV 6264,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,600
-CP05MOAS-A6264-06-PARADN000,Coastal Pioneer,Mobile Assets,Coastal AUV 6264,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,600
-CP05MOAS-GL335,Coastal Pioneer,Mobile Assets,Coastal Glider 335,,,,0,200
-CP05MOAS-GL335-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 335,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
-CP05MOAS-GL335-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 335,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,200
-CP05MOAS-GL335-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 335,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
-CP05MOAS-GL335-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 335,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
-CP05MOAS-GL335-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 335,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
-CP05MOAS-GL335-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 335,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
-CP05MOAS-GL336,Coastal Pioneer,Mobile Assets,Coastal Glider 336,,,,0,1000
-CP05MOAS-GL336-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 336,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
-CP05MOAS-GL336-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 336,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
-CP05MOAS-GL336-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 336,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
-CP05MOAS-GL336-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 336,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-CP05MOAS-GL336-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 336,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
-CP05MOAS-GL336-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 336,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
-CP05MOAS-GL339,Coastal Pioneer,Mobile Assets,Coastal Glider 339,,,,0,200
-CP05MOAS-GL339-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 339,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
-CP05MOAS-GL339-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 339,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,200
-CP05MOAS-GL339-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 339,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
-CP05MOAS-GL339-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 339,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
-CP05MOAS-GL339-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 339,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
-CP05MOAS-GL339-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 339,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
-CP05MOAS-GL340,Coastal Pioneer,Mobile Assets,Coastal Glider 340,,,,0,200
-CP05MOAS-GL340-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 340,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
-CP05MOAS-GL340-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 340,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,200
-CP05MOAS-GL340-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 340,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
-CP05MOAS-GL340-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 340,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
-CP05MOAS-GL340-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 340,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
-CP05MOAS-GL340-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 340,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
-CP05MOAS-GL374,Coastal Pioneer,Mobile Assets,Coastal Glider 374,,,,0,200
-CP05MOAS-GL374-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 374,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
-CP05MOAS-GL374-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 374,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,200
-CP05MOAS-GL374-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 374,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
-CP05MOAS-GL374-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 374,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
-CP05MOAS-GL374-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 374,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
-CP05MOAS-GL374-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 374,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
-CP05MOAS-GL375,Coastal Pioneer,Mobile Assets,Coastal Glider 375,,,,0,1000
-CP05MOAS-GL375-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 375,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000D
-CP05MOAS-GL375-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 375,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
-CP05MOAS-GL375-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 375,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
-CP05MOAS-GL375-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 375,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-CP05MOAS-GL375-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 375,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
-CP05MOAS-GL375-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 375,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
-CP05MOAS-GL376,Coastal Pioneer,Mobile Assets,Coastal Glider 376,,,,0,1000
-CP05MOAS-GL376-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 376,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
-CP05MOAS-GL376-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 376,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
-CP05MOAS-GL376-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 376,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-CP05MOAS-GL376-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 376,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
-CP05MOAS-GL376-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 376,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
-CP05MOAS-GL376-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 376,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,,
-CP05MOAS-GL379,Coastal Pioneer,Mobile Assets,Coastal Glider 379,,,,0,1000
-CP05MOAS-GL379-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 379,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
-CP05MOAS-GL379-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 379,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
-CP05MOAS-GL379-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 379,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
-CP05MOAS-GL379-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 379,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-CP05MOAS-GL379-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 379,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
-CP05MOAS-GL379-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 379,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
-CP05MOAS-GL380,Coastal Pioneer,Mobile Assets,Coastal Glider 380,,,,0,1000
-CP05MOAS-GL380-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 380,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
-CP05MOAS-GL380-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 380,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
-CP05MOAS-GL380-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 380,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
-CP05MOAS-GL380-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 380,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-CP05MOAS-GL380-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 380,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
-CP05MOAS-GL380-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 380,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
-CP05MOAS-GL387,Coastal Pioneer,Mobile Assets,Coastal Glider 387,,,,0,1000
-CP05MOAS-GL387-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 387,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
-CP05MOAS-GL387-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 387,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
-CP05MOAS-GL387-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 387,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
-CP05MOAS-GL387-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 387,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-CP05MOAS-GL387-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 387,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
-CP05MOAS-GL387-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 387,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
-CP05MOAS-GL388,Coastal Pioneer,Mobile Assets,Coastal Glider 388,,,,0,1000
-CP05MOAS-GL388-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 388,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
-CP05MOAS-GL388-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 388,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
-CP05MOAS-GL388-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 388,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
-CP05MOAS-GL388-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 388,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-CP05MOAS-GL388-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 388,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
-CP05MOAS-GL388-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 388,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
-CP05MOAS-GL389,Coastal Pioneer,Mobile Assets,Coastal Glider 389,,,,0,1000
-CP05MOAS-GL389-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 389,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
-CP05MOAS-GL389-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 389,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
-CP05MOAS-GL389-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 389,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
-CP05MOAS-GL389-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 389,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-CP05MOAS-GL389-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 389,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
-CP05MOAS-GL389-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 389,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
-CP05MOAS-GL514,Coastal Pioneer,Mobile Assets,Coastal Glider 514,,,,0,1000
-CP05MOAS-GL514-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 514,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
-CP05MOAS-GL514-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 514,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
-CP05MOAS-GL514-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 514,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
-CP05MOAS-GL514-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 514,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-CP05MOAS-GL514-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 514,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
-CP05MOAS-GL514-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 514,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
-CP05MOAS-GL559,Coastal Pioneer,Mobile Assets,Coastal Glider 559,,,,0,1000
-CP05MOAS-GL559-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 559,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
-CP05MOAS-GL559-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 559,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
-CP05MOAS-GL559-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 559,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
-CP05MOAS-GL559-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 559,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-CP05MOAS-GL559-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 559,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
-CP05MOAS-GL559-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 559,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
-CP05MOAS-G0913,Coastal Pioneer,Mobile Assets,Coastal Glider 913,,,,0,1000
-CP05MOAS-G0913-00-ENG000000,Coastal Pioneer,Mobile Assets,Coastal Glider 913,Mobile Asset Controller,Teledyne Webb,G3 Slocum Gliders,0,1000
-CP05MOAS-G0913-01-ADCPAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 913,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
-CP05MOAS-G0913-02-FLORTM000,Coastal Pioneer,Mobile Assets,Coastal Glider 913,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLC,0,1000
-CP05MOAS-G0913-03-CTDGVM000,Coastal Pioneer,Mobile Assets,Coastal Glider 913,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
-CP05MOAS-G0913-04-DOSTAM000,Coastal Pioneer,Mobile Assets,Coastal Glider 913,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
-CP05MOAS-G0913-05-PARADM000,Coastal Pioneer,Mobile Assets,Coastal Glider 913,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
-CP05MOAS-PG564,Coastal Pioneer,Mobile Assets,Profiling Glider 564,,,,0,200
-CP05MOAS-PG564-00-ENG000000,Coastal Pioneer,Mobile Assets,Profiling Glider 564,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
-CP05MOAS-PG564-01-CTDGVM000,Coastal Pioneer,Mobile Assets,Profiling Glider 564,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
-CP05MOAS-PG564-02-DOSTAM000,Coastal Pioneer,Mobile Assets,Profiling Glider 564,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
-CP05MOAS-PG564-03-FLORTM000,Coastal Pioneer,Mobile Assets,Profiling Glider 564,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
-CP05MOAS-PG564-04-FLORTO000,Coastal Pioneer,Mobile Assets,Profiling Glider 564,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,200
-CP05MOAS-PG564-05-NUTNRM000,Coastal Pioneer,Mobile Assets,Profiling Glider 564,Nitrate,Satlantic,SUNA V2,0,200
-CP05MOAS-PG564-06-PARADM000,Coastal Pioneer,Mobile Assets,Profiling Glider 564,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
-CP05MOAS-PG583,Coastal Pioneer,Mobile Assets,Profiling Glider 583,,,,0,200
-CP05MOAS-PG583-00-ENG000000,Coastal Pioneer,Mobile Assets,Profiling Glider 583,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
-CP05MOAS-PG583-01-CTDGVM000,Coastal Pioneer,Mobile Assets,Profiling Glider 583,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
-CP05MOAS-PG583-02-DOSTAM000,Coastal Pioneer,Mobile Assets,Profiling Glider 583,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
-CP05MOAS-PG583-03-FLORTM000,Coastal Pioneer,Mobile Assets,Profiling Glider 583,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
-CP05MOAS-PG583-04-FLORTO000,Coastal Pioneer,Mobile Assets,Profiling Glider 583,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,200
-CP05MOAS-PG583-05-NUTNRM000,Coastal Pioneer,Mobile Assets,Profiling Glider 583,Nitrate,Satlantic,SUNA V2,0,200
-CP05MOAS-PG583-06-PARADM000,Coastal Pioneer,Mobile Assets,Profiling Glider 583,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
+CP01CNPM,Coastal Pioneer NES,Central Profiler Mooring,,,,,0,70
+CP01CNPM-SBS01,Coastal Pioneer NES,Central Profiler Mooring,Surface Buoy,,,,0,0
+CP01CNPM-SBS01-00-STCENG000,Coastal Pioneer NES,Central Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP01CNPM-SBS01-01-MOPAK0000,Coastal Pioneer NES,Central Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP01CNPM-RII01,Coastal Pioneer NES,Central Profiler Mooring,Mooring Riser,,,,70,70
+CP01CNPM-RII01-02-ADCPTG010,Coastal Pioneer NES,Central Profiler Mooring,Mooring Riser,Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel150khz - inductive,70,70
+CP01CNPM-WFP01,Coastal Pioneer NES,Central Profiler Mooring,Wire-Following Profiler,,,,15,70
+CP01CNPM-WFP01-00-WFPENG000,Coastal Pioneer NES,Central Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,15,70
+CP01CNPM-WFP01-01-VEL3DK000,Coastal Pioneer NES,Central Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,15,70
+CP01CNPM-WFP01-02-DOFSTK000,Coastal Pioneer NES,Central Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,15,70
+CP01CNPM-WFP01-03-CTDPFK000,Coastal Pioneer NES,Central Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,15,70
+CP01CNPM-WFP01-04-FLORTK000,Coastal Pioneer NES,Central Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,15,70
+CP01CNPM-WFP01-05-PARADK000,Coastal Pioneer NES,Central Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,15,70
+CP01CNSM,Coastal Pioneer NES,Central Surface Mooring,,,,,0,133
+CP01CNSM-MFD35,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),,,,133,133
+CP01CNSM-MFD35-00-DCLENG000,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,133,133
+CP01CNSM-MFD35-01-ADCPTF000,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel 150khz,133,133
+CP01CNSM-MFD35-02-PRESFB000,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,Sea-Bird,SBE 26plus,133,133
+CP01CNSM-MFD35-04-VELPTA000,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 300m,133,133
+CP01CNSM-MFD35-05-PCO2WB000,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,133,133
+CP01CNSM-MFD35-06-PHSEND000,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,133,133
+CP01CNSM-MFD37,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),,,,133,133
+CP01CNSM-MFD37-00-DCLENG000,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,133,133
+CP01CNSM-MFD37-01-OPTAAD000,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Spectrophotometer,WET Labs,AC-S,133,133
+CP01CNSM-MFD37-03-CTDBPD000,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),CTD,Sea-Bird,SBE 16plusV2,133,133
+CP01CNSM-MFD37-04-DOSTAD000,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Dissolved Oxygen,Aanderaa,Optode 4831,133,133
+CP01CNSM-MFD37-07-ZPLSCC000,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Bio-acoustic Sonar (Coastal),ASL Environmental Sciences,AZFP,133,133
+CP01CNSM-RIC21,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP01CNSM-RIC21-00-CPMENG000,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,Platform Controller,WHOI,Communications and Power Manager,7,7
+CP01CNSM-MFC31,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),,,,133,133
+CP01CNSM-MFC31-00-CPMENG000,Coastal Pioneer NES,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Platform Controller,WHOI,Communications and Power Manager,133,133
+CP01CNSM-RID26,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP01CNSM-RID26-00-DCLENG000,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
+CP01CNSM-RID26-04-VELPTA000,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
+CP01CNSM-RID26-06-PHSEND000,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
+CP01CNSM-RID26-07-NUTNRB000,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
+CP01CNSM-RID26-08-SPKIRB000,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
+CP01CNSM-RID27,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP01CNSM-RID27-00-DCLENG000,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
+CP01CNSM-RID27-01-OPTAAD000,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,Spectrophotometer,WET Labs,AC-S,7,7
+CP01CNSM-RID27-02-FLORTD000,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,7,7
+CP01CNSM-RID27-03-CTDBPC000,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,CTD,Sea-Bird,SBE 16plusV2,7,7
+CP01CNSM-RID27-04-DOSTAD000,Coastal Pioneer NES,Central Surface Mooring,Near Surface Instrument Frame,Dissolved Oxygen,Aanderaa,Optode 4831,7,7
+CP01CNSM-SBC11,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,,,,0,0
+CP01CNSM-SBC11-00-CPMENG000,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
+CP01CNSM-SBD11,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,,,,0,0
+CP01CNSM-SBD11-00-DCLENG000,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
+CP01CNSM-SBD11-01-MOPAK0000,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP01CNSM-SBD11-02-HYDGN0000,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
+CP01CNSM-SBD11-06-METBKA000,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+CP01CNSM-SBD11-06-METBKA001,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP01CNSM-SBD11-06-METBKA002,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP01CNSM-SBD11-06-METBKA003,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP01CNSM-SBD11-06-METBKA004,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP01CNSM-SBD11-06-METBKA005,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP01CNSM-SBD11-06-METBKA006,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP01CNSM-SBD11-06-METBKA007,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
+CP01CNSM-SBD12,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,,,,0,0
+CP01CNSM-SBD12-00-DCLENG000,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
+CP01CNSM-SBD12-03-HYDGN0000,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
+CP01CNSM-SBD12-04-PCO2AA000,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
+CP01CNSM-SBD12-05-WAVSSA000,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Surface Wave Spectra,Axys Technologies,TRIAXYS,0,0
+CP01CNSM-SBD12-06-METBKA000,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+CP01CNSM-SBD12-06-METBKA001,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP01CNSM-SBD12-06-METBKA002,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP01CNSM-SBD12-06-METBKA003,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP01CNSM-SBD12-06-METBKA004,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP01CNSM-SBD12-06-METBKA005,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP01CNSM-SBD12-06-METBKA006,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP01CNSM-SBD12-06-METBKA007,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
+CP01CNSM-SBD12-08-FDCHPA000,Coastal Pioneer NES,Central Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,-5,-5
+CP01CNSP,Coastal Pioneer NES,Central Surface Piercing Profiler Mooring,,,,,0,100
+CP01CNSP-SP001,Coastal Pioneer NES,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,,,,0,100
+CP01CNSP-SP001-00-SPPENG000,Coastal Pioneer NES,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Profiler Controller,WET Labs,AMP,0,100
+CP01CNSP-SP001-02-OPTAAJ000,Coastal Pioneer NES,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Spectrophotometer,WET Labs,AC-S,0,100
+CP01CNSP-SP001-03-NUTNRJ000,Coastal Pioneer NES,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Nitrate,Satlantic,SUNA V2,0,100
+CP01CNSP-SP001-05-VELPTJ000,Coastal Pioneer NES,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Single Point Velocity Meter,Nortek,Aquadopp HR,0,100
+CP01CNSP-SP001-06-DOSTAJ000,Coastal Pioneer NES,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Dissolved Oxygen,Aanderaa,Optode 4831,0,100
+CP01CNSP-SP001-07-SPKIRJ000,Coastal Pioneer NES,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Spectral Irradiance,Satlantic,OCR507 ICSW,0,100
+CP01CNSP-SP001-08-CTDPFJ000,Coastal Pioneer NES,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,CTD,Sea-Bird,FastCAT 49 CTD,0,100
+CP01CNSP-SP001-09-FLORTJ000,Coastal Pioneer NES,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,0,100
+CP01CNSP-SP001-10-PARADJ000,Coastal Pioneer NES,Central Surface Piercing Profiler Mooring,Surface Piercing Profiler,Photosynthetically Available Radiation,WET Labs,ECO PAR,0,100
+CP02PMCI,Coastal Pioneer NES,Central Inshore Profiler Mooring,,,,,0,127
+CP02PMCI-RII01,Coastal Pioneer NES,Central Inshore Profiler Mooring,Mooring Riser,,,,104,104
+CP02PMCI-RII01-02-ADCPTG010,Coastal Pioneer NES,Central Inshore Profiler Mooring,Mooring Riser,Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel150khz - inductive,104,104
+CP02PMCI-SBS01,Coastal Pioneer NES,Central Inshore Profiler Mooring,Surface Buoy,,,,0,0
+CP02PMCI-SBS01-00-STCENG000,Coastal Pioneer NES,Central Inshore Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP02PMCI-SBS01-01-MOPAK0000,Coastal Pioneer NES,Central Inshore Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP02PMCI-WFP01,Coastal Pioneer NES,Central Inshore Profiler Mooring,Wire-Following Profiler,,,,15,104
+CP02PMCI-WFP01-00-WFPENG000,Coastal Pioneer NES,Central Inshore Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,15,104
+CP02PMCI-WFP01-01-VEL3DK000,Coastal Pioneer NES,Central Inshore Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,15,104
+CP02PMCI-WFP01-02-DOFSTK000,Coastal Pioneer NES,Central Inshore Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,15,104
+CP02PMCI-WFP01-03-CTDPFK000,Coastal Pioneer NES,Central Inshore Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,15,104
+CP02PMCI-WFP01-04-FLORTK000,Coastal Pioneer NES,Central Inshore Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,15,104
+CP02PMCI-WFP01-05-PARADK000,Coastal Pioneer NES,Central Inshore Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,15,104
+CP02PMCO,Coastal Pioneer NES,Central Offshore Profiler Mooring,,,,,0,148
+CP02PMCO-RII01,Coastal Pioneer NES,Central Offshore Profiler Mooring,Mooring Riser,,,,125,125
+CP02PMCO-RII01-02-ADCPTG010,Coastal Pioneer NES,Central Offshore Profiler Mooring,Mooring Riser,Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel150khz - inductive,125,125
+CP02PMCO-SBS01,Coastal Pioneer NES,Central Offshore Profiler Mooring,Surface Buoy,,,,0,0
+CP02PMCO-SBS01-00-STCENG000,Coastal Pioneer NES,Central Offshore Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP02PMCO-SBS01-01-MOPAK0000,Coastal Pioneer NES,Central Offshore Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP02PMCO-WFP01,Coastal Pioneer NES,Central Offshore Profiler Mooring,Wire-Following Profiler,,,,15,125
+CP02PMCO-WFP01-00-WFPENG000,Coastal Pioneer NES,Central Offshore Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,15,125
+CP02PMCO-WFP01-01-VEL3DK000,Coastal Pioneer NES,Central Offshore Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,15,125
+CP02PMCO-WFP01-02-DOFSTK000,Coastal Pioneer NES,Central Offshore Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,15,125
+CP02PMCO-WFP01-03-CTDPFK000,Coastal Pioneer NES,Central Offshore Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,15,125
+CP02PMCO-WFP01-04-FLORTK000,Coastal Pioneer NES,Central Offshore Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,15,125
+CP02PMCO-WFP01-05-PARADK000,Coastal Pioneer NES,Central Offshore Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,15,125
+CP02PMUI,Coastal Pioneer NES,Upstream Inshore Profiler Mooring,,,,,0,95
+CP02PMUI-RII01,Coastal Pioneer NES,Upstream Inshore Profiler Mooring,Mooring Riser,,,,70,70
+CP02PMUI-RII01-02-ADCPTG010,Coastal Pioneer NES,Upstream Inshore Profiler Mooring,Mooring Riser,Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel150khz - inductive,70,70
+CP02PMUI-SBS01,Coastal Pioneer NES,Upstream Inshore Profiler Mooring,Surface Buoy,,,,0,0
+CP02PMUI-SBS01-00-STCENG000,Coastal Pioneer NES,Upstream Inshore Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP02PMUI-SBS01-01-MOPAK0000,Coastal Pioneer NES,Upstream Inshore Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP02PMUI-WFP01,Coastal Pioneer NES,Upstream Inshore Profiler Mooring,Wire-Following Profiler,,,,15,70
+CP02PMUI-WFP01-00-WFPENG000,Coastal Pioneer NES,Upstream Inshore Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,15,70
+CP02PMUI-WFP01-01-VEL3DK000,Coastal Pioneer NES,Upstream Inshore Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,15,70
+CP02PMUI-WFP01-02-DOFSTK000,Coastal Pioneer NES,Upstream Inshore Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,15,70
+CP02PMUI-WFP01-03-CTDPFK000,Coastal Pioneer NES,Upstream Inshore Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,15,70
+CP02PMUI-WFP01-04-FLORTK000,Coastal Pioneer NES,Upstream Inshore Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,15,70
+CP02PMUI-WFP01-05-PARADK000,Coastal Pioneer NES,Upstream Inshore Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,15,70
+CP02PMUO,Coastal Pioneer NES,Upstream Offshore Profiler Mooring,,,,,0,452
+CP02PMUO-RII01,Coastal Pioneer NES,Upstream Offshore Profiler Mooring,Mooring Riser,,,,425,425
+CP02PMUO-RII01-02-ADCPSL010,Coastal Pioneer NES,Upstream Offshore Profiler Mooring,Mooring Riser,Velocity Profiler (75 kHz),Teledyne RDI,WorkHorse LongRanger Sentinel 75khz - inductive,425,425
+CP02PMUO-SBS01,Coastal Pioneer NES,Upstream Offshore Profiler Mooring,Surface Buoy,,,,0,0
+CP02PMUO-SBS01-00-STCENG000,Coastal Pioneer NES,Upstream Offshore Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP02PMUO-SBS01-01-MOPAK0000,Coastal Pioneer NES,Upstream Offshore Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP02PMUO-WFP01,Coastal Pioneer NES,Upstream Offshore Profiler Mooring,Wire-Following Profiler,,,,20,425
+CP02PMUO-WFP01-00-WFPENG000,Coastal Pioneer NES,Upstream Offshore Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,20,425
+CP02PMUO-WFP01-01-VEL3DK000,Coastal Pioneer NES,Upstream Offshore Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,20,425
+CP02PMUO-WFP01-02-DOFSTK000,Coastal Pioneer NES,Upstream Offshore Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,20,425
+CP02PMUO-WFP01-03-CTDPFK000,Coastal Pioneer NES,Upstream Offshore Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,20,425
+CP02PMUO-WFP01-04-FLORTK000,Coastal Pioneer NES,Upstream Offshore Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,20,425
+CP02PMUO-WFP01-05-PARADK000,Coastal Pioneer NES,Upstream Offshore Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,20,425
+CP03ISPM,Coastal Pioneer NES,Inshore Profiler Mooring,,,,,0,70
+CP03ISPM-RII01,Coastal Pioneer NES,Inshore Profiler Mooring,Mooring Riser,,,,70,70
+CP03ISPM-RII01-02-ADCPTG010,Coastal Pioneer NES,Inshore Profiler Mooring,Mooring Riser,Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel150khz - inductive,70,70
+CP03ISPM-SBS01,Coastal Pioneer NES,Inshore Profiler Mooring,Surface Buoy,,,,0,0
+CP03ISPM-SBS01-00-STCENG000,Coastal Pioneer NES,Inshore Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP03ISPM-SBS01-01-MOPAK0000,Coastal Pioneer NES,Inshore Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP03ISPM-WFP01,Coastal Pioneer NES,Inshore Profiler Mooring,Wire-Following Profiler,,,,70,70
+CP03ISPM-WFP01-00-WFPENG000,Coastal Pioneer NES,Inshore Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,70,70
+CP03ISPM-WFP01-01-VEL3DK000,Coastal Pioneer NES,Inshore Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,70,70
+CP03ISPM-WFP01-02-DOFSTK000,Coastal Pioneer NES,Inshore Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,70,70
+CP03ISPM-WFP01-03-CTDPFK000,Coastal Pioneer NES,Inshore Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,70,70
+CP03ISPM-WFP01-04-FLORTK000,Coastal Pioneer NES,Inshore Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,70,70
+CP03ISPM-WFP01-05-PARADK000,Coastal Pioneer NES,Inshore Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,70,70
+CP03ISSM,Coastal Pioneer NES,Inshore Surface Mooring,,,,,0,92
+CP03ISSM-MFC31,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,91.5,91.5
+CP03ISSM-MFC31-00-CPMENG000,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Platform Controller,WHOI,Communications and Power Manager,91.5,91.5
+CP03ISSM-MFD35,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,91.5,91.5
+CP03ISSM-MFD35-00-DCLENG000,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,91.5,91.5
+CP03ISSM-MFD35-01-ADCPTF000,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel 150khz,91.5,91.5
+CP03ISSM-MFD35-02-PRESFB000,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,Sea-Bird,SBE 26plus,91.5,91.5
+CP03ISSM-MFD35-04-VELPTA000,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 300m,91.5,91.5
+CP03ISSM-MFD35-05-PCO2WB000,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,91.5,91.5
+CP03ISSM-MFD35-06-PHSEND000,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,91.5,91.5
+CP03ISSM-MFD37,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,91.5,91.5
+CP03ISSM-MFD37-00-DCLENG000,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,91.5,91.5
+CP03ISSM-MFD37-01-OPTAAD000,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Spectrophotometer,WET Labs,AC-S,91.5,91.5
+CP03ISSM-MFD37-03-CTDBPD000,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),CTD,Sea-Bird,SBE 16plusV2,91.5,91.5
+CP03ISSM-MFD37-04-DOSTAD000,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Dissolved Oxygen,Aanderaa,Optode 4831,91.5,91.5
+CP03ISSM-MFD37-07-ZPLSCC000,Coastal Pioneer NES,Inshore Surface Mooring,Seafloor Multi-Function Node (MFN),Bio-acoustic Sonar (Coastal),ASL Environmental Sciences,AZFP,91.5,91.5
+CP03ISSM-RIC21,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP03ISSM-RIC21-00-CPMENG000,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,Platform Controller,WHOI,Communications and Power Manager,7,7
+CP03ISSM-RID26,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP03ISSM-RID26-00-DCLENG000,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
+CP03ISSM-RID26-04-VELPTA000,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
+CP03ISSM-RID26-06-PHSEND000,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
+CP03ISSM-RID26-07-NUTNRB000,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
+CP03ISSM-RID26-08-SPKIRB000,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
+CP03ISSM-RID27,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP03ISSM-RID27-00-DCLENG000,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
+CP03ISSM-RID27-01-OPTAAD000,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,Spectrophotometer,WET Labs,AC-S,7,7
+CP03ISSM-RID27-02-FLORTD000,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,7,7
+CP03ISSM-RID27-03-CTDBPC000,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,CTD,Sea-Bird,SBE 16plusV2,7,7
+CP03ISSM-RID27-04-DOSTAD000,Coastal Pioneer NES,Inshore Surface Mooring,Near Surface Instrument Frame,Dissolved Oxygen,Aanderaa,Optode 4831,7,7
+CP03ISSM-SBC11,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,,,,0,0
+CP03ISSM-SBC11-00-CPMENG000,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
+CP03ISSM-SBD11,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,,,,0,0
+CP03ISSM-SBD11-00-DCLENG000,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
+CP03ISSM-SBD11-01-MOPAK0000,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP03ISSM-SBD11-02-HYDGN0000,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
+CP03ISSM-SBD11-06-METBKA000,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+CP03ISSM-SBD11-06-METBKA001,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP03ISSM-SBD11-06-METBKA002,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP03ISSM-SBD11-06-METBKA003,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP03ISSM-SBD11-06-METBKA004,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP03ISSM-SBD11-06-METBKA005,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP03ISSM-SBD11-06-METBKA006,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP03ISSM-SBD11-06-METBKA007,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
+CP03ISSM-SBD12,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,,,,0,0
+CP03ISSM-SBD12-00-DCLENG000,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
+CP03ISSM-SBD12-03-HYDGN0000,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
+CP03ISSM-SBD12-04-PCO2AA000,Coastal Pioneer NES,Inshore Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
+CP03ISSP,Coastal Pioneer NES,Inshore Surface Piercing Profiler Mooring,,,,,0,92
+CP03ISSP-SP001,Coastal Pioneer NES,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,,,,0,80
+CP03ISSP-SP001-00-SPPENG000,Coastal Pioneer NES,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Profiler Controller,WET Labs,AMP,80,80
+CP03ISSP-SP001-02-OPTAAJ000,Coastal Pioneer NES,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Spectrophotometer,WET Labs,AC-S,0,80
+CP03ISSP-SP001-03-NUTNRJ000,Coastal Pioneer NES,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Nitrate,Satlantic,SUNA V2,0,80
+CP03ISSP-SP001-05-VELPTJ000,Coastal Pioneer NES,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Single Point Velocity Meter,Nortek,Aquadopp HR,0,80
+CP03ISSP-SP001-06-DOSTAJ000,Coastal Pioneer NES,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Dissolved Oxygen,Aanderaa,Optode 4831,0,80
+CP03ISSP-SP001-07-SPKIRJ000,Coastal Pioneer NES,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Spectral Irradiance,Satlantic,OCR507 ICSW,0,80
+CP03ISSP-SP001-08-CTDPFJ000,Coastal Pioneer NES,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,CTD,Sea-Bird,FastCAT 49 CTD,0,80
+CP03ISSP-SP001-09-FLORTJ000,Coastal Pioneer NES,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,0,80
+CP03ISSP-SP001-10-PARADJ000,Coastal Pioneer NES,Inshore Surface Piercing Profiler Mooring,Surface Piercing Profiler,Photosynthetically Available Radiation,WET Labs,ECO PAR,0,80
+CP04OSPM,Coastal Pioneer NES,Offshore Profiler Mooring,,,,,0,453
+CP04OSPM-RII01,Coastal Pioneer NES,Offshore Profiler Mooring,Mooring Riser,,,,425,425
+CP04OSPM-RII01-02-ADCPSL010,Coastal Pioneer NES,Offshore Profiler Mooring,Mooring Riser,Velocity Profiler (75 kHz),Teledyne RDI,WorkHorse LongRanger Sentinel 75khz - inductive,425,425
+CP04OSPM-SBS01,Coastal Pioneer NES,Offshore Profiler Mooring,Surface Buoy,,,,0,0
+CP04OSPM-SBS01-00-STCENG000,Coastal Pioneer NES,Offshore Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP04OSPM-SBS11,Coastal Pioneer NES,Offshore Profiler Mooring,Surface Buoy,,,,0,0
+CP04OSPM-SBS11-02-MOPAK0000,Coastal Pioneer NES,Offshore Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP04OSPM-WFP01,Coastal Pioneer NES,Offshore Profiler Mooring,Wire-Following Profiler,,,,15,427
+CP04OSPM-WFP01-00-WFPENG000,Coastal Pioneer NES,Offshore Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,15,427
+CP04OSPM-WFP01-01-VEL3DK000,Coastal Pioneer NES,Offshore Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,15,427
+CP04OSPM-WFP01-02-DOFSTK000,Coastal Pioneer NES,Offshore Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,15,427
+CP04OSPM-WFP01-03-CTDPFK000,Coastal Pioneer NES,Offshore Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,15,427
+CP04OSPM-WFP01-04-FLORTK000,Coastal Pioneer NES,Offshore Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,15,427
+CP04OSPM-WFP01-05-PARADK000,Coastal Pioneer NES,Offshore Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,15,427
+CP04OSSM,Coastal Pioneer NES,Offshore Surface Mooring,,,,,0,450
+CP04OSSM-MFC31,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,450,450
+CP04OSSM-MFC31-00-CPMENG000,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Platform Controller,WHOI,Communications and Power Manager,450,450
+CP04OSSM-MFD35,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,450,450
+CP04OSSM-MFD35-00-DCLENG000,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,450,450
+CP04OSSM-MFD35-01-ADCPSJ000,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (75 kHz),Teledyne RDI,WorkHorse LongRanger Sentinel 75khz,450,450
+CP04OSSM-MFD35-02-PRESFC000,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,Sea-Bird,SBE 26plus,450,450
+CP04OSSM-MFD35-04-VELPTB000,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 3000m,450,450
+CP04OSSM-MFD35-05-PCO2WB000,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,450,450
+CP04OSSM-MFD35-06-PHSEND000,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,450,450
+CP04OSSM-MFD37,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),,,,450,450
+CP04OSSM-MFD37-00-DCLENG000,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,450,450
+CP04OSSM-MFD37-01-OPTAAD000,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Spectrophotometer,WET Labs,AC-S,450,450
+CP04OSSM-MFD37-03-CTDBPE000,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),CTD,Sea-Bird,SBE 16plusV2,450,450
+CP04OSSM-MFD37-04-DOSTAD000,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Dissolved Oxygen,Aanderaa,Optode 4831,450,450
+CP04OSSM-MFD37-07-ZPLSCC000,Coastal Pioneer NES,Offshore Surface Mooring,Seafloor Multi-Function Node (MFN),Bio-acoustic Sonar (Coastal),ASL Environmental Sciences,AZFP,450,450
+CP04OSSM-RIC21,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP04OSSM-RIC21-00-CPMENG000,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,Platform Controller,WHOI,Communications and Power Manager,7,7
+CP04OSSM-RID26,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP04OSSM-RID26-00-DCLENG000,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
+CP04OSSM-RID26-04-VELPTA000,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
+CP04OSSM-RID26-06-PHSEND000,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
+CP04OSSM-RID26-07-NUTNRB000,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
+CP04OSSM-RID26-08-SPKIRB000,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
+CP04OSSM-RID27,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP04OSSM-RID27-00-DCLENG000,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
+CP04OSSM-RID27-01-OPTAAD000,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,Spectrophotometer,WET Labs,AC-S,7,7
+CP04OSSM-RID27-02-FLORTD000,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,7,7
+CP04OSSM-RID27-03-CTDBPC000,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,CTD,Sea-Bird,SBE 16plusV2,7,7
+CP04OSSM-RID27-04-DOSTAD000,Coastal Pioneer NES,Offshore Surface Mooring,Near Surface Instrument Frame,Dissolved Oxygen,Aanderaa,Optode 4831,7,7
+CP04OSSM-SBC11,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,,,,0,0
+CP04OSSM-SBC11-00-CPMENG000,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
+CP04OSSM-SBD11,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,,,,0,0
+CP04OSSM-SBD11-00-DCLENG000,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
+CP04OSSM-SBD11-01-MOPAK0000,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP04OSSM-SBD11-02-HYDGN0000,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
+CP04OSSM-SBD11-06-METBKA000,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+CP04OSSM-SBD11-06-METBKA001,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP04OSSM-SBD11-06-METBKA002,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP04OSSM-SBD11-06-METBKA003,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP04OSSM-SBD11-06-METBKA004,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP04OSSM-SBD11-06-METBKA005,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP04OSSM-SBD11-06-METBKA006,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP04OSSM-SBD11-06-METBKA007,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
+CP04OSSM-SBD11-08-FDCHPB000,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS with R3-50 anemometer,0,0
+CP04OSSM-SBD12,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,,,,0,0
+CP04OSSM-SBD12-00-DCLENG000,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
+CP04OSSM-SBD12-03-HYDGN0000,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
+CP04OSSM-SBD12-04-PCO2AA000,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
+CP04OSSM-SBD12-08-FDCHPA000,Coastal Pioneer NES,Offshore Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,0,0
+CP05MOAS,Coastal Pioneer NES,Mobile Assets,,,,,0,1000
+CP05MOAS-A6263,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6263,,,,0,600
+CP05MOAS-A6263-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6263,Mobile Asset Controller,Hydroid,AUV,0,600
+CP05MOAS-A6263-01-FLORTN000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6263,3-Wavelength Fluorometer,WET Labs,BBFL2HYD,0,600
+CP05MOAS-A6263-02-DOSTAN000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6263,Dissolved Oxygen,Aanderaa,Optode 4330,0,600
+CP05MOAS-A6263-03-CTDAVN000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6263,CTD,Sea-Bird,SBE AUV Payload CTD,0,600
+CP05MOAS-A6263-04-NUTNRN000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6263,Nitrate,Satlantic,SUNA,0,600
+CP05MOAS-A6263-05-ADCPAN000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6263,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,600
+CP05MOAS-A6263-06-PARADN000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6263,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,600
+CP05MOAS-A6264,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6264,,,,0,600
+CP05MOAS-A6264-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6264,Mobile Asset Controller,Hydroid,AUV,0,600
+CP05MOAS-A6264-01-FLORTN000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6264,3-Wavelength Fluorometer,WET Labs,BBFL2HYD,0,600
+CP05MOAS-A6264-02-DOSTAN000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6264,Dissolved Oxygen,Aanderaa,Optode 4330,0,600
+CP05MOAS-A6264-03-CTDAVN000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6264,CTD,Sea-Bird,SBE AUV Payload CTD,0,600
+CP05MOAS-A6264-04-NUTNRN000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6264,Nitrate,Satlantic,SUNA,0,600
+CP05MOAS-A6264-05-ADCPAN000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6264,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,600
+CP05MOAS-A6264-06-PARADN000,Coastal Pioneer NES,Mobile Assets,Coastal AUV 6264,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,600
+CP05MOAS-GL335,Coastal Pioneer NES,Mobile Assets,Coastal Glider 335,,,,0,200
+CP05MOAS-GL335-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 335,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
+CP05MOAS-GL335-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 335,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,200
+CP05MOAS-GL335-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 335,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
+CP05MOAS-GL335-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 335,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
+CP05MOAS-GL335-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 335,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
+CP05MOAS-GL335-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 335,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
+CP05MOAS-GL336,Coastal Pioneer NES,Mobile Assets,Coastal Glider 336,,,,0,1000
+CP05MOAS-GL336-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 336,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+CP05MOAS-GL336-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 336,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP05MOAS-GL336-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 336,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP05MOAS-GL336-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 336,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP05MOAS-GL336-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 336,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP05MOAS-GL336-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 336,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP05MOAS-GL339,Coastal Pioneer NES,Mobile Assets,Coastal Glider 339,,,,0,200
+CP05MOAS-GL339-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 339,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
+CP05MOAS-GL339-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 339,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,200
+CP05MOAS-GL339-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 339,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
+CP05MOAS-GL339-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 339,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
+CP05MOAS-GL339-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 339,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
+CP05MOAS-GL339-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 339,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
+CP05MOAS-GL340,Coastal Pioneer NES,Mobile Assets,Coastal Glider 340,,,,0,200
+CP05MOAS-GL340-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 340,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
+CP05MOAS-GL340-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 340,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,200
+CP05MOAS-GL340-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 340,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
+CP05MOAS-GL340-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 340,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
+CP05MOAS-GL340-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 340,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
+CP05MOAS-GL340-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 340,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
+CP05MOAS-GL374,Coastal Pioneer NES,Mobile Assets,Coastal Glider 374,,,,0,200
+CP05MOAS-GL374-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 374,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
+CP05MOAS-GL374-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 374,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,200
+CP05MOAS-GL374-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 374,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
+CP05MOAS-GL374-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 374,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
+CP05MOAS-GL374-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 374,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
+CP05MOAS-GL374-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 374,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
+CP05MOAS-GL375,Coastal Pioneer NES,Mobile Assets,Coastal Glider 375,,,,0,1000
+CP05MOAS-GL375-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 375,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000D
+CP05MOAS-GL375-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 375,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP05MOAS-GL375-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 375,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP05MOAS-GL375-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 375,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP05MOAS-GL375-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 375,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP05MOAS-GL375-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 375,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP05MOAS-GL376,Coastal Pioneer NES,Mobile Assets,Coastal Glider 376,,,,0,1000
+CP05MOAS-GL376-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 376,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+CP05MOAS-GL376-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 376,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP05MOAS-GL376-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 376,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP05MOAS-GL376-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 376,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP05MOAS-GL376-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 376,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP05MOAS-GL376-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 376,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,,
+CP05MOAS-GL379,Coastal Pioneer NES,Mobile Assets,Coastal Glider 379,,,,0,1000
+CP05MOAS-GL379-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 379,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+CP05MOAS-GL379-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 379,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP05MOAS-GL379-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 379,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP05MOAS-GL379-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 379,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP05MOAS-GL379-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 379,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP05MOAS-GL379-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 379,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP05MOAS-GL380,Coastal Pioneer NES,Mobile Assets,Coastal Glider 380,,,,0,1000
+CP05MOAS-GL380-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 380,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+CP05MOAS-GL380-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 380,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP05MOAS-GL380-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 380,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP05MOAS-GL380-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 380,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP05MOAS-GL380-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 380,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP05MOAS-GL380-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 380,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP05MOAS-GL387,Coastal Pioneer NES,Mobile Assets,Coastal Glider 387,,,,0,1000
+CP05MOAS-GL387-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 387,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+CP05MOAS-GL387-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 387,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP05MOAS-GL387-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 387,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP05MOAS-GL387-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 387,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP05MOAS-GL387-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 387,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP05MOAS-GL387-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 387,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP05MOAS-GL388,Coastal Pioneer NES,Mobile Assets,Coastal Glider 388,,,,0,1000
+CP05MOAS-GL388-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 388,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+CP05MOAS-GL388-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 388,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP05MOAS-GL388-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 388,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP05MOAS-GL388-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 388,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP05MOAS-GL388-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 388,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP05MOAS-GL388-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 388,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP05MOAS-GL389,Coastal Pioneer NES,Mobile Assets,Coastal Glider 389,,,,0,1000
+CP05MOAS-GL389-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 389,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+CP05MOAS-GL389-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 389,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP05MOAS-GL389-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 389,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP05MOAS-GL389-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 389,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP05MOAS-GL389-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 389,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP05MOAS-GL389-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 389,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP05MOAS-GL514,Coastal Pioneer NES,Mobile Assets,Coastal Glider 514,,,,0,1000
+CP05MOAS-GL514-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 514,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+CP05MOAS-GL514-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 514,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP05MOAS-GL514-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 514,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP05MOAS-GL514-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 514,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP05MOAS-GL514-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 514,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP05MOAS-GL514-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 514,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP05MOAS-GL559,Coastal Pioneer NES,Mobile Assets,Coastal Glider 559,,,,0,1000
+CP05MOAS-GL559-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 559,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+CP05MOAS-GL559-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 559,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP05MOAS-GL559-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 559,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP05MOAS-GL559-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 559,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP05MOAS-GL559-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 559,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP05MOAS-GL559-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 559,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP05MOAS-G0913,Coastal Pioneer NES,Mobile Assets,Coastal Glider 913,,,,0,1000
+CP05MOAS-G0913-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 913,Mobile Asset Controller,Teledyne Webb,G3 Slocum Gliders,0,1000
+CP05MOAS-G0913-01-ADCPAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 913,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP05MOAS-G0913-02-FLORTM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 913,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLC,0,1000
+CP05MOAS-G0913-03-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 913,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP05MOAS-G0913-04-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 913,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP05MOAS-G0913-05-PARADM000,Coastal Pioneer NES,Mobile Assets,Coastal Glider 913,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP05MOAS-PG564,Coastal Pioneer NES,Mobile Assets,Profiling Glider 564,,,,0,200
+CP05MOAS-PG564-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 564,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
+CP05MOAS-PG564-01-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 564,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
+CP05MOAS-PG564-02-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 564,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
+CP05MOAS-PG564-03-FLORTM000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 564,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
+CP05MOAS-PG564-04-FLORTO000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 564,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,200
+CP05MOAS-PG564-05-NUTNRM000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 564,Nitrate,Satlantic,SUNA V2,0,200
+CP05MOAS-PG564-06-PARADM000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 564,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
+CP05MOAS-PG583,Coastal Pioneer NES,Mobile Assets,Profiling Glider 583,,,,0,200
+CP05MOAS-PG583-00-ENG000000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 583,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
+CP05MOAS-PG583-01-CTDGVM000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 583,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
+CP05MOAS-PG583-02-DOSTAM000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 583,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
+CP05MOAS-PG583-03-FLORTM000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 583,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
+CP05MOAS-PG583-04-FLORTO000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 583,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,200
+CP05MOAS-PG583-05-NUTNRM000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 583,Nitrate,Satlantic,SUNA V2,0,200
+CP05MOAS-PG583-06-PARADM000,Coastal Pioneer NES,Mobile Assets,Profiling Glider 583,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
+CP10CNSM,Coastal Pioneer MAB,Central Surface Mooring,,,,,0,30
+CP10CNSM-MFC31,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),,,,30,30
+CP10CNSM-MFC31-00-CPMENG000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Platform Controller,WHOI,Communications and Power Manager,30,30
+CP10CNSM-MFD36,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),,,,30,30
+CP10CNSM-MFD36-00-DCLENG000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,30,30
+CP10CNSM-MFD36-01-PRTSZA000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Particle Size Analyzer,Sequoia,LISST-200X,30,30
+CP10CNSM-MFD36-02-PRESFD000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,RBR,quartz3QPlus (P-55),30,30
+CP10CNSM-MFD36-03-TURBDA000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Turbidity,Sea-Bird Electronics,ECO,30,30
+CP10CNSM-MFD36-04-VELPTA000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 300m,30,30
+CP10CNSM-MFD36-05-PCO2WB000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,30,30
+CP10CNSM-MFD36-06-PHSEND000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,30,30
+CP10CNSM-MFD37,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),,,,30,30
+CP10CNSM-MFD37-00-DCLENG000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,30,30
+CP10CNSM-MFD37-01-OPTAAD000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Spectrophotometer,WET Labs,AC-S,30,30
+CP10CNSM-MFD37-02-ADCPTQ000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),ADCP Velocity Profiler,Teledyne RDI,WHS600-200-waves [WHII],30,30
+CP10CNSM-MFD37-03-CTDBPC000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),CTD,Sea-Bird,SBE 16plusV2,30,30
+CP10CNSM-MFD37-04-DOSTAD000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Dissolved Oxygen,Aanderaa,Optode 4831,30,30
+CP10CNSM-MFD37-07-ZPLSCC000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Bio-acoustic Sonar (Coastal),ASL Environmental Sciences,AZFP,30,30
+CP10CNSM-RIC21,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP10CNSM-RIC21-00-CPMENG000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Platform Controller,WHOI,Communications and Power Manager,7,7
+CP10CNSM-RID26,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP10CNSM-RID26-00-DCLENG000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
+CP10CNSM-RID26-01-PRTSZA000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Particle Size Analyzer,Sequoia,LISST-200X,7,7
+CP10CNSM-RID26-03-TURBDA000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Turbidity,Sea-Bird Electronics,ECO,7,7
+CP10CNSM-RID26-04-VELPTA000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
+CP10CNSM-RID26-06-PHSEND000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
+CP10CNSM-RID26-07-NUTNRB000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
+CP10CNSM-RID26-08-SPKIRB000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
+CP10CNSM-RID27,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP10CNSM-RID27-00-DCLENG000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
+CP10CNSM-RID27-01-OPTAAD000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Spectrophotometer,WET Labs,AC-S,7,7
+CP10CNSM-RID27-02-FLORTD000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,7,7
+CP10CNSM-RID27-03-CTDBPC000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,CTD,Sea-Bird,SBE 16plusV2,7,7
+CP10CNSM-RID27-04-DOSTAD000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Dissolved Oxygen,Aanderaa,Optode 4831,7,7
+CP10CNSM-RID27-06-ADCPUP000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,ADCP Velocity Profiler,Nortek,Aquadopp Profiler-S1VP,7,7
+CP10CNSM-RID27-07-PLIMSA000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Phytoplankton Imagery,McLane,ImagingFlowCytoBot (IFCB),7,7
+CP10CNSM-SBC11,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,,,,0,0
+CP10CNSM-SBC11-00-CPMENG000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
+CP10CNSM-SBD11,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,,,,0,0
+CP10CNSM-SBD11-00-DCLENG000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
+CP10CNSM-SBD11-01-MOPAK0000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP10CNSM-SBD11-02-HYDGN0000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
+CP10CNSM-SBD11-05-SPKIRB000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-5,-5
+CP10CNSM-SBD11-06-METBKA000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+CP10CNSM-SBD11-06-METBKA001,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP10CNSM-SBD11-06-METBKA002,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP10CNSM-SBD11-06-METBKA003,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP10CNSM-SBD11-06-METBKA004,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP10CNSM-SBD11-06-METBKA005,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP10CNSM-SBD11-06-METBKA006,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP10CNSM-SBD11-06-METBKA007,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
+CP10CNSM-SBD12,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,,,,0,0
+CP10CNSM-SBD12-00-DCLENG000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
+CP10CNSM-SBD12-03-HYDGN0000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
+CP10CNSM-SBD12-04-PCO2AA000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
+CP10CNSM-SBD12-05-WAVSSA000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Surface Wave Spectra,Axys Technologies,TRIAXYS,0,0
+CP10CNSM-SBD12-06-METBKA000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+CP10CNSM-SBD12-06-METBKA001,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP10CNSM-SBD12-06-METBKA002,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP10CNSM-SBD12-06-METBKA003,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP10CNSM-SBD12-06-METBKA004,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP10CNSM-SBD12-06-METBKA005,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP10CNSM-SBD12-06-METBKA006,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP10CNSM-SBD12-06-METBKA007,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
+CP10CNSM-SBD12-08-FDCHPB000,Coastal Pioneer MAB,Central Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,-5,-5
+CP11NOSM,Coastal Pioneer MAB,Northern Surface Mooring,,,,,0,100
+CP11NOSM-MFC31,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),,,,100,100
+CP11NOSM-MFC31-00-CPMENG000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Platform Controller,WHOI,Communications and Power Manager,100,100
+CP11NOSM-MFD36,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),,,,100,100
+CP11NOSM-MFD36-00-DCLENG000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,100,100
+CP11NOSM-MFD36-01-PRTSZA000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Particle Size Analyzer,Sequoia,LISST-200X,100,100
+CP11NOSM-MFD36-02-PRESFE000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,RBR,quartz3QPlus (P-55),100,100
+CP11NOSM-MFD36-03-TURBDA000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Turbidity,Sea-Bird Electronics,ECO,100,100
+CP11NOSM-MFD36-04-VELPTA000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 300m,100,100
+CP11NOSM-MFD36-05-PCO2WB000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,100,100
+CP11NOSM-MFD36-06-PHSEND000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,100,100
+CP11NOSM-MFD37,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),,,,100,100
+CP11NOSM-MFD37-00-DCLENG000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,100,100
+CP11NOSM-MFD37-01-OPTAAD000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Spectrophotometer,WET Labs,AC-S,100,100
+CP11NOSM-MFD37-02-ADCPTF000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel 150khz,100,100
+CP11NOSM-MFD37-03-CTDBPD000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),CTD,Sea-Bird,SBE 16plusV2,100,100
+CP11NOSM-MFD37-04-DOSTAD000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Dissolved Oxygen,Aanderaa,Optode 4831,100,100
+CP11NOSM-MFD37-07-ZPLSCC000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Bio-acoustic Sonar (Coastal),ASL Environmental Sciences,AZFP,100,100
+CP11NOSM-RIC21,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP11NOSM-RIC21-00-CPMENG000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Platform Controller,WHOI,Communications and Power Manager,7,7
+CP11NOSM-RID26,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP11NOSM-RID26-00-DCLENG000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
+CP11NOSM-RID26-01-PRTSZA000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Particle Size Analyzer,Sequoia,LISST-200X,7,7
+CP11NOSM-RID26-03-TURBDA000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Turbidity,Sea-Bird Electronics,ECO,7,7
+CP11NOSM-RID26-04-VELPTA000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
+CP11NOSM-RID26-06-PHSEND000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
+CP11NOSM-RID26-07-NUTNRB000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
+CP11NOSM-RID26-08-SPKIRB000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
+CP11NOSM-RID27,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP11NOSM-RID27-00-DCLENG000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
+CP11NOSM-RID27-01-OPTAAD000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Spectrophotometer,WET Labs,AC-S,7,7
+CP11NOSM-RID27-02-FLORTD000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,7,7
+CP11NOSM-RID27-03-CTDBPC000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,CTD,Sea-Bird,SBE 16plusV2,7,7
+CP11NOSM-RID27-04-DOSTAD000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Dissolved Oxygen,Aanderaa,Optode 4831,7,7
+CP11NOSM-RID27-06-ADCPUP000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,ADCP Velocity Profiler,Nortek,Aquadopp Profiler-S1VP,7,7
+CP11NOSM-SBC11,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,,,,0,0
+CP11NOSM-SBC11-00-CPMENG000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
+CP11NOSM-SBD11,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,,,,0,0
+CP11NOSM-SBD11-00-DCLENG000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
+CP11NOSM-SBD11-01-MOPAK0000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP11NOSM-SBD11-02-HYDGN0000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
+CP11NOSM-SBD11-05-SPKIRB000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-5,-5
+CP11NOSM-SBD11-06-METBKA000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+CP11NOSM-SBD11-06-METBKA001,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP11NOSM-SBD11-06-METBKA002,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP11NOSM-SBD11-06-METBKA003,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP11NOSM-SBD11-06-METBKA004,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP11NOSM-SBD11-06-METBKA005,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP11NOSM-SBD11-06-METBKA006,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP11NOSM-SBD11-06-METBKA007,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
+CP11NOSM-SBD12,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,,,,0,0
+CP11NOSM-SBD12-00-DCLENG000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
+CP11NOSM-SBD12-03-HYDGN0000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
+CP11NOSM-SBD12-04-PCO2AA000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
+CP11NOSM-SBD12-05-WAVSSA000,Coastal Pioneer MAB,Northern Surface Mooring,Surface Buoy,Surface Wave Spectra,Axys Technologies,TRIAXYS,0,0
+CP11SOSM,Coastal Pioneer MAB,Southern Surface Mooring,,,,,0,100
+CP11SOSM-MFC31,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),,,,100,100
+CP11SOSM-MFC31-00-CPMENG000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Platform Controller,WHOI,Communications and Power Manager,100,100
+CP11SOSM-MFD36,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),,,,100,100
+CP11SOSM-MFD36-00-DCLENG000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,100,100
+CP11SOSM-MFD36-01-PRTSZA000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Particle Size Analyzer,Sequoia,LISST-200X,100,100
+CP11SOSM-MFD36-02-PRESFE000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,RBR,quartz3QPlus (P-55),100,100
+CP11SOSM-MFD36-03-TURBDA000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Turbidity,Sea-Bird Electronics,ECO,100,100
+CP11SOSM-MFD36-04-VELPTA000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 300m,100,100
+CP11SOSM-MFD36-05-PCO2WB000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,100,100
+CP11SOSM-MFD36-06-PHSEND000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,100,100
+CP11SOSM-MFD37,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),,,,100,100
+CP11SOSM-MFD37-00-DCLENG000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,100,100
+CP11SOSM-MFD37-01-OPTAAD000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Spectrophotometer,WET Labs,AC-S,100,100
+CP11SOSM-MFD37-02-ADCPTF000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel 150khz,100,100
+CP11SOSM-MFD37-03-CTDBPD000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),CTD,Sea-Bird,SBE 16plusV2,100,100
+CP11SOSM-MFD37-04-DOSTAD000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Dissolved Oxygen,Aanderaa,Optode 4831,100,100
+CP11SOSM-MFD37-07-ZPLSCC000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Bio-acoustic Sonar (Coastal),ASL Environmental Sciences,AZFP,100,100
+CP11SOSM-RIC21,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP11SOSM-RIC21-00-CPMENG000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Platform Controller,WHOI,Communications and Power Manager,7,7
+CP11SOSM-RID26,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP11SOSM-RID26-00-DCLENG000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
+CP11SOSM-RID26-01-PRTSZA000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Particle Size Analyzer,Sequoia,LISST-200X,7,7
+CP11SOSM-RID26-03-TURBDA000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Turbidity,Sea-Bird Electronics,ECO,7,7
+CP11SOSM-RID26-04-VELPTA000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
+CP11SOSM-RID26-06-PHSEND000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
+CP11SOSM-RID26-07-NUTNRB000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
+CP11SOSM-RID26-08-SPKIRB000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
+CP11SOSM-RID27,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,,,,7,7
+CP11SOSM-RID27-00-DCLENG000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,7,7
+CP11SOSM-RID27-01-OPTAAD000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Spectrophotometer,WET Labs,AC-S,7,7
+CP11SOSM-RID27-02-FLORTD000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,3-Wavelength Fluorometer,WET Labs,ECO Triplet-w,7,7
+CP11SOSM-RID27-03-CTDBPC000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,CTD,Sea-Bird,SBE 16plusV2,7,7
+CP11SOSM-RID27-04-DOSTAD000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Dissolved Oxygen,Aanderaa,Optode 4831,7,7
+CP11SOSM-RID27-06-ADCPUP000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,ADCP Velocity Profiler,Nortek,Aquadopp Profiler-S1VP,7,7
+CP11SOSM-SBC11,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,,,,0,0
+CP11SOSM-SBC11-00-CPMENG000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
+CP11SOSM-SBD11,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,,,,0,0
+CP11SOSM-SBD11-00-DCLENG000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
+CP11SOSM-SBD11-01-MOPAK0000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP11SOSM-SBD11-02-HYDGN0000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
+CP11SOSM-SBD11-05-SPKIRB000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Spectral Irradiance,Satlantic,OCR507 ICSW,-5,-5
+CP11SOSM-SBD11-06-METBKA000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LGR,0,0
+CP11SOSM-SBD11-06-METBKA001,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Sea-Bird Electronics,ASIMET-SBE37SM,1,1
+CP11SOSM-SBD11-06-METBKA002,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-BPR,-4,-4
+CP11SOSM-SBD11-06-METBKA003,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-HRH,-4,-4
+CP11SOSM-SBD11-06-METBKA004,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-LWR,-4,-4
+CP11SOSM-SBD11-06-METBKA005,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-PRC,-4,-4
+CP11SOSM-SBD11-06-METBKA006,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWR,-4,-4
+CP11SOSM-SBD11-06-METBKA007,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Bulk Meteorology Instrument Package,Star Engineering,ASIMET-SWND,-5,-5
+CP11SOSM-SBD12,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,,,,0,0
+CP11SOSM-SBD12-00-DCLENG000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
+CP11SOSM-SBD12-03-HYDGN0000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
+CP11SOSM-SBD12-04-PCO2AA000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,pCO2 Air-Sea,Pro-Oceanus,pCO2-pro,0,0
+CP11SOSM-SBD12-05-WAVSSA000,Coastal Pioneer MAB,Southern Surface Mooring,Surface Buoy,Surface Wave Spectra,Axys Technologies,TRIAXYS,0,0
+CP12CNSW,Coastal Pioneer MAB,Central Shallow Water Mooring,,,,,0,30
+CP12CNSW-MFI01-02-ADCPTQ010,Coastal Pioneer MAB,Central Shallow Water Mooring,Seafloor Multi-Function Node (MFN),ADCP Velocity Profiler,Teledyne RDI,WHS600-200-waves [WHII],30,30
+CP12CNSW-MFI01-02-CTDMOS031,Coastal Pioneer MAB,Central Shallow Water Mooring,Seafloor Multi-Function Node (MFN),CTD,Sea-Bird Electronics,SBE 37-IM,30,30
+CP12CNSW-MFI01-02-WAVSSQ010,Coastal Pioneer MAB,Central Shallow Water Mooring,Seafloor Multi-Function Node (MFN),Surface Wave Spectra,Teledyne RDI,WHS600-200-waves [WHII],30,30
+CP12CNSW-SBI01,Coastal Pioneer MAB,Central Shallow Water Mooring,Surface Buoy,,,,0,0
+CP12CNSW-SBI01-02-CTDMOS011,Coastal Pioneer MAB,Central Shallow Water Mooring,Surface Buoy,CTD,Sea-Bird Electronics,SBE 37-IM,1,1
+CP12CNSW-SBS01,Coastal Pioneer MAB,Central Shallow Water Mooring,Surface Buoy,,,,0,0
+CP12CNSW-SBS01-00-STCENG000,Coastal Pioneer MAB,Central Shallow Water Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP12CNSW-SBS01-03-ADCPUP000,Coastal Pioneer MAB,Central Shallow Water Mooring,Surface Buoy,ADCP Velocity Profiler,Nortek,Aquadopp Profiler-S1VP,1,1
+CP12CNSW-SBS01-03-VELPTA000,Coastal Pioneer MAB,Central Shallow Water Mooring,Surface Buoy,Single Point Velocity Meter,Nortek,Aquadopp 300m,1,1
+CP12CNSW-SBS01-05-MOPAK0000,Coastal Pioneer MAB,Central Shallow Water Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP12CNSW-WFP01,Coastal Pioneer MAB,Central Shallow Water Mooring,Wire-Following Profiler,,,,2,22
+CP12CNSW-WFP01-00-WFPENG001,Coastal Pioneer MAB,Central Shallow Water Mooring,Wire-Following Profiler,Profiler Controller,McLane,PRAWLER,2,22
+CP12CNSW-WFP01-01-CTDPFP000,Coastal Pioneer MAB,Central Shallow Water Mooring,Wire-Following Profiler,CTD,Sea-Bird Electronics,SBE 37-SM,2,22
+CP12CNSW-WFP01-02-DOFSTP000,Coastal Pioneer MAB,Central Shallow Water Mooring,Wire-Following Profiler,Dissolved Oxygen,Aanderaa,Optode 4330F,2,22
+CP12CNSW-WFP01-03-FLORTP000,Coastal Pioneer MAB,Central Shallow Water Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO BBFL2-w,2,22
+CP12WESW,Coastal Pioneer MAB,Western Shallow Water Mooring,,,,,0,30
+CP12WESW-MFI01-02-ADCPTQ010,Coastal Pioneer MAB,Western Shallow Water Mooring,Seafloor Multi-Function Node (MFN),ADCP Velocity Profiler,Teledyne RDI,WHS600-200-waves [WHII],30,30
+CP12WESW-MFI01-02-CTDMOS031,Coastal Pioneer MAB,Western Shallow Water Mooring,Seafloor Multi-Function Node (MFN),CTD,Sea-Bird Electronics,SBE 37-IM,30,30
+CP12WESW-MFI01-02-WAVSSQ010,Coastal Pioneer MAB,Western Shallow Water Mooring,Seafloor Multi-Function Node (MFN),Surface Wave Spectra,Teledyne RDI,WHS600-200-waves [WHII],30,30
+CP12WESW-SBI01,Coastal Pioneer MAB,Western Shallow Water Mooring,Surface Buoy,,,,0,0
+CP12WESW-SBI01-02-CTDMOS011,Coastal Pioneer MAB,Western Shallow Water Mooring,Surface Buoy,CTD,Sea-Bird Electronics,SBE 37-IM,1,1
+CP12WESW-SBS01,Coastal Pioneer MAB,Western Shallow Water Mooring,Surface Buoy,,,,0,0
+CP12WESW-SBS01-00-STCENG000,Coastal Pioneer MAB,Western Shallow Water Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP12WESW-SBS01-03-ADCPUP000,Coastal Pioneer MAB,Western Shallow Water Mooring,Surface Buoy,ADCP Velocity Profiler,Nortek,Aquadopp Profiler-S1VP,1,1
+CP12WESW-SBS01-03-VELPTA000,Coastal Pioneer MAB,Western Shallow Water Mooring,Surface Buoy,Single Point Velocity Meter,Nortek,Aquadopp 300m,1,1
+CP12WESW-SBS01-05-MOPAK0000,Coastal Pioneer MAB,Western Shallow Water Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP12WESW-WFP01,Coastal Pioneer MAB,Western Shallow Water Mooring,Wire-Following Profiler,,,,2,22
+CP12WESW-WFP01-00-WFPENG001,Coastal Pioneer MAB,Western Shallow Water Mooring,Wire-Following Profiler,Profiler Controller,McLane,PRAWLER,2,22
+CP12WESW-WFP01-01-CTDPFP000,Coastal Pioneer MAB,Western Shallow Water Mooring,Wire-Following Profiler,CTD,Sea-Bird Electronics,SBE 37-SM,2,22
+CP12WESW-WFP01-02-DOFSTP000,Coastal Pioneer MAB,Western Shallow Water Mooring,Wire-Following Profiler,Dissolved Oxygen,Aanderaa,Optode 4330F,2,22
+CP12WESW-WFP01-03-FLORTP000,Coastal Pioneer MAB,Western Shallow Water Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO BBFL2-w,2,22
+CP13EAPM,Coastal Pioneer MAB,Eastern Profiler Mooring,,,,,0,100
+CP13EAPM-RII01,Coastal Pioneer MAB,Eastern Profiler Mooring,Mooring Riser,,,,100,100
+CP13EAPM-RII01-02-ADCPTG010,Coastal Pioneer MAB,Eastern Profiler Mooring,Mooring Riser,Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel150khz - inductive,82,82
+CP13EAPM-RII01-02-ADCPUP021,Coastal Pioneer MAB,Eastern Profiler Mooring,Mooring Riser,ADCP Velocity Profiler,Nortek,Aquadopp Profiler-S1VP,17,17
+CP13EAPM-SBI01,Coastal Pioneer MAB,Eastern Profiler Mooring,Surface Buoy,,,,0,0
+CP13EAPM-SBI01-02-CTDMOS011,Coastal Pioneer MAB,Eastern Profiler Mooring,Surface Buoy,CTD,Sea-Bird Electronics,SBE 37-IM,1,1
+CP13EAPM-SBS01,Coastal Pioneer MAB,Eastern Profiler Mooring,Surface Buoy,,,,0,0
+CP13EAPM-SBS01-00-STCENG000,Coastal Pioneer MAB,Eastern Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP13EAPM-SBS01-01-MOPAK0000,Coastal Pioneer MAB,Eastern Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP13EAPM-WFP01,Coastal Pioneer MAB,Eastern Profiler Mooring,Wire-Following Profiler,,,,23,81
+CP13EAPM-WFP01-00-WFPENG001,Coastal Pioneer MAB,Eastern Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,23,81
+CP13EAPM-WFP01-01-VEL3DK000,Coastal Pioneer MAB,Eastern Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,23,81
+CP13EAPM-WFP01-02-DOFSTK000,Coastal Pioneer MAB,Eastern Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,23,81
+CP13EAPM-WFP01-03-CTDPFK000,Coastal Pioneer MAB,Eastern Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,23,81
+CP13EAPM-WFP01-04-FLORTK000,Coastal Pioneer MAB,Eastern Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,23,81
+CP13EAPM-WFP01-05-PARADK000,Coastal Pioneer MAB,Eastern Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,23,81
+CP13NOPM,Coastal Pioneer MAB,Northern Profiler Mooring,,,,,0,100
+CP13NOPM-RII01,Coastal Pioneer MAB,Northern Profiler Mooring,Mooring Riser,,,,100,100
+CP13NOPM-RII01-02-ADCPTG010,Coastal Pioneer MAB,Northern Profiler Mooring,Mooring Riser,Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel150khz - inductive,82,82
+CP13NOPM-RII01-02-ADCPUP021,Coastal Pioneer MAB,Northern Profiler Mooring,Mooring Riser,ADCP Velocity Profiler,Nortek,Aquadopp Profiler-S1VP,17,17
+CP13NOPM-SBI01,Coastal Pioneer MAB,Northern Profiler Mooring,Surface Buoy,,,,0,0
+CP13NOPM-SBI01-02-CTDMOS011,Coastal Pioneer MAB,Northern Profiler Mooring,Surface Buoy,CTD,Sea-Bird Electronics,SBE 37-IM,1,1
+CP13NOPM-SBS01,Coastal Pioneer MAB,Northern Profiler Mooring,Surface Buoy,,,,0,0
+CP13NOPM-SBS01-00-STCENG000,Coastal Pioneer MAB,Northern Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP13NOPM-SBS01-01-MOPAK0000,Coastal Pioneer MAB,Northern Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP13NOPM-WFP01,Coastal Pioneer MAB,Northern Profiler Mooring,Wire-Following Profiler,,,,23,81
+CP13NOPM-WFP01-00-WFPENG001,Coastal Pioneer MAB,Northern Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,23,81
+CP13NOPM-WFP01-01-VEL3DK000,Coastal Pioneer MAB,Northern Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,23,81
+CP13NOPM-WFP01-02-DOFSTK000,Coastal Pioneer MAB,Northern Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,23,81
+CP13NOPM-WFP01-03-CTDPFK000,Coastal Pioneer MAB,Northern Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,23,81
+CP13NOPM-WFP01-04-FLORTK000,Coastal Pioneer MAB,Northern Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,23,81
+CP13NOPM-WFP01-05-PARADK000,Coastal Pioneer MAB,Northern Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,23,81
+CP13SOPM,Coastal Pioneer MAB,Southern Profiler Mooring,,,,,0,100
+CP13SOPM-RII01,Coastal Pioneer MAB,Southern Profiler Mooring,Mooring Riser,,,,100,100
+CP13SOPM-RII01-02-ADCPTG010,Coastal Pioneer MAB,Southern Profiler Mooring,Mooring Riser,Velocity Profiler (150kHz),Teledyne RDI,WorkHorse Sentinel150khz - inductive,82,82
+CP13SOPM-RII01-02-ADCPUP021,Coastal Pioneer MAB,Southern Profiler Mooring,Mooring Riser,ADCP Velocity Profiler,Nortek,Aquadopp Profiler-S1VP,17,17
+CP13SOPM-SBI01,Coastal Pioneer MAB,Southern Profiler Mooring,Surface Buoy,,,,0,0
+CP13SOPM-SBI01-02-CTDMOS011,Coastal Pioneer MAB,Southern Profiler Mooring,Surface Buoy,CTD,Sea-Bird Electronics,SBE 37-IM,1,1
+CP13SOPM-SBS01,Coastal Pioneer MAB,Southern Profiler Mooring,Surface Buoy,,,,0,0
+CP13SOPM-SBS01-00-STCENG000,Coastal Pioneer MAB,Southern Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP13SOPM-SBS01-01-MOPAK0000,Coastal Pioneer MAB,Southern Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP13SOPM-WFP01,Coastal Pioneer MAB,Southern Profiler Mooring,Wire-Following Profiler,,,,23,81
+CP13SOPM-WFP01-00-WFPENG001,Coastal Pioneer MAB,Southern Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,23,81
+CP13SOPM-WFP01-01-VEL3DK000,Coastal Pioneer MAB,Southern Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,23,81
+CP13SOPM-WFP01-02-DOFSTK000,Coastal Pioneer MAB,Southern Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,23,81
+CP13SOPM-WFP01-03-CTDPFK000,Coastal Pioneer MAB,Southern Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,23,81
+CP13SOPM-WFP01-04-FLORTK000,Coastal Pioneer MAB,Southern Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,23,81
+CP13SOPM-WFP01-05-PARADK000,Coastal Pioneer MAB,Southern Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,23,81
+CP14NEPM,Coastal Pioneer MAB,Northeastern Profiler Mooring,,,,,0,300
+CP14NEPM-RII01,Coastal Pioneer MAB,Northeastern Profiler Mooring,Mooring Riser,,,,300,300
+CP14NEPM-RII01-02-ADCPSL010,Coastal Pioneer MAB,Northeastern Profiler Mooring,Mooring Riser,Velocity Profiler (75 kHz),Teledyne RDI,WorkHorse LongRanger Sentinel 75khz - inductive,281,281
+CP14NEPM-RII01-02-ADCPUP021,Coastal Pioneer MAB,Northeastern Profiler Mooring,Mooring Riser,ADCP Velocity Profiler,Nortek,Aquadopp Profiler-S1VP,17,17
+CP14NEPM-SBI01,Coastal Pioneer MAB,Northeastern Profiler Mooring,Surface Buoy,,,,0,0
+CP14NEPM-SBI01-02-CTDMOS011,Coastal Pioneer MAB,Northeastern Profiler Mooring,Surface Buoy,CTD,Sea-Bird Electronics,SBE 37-IM,1,1
+CP14NEPM-SBS01,Coastal Pioneer MAB,Northeastern Profiler Mooring,Surface Buoy,,,,0,0
+CP14NEPM-SBS01-00-STCENG000,Coastal Pioneer MAB,Northeastern Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP14NEPM-SBS01-01-MOPAK0000,Coastal Pioneer MAB,Northeastern Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP14NEPM-WFP01,Coastal Pioneer MAB,Northeastern Profiler Mooring,Wire-Following Profiler,,,,23,280
+CP14NEPM-WFP01-00-WFPENG001,Coastal Pioneer MAB,Northeastern Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,23,280
+CP14NEPM-WFP01-01-VEL3DK000,Coastal Pioneer MAB,Northeastern Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,23,280
+CP14NEPM-WFP01-02-DOFSTK000,Coastal Pioneer MAB,Northeastern Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,23,280
+CP14NEPM-WFP01-03-CTDPFK000,Coastal Pioneer MAB,Northeastern Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,23,280
+CP14NEPM-WFP01-04-FLORTK000,Coastal Pioneer MAB,Northeastern Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,23,280
+CP14NEPM-WFP01-05-PARADK000,Coastal Pioneer MAB,Northeastern Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,23,280
+CP14SEPM,Coastal Pioneer MAB,Southeastern Profiler Mooring,,,,,0,300
+CP14SEPM-RII01,Coastal Pioneer MAB,Southeastern Profiler Mooring,Mooring Riser,,,,300,300
+CP14SEPM-RII01-02-ADCPSL010,Coastal Pioneer MAB,Southeastern Profiler Mooring,Mooring Riser,Velocity Profiler (75 kHz),Teledyne RDI,WorkHorse LongRanger Sentinel 75khz - inductive,281,281
+CP14SEPM-RII01-02-ADCPUP021,Coastal Pioneer MAB,Southeastern Profiler Mooring,Mooring Riser,ADCP Velocity Profiler,Nortek,Aquadopp Profiler-S1VP,17,17
+CP14SEPM-SBI01,Coastal Pioneer MAB,Southeastern Profiler Mooring,Surface Buoy,,,,0,0
+CP14SEPM-SBI01-02-CTDMOS011,Coastal Pioneer MAB,Southeastern Profiler Mooring,Surface Buoy,CTD,Sea-Bird Electronics,SBE 37-IM,1,1
+CP14SEPM-SBS01,Coastal Pioneer MAB,Southeastern Profiler Mooring,Surface Buoy,,,,0,0
+CP14SEPM-SBS01-00-STCENG000,Coastal Pioneer MAB,Southeastern Profiler Mooring,Surface Buoy,Platform Controller,WHOI,Sensor and Telemetry Controller,0,0
+CP14SEPM-SBS01-01-MOPAK0000,Coastal Pioneer MAB,Southeastern Profiler Mooring,Surface Buoy,3-Axis Motion Pack,MicroStrain,3DM-GX3-25,0,0
+CP14SEPM-WFP01,Coastal Pioneer MAB,Southeastern Profiler Mooring,Wire-Following Profiler,,,,23,280
+CP14SEPM-WFP01-00-WFPENG001,Coastal Pioneer MAB,Southeastern Profiler Mooring,Wire-Following Profiler,Profiler Controller,McLane,MMP,23,280
+CP14SEPM-WFP01-01-VEL3DK000,Coastal Pioneer MAB,Southeastern Profiler Mooring,Wire-Following Profiler,3-D Single Point Velocity Meter,Nortek,Aquadopp II,23,280
+CP14SEPM-WFP01-02-DOFSTK000,Coastal Pioneer MAB,Southeastern Profiler Mooring,Wire-Following Profiler,Dissolved Oxygen,Sea-Bird,SBE 43F,23,280
+CP14SEPM-WFP01-03-CTDPFK000,Coastal Pioneer MAB,Southeastern Profiler Mooring,Wire-Following Profiler,CTD,Sea-Bird,SBE 52MP,23,280
+CP14SEPM-WFP01-04-FLORTK000,Coastal Pioneer MAB,Southeastern Profiler Mooring,Wire-Following Profiler,3-Wavelength Fluorometer,WET Labs,ECO Triplet,23,280
+CP14SEPM-WFP01-05-PARADK000,Coastal Pioneer MAB,Southeastern Profiler Mooring,Wire-Following Profiler,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2200,23,280
+CP16MOAS,Coastal Pioneer MAB,Mobile Assets,,,,,0,600
+CP16MOAS-A6263,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,,,,0,600
+CP16MOAS-A6263-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,Mobile Asset Controller,Hydroid,AUV,0,600
+CP16MOAS-A6263-01-FLORTN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,3-Wavelength Fluorometer,WET Labs,BBFL2HYD,0,600
+CP16MOAS-A6263-02-DOSTAN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,Dissolved Oxygen,Aanderaa,Optode 4330,0,600
+CP16MOAS-A6263-03-CTDAVN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,CTD,Sea-Bird,SBE AUV Payload CTD,0,600
+CP16MOAS-A6263-04-NUTNRN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,Nitrate,Satlantic,SUNA,0,600
+CP16MOAS-A6263-05-ADCPAN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,600
+CP16MOAS-A6263-06-PARADN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6263,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,600
+CP16MOAS-A6264,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,,,,0,600
+CP16MOAS-A6264-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,Mobile Asset Controller,Hydroid,AUV,0,600
+CP16MOAS-A6264-01-FLORTN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,3-Wavelength Fluorometer,WET Labs,BBFL2HYD,0,600
+CP16MOAS-A6264-02-DOSTAN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,Dissolved Oxygen,Aanderaa,Optode 4330,0,600
+CP16MOAS-A6264-03-CTDAVN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,CTD,Sea-Bird,SBE AUV Payload CTD,0,600
+CP16MOAS-A6264-04-NUTNRN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,Nitrate,Satlantic,SUNA,0,600
+CP16MOAS-A6264-05-ADCPAN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,600
+CP16MOAS-A6264-06-PARADN000,Coastal Pioneer MAB,Mobile Assets,Coastal AUV 6264,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,600
 GA01SUMO,Global Argentine Basin,Apex Surface Mooring,,,,,0,5200
 GA01SUMO-RID16,Global Argentine Basin,Apex Surface Mooring,Near Surface Instrument Frame,,,,12,12
 GA01SUMO-RID16-00-DCLENG000,Global Argentine Basin,Apex Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,12,12
