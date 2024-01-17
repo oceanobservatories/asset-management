@@ -958,7 +958,7 @@ CP11NOSM-MFC31-00-CPMENG000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloo
 CP11NOSM-MFD36,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),,,,100,100
 CP11NOSM-MFD36-00-DCLENG000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,100,100
 CP11NOSM-MFD36-01-PRTSZA000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Particle Size Analyzer,Sequoia,LISST-200X,100,100
-CP11NOSM-MFD36-02-PRESFE000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,RBR,quartz3QPlus (P-55),100,100
+CP11NOSM-MFD36-02-PRESFE000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,RBR,quartz3QPlus (P-125),100,100
 CP11NOSM-MFD36-03-TURBDA000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Turbidity,Sea-Bird Electronics,ECO,100,100
 CP11NOSM-MFD36-04-VELPTA000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 300m,100,100
 CP11NOSM-MFD36-05-PCO2WB000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,100,100
@@ -1012,7 +1012,7 @@ CP11SOSM-MFC31-00-CPMENG000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloo
 CP11SOSM-MFD36,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),,,,100,100
 CP11SOSM-MFD36-00-DCLENG000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,100,100
 CP11SOSM-MFD36-01-PRTSZA000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Particle Size Analyzer,Sequoia,LISST-200X,100,100
-CP11SOSM-MFD36-02-PRESFE000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,RBR,quartz3QPlus (P-55),100,100
+CP11SOSM-MFD36-02-PRESFE000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Seafloor Pressure,RBR,quartz3QPlus (P-125),100,100
 CP11SOSM-MFD36-03-TURBDA000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Turbidity,Sea-Bird Electronics,ECO,100,100
 CP11SOSM-MFD36-04-VELPTA000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 300m,100,100
 CP11SOSM-MFD36-05-PCO2WB000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,100,100
