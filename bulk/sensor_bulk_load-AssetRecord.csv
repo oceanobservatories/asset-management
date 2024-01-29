@@ -183,7 +183,7 @@ ATAPL-66662-00010,ATAPL-66662-00010,Sensor,0,CTD Profiler: CTDPF Series A,Shallo
 ATAPL-66662-00011,ATAPL-66662-00011,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD,Sea-Bird Electronics,SBE 16plus V2,16-50123,,20150529,13535,,University of Washington
 ATAPL-66662-00012,ATAPL-66662-00012,Sensor,0,CTD Profiler: CTDPF Series A,Shallow 16 Plus V2 CTD,Sea-Bird Electronics,SBE 16plus V2,16-50127,,20150529,13535,,University of Washington
 ATAPL-67596-00002,ATAPL-67596-00002,Sensor,0,Particulate DNA Sampler: PPSDN Series A,Phytoplankton Sampler,NOAA-PMEL,PPS,12881-03,,20121107,27340,,University of Washington
-ATAPL-67596-00003,ATAPL-67596-00003,Sensor,0,Particulate DNA Sampler: PPSDN Series A,Phytoplankton Sampler  (O&M),NOAA-PMEL,PPS,13003-01,,20130402,28910,,University of Washington,
+ATAPL-67596-00003,ATAPL-67596-00003,Sensor,0,Particulate DNA Sampler: PPSDN Series A,Phytoplankton Sampler  (O&M),NOAA-PMEL,PPS,13003-01,,20130402,28910,,University of Washington
 ATAPL-67596-0001A,ATAPL-67596-0001A,Sensor,0,McLane Controler WTS-6-24 Phytoplankton Sampler,McLane Controler WTS-6-24 Phytoplankton Sampler,McLane,WTS-6-24-47FH,12881-03,,20130613,27340,,University of Washington
 ATAPL-67627-00001,ATAPL-67627-00001,Sensor,0,Seabird 16+V2 CTD 3500m (ATAPL-69939-00001),Seabird 16+V2 CTD 3500m (ATAPL-69939-00001),Sea-Bird Electronics,16plusV2 (7000m),16-6943,,20111230,13070,,University of Washington
 ATAPL-67627-00002,ATAPL-67627-00002,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 3500m (ATAPL-69939-00002),Sea-Bird Electronics,SBE 16plus V2,16-7234,,20121210,13070,,University of Washington
@@ -451,7 +451,7 @@ CGINS-ADCPAM-62598,N00131,Sensor,1,ADCP Velocity Profiler (short range) for Glid
 CGINS-ADCPAM-72777,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,672777,,,,,
 CGINS-ADCPAM-73107,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,673107,,,,,
 CGINS-ADCPAM-73245,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,673245,,,,,
-CGINS-ADCPAM-73246,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,673246,34.2,20210403,,,Oregon State University
+CGINS-ADCPAM-73246,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,673246,34.20,20210403,,,Oregon State University
 CGINS-ADCPAM-99999,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,N/A,,,,Placeholder dummy sensor for when the transducer number of a DVL deployed on a slocum glider cannot be determined,
 CGINS-ADCPAN-22076,,Sensor,1,ADCP for AUV: ADCPA series N,ADCP for AUV,Teledyne RDI,Explorer DVL 600 kHz,22076,,,,,
 CGINS-ADCPAN-22077,,Sensor,1,ADCP for AUV: ADCPA series N,ADCP for AUV,Teledyne RDI,Explorer DVL 600 kHz,22077,,,,,
