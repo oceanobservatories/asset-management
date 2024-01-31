@@ -1,3 +1,3 @@
 serial,name,value,notes
-389,CC_conc_coef,"[-7.620734E+00, 9.585840E-01]","[offset, slope]"; source_file DOSTA-D_Optode-4831_SN_389_Calibration_Certificate_2020-01-16.pdf
+389,CC_conc_coef,"[-7.620734E+00, 9.585840E-01]","[offset, slope]; source_file DOSTA-D_Optode-4831_SN_389_Calibration_Certificate_2020-01-16.pdf"
 389,CC_csv,"[2.68944E-03, 1.13486E-04, 2.30232E-06, 2.31379E+02, -3.48189E-01, -5.45500E+01, 4.56331E+00]",
