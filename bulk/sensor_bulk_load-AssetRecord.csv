@@ -527,14 +527,14 @@ CGINS-ADCPTM-19023,A00245,Sensor,0,ADCP Velocity Profiler (short range) with Wav
 CGINS-ADCPTM-21517,A01051,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21517,,20140506,25569,,Oregon State University
 CGINS-ADCPTM-21522,A01052,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21522,,20140506,25569,,Oregon State University
 CGINS-ADCPTM-21524,A01053,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21524,,20140506,25569,,Oregon State University
-CGINS-ADCPTQ-01033,A04373,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1033,,20231206,,,Woods Hole Oceanographic Institution
-CGINS-ADCPTQ-01035,A04379,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1035,,20231211,,,Woods Hole Oceanographic Institution
-CGINS-ADCPTQ-01036,A04380,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1036,,20231211,,,Woods Hole Oceanographic Institution
-CGINS-ADCPTQ-01040,A04387,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1040,,20240102,,,Woods Hole Oceanographic Institution
-CGINS-ADCPTQ-01041,A04388,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1041,,20240102,,,Woods Hole Oceanographic Institution
-CGINS-ADCPTQ-01042,A04389,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1042,,20240102,,,Woods Hole Oceanographic Institution
-CGINS-ADCPTQ-01043,A04390,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1043,,20240102,,,Woods Hole Oceanographic Institution
-CGINS-ADCPUP-00152,A04383,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400152,,20231226,,,Woods Hole Oceanographic Institution
+CGINS-ADCPTQ-01033,A04373,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1033,,20231206,34160,,Woods Hole Oceanographic Institution
+CGINS-ADCPTQ-01035,A04379,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1035,,20231211,34160,,Woods Hole Oceanographic Institution
+CGINS-ADCPTQ-01036,A04380,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1036,,20231211,34160,,Woods Hole Oceanographic Institution
+CGINS-ADCPTQ-01040,A04387,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1040,,20240102,34160,,Woods Hole Oceanographic Institution
+CGINS-ADCPTQ-01041,A04388,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1041,,20240102,34160,,Woods Hole Oceanographic Institution
+CGINS-ADCPTQ-01042,A04389,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1042,,20240102,34160,,Woods Hole Oceanographic Institution
+CGINS-ADCPTQ-01043,A04390,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1043,,20240102,34160,,Woods Hole Oceanographic Institution
+CGINS-ADCPUP-00152,A04383,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400152,,20231226,20959,,Woods Hole Oceanographic Institution
 CGINS-CAMDSA-00109,N00682,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0109,,,,,
 CGINS-CAMDSA-00110,N00515,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0110,,,,,
 CGINS-CAMDSA-00111,N00679,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0111,,,,,
@@ -1322,6 +1322,7 @@ CGINS-FDCHPA-74102,,Sensor,0,Direct Covariance Flux: FDCHP Series A,ANEMOMETER W
 CGINS-FDCHPA-75008,,Sensor,0,Direct Covariance Flux: FDCHP Series A,ANEMOMETER WINDMASTER PRO,Gill,WINDMASTER PRO,175008,,,,,Woods Hole Oceanographic Institution
 CGINS-FDCHPB-00010,A01101,Sensor,0,Direct Covariance Flux: FDCHP Series B,FDCHP CONTROL MODULE,WHOI,DCFS,10,,20140924,24000,upgraded for R3-50 anemometer,Woods Hole Oceanographic Institution
 CGINS-FDCHPB-00015,A01100,Sensor,0,Direct Covariance Flux: FDCHP Series B,FDCHP CONTROL MODULE,WHOI,DCFS,15,,20140630,24000,upgraded for R3-50 anemometer,Woods Hole Oceanographic Institution
+CGINS-FDCHPB-00016,A01627,Sensor,0,Direct Covariance Flux: FDCHP Series B,FDCHP CONTROL MODULE,WHOI,DCFS,16,,20140630,24000,upgraded for R3-50 anemometer,Woods Hole Oceanographic Institution
 CGINS-FDCHPB-00020,A02144,Sensor,0,Direct Covariance Flux: FDCHP Series B,FDCHP CONTROL MODULE,WHOI,DCFS,20,,20160330,24000,upgraded for R3-50 anemometer,Woods Hole Oceanographic Institution
 CGINS-FDCHPB-00021,A01803,Sensor,0,Direct Covariance Flux: FDCHP Series B,FDCHP CONTROL MODULE,WHOI,DCFS,21,,20150805,24000,upgraded for R3-50 anemometer,Woods Hole Oceanographic Institution
 CGINS-FDCHPB-00023,A01805,Sensor,0,Direct Covariance Flux: FDCHP Series B,FDCHP CONTROL MODULE,WHOI,DCFS,23,,20150805,24000,upgraded for R3-50 anemometer,Woods Hole Oceanographic Institution
@@ -2405,9 +2406,9 @@ CGINS-PHSENF-P0180,A01713,Sensor,0,Seawater pH: PHSEN Series F,PHSEN SERIES F,Su
 CGINS-PHSENF-P0181,A01714,Sensor,0,Seawater pH: PHSEN Series F,PHSEN SERIES F,Sunburst Sensors,SAMI-pH,P0181,,20150818,18827.5,,
 CGINS-PHSENF-P0182,A01715,Sensor,0,Seawater pH: PHSEN Series F,PHSEN SERIES F,Sunburst Sensors,SAMI-pH,P0182,,20150818,18827.5,,
 CGINS-PHSENF-P0183,A01716,Sensor,0,Seawater pH: PHSEN Series F,PHSEN SERIES F,Sunburst Sensors,SAMI-pH,P0183,,20150818,18827.5,,
-CGINS-PLIMSA-00199,A04366,Sensor,0,Phytoplankon Imagery: PLIMS Series A,PLIMS SERIES A,McLane,ImagingFlowCytoBot (IFCB),199,,20231013,,,Woods Hole Oceanographic Institution
-CGINS-PLIMSA-00200,A04365,Sensor,0,Phytoplankon Imagery: PLIMS Series A,PLIMS SERIES A,McLane,ImagingFlowCytoBot (IFCB),200,,20231013,,,Woods Hole Oceanographic Institution
-CGINS-PLIMSA-00206,A04386,Sensor,0,Phytoplankon Imagery: PLIMS Series A,PLIMS SERIES A,McLane,ImagingFlowCytoBot (IFCB),206,,20240102,,,Woods Hole Oceanographic Institution
+CGINS-PLIMSA-00199,A04366,Sensor,0,Phytoplankon Imagery: PLIMS Series A,PLIMS SERIES A,McLane,ImagingFlowCytoBot (IFCB),199,,20231013,135375,,Woods Hole Oceanographic Institution
+CGINS-PLIMSA-00200,A04365,Sensor,0,Phytoplankon Imagery: PLIMS Series A,PLIMS SERIES A,McLane,ImagingFlowCytoBot (IFCB),200,,20231013,135375,,Woods Hole Oceanographic Institution
+CGINS-PLIMSA-00206,A04386,Sensor,0,Phytoplankon Imagery: PLIMS Series A,PLIMS SERIES A,McLane,ImagingFlowCytoBot (IFCB),206,,20240102,135375,,Woods Hole Oceanographic Institution
 CGINS-PRESFA-01328,A00052,Sensor,0,Seafloor Pressure: PRESF Series A,PRESF SERIES B (26 PLUS),Sea-Bird Electronics,SBE 26plus,26P-1328,,20120405,13450,,
 CGINS-PRESFA-01351,A00248,Sensor,0,Seafloor Pressure: PRESF Series A,PRESF SERIES A (26PLUS),Sea-Bird Electronics,SBE 26plus,26P-1351,,20130123,13450,,
 CGINS-PRESFA-01382,A01011,Sensor,0,Seafloor Pressure: PRESF Series A,PRESF SERIES A (26PLUS),Sea-Bird Electronics,SBE 26plus,26P-1382,,20130123,13850,,
@@ -2428,27 +2429,27 @@ CGINS-PRESFC-01398,N00683,Sensor,0,Seafloor Pressure: PRESF Series C,PRESF SERIE
 CGINS-PRESFC-01399,,Sensor,0,Seafloor Pressure: PRESF Series C,PRESF SERIES C (26PLUS),Sea-Bird Electronics,SBE 26plus,26P-1399,,,14300,,
 CGINS-PRESFC-01400,,Sensor,0,Seafloor Pressure: PRESF Series C,PRESF SERIES C (26PLUS),Sea-Bird Electronics,SBE 26plus,26-1400,,,,,
 CGINS-PRESFC-01401,A01188,Sensor,0,Seafloor Pressure: PRESF Series C,PRESF SERIES C (26PLUS),Sea-Bird Electronics,SBE 26plus,26-1401,,20141209,14300,,
-CGINS-PRESFD-32770,A04362,Sensor,0,Seafloor Pressure: PRESF Series D,PRESF SERIES D,RBR,quartz3QPlus (P-55),232770,,20231127,,,Woods Hole Oceanographic Institution
-CGINS-PRESFD-32771,A04363,Sensor,0,Seafloor Pressure: PRESF Series D,PRESF SERIES D,RBR,quartz3QPlus (P-55),232771,,20231127,,,Woods Hole Oceanographic Institution
-CGINS-PRESFD-32772,A04364,Sensor,0,Seafloor Pressure: PRESF Series D,PRESF SERIES D,RBR,quartz3QPlus (P-55),232772,,20231127,,,Woods Hole Oceanographic Institution
-CGINS-PRESFE-32933,A04374,Sensor,0,Seafloor Pressure: PRESF Series E,PRESF SERIES E,RBR,quartz3QPlus (P-125),232933,,20231207,,,Woods Hole Oceanographic Institution
-CGINS-PRESFE-32934,A04375,Sensor,0,Seafloor Pressure: PRESF Series E,PRESF SERIES E,RBR,quartz3QPlus (P-125),232934,,20231207,,,Woods Hole Oceanographic Institution
-CGINS-PRESFE-32935,A04376,Sensor,0,Seafloor Pressure: PRESF Series E,PRESF SERIES E,RBR,quartz3QPlus (P-125),232935,,20231207,,,Woods Hole Oceanographic Institution
-CGINS-PRESFE-32936,A04377,Sensor,0,Seafloor Pressure: PRESF Series E,PRESF SERIES E,RBR,quartz3QPlus (P-125),232936,,20231207,,,Woods Hole Oceanographic Institution
-CGINS-PRESFE-32937,A04378,Sensor,0,Seafloor Pressure: PRESF Series E,PRESF SERIES E,RBR,quartz3QPlus (P-125),232937,,20231207,,,Woods Hole Oceanographic Institution
-CGINS-PRTSZA-02253,A02327,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2253,,20230719,,,Woods Hole Oceanographic Institution
-CGINS-PRTSZA-02257,A04352,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2257,,20230918,,,Woods Hole Oceanographic Institution
-CGINS-PRTSZA-02258,A04353,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2258,,20230918,,,Woods Hole Oceanographic Institution
-CGINS-PRTSZA-02261,A04354,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2261,,20230918,,,Woods Hole Oceanographic Institution
-CGINS-PRTSZA-02262,A04355,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2262,,20230918,,,Woods Hole Oceanographic Institution
-CGINS-PRTSZA-02263,A04356,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2263,,20230918,,,Woods Hole Oceanographic Institution
-CGINS-PRTSZA-02265,A04351,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2265,,20230918,,,Woods Hole Oceanographic Institution
-CGINS-PRTSZA-02266,A04367,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2266,,20231024,,,Woods Hole Oceanographic Institution
-CGINS-PRTSZA-02267,A04368,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2267,,20231024,,,Woods Hole Oceanographic Institution
-CGINS-PRTSZA-02268,A04369,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2268,,20231024,,,Woods Hole Oceanographic Institution
-CGINS-PRTSZA-02269,A04370,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2269,,20231024,,,Woods Hole Oceanographic Institution
-CGINS-PRTSZA-02270,A04371,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2270,,20231024,,,Woods Hole Oceanographic Institution
-CGINS-PRTSZA-02271,A04372,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2271,,20231024,,,Woods Hole Oceanographic Institution
+CGINS-PRESFD-32770,A04362,Sensor,0,Seafloor Pressure: PRESF Series D,PRESF SERIES D,RBR,quartz3QPlus (P-55),232770,,20231127,23913,,Woods Hole Oceanographic Institution
+CGINS-PRESFD-32771,A04363,Sensor,0,Seafloor Pressure: PRESF Series D,PRESF SERIES D,RBR,quartz3QPlus (P-55),232771,,20231127,23913,,Woods Hole Oceanographic Institution
+CGINS-PRESFD-32772,A04364,Sensor,0,Seafloor Pressure: PRESF Series D,PRESF SERIES D,RBR,quartz3QPlus (P-55),232772,,20231127,23913,,Woods Hole Oceanographic Institution
+CGINS-PRESFE-32933,A04374,Sensor,0,Seafloor Pressure: PRESF Series E,PRESF SERIES E,RBR,quartz3QPlus (P-125),232933,,20231207,23195,,Woods Hole Oceanographic Institution
+CGINS-PRESFE-32934,A04375,Sensor,0,Seafloor Pressure: PRESF Series E,PRESF SERIES E,RBR,quartz3QPlus (P-125),232934,,20231207,23195,,Woods Hole Oceanographic Institution
+CGINS-PRESFE-32935,A04376,Sensor,0,Seafloor Pressure: PRESF Series E,PRESF SERIES E,RBR,quartz3QPlus (P-125),232935,,20231207,23195,,Woods Hole Oceanographic Institution
+CGINS-PRESFE-32936,A04377,Sensor,0,Seafloor Pressure: PRESF Series E,PRESF SERIES E,RBR,quartz3QPlus (P-125),232936,,20231207,23195,,Woods Hole Oceanographic Institution
+CGINS-PRESFE-32937,A04378,Sensor,0,Seafloor Pressure: PRESF Series E,PRESF SERIES E,RBR,quartz3QPlus (P-125),232937,,20231207,23195,,Woods Hole Oceanographic Institution
+CGINS-PRTSZA-02253,A02327,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2253,,20230719,47000,,Woods Hole Oceanographic Institution
+CGINS-PRTSZA-02257,A04352,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2257,,20230918,47000,,Woods Hole Oceanographic Institution
+CGINS-PRTSZA-02258,A04353,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2258,,20230918,47000,,Woods Hole Oceanographic Institution
+CGINS-PRTSZA-02261,A04354,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2261,,20230918,47000,,Woods Hole Oceanographic Institution
+CGINS-PRTSZA-02262,A04355,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2262,,20230918,47000,,Woods Hole Oceanographic Institution
+CGINS-PRTSZA-02263,A04356,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2263,,20230918,47000,,Woods Hole Oceanographic Institution
+CGINS-PRTSZA-02265,A04351,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2265,,20230918,47000,,Woods Hole Oceanographic Institution
+CGINS-PRTSZA-02266,A04367,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2266,,20231024,47000,,Woods Hole Oceanographic Institution
+CGINS-PRTSZA-02267,A04368,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2267,,20231024,47000,,Woods Hole Oceanographic Institution
+CGINS-PRTSZA-02268,A04369,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2268,,20231024,47000,,Woods Hole Oceanographic Institution
+CGINS-PRTSZA-02269,A04370,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2269,,20231024,47000,,Woods Hole Oceanographic Institution
+CGINS-PRTSZA-02270,A04371,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2270,,20231024,47000,,Woods Hole Oceanographic Institution
+CGINS-PRTSZA-02271,A04372,Sensor,0,Particle Size Analyzer: PRTSZ Series A,PRTSZ SERIES A,Sequoia,LISST-200X,2271,,20231024,47000,,Woods Hole Oceanographic Institution
 CGINS-SPKIRB-00229,A00092,Sensor,0,Spectral Irradiance: SPKIR Series B,SPKIR SERIES B (OCR507-ICSW),Satlantic,OCR507 ICSW w/ Bioshutter II (Midrange),229,3.0A,20121119,12682,,
 CGINS-SPKIRB-00230,A00093,Sensor,0,Spectral Irradiance: SPKIR Series B,SPKIR SERIES B (OCR507-ICSW),Satlantic,OCR507 ICSW w/ Bioshutter II (Midrange),230,3.0A,20121119,12682,,
 CGINS-SPKIRB-00231,A00094,Sensor,0,Spectral Irradiance: SPKIR Series B,SPKIR SERIES B (OCR507-ICSW),Satlantic,OCR507 ICSW w/ Bioshutter II (Midrange),231,,20121119,12682,,
@@ -2638,8 +2639,8 @@ CGINS-WAVSSA-06311,A01671,Sensor,0,Surface Wave Spectra: WAVSS Series A,WAVSS SE
 CGINS-WAVSSA-06321,A01672,Sensor,0,Surface Wave Spectra: WAVSS Series A,WAVSS SERIES A (TRIAXYS NW),AXYS Technologies,TRIAXYS Directional Wave Sensor,TAS06321,,20150521,24039.99,,
 CGINS-WAVSSA-06421,,Sensor,0,Surface Wave Spectra: WAVSS Series A,WAVSS SERIES A (TRIAXYS NW),AXYS Technologies,TRIAXYS Directional Wave Sensor,TAS06421,,20150715,24039.99,,Woods Hole Oceanographic Institution
 CGINS-WAVSSA-06431,A01626,Sensor,0,Surface Wave Spectra: WAVSS Series A,WAVSS SERIES A (TRIAXYS NW),AXYS Technologies,TRIAXYS Directional Wave Sensor,TAS06431,,20150715,24039.99,Lost at sea on GI01SUMO-00004,Woods Hole Oceanographic Institution
-CGINS-ZPLSCC-55070,A01831,Sensor,0,Bio-acoustic Sonar: ZPLSC Series C,ZPLSC SERIES C (AZFP),ASL Environmental,AZFP,55070,,,,converted from ZPLSG-A toZPLSC-C for Pioneer MAB,Woods Hole Oceanographic Institution
-CGINS-ZPLSCC-55071,A01832,Sensor,0,Bio-acoustic Sonar: ZPLSC Series C,ZPLSC SERIES C (AZFP),ASL Environmental,AZFP,55071,,,,converted from ZPLSG-A toZPLSC-C for Pioneer MAB,Woods Hole Oceanographic Institution
+CGINS-ZPLSCC-55070,A01831,Sensor,0,Bio-acoustic Sonar: ZPLSC Series C,ZPLSC SERIES C (AZFP),ASL Environmental,AZFP,55070,,,,converted from ZPLSG-A to ZPLSC-C,Woods Hole Oceanographic Institution
+CGINS-ZPLSCC-55071,A01832,Sensor,0,Bio-acoustic Sonar: ZPLSC Series C,ZPLSC SERIES C (AZFP),ASL Environmental,AZFP,55071,,,,converted from ZPLSG-A to ZPLSC-C,Woods Hole Oceanographic Institution
 CGINS-ZPLSCC-55074,A01107,Sensor,0,Bio-acoustic Sonar: ZPLSC Series C,ZPLSC SERIES C (AZFP),ASL Environmental,AZFP,55074,,20141007,46964,,Woods Hole Oceanographic Institution
 CGINS-ZPLSCC-55075,A01151,Sensor,0,Bio-acoustic Sonar: ZPLSC Series C,ZPLSC SERIES C (AZFP),ASL Environmental,AZFP,55075,,20141104,46964,,
 CGINS-ZPLSCC-55076,A01152,Sensor,0,Bio-acoustic Sonar: ZPLSC Series C,ZPLSC SERIES C (AZFP),ASL Environmental,AZFP,55076,,20141104,46964,,
