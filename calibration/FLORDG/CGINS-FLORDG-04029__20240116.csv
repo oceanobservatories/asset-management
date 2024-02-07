@@ -1,0 +1,9 @@
+serial,name,value,notes
+4029,CC_angular_resolution,1.096,Constant; source_file FLORD-G_FLBBSB_SN_4029_Calibration_Files_2024-01-16.zip > FLBBSB-4029 CharSheets.pdf
+4029,CC_dark_counts_chlorophyll_a,0.079,in Volts (because analog signal going to CTDBP)
+4029,CC_dark_counts_volume_scatter,0.0640,
+4029,CC_depolarization_ratio,0.039,Constant
+4029,CC_measurement_wavelength,700,Constant
+4029,CC_scale_factor_chlorophyll_a,6,in Volts (because analog signal going to CTDBP)
+4029,CC_scale_factor_volume_scatter,1.311E-03,in Volts (because analog signal going to CTDBP)
+4029,CC_scattering_angle,140,Constant

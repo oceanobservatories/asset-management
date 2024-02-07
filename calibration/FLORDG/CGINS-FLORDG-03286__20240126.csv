@@ -1,0 +1,9 @@
+serial,name,value,notes
+3286,CC_angular_resolution,1.096,Constant; source_file FLORD-G_FLBBSB_SN_3286_Calibration_Files_2024-01-26.zip > FLBBSB-3286 CharSheets.pdf
+3286,CC_dark_counts_chlorophyll_a,0.087,in Volts (because analog signal going to CTDBP)
+3286,CC_dark_counts_volume_scatter,0.0570,in Volts (because analog signal going to CTDBP)
+3286,CC_depolarization_ratio,0.039,Constant
+3286,CC_measurement_wavelength,700,Constant
+3286,CC_scale_factor_chlorophyll_a,6,in Volts (because analog signal going to CTDBP)
+3286,CC_scale_factor_volume_scatter,1.357E-03,in Volts (because analog signal going to CTDBP)
+3286,CC_scattering_angle,140,Constant
