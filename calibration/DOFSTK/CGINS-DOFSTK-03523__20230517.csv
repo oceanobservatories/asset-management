@@ -1,0 +1,7 @@
+serial,name,value,notes
+43-3523,CC_frequency_offset,-7.569072e+002,source_file DOFST-K_SBE43F_SN_3523_Calibration_2023-05-17.zip > 3523.cal and SOCAdjusted pdf
+43-3523,CC_oxygen_signal_slope,3.0179e-004,use adjusted Soc
+43-3523,CC_residual_temperature_correction_factor_a,-4.086613e-003,
+43-3523,CC_residual_temperature_correction_factor_b,1.429141e-004,
+43-3523,CC_residual_temperature_correction_factor_c,-1.936409e-006,
+43-3523,CC_residual_temperature_correction_factor_e,3.600000e-002,
