@@ -1,0 +1,4 @@
+serial,name,value,notes
+1213,CC_dark_counts_turbd,60,source_file FLORT-D_BBFL2W_SN_1213_NTU_Characterization_2024-02-02.pdf
+1213,CC_scale_factor_turbd,8.53E-04,
+1213,CC_cal_range,"[0,3]",
