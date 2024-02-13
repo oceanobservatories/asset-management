@@ -1,0 +1,4 @@
+serial,name,value,notes
+1295,CC_dark_counts_turbd,56,source_file FLORT-D_BBFL2W_SN_1295_Calibration_Files_2022-09-09.zip > BBFL2W-1295.dev
+1295,CC_scale_factor_turbd,0.0493,
+1295,CC_cal_range,"[0,200]",
