@@ -534,7 +534,12 @@ CGINS-ADCPTQ-01040,A04387,Sensor,0,ADCP Velocity Profiler (short range): ADCPT S
 CGINS-ADCPTQ-01041,A04388,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1041,,20240102,34160,,Woods Hole Oceanographic Institution
 CGINS-ADCPTQ-01042,A04389,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1042,,20240102,34160,,Woods Hole Oceanographic Institution
 CGINS-ADCPTQ-01043,A04390,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1043,,20240102,34160,,Woods Hole Oceanographic Institution
+CGINS-ADCPUP-00139,A04383,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400139,,20240212,20959,,Woods Hole Oceanographic Institution
 CGINS-ADCPUP-00152,A04383,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400152,,20231226,20959,,Woods Hole Oceanographic Institution
+CGINS-ADCPUP-00276,A04383,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400276,,20240212,20959,,Woods Hole Oceanographic Institution
+CGINS-ADCPUP-00277,A04383,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400277,,20240212,20959,,Woods Hole Oceanographic Institution
+CGINS-ADCPUP-00280,A04383,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400280,,20240212,20959,,Woods Hole Oceanographic Institution
+CGINS-ADCPUP-00287,A04383,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400287,,20240212,20959,,Woods Hole Oceanographic Institution
 CGINS-CAMDSA-00109,N00682,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0109,,,,,
 CGINS-CAMDSA-00110,N00515,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0110,,,,,
 CGINS-CAMDSA-00111,N00679,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0111,,,,,
@@ -1396,6 +1401,7 @@ CGINS-FLORDM-04027,OL000607,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD 
 CGINS-FLORDM-04095,OL000144,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,4095,,,,,
 CGINS-FLORDM-06989,,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,6989,,,,,Woods Hole Oceanographic Institution
 CGINS-FLORDM-06990,,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,6990,,,,,Woods Hole Oceanographic Institution
+CGINS-FLORDM-08533,,Sensor,1,2-Wavelength Fluorometer for Glider: FLORD Series M,FLORD for Global Slocum Glider,WET Labs,ECO Puck FLBB-SLC,8533,,,,,Woods Hole Oceanographic Institution
 CGINS-FLORTD-00993,A00085,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,993,5.2,20150604,12634.25,,
 CGINS-FLORTD-00994,A00084,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,994,5.2,20150604,12634.25,,
 CGINS-FLORTD-00995,A00218,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,FLORT SERIES D (ECO TRIPLET-W),WET Labs,ECO Triplet-w,995,,20121107,12634.25,,
@@ -2494,6 +2500,14 @@ CGINS-SPKIRJ-00265,N00560,Sensor,0,Spectral Irradiance: SPKIR Series J,SPKIR for
 CGINS-SPKIRJ-00266,N00576,Sensor,0,Spectral Irradiance: SPKIR Series J,SPKIR for WLP-003,Satlantic,OCR507 ICSW w/ Bioshutter II (Midrange),266,,20140616,13316.36,,Oregon State University
 CGINS-SPKIRJ-00281,,Sensor,0,Spectral Irradiance: SPKIR Series J,SPKIR for WLP-007,Satlantic,OCR507 ICSW w/ Bioshutter II (Midrange),281,,20161230,,,Oregon State University
 CGINS-SPKIRJ-00282,,Sensor,0,Spectral Irradiance: SPKIR Series J,SPKIR for WLP-008,Satlantic,OCR507 ICSW w/ Bioshutter II (Midrange),282,,20161230,,,Oregon State University
+CGINS-TURBDX-01106,A00424,Sensor,0,3-Wavelength Fluorometer: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1106,,20130920,12634.25,same instrument as CGINS-FLORTD-01106 with 0-250 NTU cal,Woods Hole Oceanographic Institution
+CGINS-TURBDX-01213,A00888,Sensor,0,3-Wavelength Fluorometer: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1213,,20140627,13013.52,same instrument as CGINS-FLORTD-01213 with 0-3 NTU cal,Woods Hole Oceanographic Institution
+CGINS-TURBDX-01214,A00889,Sensor,0,3-Wavelength Fluorometer: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1214,,20140627,13013.52,same instrument as CGINS-FLORTD-01214 with 0-3 NTU cal,Woods Hole Oceanographic Institution
+CGINS-TURBDX-01215,A01496,Sensor,0,3-Wavelength Fluorometer: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1215,,20140911,13013.52,same instrument as CGINS-FLORTD-01215 with 0-3 NTU cal,Woods Hole Oceanographic Institution
+CGINS-TURBDX-01216,A01497,Sensor,0,3-Wavelength Fluorometer: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1216,,20150911,13013.52,same instrument as CGINS-FLORTD-01216 with 0-3 NTU cal,Woods Hole Oceanographic Institution
+CGINS-TURBDX-01218,A00993,Sensor,0,3-Wavelength Fluorometer: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1218,,20140821,13013.52,same instrument as CGINS-FLORTD-01218 with 0-250 NTU cal,Woods Hole Oceanographic Institution
+CGINS-TURBDX-01295,A01340,Sensor,0,3-Wavelength Fluorometer: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1295,,20150504,13403.46,same instrument as CGINS-FLORTD-01295 with 0-200 NTU cal,Woods Hole Oceanographic Institution
+CGINS-TURBDX-01320,A01633,Sensor,0,3-Wavelength Fluorometer: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1320,,20150717,13403.46,same instrument as CGINS-FLORTD-01320 with 0-250 NTU cal,Woods Hole Oceanographic Institution
 CGINS-VEL3DC-08181,A00060,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series C,VEL3D SERIES C (VECTOR),Nortek,VECTOR,8181,,20120828,15960,,
 CGINS-VEL3DC-12587,A01621,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series C,VEL3D SERIES C (VECTOR W/PROLO,Nortek,VECTOR,12587,,20150430,16605,,
 CGINS-VEL3DC-12595,A01622,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series C,VEL3D SERIES C (VECTOR W/PROLO,Nortek,VECTOR,12595,,20150430,16605,,
@@ -2644,6 +2658,13 @@ CGINS-WAVSSM-19023,A00245,Sensor,0,ADCP Velocity Profiler (short range) with Wav
 CGINS-WAVSSM-21517,A01051,Sensor,0,ADCP Velocity Profiler (short range) with Waves: WAVSS Series M,WAVSS SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21517,,20140506,25569,Same instrument as CGINS-ADCPTM-21517,Oregon State University
 CGINS-WAVSSM-21522,A01052,Sensor,0,ADCP Velocity Profiler (short range) with Waves: WAVSS Series M,WAVSS SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21522,,20140506,25569,Same instrument as CGINS-ADCPTM-21522,Oregon State University
 CGINS-WAVSSM-21524,A01053,Sensor,0,ADCP Velocity Profiler (short range) with Waves: WAVSS Series M,WAVSS SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21524,,20140506,25569,Same instrument as CGINS-ADCPTM-21524,Oregon State University
+CGINS-WAVSSQ-01033,A04373,Sensor,0,ADCP Velocity Profiler (short range): WAVSS Series Q,WAVSS SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1033,,20231206,,same instrument as CGINS-ADCPTQ-01033,Woods Hole Oceanographic Institution
+CGINS-WAVSSQ-01035,A04379,Sensor,0,ADCP Velocity Profiler (short range): WAVSS Series Q,WAVSS SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1035,,20231211,,same instrument as CGINS-ADCPTQ-01035,Woods Hole Oceanographic Institution
+CGINS-WAVSSQ-01036,A04380,Sensor,0,ADCP Velocity Profiler (short range): WAVSS Series Q,WAVSS SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1036,,20231211,,same instrument as CGINS-ADCPTQ-01036,Woods Hole Oceanographic Institution
+CGINS-WAVSSQ-01040,A04387,Sensor,0,ADCP Velocity Profiler (short range): WAVSS Series Q,WAVSS SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1040,,20240102,,same instrument as CGINS-ADCPTQ-01040,Woods Hole Oceanographic Institution
+CGINS-WAVSSQ-01041,A04388,Sensor,0,ADCP Velocity Profiler (short range): WAVSS Series Q,WAVSS SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1041,,20240102,,same instrument as CGINS-ADCPTQ-01041,Woods Hole Oceanographic Institution
+CGINS-WAVSSQ-01042,A04389,Sensor,0,ADCP Velocity Profiler (short range): WAVSS Series Q,WAVSS SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1042,,20240102,,same instrument as CGINS-ADCPTQ-01042,Woods Hole Oceanographic Institution
+CGINS-WAVSSQ-01043,A04390,Sensor,0,ADCP Velocity Profiler (short range): WAVSS Series Q,WAVSS SERIES Q,Teledyne RDI,WHS600-200-waves [WHII],1043,,20240102,,same instrument as CGINS-ADCPTQ-01043,Woods Hole Oceanographic Institution
 CGINS-ZPLSCC-55070,A01831,Sensor,0,Bio-acoustic Sonar: ZPLSC Series C,ZPLSC SERIES C (AZFP),ASL Environmental,AZFP,55070,,,,converted from ZPLSG-A to ZPLSC-C,Woods Hole Oceanographic Institution
 CGINS-ZPLSCC-55071,A01832,Sensor,0,Bio-acoustic Sonar: ZPLSC Series C,ZPLSC SERIES C (AZFP),ASL Environmental,AZFP,55071,,,,converted from ZPLSG-A to ZPLSC-C,Woods Hole Oceanographic Institution
 CGINS-ZPLSCC-55074,A01107,Sensor,0,Bio-acoustic Sonar: ZPLSC Series C,ZPLSC SERIES C (AZFP),ASL Environmental,AZFP,55074,,20141007,46964,,Woods Hole Oceanographic Institution
