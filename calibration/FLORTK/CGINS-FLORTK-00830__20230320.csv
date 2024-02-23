@@ -1,0 +1,11 @@
+serial,name,value,notes
+830,CC_angular_resolution,1.076,source_file FLORT-K_BBFL2_SN_830_Calibration_2023-03-20.zip > BBFL2-830.dev but cal date taken from Char pdf
+830,CC_dark_counts_cdom,44,
+830,CC_dark_counts_chlorophyll_a,51,
+830,CC_dark_counts_volume_scatter,47,
+830,CC_depolarization_ratio,0.039,
+830,CC_measurement_wavelength,700,
+830,CC_scale_factor_cdom,9.050E-02,
+830,CC_scale_factor_chlorophyll_a,1.237E-02,
+830,CC_scale_factor_volume_scatter,2.652E-06,
+830,CC_scattering_angle,124,
