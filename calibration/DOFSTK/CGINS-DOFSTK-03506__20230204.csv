@@ -1,0 +1,7 @@
+serial,name,value,notes
+43-3506,CC_frequency_offset,-8.684715e+002,source_file DOFST-K_SBE43F_SN_3506_Calibration_2023-02-04.zip > 3506.cal and SOCAdjusted pdf
+43-3506,CC_oxygen_signal_slope,3.5835e-004,use adjusted Soc
+43-3506,CC_residual_temperature_correction_factor_a,-5.146507e-003,
+43-3506,CC_residual_temperature_correction_factor_b,1.827068e-004,
+43-3506,CC_residual_temperature_correction_factor_c,-2.634860e-006,
+43-3506,CC_residual_temperature_correction_factor_e,3.600000e-002,

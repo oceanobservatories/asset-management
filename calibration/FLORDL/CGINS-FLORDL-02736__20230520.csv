@@ -1,0 +1,9 @@
+serial,name,value,notes
+2736,CC_angular_resolution,1.096,Constant; source_file FLORD-L_FLBBRTD_SN_2736_Calibration_2023-05-20.zip > FLBBRTD-2736.dev
+2736,CC_dark_counts_chlorophyll_a,50,
+2736,CC_dark_counts_volume_scatter,50,
+2736,CC_depolarization_ratio,0.039,Constant
+2736,CC_measurement_wavelength,700,Constant
+2736,CC_scale_factor_chlorophyll_a,0.0073,
+2736,CC_scale_factor_volume_scatter,1.820E-06,
+2736,CC_scattering_angle,140,Constant
