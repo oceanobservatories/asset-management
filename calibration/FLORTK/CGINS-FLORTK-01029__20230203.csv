@@ -1,0 +1,11 @@
+serial,name,value,notes
+1029,CC_angular_resolution,1.076,source_file FLORT-K_BBFL2_SN_1029_Calibration_2023-02-03.zip > BBFL2-1029.dev
+1029,CC_dark_counts_cdom,48,
+1029,CC_dark_counts_chlorophyll_a,49,
+1029,CC_dark_counts_volume_scatter,50,
+1029,CC_depolarization_ratio,0.039,
+1029,CC_measurement_wavelength,700,
+1029,CC_scale_factor_cdom,1.070E-01,
+1029,CC_scale_factor_chlorophyll_a,1.158E-02,
+1029,CC_scale_factor_volume_scatter,3.366E-06,
+1029,CC_scattering_angle,124,
