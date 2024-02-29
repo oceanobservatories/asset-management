@@ -6,4 +6,4 @@ LGR035,CC_height_of_windspeed_sensor_above_sealevel_m,4.74,
 LGR035,CC_jcool,1,Constant
 LGR035,CC_jwarm,1,Constant
 LGR035,CC_zinvpbl,600,Constant
-LGR035,CC_use_velpt,1,
+LGR035,CC_use_velpt,1,Constant
