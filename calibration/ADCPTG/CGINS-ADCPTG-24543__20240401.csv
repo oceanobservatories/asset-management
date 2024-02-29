@@ -1,0 +1,8 @@
+serial,name,value,notes
+24543,CC_scale_factor1,0.45,constant; CP13EAPM-00001
+24543,CC_scale_factor2,0.45,constant
+24543,CC_scale_factor3,0.45,constant
+24543,CC_scale_factor4,0.45,constant
+24543,CC_bin_size,400,in cm
+24543,CC_dist_first_bin,901,in cm
+24543,CC_orientation,1,1 is upward looking; 0 is downward looking
