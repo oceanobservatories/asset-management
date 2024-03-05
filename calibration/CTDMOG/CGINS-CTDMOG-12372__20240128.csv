@@ -1,5 +1,5 @@
 serial,name,value,notes
-37-12372,CC_a0,-1.257017e-004,source_fileCTDMO-G_SBE_37IM_SN_37-12372_Calibration_Files_2024-01-28.zip > 12372.cal
+37-12372,CC_a0,-1.257017e-004,source_file CTDMO-G_SBE_37IM_SN_37-12372_Calibration_Files_2024-01-28.zip > 12372.cal
 37-12372,CC_a1,3.149497e-004,
 37-12372,CC_a2,-5.238048e-006,
 37-12372,CC_a3,2.208501e-007,
