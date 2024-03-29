@@ -1559,6 +1559,7 @@ CGINS-FLORTM-06168,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M
 CGINS-FLORTM-06744,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,6744,4.07D,20210403,,,Oregon State University
 CGINS-FLORTM-06642,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,6642,,,,,
 CGINS-FLORTM-07031,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,7031,,20220406,,,Oregon State University
+CGINS-FLORTM-08063,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,8063,,,,,Woods Hole Oceanographic Institution
 CGINS-FLORTN-01108,,Sensor,1,3-Wavelength Fluorometer for AUV: FLORT Series N,FLORT for AUV,WET Labs,ECO Triplet,1108,,,,CGSN AUV Instrument Pool,
 CGINS-FLORTN-01109,,Sensor,1,3-Wavelength Fluorometer for AUV: FLORT Series N,FLORT for AUV,WET Labs,ECO Triplet,1109,,,,CGSN AUV Instrument Pool,
 CGINS-FLORTN-01645,,Sensor,1,3-Wavelength Fluorometer for AUV: FLORT Series N,FLORT for AUV,WET Labs,ECO Triplet,1645,,,,CGSN AUV Instrument Pool,
@@ -1948,6 +1949,7 @@ CGINS-METWND-00268,A02135,Sensor,0,Bulk Meteorology Instrument Package: METBK WN
 CGINS-METWND-00269,A02134,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND269,,,,,Woods Hole Oceanographic Institution
 CGINS-METWND-00270,,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND270,,,,,Woods Hole Oceanographic Institution
 CGINS-METWND-00271,,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,Star Engineering,ABS101-SWND,SWND271,,,,,Oregon State University
+CGINS-METWND-00706,,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,R. M. Young,VO85010X-WND,WND706,,,,R. M. Young (propeller/vane),Woods Hole Oceanographic Institution
 CGINS-MOPAK0-11343,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-11343,,,,,
 CGINS-MOPAK0-11345,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-11345,,,,,Woods Hole Oceanographic Institution
 CGINS-MOPAK0-11347,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-11347,,,,,
@@ -2193,6 +2195,7 @@ CGINS-PARADK-20608,,Sensor,0,Photosynthetically Available Radiation: PARAD Serie
 CGINS-PARADK-20609,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,,Biospherical Instruments,QSP-2200,20609,,,,,Woods Hole Oceanographic Institution
 CGINS-PARADK-20610,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,,Biospherical Instruments,QSP-2200,20610,,,,,Woods Hole Oceanographic Institution
 CGINS-PARADK-20611,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,,Biospherical Instruments,QSP-2200,20611,,,,,Woods Hole Oceanographic Institution
+CGINS-PARADK-20612,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,,Biospherical Instruments,QSP-2200,20612,,,,,Woods Hole Oceanographic Institution
 CGINS-PARADM-50145,N00304,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50145,,20121002,,,
 CGINS-PARADM-50146,N00309,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50146,,20121002,,,
 CGINS-PARADM-50147,N00314,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50147,,20121206,,,
