@@ -67,6 +67,8 @@ CGVEH-CSPPCP-00005,N00125,Node,0,Coastal Surface Piercing Profiler Controller,"P
 CGVEH-CWFPCE-37801,,Node,0,Coastal Wire-Following Profiler,WFP COASTAL,McLane,MMP-7,ML14378-01,,20170907,,,Oregon State University
 CGVEH-CWFPCE-99103,A00285,Node,0,Coastal Wire-Following Profiler,WFP COASTAL,McLane,MMP-7,ML12991-03,,20130426,92259.49,210-3512,Oregon State University
 CGVEH-CWFPCE-99104,A00303,Node,0,Coastal Wire-Following Profiler,WFP COASTAL,McLane,MMP-7,ML12991-04,,20130510,92259.49,210-3512,Oregon State University
+CGVEH-CWFPCP-03501,,Node,0,Coastal Wire-Following Profiler,WFP COASTAL,McLane,Prawler,ML16035-01,,,,,Woods Hole Oceanographic Institution
+CGVEH-CWFPCP-03502,,Node,0,Coastal Wire-Following Profiler,WFP COASTAL,McLane,Prawler,ML16035-02,,,,,Woods Hole Oceanographic Institution
 CGVEH-CWFPCP-10301,A00846,Node,0,Coastal Wire-Following Profiler,WFP COASTAL,McLane,MMP-7,ML13103-01,,20140128,94082,,Woods Hole Oceanographic Institution
 CGVEH-CWFPCP-10302,A00847,Node,0,Coastal Wire-Following Profiler,WFP COASTAL,McLane,MMP-7,ML13103-02,,20140128,94082,,Woods Hole Oceanographic Institution
 CGVEH-CWFPCP-10303,A00848,Node,0,Coastal Wire-Following Profiler,WFP COASTAL,McLane,MMP-7,ML13103-03,,20140128,94082,,Woods Hole Oceanographic Institution
