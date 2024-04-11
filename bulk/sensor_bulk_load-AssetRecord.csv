@@ -1074,6 +1074,8 @@ CGINS-CTDPFL-00150,OL000039,Sensor,0,CTD Profiler: CTDPF Series L,CTDPF Series L
 CGINS-CTDPFL-00151,OL000043,Sensor,0,CTD Profiler: CTDPF Series L,CTDPF Series L,Sea-Bird Electronics,SBE 52-MP,151,,,,,
 CGINS-CTDPFL-00152,OL000051,Sensor,0,CTD Profiler: CTDPF Series L,CTDPF Series L,Sea-Bird Electronics,SBE 52-MP,152,,,,,
 CGINS-CTDPFL-00153,OL000055,Sensor,0,CTD Profiler: CTDPF Series L,CTDPF Series L,Sea-Bird Electronics,SBE 52-MP,153,,,,,
+CGINS-CTDPFP-00068,,Sensor,0,CTD Profiler: CTDPF Series P,,Sea-Bird Electronics,SBE 37-SM,709-0068,,,,,Woods Hole Oceanographic Institution
+CGINS-CTDPFP-00070,,Sensor,0,CTD Profiler: CTDPF Series P,,Sea-Bird Electronics,SBE 37-SM,709-0070,,,,,Woods Hole Oceanographic Institution
 CGINS-DOFSTK-00209,N00002,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML12714-01,Sea-Bird Electronics,SBE 43F,43-0209,,20110617,,,Woods Hole Oceanographic Institution
 CGINS-DOFSTK-02397,N00009,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML12936-01,Sea-Bird Electronics,SBE 43F,43-2397,,20130122,,,Woods Hole Oceanographic Institution
 CGINS-DOFSTK-02496,N00051,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML12991-03,Sea-Bird Electronics,SBE 43F,43-2496,,20130426,,,Oregon State University
@@ -1092,6 +1094,8 @@ CGINS-DOFSTK-03506,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFS
 CGINS-DOFSTK-03523,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML14300-02,Sea-Bird Electronics,SBE 43F,43-3523,,20170627,,,Woods Hole Oceanographic Institution
 CGINS-DOFSTK-03535,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML14378-01,Sea-Bird Electronics,SBE 43F,43-3535,,20170907,,,Oregon State University
 CGINS-DOFSTK-04361,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML14378-01,Sea-Bird Electronics,SBE 43F,43-4361,,20230201,,,Oregon State University
+CGINS-DOFSTP-04320,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series P,DOFST for Prawler,Aanderaa,Optode 4831,4320,,,,,Woods Hole Oceanographic Institution
+CGINS-DOFSTP-04321,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series P,DOFST for Prawler,Aanderaa,Optode 4831,4321,,,,,Woods Hole Oceanographic Institution
 CGINS-DOSTAD-00030,N00323,Sensor,0,Dissolved Oxygen Stable Response bought for Glider deployed on a surface mooring: DOSTA Series D,DOSTA for Slocum Glider,Aanderaa,Optode 4831,30,,20121228,,,
 CGINS-DOSTAD-00100,N00328,Sensor,0,Dissolved Oxygen Stable Response bought for Glider deployed on a surface mooring: DOSTA Series D,DOSTA for Slocum Glider,Aanderaa,Optode 4831,100,,20121228,,,
 CGINS-DOSTAD-00126,A00176,Sensor,0,Dissolved Oxygen Stable Response: DOSTA Series D,DOSTA SERIES D (AADI 4831),Aanderaa,Optode 4831,126,,20130128,5258.25,,Woods Hole Oceanographic Institution
