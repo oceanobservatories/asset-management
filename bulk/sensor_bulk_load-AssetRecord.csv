@@ -718,6 +718,7 @@ CGINS-CTDGVM-09678,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Gli
 CGINS-CTDGVM-09686,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9686,,,,,Woods Hole Oceanographic Institution
 CGINS-CTDGVM-09690,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9690,,,,,
 CGINS-CTDGVM-09692,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9692,1.3.1,20210403,,,Oregon State University
+CGINS-CTDGVM-09977,,Sensor,1,CTD for Glider: CTDGV Series M,CTDGV for Slocum Glider,Sea-Bird Electronics,SBE Slocum Glider Payload CTD (GP-CTD),9977,1.3.1,20231220,,,Oregon State University
 CGINS-CTDMOG-10214,A00103,Sensor,0,CTD Mooring (Inductive): CTDMO Series G,CTDMO SERIES G (37IM),Sea-Bird Electronics,SBE 37-IM,37-10214,,20121212,6400,,Woods Hole Oceanographic Institution
 CGINS-CTDMOG-10215,A00104,Sensor,0,CTD Mooring (Inductive): CTDMO Series G,CTDMO SERIES G (37IM),Sea-Bird Electronics,SBE 37-IM,37-10215,,20121212,6400,,Woods Hole Oceanographic Institution
 CGINS-CTDMOG-10216,A00105,Sensor,0,CTD Mooring (Inductive): CTDMO Series G,CTDMO SERIES G (37IM),Sea-Bird Electronics,SBE 37-IM,37-10216,,20121212,6400,,Woods Hole Oceanographic Institution
@@ -1074,6 +1075,8 @@ CGINS-CTDPFL-00150,OL000039,Sensor,0,CTD Profiler: CTDPF Series L,CTDPF Series L
 CGINS-CTDPFL-00151,OL000043,Sensor,0,CTD Profiler: CTDPF Series L,CTDPF Series L,Sea-Bird Electronics,SBE 52-MP,151,,,,,
 CGINS-CTDPFL-00152,OL000051,Sensor,0,CTD Profiler: CTDPF Series L,CTDPF Series L,Sea-Bird Electronics,SBE 52-MP,152,,,,,
 CGINS-CTDPFL-00153,OL000055,Sensor,0,CTD Profiler: CTDPF Series L,CTDPF Series L,Sea-Bird Electronics,SBE 52-MP,153,,,,,
+CGINS-CTDPFP-00068,,Sensor,0,CTD Profiler: CTDPF Series P,,Sea-Bird Electronics,SBE 37-SM,709-0068,,,,,Woods Hole Oceanographic Institution
+CGINS-CTDPFP-00070,,Sensor,0,CTD Profiler: CTDPF Series P,,Sea-Bird Electronics,SBE 37-SM,709-0070,,,,,Woods Hole Oceanographic Institution
 CGINS-DOFSTK-00209,N00002,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML12714-01,Sea-Bird Electronics,SBE 43F,43-0209,,20110617,,,Woods Hole Oceanographic Institution
 CGINS-DOFSTK-02397,N00009,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML12936-01,Sea-Bird Electronics,SBE 43F,43-2397,,20130122,,,Woods Hole Oceanographic Institution
 CGINS-DOFSTK-02496,N00051,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML12991-03,Sea-Bird Electronics,SBE 43F,43-2496,,20130426,,,Oregon State University
@@ -1092,6 +1095,8 @@ CGINS-DOFSTK-03506,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFS
 CGINS-DOFSTK-03523,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML14300-02,Sea-Bird Electronics,SBE 43F,43-3523,,20170627,,,Woods Hole Oceanographic Institution
 CGINS-DOFSTK-03535,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML14378-01,Sea-Bird Electronics,SBE 43F,43-3535,,20170907,,,Oregon State University
 CGINS-DOFSTK-04361,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series K,DOFST for WFP Coastal ML14378-01,Sea-Bird Electronics,SBE 43F,43-4361,,20230201,,,Oregon State University
+CGINS-DOFSTP-04320,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series P,DOFST for Prawler,Aanderaa,Optode 4831,4320,,,,,Woods Hole Oceanographic Institution
+CGINS-DOFSTP-04321,,Sensor,0,Dissolved Oxygen Fast Response: DOFST Series P,DOFST for Prawler,Aanderaa,Optode 4831,4321,,,,,Woods Hole Oceanographic Institution
 CGINS-DOSTAD-00030,N00323,Sensor,0,Dissolved Oxygen Stable Response bought for Glider deployed on a surface mooring: DOSTA Series D,DOSTA for Slocum Glider,Aanderaa,Optode 4831,30,,20121228,,,
 CGINS-DOSTAD-00100,N00328,Sensor,0,Dissolved Oxygen Stable Response bought for Glider deployed on a surface mooring: DOSTA Series D,DOSTA for Slocum Glider,Aanderaa,Optode 4831,100,,20121228,,,
 CGINS-DOSTAD-00126,A00176,Sensor,0,Dissolved Oxygen Stable Response: DOSTA Series D,DOSTA SERIES D (AADI 4831),Aanderaa,Optode 4831,126,,20130128,5258.25,,Woods Hole Oceanographic Institution
@@ -1288,7 +1293,10 @@ CGINS-DOSTAM-00685,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA 
 CGINS-DOSTAM-00864,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,864,,,,,Oregon State University
 CGINS-DOSTAM-00891,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,891,5.1.1,20210403,,,Oregon State University
 CGINS-DOSTAM-00909,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,909,,,,,
+CGINS-DOSTAM-01054,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,1054,,20220809,,,Oregon State University
+CGINS-DOSTAM-01055,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,1055,,20220809,,,Oregon State University
 CGINS-DOSTAM-01059,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,1059,,,,,
+CGINS-DOSTAM-01125,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,1125,,20231220,,,Oregon State University
 CGINS-DOSTAM-99999,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,UNKNOWN,,,,Placeholder for unknown S/N,
 CGINS-DOSTAM-01407,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,1407,,,,,
 CGINS-DOSTAN-01519,,Sensor,1,Dissolved Oxygen for AUV: DOSTA Series N,DOSTA for Hydroid AUV,Aanderaa,Optode 4330,1519,,,,CGSN AUV Instrument Pool,Woods Hole Oceanographic Institution
@@ -1560,6 +1568,7 @@ CGINS-FLORTM-06744,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M
 CGINS-FLORTM-06642,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,6642,,,,,
 CGINS-FLORTM-07031,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,7031,,20220406,,,Oregon State University
 CGINS-FLORTM-08063,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,8063,,,,,Woods Hole Oceanographic Institution
+CGINS-FLORTM-08440,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,8440,4.07,20231220,,,Oregon State University
 CGINS-FLORTN-01108,,Sensor,1,3-Wavelength Fluorometer for AUV: FLORT Series N,FLORT for AUV,WET Labs,ECO Triplet,1108,,,,CGSN AUV Instrument Pool,
 CGINS-FLORTN-01109,,Sensor,1,3-Wavelength Fluorometer for AUV: FLORT Series N,FLORT for AUV,WET Labs,ECO Triplet,1109,,,,CGSN AUV Instrument Pool,
 CGINS-FLORTN-01645,,Sensor,1,3-Wavelength Fluorometer for AUV: FLORT Series N,FLORT for AUV,WET Labs,ECO Triplet,1645,,,,CGSN AUV Instrument Pool,
@@ -2260,6 +2269,7 @@ CGINS-PARADM-50324,,Sensor,1,Photosynthetically Available Radiation for Glider: 
 CGINS-PARADM-50328,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50328,,,,,Woods Hole Oceanographic Institution
 CGINS-PARADM-50333,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50333,,,,,
 CGINS-PARADM-50336,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50336,1.2,20210403,,,Oregon State University
+CGINS-PARADM-50397,,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50397,1.2,20231220,,,Oregon State University
 CGINS-PARADN-50170,,Sensor,1,Photosynthetically Available Radiation for AUV: PARAD Series N,PARAD for Hydroid AUV,Biospherical Instruments,QSP-2155,50170,,,,CGSN AUV Instrument Pool,
 CGINS-PARADN-50180,,Sensor,1,Photosynthetically Available Radiation for AUV: PARAD Series N,PARAD for Hydroid AUV,Biospherical Instruments,QSP-2155,50180,,,,CGSN AUV Instrument Pool,
 CGINS-PARADN-50266,,Sensor,1,Photosynthetically Available Radiation for AUV: PARAD Series N,PARAD for Hydroid AUV,Biospherical Instruments,QSP-2155,50266,,,,CGSN AUV Instrument Pool,
