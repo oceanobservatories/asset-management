@@ -4,5 +4,5 @@ serial,name,value,notes
 19151,CC_scale_factor3,0.45,constant
 19151,CC_scale_factor4,0.45,constant
 19151,CC_bin_size,400,in cm
-19151,CC_dist_first_bin,901,in cm
+19151,CC_dist_first_bin,840,in cm
 19151,CC_orientation,1,1 is upward looking; 0 is downward looking
