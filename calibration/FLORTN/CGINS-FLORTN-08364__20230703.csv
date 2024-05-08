@@ -1,0 +1,5 @@
+serial,name,value,notes
+8364,CC_angular_resolution,1.076,
+8364,CC_depolarization_ratio,0.039,
+8364,CC_measurement_wavelength,700,
+8364,CC_scattering_angle,124,
