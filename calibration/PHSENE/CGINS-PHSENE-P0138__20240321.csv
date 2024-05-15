@@ -1,0 +1,9 @@
+serial,name,value,notes
+P0138,CC_ea434,17372.0, source_file PHSEN-E_SAMI-pH_SN_P0138_Validation_Files_2024-03-21.zip > SAMI_P0138_210324t_ValCert.pdf
+P0138,CC_ea578,94.1,
+P0138,CC_eb434,2284.1,
+P0138,CC_eb578,38676.5,
+P0138,CC_ind_off,0,
+P0138,CC_ind_slp,1,
+P0138,CC_psal,35,Constant
+P0138,CC_sami_bits,12,
