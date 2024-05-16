@@ -1,0 +1,3 @@
+serial,name,value,notes
+427,CC_conc_coef,"[-9.850448E-01, 1.010997E+00]","[offset, slope]; source_file DOSTA-D_Optode-4831_SN_427_Calibration_Certificate_2024-02-07.pdf"
+427,CC_csv,"[2.58444E-03, 1.08688E-04, 2.20241E-06, 2.28620E02, -3.14344E-01, -5.54698E01, 4.59266E00]",
