@@ -1,0 +1,9 @@
+serial,name,value,notes
+LGR007,CC_depth_of_conductivity_and_temperature_measurements_m,1.37,GI01SUMO-00011 METBK2
+LGR007,CC_height_of_air_humidity_measurement_m,5.255,
+LGR007,CC_height_of_air_temperature_measurement_m,5.255,
+LGR007,CC_height_of_windspeed_sensor_above_sealevel_m,5.74,
+LGR007,CC_jcool,1,Constant
+LGR007,CC_jwarm,1,Constant
+LGR007,CC_zinvpbl,600,Constant
+LGR007,CC_use_velpt,1,Constant

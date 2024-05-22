@@ -1876,6 +1876,8 @@ CGINS-METPRC-00271,A02007,Sensor,0,Bulk Meteorology Instrument Package: METBK PR
 CGINS-METPRC-00272,A01722,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC272,,20150815,8560,,
 CGINS-METPRC-00273,A01724,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC273,,20150815,8560,,
 CGINS-METPRC-00276,A02137,Sensor,0,Bulk Meteorology Instrument Package: METBK PRC Module,METBK PRC MODULE,Star Engineering,ABS103-PRC,PRC276,,,,,Woods Hole Oceanographic Institution
+CGINS-METRMY-00244,,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,R. M. Young,VO85010X-WND,WND244,,,,,Woods Hole Oceanographic Institution
+CGINS-METRMY-00245,,Sensor,0,Bulk Meteorology Instrument Package: METBK WND Module,METBK WND MODULE,R. M. Young,VO85010X-WND,WND245,,,,,Woods Hole Oceanographic Institution
 CGINS-METSWR-00242,A00188,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR242,,20121226,11200,,
 CGINS-METSWR-00243,A00195,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR243,,20121226,11200,,
 CGINS-METSWR-00244,A00202,Sensor,0,Bulk Meteorology Instrument Package: METBK SWR Module,METBK SWR MODULE,Star Engineering,ABS105-SWR,SWR244,,20121231,11200,,
@@ -2168,6 +2170,7 @@ CGINS-OPTAAD-00267,N00702,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIE
 CGINS-OPTAAD-00315,,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIES D,WET Labs,AC-S,ACS-315,,,,,
 CGINS-OPTAAD-00344,,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIES D,WET Labs,AC-S,ACS-344,,,,,
 CGINS-OPTAAD-00397,,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIES D,WET Labs,AC-S,ACS-397,,,,,
+CGINS-OPTAAD-00422,,Sensor,0,Spectrophotometer: OPTAA Series D,OPTAA SERIES D,WET Labs,AC-S,ACS-422,,,,,Woods Hole Oceanographic Institution
 CGINS-OPTAAJ-00137,N00589,Sensor,0,Spectrophotometer: OPTAA Series J,OPTAA for WLP-001,WET Labs,AC-S,ACS-137,,20130630,38969.75,,Oregon State University
 CGINS-OPTAAJ-00138,N00573,Sensor,0,Spectrophotometer: OPTAA Series J,OPTAA for WLP-003,WET Labs,AC-S,ACS-138,,20140616,38969.75,,Oregon State University
 CGINS-OPTAAJ-00139,N00581,Sensor,0,Spectrophotometer: OPTAA Series J,OPTAA for WLP-002,WET Labs,AC-S,ACS-139,,20140630,38969.75,,Oregon State University
@@ -2428,6 +2431,9 @@ CGINS-PHSENF-P0180,A01713,Sensor,0,Seawater pH: PHSEN Series F,PHSEN SERIES F,Su
 CGINS-PHSENF-P0181,A01714,Sensor,0,Seawater pH: PHSEN Series F,PHSEN SERIES F,Sunburst Sensors,SAMI-pH,P0181,,20150818,18827.5,,
 CGINS-PHSENF-P0182,A01715,Sensor,0,Seawater pH: PHSEN Series F,PHSEN SERIES F,Sunburst Sensors,SAMI-pH,P0182,,20150818,18827.5,,
 CGINS-PHSENF-P0183,A01716,Sensor,0,Seawater pH: PHSEN Series F,PHSEN SERIES F,Sunburst Sensors,SAMI-pH,P0183,,20150818,18827.5,,
+CGINS-PHSENG-02054,,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2054,,,,,Woods Hole Oceanographic Institution
+CGINS-PHSENH-02064,,Sensor,0,Seawater pH: PHSEN Series H,PHSEN SERIES H,Sea-Bird Electronics,Deep SeapHOx (2000 m),721-2064,,,,,Woods Hole Oceanographic Institution
+CGINS-PHSENH-02065,,Sensor,0,Seawater pH: PHSEN Series H,PHSEN SERIES H,Sea-Bird Electronics,Deep SeapHOx (2000 m),721-2065,,,,,Woods Hole Oceanographic Institution
 CGINS-PLIMSA-00199,A04366,Sensor,0,Phytoplankon Imagery: PLIMS Series A,PLIMS SERIES A,McLane,ImagingFlowCytoBot (IFCB),199,,20231013,135375,,Woods Hole Oceanographic Institution
 CGINS-PLIMSA-00200,A04365,Sensor,0,Phytoplankon Imagery: PLIMS Series A,PLIMS SERIES A,McLane,ImagingFlowCytoBot (IFCB),200,,20231013,135375,,Woods Hole Oceanographic Institution
 CGINS-PLIMSA-00206,A04386,Sensor,0,Phytoplankon Imagery: PLIMS Series A,PLIMS SERIES A,McLane,ImagingFlowCytoBot (IFCB),206,,20240102,135375,,Woods Hole Oceanographic Institution
