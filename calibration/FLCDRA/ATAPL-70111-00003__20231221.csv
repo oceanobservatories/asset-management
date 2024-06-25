@@ -1,0 +1,3 @@
+serial,name,value,notes
+3460,CC_dark_counts_cdom,50,
+3460,CC_scale_factor_cdom,0.0305,
