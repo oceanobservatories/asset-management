@@ -4,8 +4,9 @@ Icon*
 *.pyc
 .DS_Store
 
-.DS_Store
-
 *.ipynb_checkpoints
 
 Untitled.ipynb
+
+# vscode
+launch.json
