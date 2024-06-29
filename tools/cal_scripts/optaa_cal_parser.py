@@ -42,7 +42,7 @@ class OPTAACalibration(Calibration):
                     tString = ['tcal:','Tcal:']
                     if any(lineStart in parts[0] for lineStart in tString):
                     #if parts[0] == 'tcal:':
-                        self.tcal = parts[1]
+                        self.tcal = parts[1].replace("C", "")
                         self.coefficients['CC_tcal'] = self.tcal
                         cal_date = parts[-1:][0].strip(string.punctuation)
                         print(cal_date)
