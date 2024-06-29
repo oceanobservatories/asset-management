@@ -24,10 +24,11 @@ class FLCDRACalibration(Calibration):
         with open(filename, encoding="utf8", errors='ignore') as fh:
             for line in fh:
                 parts = line.split()
+                print(parts)
                 if not len(parts):  # skip blank lines
                     continue
                 if 'ECO' == parts[0]:
-                    self.serial = parts[-1].split('-')[1]
+                    self.serial = parts[-1]
                 elif 'Created' == parts[0]:
                     try:
                         self.date = datetime.datetime.strptime(parts[-1], '%m/%d/%Y').strftime('%Y%m%d')
