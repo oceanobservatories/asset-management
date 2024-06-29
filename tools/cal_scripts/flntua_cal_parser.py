@@ -13,6 +13,7 @@ import sys
 import time
 import json
 from common_code.cal_parser_template import Calibration
+from loguru import logger
 
 
 class FLNTUACalibration(Calibration):
@@ -37,7 +38,9 @@ class FLNTUACalibration(Calibration):
                 if not len(parts):  # skip blank lines
                     continue
                 if 'ECO' == parts[0]:
-                    self.serial = parts[1]
+                    # strip the funny chars that find their way into seabird serial numbers
+                    self.serial = parts[1].replace("_", "").replace("BB", "")
+                    logger.info(f"Serial number parsed from file {self.serial}")
                 elif 'Created' == parts[0]:
                     self.date = datetime.datetime.strptime(
                         parts[-1], '%m/%d/%y').strftime('%Y%m%d')
@@ -58,6 +61,7 @@ class FLNTUACalibration(Calibration):
 def main():
     for path, directories, files in os.walk('FLNTUA/manufacturer'):
         for file in files:
+            logger.info(f"File: {file}")
             # Skip hidden files
             if file[0] == '.':
                 continue
