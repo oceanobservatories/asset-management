@@ -1230,6 +1230,14 @@ CP15MOAS-GL387-02-FLORTM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 387
 CP15MOAS-GL387-03-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 387,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
 CP15MOAS-GL387-04-DOSTAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 387,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
 CP15MOAS-GL387-05-PARADM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 387,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP15MOAS-PG564,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 564,,,,0,1000
+CP15MOAS-PG564-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 564,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+CP15MOAS-PG564-01-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 564,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP15MOAS-PG564-02-DOSTAM000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 564,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP15MOAS-PG564-03-FLORTM000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 564,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP15MOAS-PG564-04-FLORTO000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 564,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,1000
+CP15MOAS-PG564-05-NUTNRM000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 564,Nitrate,Satlantic,SUNA V2,0,1000
+CP15MOAS-PG564-06-PARADM000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 564,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
 CP15MOAS-PG583,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 583,,,,0,1000
 CP15MOAS-PG583-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 583,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
 CP15MOAS-PG583-01-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 583,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
