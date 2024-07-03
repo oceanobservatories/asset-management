@@ -1,0 +1,11 @@
+serial,name,value,notes
+C0079,CC_cala,0.0495,
+C0079,CC_calb,0.6194,
+C0079,CC_calc,-1.5153,
+C0079,CC_calt,7.3871,
+C0079,CC_ea434,19706,
+C0079,CC_ea620,34,
+C0079,CC_eb434,3073,
+C0079,CC_eb620,44327,
+C0079,CC_sami_bits,12,
+C0079,CC_cal_range,"[202,1188]",
