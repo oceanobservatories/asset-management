@@ -2129,6 +2129,7 @@ RS01SBPS-LV01A,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Moor
 RS01SBPS-PC01A,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,200m Platform (PC01A),,,,200,200
 RS01SBPS-PC01A-05-ADCPTD102,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,200m Platform (PC01A),Velocity Profiler (150kHz),Teledyne RDI,Workhorse Quartermaster Monitor 150kHz,200,200
 RS01SBPS-PC01A-06-VADCPA101,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,200m Platform (PC01A),5-Beam Velocity Profiler (600 kHz),Teledyne RDI,Workhorse custom 600 kHz 5 Beam,200,200
+RS01SBPS-PC01A-06-VADCPB101,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,200m Platform (PC01A),5-Beam Velocity Profiler (500 kHz),Nortek,Signature 560,200,200
 RS01SBPS-PC01A-07-CAMDSC102,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,200m Platform (PC01A),Digital Still Camera,Kongsberg,Custom Digital Still Camera Assembly,200,200
 RS01SBPS-PC01A-08-HYDBBA103,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,200m Platform (PC01A),Broadband Acoustic Receiver (Hydrophone),Ocean Sonics,icListen HF,200,200
 RS01SBPS-PC01A-4A-CTDPFA103,Cabled Continental Margin,Oregon Slope Base Shallow Profiler Mooring,200m Platform (PC01A),CTD,Sea-Bird,SBE 16plusV2,200,200
@@ -2224,6 +2225,7 @@ RS03AXPS-LV03A,Cabled Axial Seamount,Axial Base Shallow Profiler Mooring,Low-Vol
 RS03AXPS-PC03A,Cabled Axial Seamount,Axial Base Shallow Profiler Mooring,200m Platform (PC03A),,,,200,200
 RS03AXPS-PC03A-05-ADCPTD302,Cabled Axial Seamount,Axial Base Shallow Profiler Mooring,200m Platform (PC03A),Velocity Profiler (150kHz),Teledyne RDI,Workhorse Quartermaster Monitor 150kHz,200,200
 RS03AXPS-PC03A-06-VADCPA301,Cabled Axial Seamount,Axial Base Shallow Profiler Mooring,200m Platform (PC03A),5-Beam Velocity Profiler (600 kHz),Teledyne RDI,Workhorse custom 600 kHz 5 Beam,200,200
+RS03AXPS-PC03A-06-VADCPB301,Cabled Axial Seamount,Axial Base Shallow Profiler Mooring,200m Platform (PC03A),5-Beam Velocity Profiler (500 kHz),Nortek,Signature 560,200,200
 RS03AXPS-PC03A-07-CAMDSC302,Cabled Axial Seamount,Axial Base Shallow Profiler Mooring,200m Platform (PC03A),Digital Still Camera,Kongsberg,Custom Digital Still Camera Assembly,200,200
 RS03AXPS-PC03A-08-HYDBBA303,Cabled Axial Seamount,Axial Base Shallow Profiler Mooring,200m Platform (PC03A),Broadband Acoustic Receiver (Hydrophone),Ocean Sonics,icListen HF,200,200
 RS03AXPS-PC03A-4A-CTDPFA303,Cabled Axial Seamount,Axial Base Shallow Profiler Mooring,200m Platform (PC03A),CTD,Sea-Bird,SBE 16plusV2,200,200
@@ -2277,6 +2279,7 @@ RS03INT2-MJ03D,Cabled Axial Seamount,International District Vent Field 2,Medium-
 RS03INT2-MJ03D-05-OBSSPA305,Cabled Axial Seamount,International District Vent Field 2,Medium-Power JBox (MJ03D),Short-Period Ocean Bottom Seismometer,Guralp,CMG-6TF,1527,1527
 RS03INT2-MJ03D-06-BOTPTA303,Cabled Axial Seamount,International District Vent Field 2,Medium-Power JBox (MJ03D),Bottom Pressure and Tilt,PMEL/Chadwick,PMELcabled BPR/Tilt,1527,1527
 RS03INT2-MJ03D-12-VEL3DB304,Cabled Axial Seamount,International District Vent Field 2,Medium-Power JBox (MJ03D),3-D Single Point Velocity Meter,Nobska,MAVS-4,1527,1527
+RS03INT2-MJ03D-11-CTDPFB307,Cabled Axial Seamount,International District Vent Field 2,Medium-Power JBox (MJ03D),CTD,Sea-Bird,SBE 16plusV2,1527,1527
 RS05MPPI,Cabled Juan de Fuca Mid-Plate,Primary Infrastructure,,,,,2820,2820
 RS05MPPI-PN05A,Cabled Juan de Fuca Mid-Plate,Primary Infrastructure,Primary Node (PN05A),,,,2820,2820
 SSRSPACC,Cabled Oregon Shore Station,Pacific City,,,,,0,0
