@@ -321,6 +321,8 @@ ATAPL-78520-00004,ATAPL-78520-00004,Sensor,0,Acoustic Doppler Current Profiler 5
 ATAPL-78520-00005,ATAPL-78520-00005,Sensor,0,Acoustic Doppler Current Profiler 5-beam 500 kHz: VADCP Series B,VADCPB,Nortek,Signature 560,104547,,,,,University of Washington
 ATAPL-90485-20001,ATAPL-90485-20001,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Bio-acoustic Sonar,Kongsberg Underwater Technology Inc,EK-80,1,,,,,University of Washington
 ATAPL-90485-20002,ATAPL-90485-20002,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Bio-acoustic Sonar,Kongsberg Underwater Technology Inc,EK-80,2,,,,,University of Washington
+ATAPL-90485-20004,ATAPL-90485-20004,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Bio-acoustic Sonar,Kongsberg Underwater Technology Inc,EK-80,4,,,,,University of Washington
+ATAPL-90485-20005,ATAPL-90485-20005,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Bio-acoustic Sonar,Kongsberg Underwater Technology Inc,EK-80,5,,,,,University of Washington
 ATCWK-67627-00006,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 3500m,Sea-Bird Electronics,SBE 16plus V2,16-50209,3.1.8,20170401,16060,PI,University of Washington
 ATCWK-67627-00007,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 3500m,Sea-Bird Electronics,SBE 16plus V2,16-50210,3.1.8,20170401,16060,PI,University of Washington
 ATCWK-67627-00008,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 2000m,Sea-Bird Electronics,SBE 16plus V2,16-50321,3.1.8,,,PI,University of Washington
@@ -390,6 +392,8 @@ ATOSU-69826-00003,ATOSU-69826-00003,Sensor,0,ADCP Velocity Profiler (short range
 ATOSU-69827-00001,CGINS-CTDBPN-07230,Sensor,0,CTD Pumped: CTDBP Series N,CTDBP SERIES N (N-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7230,,20121203,17500,OSU reports S/N 16P7116-7230,
 ATOSU-69827-00002,ATOSU-69827-00002,Sensor,0,CTD Pumped: CTDBP Series N,CTDBP SERIES N (N-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50114,,20150514,19135,,
 ATOSU-69827-00003,ATOSU-69827-00003,Sensor,0,CTD Pumped: CTDBP Series N,CTDBP SERIES N (N-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7248,,20130115,17550,,
+ATAPL-69827-10004,ATAPL-69827-10004,Sensor,0,CTD Pumped: CTDBP Series N,CTDBP SERIES N (N-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7248,,20130115,16-50634,,
+ATAPL-69827-10005,ATAPL-69827-10004,Sensor,0,CTD Pumped: CTDBP Series N,CTDBP SERIES N (N-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7248,,20130115,16-50635,,
 ATOSU-69828-00001,ATOSU-69828-00001,Sensor,0,CTD Pumped: CTDBP Series O,CTDBP SERIES O (O-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7231,,20121203,18250,,
 ATOSU-69828-00002,CGINS-CTDBPO-07249,Sensor,0,CTD Pumped: CTDBP Series O,CTDBP SERIES O (O-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7249,,,,,
 ATOSU-69828-00003,CGINS-CTDBPO-50117,Sensor,0,CTD Pumped: CTDBP Series O,CTDBP SERIES O (O-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50117,,20150514,19885,Former CGINS instrument,
@@ -2768,6 +2772,7 @@ OL000459,OL000459,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instrument
 OL000472,OL000472,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,CE09OSSM-00004+MOPAK,,,,CE09OSSM-00004,
 OL000473,OL000473,Sensor,0,Dissolved Oxygen Stable Response: DOSTA Series D,DOSTA SERIES D (AADI 4831),Aanderaa,Optode 4831,CE09OSSM-00004-DOSTA37-03,,,,CE09OSSM-00004,
 PIRSN-AOABPA-00001,PIRSN-AOABPA-00001,Sensor,0,A-0-A Calibrated Pressure Instrument,A-0-A Calibrated Pressure Instrument,Wilcock,Custom,1,,,,,PI
+PIRSN-AOABPA-10001,PIRSN-AOABPA-10001,Sensor,0,A-0-A Calibrated Pressure Instrument,A-0-A Calibrated Pressure Instrument,Wilcock,Custom,1-A,,,,,PI
 PIRSN-CAMPIA-00001,PIRSN-CAMPIA-00001,Sensor,0,MARUM Camera System,MARUM Camera System,MARUM,Custom,1,,,,,PI
 PIRSN-COVISA-00001,PIRSN-COVISA-00001,Sensor,0,Cabled Observatory Vent Imaging System,COVIS Series A,Bemis,Cusotm,1,,,,,PI
 PIRSN-CTDPFA-10001,PIRSN-CTDPFA-10001,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50216,,,,,PI
