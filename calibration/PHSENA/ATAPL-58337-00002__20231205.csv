@@ -1,0 +1,9 @@
+serial,name,value,notes
+P0112,CC_ea434,17372.0,
+P0112,CC_ea578,94.1,
+P0112,CC_eb434,2284.0,
+P0112,CC_eb578,38676.0,
+P0112,CC_ind_off,0,
+P0112,CC_ind_slp,1,
+P0112,CC_psal,35,no sal listed on cal sheet; using default 35
+P0112,CC_sami_bits,12,
