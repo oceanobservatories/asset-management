@@ -1,0 +1,11 @@
+serial,name,value,notes
+C0147,CC_cala,0.0185,coeffs from R:\c147_06_CalCert.pdf
+C0147,CC_calb,0.7920,
+C0147,CC_calc,-1.8161,
+C0147,CC_calt,10.8401,
+C0147,CC_ea434,19706,constant
+C0147,CC_ea620,34,constant
+C0147,CC_eb434,3073,constant
+C0147,CC_eb620,44327,constant
+C0147,CC_sami_bits,12,
+C0147,CC_cal_range,"[200,1999]",
