@@ -352,5 +352,7 @@ AT50-25,Atlantis,2024-06-10T00:00:00,2024-06-15T23:59:00,Papa glider gp_515 reco
 KH20240616,Kahuna,2024-06-16T09:00:00,2024-06-16T23:59:00,Pioneer glider cp_387 recovery
 STP20240618,Storm Petrel,2024-06-18T14:49:00,2024-06-19T20:44:00,Endurance CSPP operations and glider deployment
 PH20240630,Phideaux,2024-06-30T10:00:00,2024-06-30T21:00:00,Pioneer 20b glider deployments
-KH20240805,Kahuna,2024-08-05T14:00:00,2024-08-05T22:00:00,Pioneer gliders cp_387 and cp_913 recoveries 
+PS20240716,Pacific Storm,2024-07-16T22:00:00,2024-07-17T10:00:00,Endurance glider 1136 recovery
+KH20240805,Kahuna,2024-08-05T14:00:00,2024-08-05T22:00:00,Pioneer gliders cp_387 and cp_913 recoveries
+EK20240806,Elakha,2024-08-06T15:29:00,2024-08-06T23:52:00,Endurance glider deployments and CSPP operations
 AT50-29,Atlantis,2024-08-08T00:00:00,2024-09-09T00:00:00,Cabled (rvdata) Visions 24
