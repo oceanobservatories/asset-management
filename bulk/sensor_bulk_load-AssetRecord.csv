@@ -1046,8 +1046,18 @@ CGINS-CTDMOS-12337,A02068,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO
 CGINS-CTDMOS-12402,A02031,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-12402,,20140722,6775,converted from CTDMO-G to -S for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDMOS-12585,A01113,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-12585,,20141014,6775,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDMOS-13378,A01413,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13378,,20150514,7000,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
+CGINS-CTDMOS-13436,A01455,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13436,,20150601,7000,converted from CTDMO-G to -S for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDMOS-13558,A01539,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13558,,20150630,7000,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDMOS-13559,A01574,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13559,,20150701,7000,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
+CGINS-CTDMOS-13562,A01540,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13562,,20150630,7000,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
+CGINS-CTDMOS-13576,A01541,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13576,,20150630,7000,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
+CGINS-CTDMOS-13587,A01542,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13587,,20150630,7000,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
+CGINS-CTDMOS-13602,A01576,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13602,,20150701,7000,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
+CGINS-CTDMOS-13615,A01577,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13615,,20150701,7000,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
+CGINS-CTDMOS-13618,A01578,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13618,,20150701,7000,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
+CGINS-CTDMOS-13619,A01579,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13619,,20150701,7000,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
+CGINS-CTDMOS-13625,A01588,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13625,,20150701,7000,converted from CTDMO-G to -S for Pioneer MAB,Woods Hole Oceanographic Institution
+CGINS-CTDMOS-13635,A01590,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13635,,20150701,7000,converted from CTDMO-G to -S for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDPFJ-00308,N00594,Sensor,0,CTD Profiler: CTDPF Series J,CTDPF for WLP-001,Sea-Bird Electronics,SBE 49 Fast CAT,49-0308,,20130630,7000,,Oregon State University
 CGINS-CTDPFJ-00336,N00602,Sensor,0,CTD Profiler: CTDPF Series J,CTDPF for WLP-006,Sea-Bird Electronics,SBE 49 Fast CAT,49-0336,,20140929,7000,,Oregon State University
 CGINS-CTDPFJ-00346,N00578,Sensor,0,CTD Profiler: CTDPF Series J,CTDPF for WLP-003,Sea-Bird Electronics,SBE 49 Fast CAT,49-0346,,20140616,7000,,Oregon State University
@@ -2442,9 +2452,18 @@ CGINS-PHSENF-P0180,A01713,Sensor,0,Seawater pH: PHSEN Series F,PHSEN SERIES F,Su
 CGINS-PHSENF-P0181,A01714,Sensor,0,Seawater pH: PHSEN Series F,PHSEN SERIES F,Sunburst Sensors,SAMI-pH,P0181,,20150818,18827.5,,
 CGINS-PHSENF-P0182,A01715,Sensor,0,Seawater pH: PHSEN Series F,PHSEN SERIES F,Sunburst Sensors,SAMI-pH,P0182,,20150818,18827.5,,
 CGINS-PHSENF-P0183,A01716,Sensor,0,Seawater pH: PHSEN Series F,PHSEN SERIES F,Sunburst Sensors,SAMI-pH,P0183,,20150818,18827.5,,
-CGINS-PHSENG-02054,,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2054,,,,,Woods Hole Oceanographic Institution
-CGINS-PHSENH-02064,,Sensor,0,Seawater pH: PHSEN Series H,PHSEN SERIES H,Sea-Bird Electronics,Deep SeapHOx (2000 m),721-2064,,,,,Woods Hole Oceanographic Institution
-CGINS-PHSENH-02065,,Sensor,0,Seawater pH: PHSEN Series H,PHSEN SERIES H,Sea-Bird Electronics,Deep SeapHOx (2000 m),721-2065,,,,,Woods Hole Oceanographic Institution
+CGINS-PHSENG-02054,A04382,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2054,,20231227,45000,,Woods Hole Oceanographic Institution
+CGINS-PHSENG-02070,A04402,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2070,,20240717,45000,,Woods Hole Oceanographic Institution
+CGINS-PHSENG-02071,A04407,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2071,,20240719,45000,,Woods Hole Oceanographic Institution
+CGINS-PHSENG-02072,A04408,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2072,,20240719,45000,,Woods Hole Oceanographic Institution
+CGINS-PHSENG-02078,A04403,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2078,,20240717,45000,,Woods Hole Oceanographic Institution
+CGINS-PHSENG-02079,A04404,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2079,,20240717,45000,,Woods Hole Oceanographic Institution
+CGINS-PHSENG-02080,A04410,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2080,,20240802,45000,,Woods Hole Oceanographic Institution
+CGINS-PHSENG-02081,A04409,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2081,,20240719,45000,,Woods Hole Oceanographic Institution
+CGINS-PHSENG-02082,A04411,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2082,,20240802,45000,,Woods Hole Oceanographic Institution
+CGINS-PHSENG-02083,A04412,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2083,,20240802,45000,,Woods Hole Oceanographic Institution
+CGINS-PHSENH-02064,A04400,Sensor,0,Seawater pH: PHSEN Series H,PHSEN SERIES H,Sea-Bird Electronics,Deep SeapHOx (2000 m),721-2064,,20240502,45000,,Woods Hole Oceanographic Institution
+CGINS-PHSENH-02065,A04401,Sensor,0,Seawater pH: PHSEN Series H,PHSEN SERIES H,Sea-Bird Electronics,Deep SeapHOx (2000 m),721-2065,,20240502,45000,,Woods Hole Oceanographic Institution
 CGINS-PLIMSA-00199,A04366,Sensor,0,Phytoplankon Imagery: PLIMS Series A,PLIMS SERIES A,McLane,ImagingFlowCytoBot (IFCB),199,,20231013,135375,,Woods Hole Oceanographic Institution
 CGINS-PLIMSA-00200,A04365,Sensor,0,Phytoplankon Imagery: PLIMS Series A,PLIMS SERIES A,McLane,ImagingFlowCytoBot (IFCB),200,,20231013,135375,,Woods Hole Oceanographic Institution
 CGINS-PLIMSA-00206,A04386,Sensor,0,Phytoplankon Imagery: PLIMS Series A,PLIMS SERIES A,McLane,ImagingFlowCytoBot (IFCB),206,,20240102,135375,,Woods Hole Oceanographic Institution
