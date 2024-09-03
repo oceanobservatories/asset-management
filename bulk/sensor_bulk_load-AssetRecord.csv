@@ -237,8 +237,8 @@ ATAPL-68073-00002,ATAPL-68073-00002,Sensor,0,ADCP Velocity Profiler (short range
 ATAPL-68073-00003,ATAPL-68073-00003,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series E,ADCP E-WHM150-6000m (ADCPT-E),Teledyne RDI,WHM150-6000,19224,,20130201,53533,,University of Washington
 ATAPL-68073-00004,ATAPL-68073-00004,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series E,ADCP E-WHM150-6000m (ADCPT-E),Teledyne RDI,WHM150-6000,23442,,20150529,56791,,University of Washington
 ATAPL-68073-00005,ATAPL-68073-00005,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series E,ADCP E-WHM150-6000m (ADCPT-E),Teledyne RDI,WHM150-6000,23443,,20150529,56791,,University of Washington
-ATAPL-69821-10004,ATAPL-69821-10004,Sensor,0,CTD Pumped: CTDBP Series N,CTDBP SERIES N (N-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7248,,20130115,16-50634,,
-ATAPL-69821-10005,ATAPL-69821-10005,Sensor,0,CTD Pumped: CTDBP Series N,CTDBP SERIES N (N-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-7248,,20130115,16-50635,,
+ATAPL-69821-10004,ATAPL-69821-10004,Sensor,0,CTD Pumped: CTDBP Series N,CTDBP SERIES N (N-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50634,,202406,,,
+ATAPL-69821-10005,ATAPL-69821-10005,Sensor,0,CTD Pumped: CTDBP Series N,CTDBP SERIES N (N-16PLUSV2),Sea-Bird Electronics,SBE 16plus V2,16-50635,,202406,,,
 ATAPL-69923-00001,ATAPL-69923-00001,Sensor,0,"Tidal Seafloor Pressure (Tsunameter 2,000 psia): PREST Series B","Seabird SBE54 Tsunameter 2,000 psia (1300 meter) (PREST)",Sea-Bird Electronics,SBE 54,5471540-0031,,20130102,15900,,University of Washington
 ATAPL-69923-00002,ATAPL-69923-00002,Sensor,0,"Tidal Seafloor Pressure (Tsunameter 2,000 psia): PREST Series B",PREST-B,Sea-Bird Electronics,SBE 54,5471540-0047,,,,,University of Washington
 ATAPL-69943-00001,ATAPL-69943-00001,Sensor,0,Spectrophotometer: OPTAA Series C,AC-S Deep (optical attenuation and absorption instrument with biofouling/pump) per OPTAA delivery order,WET Labs,AC-S Deep,ACS-141,,20130726,41710,,University of Washington
