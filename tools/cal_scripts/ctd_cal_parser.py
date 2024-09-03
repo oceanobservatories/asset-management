@@ -174,6 +174,8 @@ class CTDCalibration(Calibration):
             return
         elif self.asset_tracking_number.find('69827') != -1:
             inst_type = 'CTDBPN'
+        elif self.asset_tracking_number.find('69821') != -1:
+            inst_type = 'CTDBPN'
         elif self.asset_tracking_number.find('69828') != -1:
             inst_type = 'CTDBPO'
         # Writes the calibration information to a comma-separated value file
