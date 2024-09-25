@@ -1,0 +1,7 @@
+serial,name,value,notes
+43-4511,CC_frequency_offset,-833.09,all coeffs from DOFST-K_SBE43F_SN_4511_Calibration_Files_2024-05-21.zip
+43-4511,CC_oxygen_signal_slope,3.0706e-004,this is the adjusted Soc (O2 signal slope) value
+43-4511,CC_residual_temperature_correction_factor_a,-2.8836e-003,
+43-4511,CC_residual_temperature_correction_factor_b,1.1191e-004,
+43-4511,CC_residual_temperature_correction_factor_c,-2.2337e-006,
+43-4511,CC_residual_temperature_correction_factor_e,3.600000e-002,
