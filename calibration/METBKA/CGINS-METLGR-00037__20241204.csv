@@ -1,0 +1,9 @@
+serial,name,value,notes
+LGR037,CC_depth_of_conductivity_and_temperature_measurements_m,1.11,CP10CNSM-00002 METBK2
+LGR037,CC_height_of_air_humidity_measurement_m,4.255,
+LGR037,CC_height_of_air_temperature_measurement_m,4.255,
+LGR037,CC_height_of_windspeed_sensor_above_sealevel_m,4.74,
+LGR037,CC_jcool,1,Constant
+LGR037,CC_jwarm,1,Constant
+LGR037,CC_zinvpbl,600,Constant
+LGR037,CC_use_velpt,1,Constant
