@@ -74,7 +74,7 @@ CE02SHSM-RID26-00-DCLENG000,Coastal Endurance,Oregon Shelf Surface Mooring,Near 
 CE02SHSM-RID26-01-ADCPTA000,Coastal Endurance,Oregon Shelf Surface Mooring,Near Surface Instrument Frame,Velocity Profiler (600kHz),Teledyne RDI,WorkHorse Sentinel 600khz,7,7
 CE02SHSM-RID26-04-VELPTA000,Coastal Endurance,Oregon Shelf Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
 CE02SHSM-RID26-06-PHSEND000,Coastal Endurance,Oregon Shelf Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
-CE02SHSM-RID16-06-PHSENG000,Coastal Endurance,Oregon Shelf Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sea-Bird,Deep SeapHOx (350 m),7,7
+CE02SHSM-RID26-06-PHSENG000,Coastal Endurance,Oregon Shelf Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sea-Bird,Deep SeapHOx (350 m),7,7
 CE02SHSM-RID26-07-NUTNRB000,Coastal Endurance,Oregon Shelf Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
 CE02SHSM-RID26-08-SPKIRB000,Coastal Endurance,Oregon Shelf Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
 CE02SHSM-RID27,Coastal Endurance,Oregon Shelf Surface Mooring,Near Surface Instrument Frame,,,,7,7
