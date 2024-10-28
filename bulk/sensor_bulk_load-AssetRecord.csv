@@ -1082,6 +1082,7 @@ CGINS-CTDPFK-00169,,Sensor,0,CTD Profiler: CTDPF Series K,,Sea-Bird Electronics,
 CGINS-CTDPFK-00184,,Sensor,0,CTD Profiler: CTDPF Series K,,Sea-Bird Electronics,SBE 52-MP,184,,20170627,,,Woods Hole Oceanographic Institution
 CGINS-CTDPFK-00185,,Sensor,0,CTD Profiler: CTDPF Series K,,Sea-Bird Electronics,SBE 52-MP,185,,20170627,,,Woods Hole Oceanographic Institution
 CGINS-CTDPFK-00189,,Sensor,0,CTD Profiler: CTDPF Series K,CTD for WFP Coastal ML14378-01,Sea-Bird Electronics,SBE 52-MP,189,,20170907,,,Oregon State University
+CGINS-CTDPFK-00257,,Sensor,0,CTD Profiler: CTDPF Series K,,Sea-Bird Electronics,SBE 52-MP,257,,20240611,,,Oregon State University
 CGINS-CTDPFL-00097,N00170,Sensor,0,CTD Profiler: CTDPF Series L,CTD Profiler,Sea-Bird Electronics,SBE 52-MP,97,,,,,
 CGINS-CTDPFL-00107,N00606,Sensor,0,CTD Profiler: CTDPF Series L,CTDPF for ML12936-02,Sea-Bird Electronics,SBE 52-MP,107,,20130320,,,
 CGINS-CTDPFL-00115,N00614,Sensor,0,CTD Profiler: CTDPF Series L,CTDPF for ML12997-01,Sea-Bird Electronics,SBE 52-MP,115,,20130320,,,
@@ -1590,6 +1591,7 @@ CGINS-FLORTM-06744,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M
 CGINS-FLORTM-06642,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,6642,,,,,
 CGINS-FLORTM-07031,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,7031,,20220406,,,Oregon State University
 CGINS-FLORTM-08063,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,8063,,,,,Woods Hole Oceanographic Institution
+CGINS-FLORTM-08412,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,8412,4.07,20231101,,,Oregon State University
 CGINS-FLORTM-08440,,Sensor,1,3-Wavelength Fluorometer for Glider: FLORT Series M,FLORT for Coastal Slocum Glider,WET Labs,ECO Puck FLBBCD-SLC,8440,4.07,20231220,,,Oregon State University
 CGINS-FLORTN-01108,,Sensor,1,3-Wavelength Fluorometer for AUV: FLORT Series N,FLORT for AUV,WET Labs,ECO Triplet,1108,,,,CGSN AUV Instrument Pool,
 CGINS-FLORTN-01109,,Sensor,1,3-Wavelength Fluorometer for AUV: FLORT Series N,FLORT for AUV,WET Labs,ECO Triplet,1109,,,,CGSN AUV Instrument Pool,
@@ -2463,6 +2465,15 @@ CGINS-PHSENG-02080,A04410,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Se
 CGINS-PHSENG-02081,A04409,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2081,,20240719,45000,,Woods Hole Oceanographic Institution
 CGINS-PHSENG-02082,A04411,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2082,,20240802,45000,,Woods Hole Oceanographic Institution
 CGINS-PHSENG-02083,A04412,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2083,,20240802,45000,,Woods Hole Oceanographic Institution
+CGINS-PHSENG-02056,,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2056,,20231229,45000,,Oregon State University
+CGINS-PHSENG-02086,,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2086,,20240812,45000,,Oregon State University
+CGINS-PHSENG-02087,,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2087,,20240812,45000,,Oregon State University
+CGINS-PHSENG-02088,,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2088,,20240812,45000,,Oregon State University
+CGINS-PHSENG-02089,,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2089,,20240812,45000,,Oregon State University
+CGINS-PHSENG-02090,,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2090,,20240812,45000,,Oregon State University
+CGINS-PHSENG-02100,,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2100,,20240828,45000,,Oregon State University
+CGINS-PHSENG-02101,,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2101,,20240828,45000,,Oregon State University
+CGINS-PHSENG-02102,,Sensor,0,Seawater pH: PHSEN Series G,PHSEN SERIES G,Sea-Bird Electronics,Deep SeapHOx (350 m),721-2102,,20240828,45000,,Oregon State University
 CGINS-PHSENH-02064,A04400,Sensor,0,Seawater pH: PHSEN Series H,PHSEN SERIES H,Sea-Bird Electronics,Deep SeapHOx (2000 m),721-2064,,20240502,45000,,Woods Hole Oceanographic Institution
 CGINS-PHSENH-02065,A04401,Sensor,0,Seawater pH: PHSEN Series H,PHSEN SERIES H,Sea-Bird Electronics,Deep SeapHOx (2000 m),721-2065,,20240502,45000,,Woods Hole Oceanographic Institution
 CGINS-PLIMSA-00199,A04366,Sensor,0,Phytoplankon Imagery: PLIMS Series A,PLIMS SERIES A,McLane,ImagingFlowCytoBot (IFCB),199,,20231013,135375,,Woods Hole Oceanographic Institution
