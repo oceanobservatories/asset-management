@@ -1,0 +1,3 @@
+serial,name,value,notes
+351,CC_conc_coef,"[0.0, 1.0]",date in filename comes from Aanderaa multipoint calibration certificate
+351,CC_csv,"[2.65775E-03, 1.13192E-04, 2.24921E-06, 2.29807E02, -3.50670E-01, -5.76013E01, 4.54899E00]",
