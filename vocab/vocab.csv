@@ -937,6 +937,7 @@ CP10CNSM-MFD36-03-TURBDA000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor
 CP10CNSM-MFD36-04-VELPTA000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 300m,29,29
 CP10CNSM-MFD36-05-PCO2WB000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,29,29
 CP10CNSM-MFD36-06-PHSEND000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,29,29
+CP10CNSM-MFD36-06-PHSENG000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sea-Bird Electronics,Deep SeapHOx (350 m),29,29
 CP10CNSM-MFD37,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),,,,29,29
 CP10CNSM-MFD37-00-DCLENG000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,29,29
 CP10CNSM-MFD37-01-OPTAAD000,Coastal Pioneer MAB,Central Surface Mooring,Seafloor Multi-Function Node (MFN),Spectrophotometer,WET Labs,AC-S,29,29
@@ -952,6 +953,7 @@ CP10CNSM-RID26-01-PRTSZA000,Coastal Pioneer MAB,Central Surface Mooring,Near Sur
 CP10CNSM-RID26-03-TURBDA000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Turbidity,Sea-Bird Electronics,ECO,7,7
 CP10CNSM-RID26-04-VELPTA000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
 CP10CNSM-RID26-06-PHSEND000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
+CP10CNSM-RID26-06-PHSENG000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sea-Bird Electronics,Deep SeapHOx (350 m),7,7
 CP10CNSM-RID26-07-NUTNRB000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
 CP10CNSM-RID26-08-SPKIRB000,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
 CP10CNSM-RID27,Coastal Pioneer MAB,Central Surface Mooring,Near Surface Instrument Frame,,,,7,7
@@ -1001,6 +1003,7 @@ CP11NOSM-MFD36-03-TURBDA000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloo
 CP11NOSM-MFD36-04-VELPTA000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 300m,99,99
 CP11NOSM-MFD36-05-PCO2WB000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,99,99
 CP11NOSM-MFD36-06-PHSEND000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,99,99
+CP11NOSM-MFD36-06-PHSENG000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sea-Bird Electronics,Deep SeapHOx (350 m),99,99
 CP11NOSM-MFD37,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),,,,99,99
 CP11NOSM-MFD37-00-DCLENG000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,99,99
 CP11NOSM-MFD37-01-OPTAAD000,Coastal Pioneer MAB,Northern Surface Mooring,Seafloor Multi-Function Node (MFN),Spectrophotometer,WET Labs,AC-S,99,99
@@ -1016,6 +1019,7 @@ CP11NOSM-RID26-01-PRTSZA000,Coastal Pioneer MAB,Northern Surface Mooring,Near Su
 CP11NOSM-RID26-03-TURBDA000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Turbidity,Sea-Bird Electronics,ECO,7,7
 CP11NOSM-RID26-04-VELPTA000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
 CP11NOSM-RID26-06-PHSEND000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
+CP11NOSM-RID26-06-PHSENG000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sea-Bird Electronics,Deep SeapHOx (350 m),7,7
 CP11NOSM-RID26-07-NUTNRB000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
 CP11NOSM-RID26-08-SPKIRB000,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
 CP11NOSM-RID27,Coastal Pioneer MAB,Northern Surface Mooring,Near Surface Instrument Frame,,,,7,7
@@ -1055,6 +1059,7 @@ CP11SOSM-MFD36-03-TURBDA000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloo
 CP11SOSM-MFD36-04-VELPTA000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Single Point Velocity Meter,Nortek,Aquadopp 300m,99,99
 CP11SOSM-MFD36-05-PCO2WB000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),pCO2 Water,Sunburst,SAMI-pCO2,99,99
 CP11SOSM-MFD36-06-PHSEND000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sunburst,SAMI-pH,99,99
+CP11SOSM-MFD36-06-PHSENG000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Seawater pH,Sea-Bird Electronics,Deep SeapHOx (350 m),99,99
 CP11SOSM-MFD37,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),,,,99,99
 CP11SOSM-MFD37-00-DCLENG000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,99,99
 CP11SOSM-MFD37-01-OPTAAD000,Coastal Pioneer MAB,Southern Surface Mooring,Seafloor Multi-Function Node (MFN),Spectrophotometer,WET Labs,AC-S,99,99
@@ -1070,6 +1075,7 @@ CP11SOSM-RID26-01-PRTSZA000,Coastal Pioneer MAB,Southern Surface Mooring,Near Su
 CP11SOSM-RID26-03-TURBDA000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Turbidity,Sea-Bird Electronics,ECO,7,7
 CP11SOSM-RID26-04-VELPTA000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
 CP11SOSM-RID26-06-PHSEND000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
+CP11SOSM-RID26-06-PHSENG000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sea-Bird Electronics,Deep SeapHOx (350 m),7,7
 CP11SOSM-RID26-07-NUTNRB000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
 CP11SOSM-RID26-08-SPKIRB000,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
 CP11SOSM-RID27,Coastal Pioneer MAB,Southern Surface Mooring,Near Surface Instrument Frame,,,,7,7
@@ -1219,6 +1225,13 @@ CP15MOAS-G0913-02-FLORTM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 913
 CP15MOAS-G0913-03-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 913,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
 CP15MOAS-G0913-04-DOSTAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 913,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
 CP15MOAS-G0913-05-PARADM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 913,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP15MOAS-GL335,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 335,,,,0,200
+CP15MOAS-GL335-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 335,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
+CP15MOAS-GL335-01-ADCPAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 335,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,200
+CP15MOAS-GL335-02-FLORTM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 335,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
+CP15MOAS-GL335-03-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 335,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
+CP15MOAS-GL335-04-DOSTAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 335,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
+CP15MOAS-GL335-05-PARADM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 335,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
 CP15MOAS-GL339,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 339,,,,0,200
 CP15MOAS-GL339-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 339,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
 CP15MOAS-GL339-01-ADCPAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 339,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,200
@@ -1247,6 +1260,13 @@ CP15MOAS-GL387-02-FLORTM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 387
 CP15MOAS-GL387-03-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 387,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
 CP15MOAS-GL387-04-DOSTAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 387,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
 CP15MOAS-GL387-05-PARADM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 387,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP15MOAS-GL388,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 388,,,,0,1000
+CP15MOAS-GL388-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 388,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+CP15MOAS-GL388-01-ADCPAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 388,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP15MOAS-GL388-02-FLORTM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 388,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP15MOAS-GL388-03-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 388,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP15MOAS-GL388-04-DOSTAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 388,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP15MOAS-GL388-05-PARADM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 388,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
 CP15MOAS-GL559,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 559,,,,0,1000
 CP15MOAS-GL559-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 559,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
 CP15MOAS-GL559-01-ADCPAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 559,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
@@ -1254,6 +1274,14 @@ CP15MOAS-GL559-02-FLORTM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 559
 CP15MOAS-GL559-03-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 559,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
 CP15MOAS-GL559-04-DOSTAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 559,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
 CP15MOAS-GL559-05-PARADM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 559,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP15MOAS-PG514,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 514,,,,0,1000
+CP15MOAS-PG514-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 514,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+CP15MOAS-PG514-01-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 514,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP15MOAS-PG514-02-DOSTAM000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 514,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP15MOAS-PG514-03-FLORTM000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 514,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP15MOAS-PG514-04-FLORTO000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 514,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,1000
+CP15MOAS-PG514-05-NUTNRM000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 514,Nitrate,Satlantic,SUNA V2,0,1000
+CP15MOAS-PG514-06-PARADM000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 514,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
 CP15MOAS-PG564,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 564,,,,0,1000
 CP15MOAS-PG564-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 564,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
 CP15MOAS-PG564-01-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Profiling Glider 564,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
