@@ -356,6 +356,7 @@ CGCON-MDCL36-00037,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data C
 CGCON-MDCL36-00038,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,38,,,,,
 CGCON-MDCL36-00042,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,42,,,,,
 CGCON-MDCL36-00043,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,43,,,,,
+CGCON-MDCL36-00044,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,44,,,,,Woods Hole Oceanographic Institution
 CGCON-MDCL36-00048,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,48,,,,,
 CGCON-MDCL36-00051,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,51,,,,,
 CGCON-MDCL36-00055,,Sensor,0,Multi-Function Node Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,55,,,,,
@@ -452,6 +453,7 @@ CGCON-NDCL26-00017,OL000328,Sensor,0,Near Surface Instrument Frame Data Concentr
 CGCON-NDCL26-00018,OL000265,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,0018,,,,,Woods Hole Oceanographic Institution
 CGCON-NDCL26-00020,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,20,,,,,
 CGCON-NDCL26-00021,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,21,,,,,
+CGCON-NDCL26-00022,,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,22,,,,,Woods Hole Oceanographic Institution
 CGCON-NDCL26-00023,OL000526,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,0023,,,,,Woods Hole Oceanographic Institution
 CGCON-NDCL26-00024,OL000559,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,0024,,,,,Woods Hole Oceanographic Institution
 CGCON-NDCL26-00025,OL000314,Sensor,0,Near Surface Instrument Frame Data Concentrator Logger,Data Concentrator Logger,WHOI,DCL,25,,,,CE02SHSM-00002-DCL26,Oregon State University
