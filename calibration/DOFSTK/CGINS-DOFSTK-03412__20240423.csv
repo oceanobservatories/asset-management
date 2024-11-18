@@ -1,0 +1,7 @@
+serial,name,value,notes
+43-3412,CC_frequency_offset,-8.082851e+002,source_file DOFST-K_SBE43F_SN_3412_Calibration_2024-04-23.zip > 3412.cal
+43-3412,CC_oxygen_signal_slope,2.127000e-04,use Soc from instrument as captured in WFP QCT 3310-00100-00169-A.log; Sea-Bird unable to provide SOC Adjust pdf
+43-3412,CC_residual_temperature_correction_factor_a,7.511932e-003,
+43-3412,CC_residual_temperature_correction_factor_b,1.863773e-005,
+43-3412,CC_residual_temperature_correction_factor_c,-1.994781e-006,
+43-3412,CC_residual_temperature_correction_factor_e,3.600000e-002,
