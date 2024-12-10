@@ -10,7 +10,7 @@ import os
 import shutil
 import sys
 import time
-from common_code.cal_parser_template import Calibration
+from common_code.cal_parser_template import Calibration, mfgSN_lookup
 
 
 class VEL3DACalibration(Calibration):
@@ -46,7 +46,8 @@ def main():
             # Skip hidden files
             if file[0] == '.':
                 continue
-            serial = file.split('_')[1]
+            atn = file.split('__')[0]
+            serial = mfgSN_lookup('VEL3DA',atn)
             cal = VEL3DACalibration(serial)
             cal.read_cal(os.path.join(path, file))
             cal.write_cal_info()
