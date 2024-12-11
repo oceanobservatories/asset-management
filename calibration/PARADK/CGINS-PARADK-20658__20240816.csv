@@ -1,0 +1,3 @@
+serial,name,value,notes
+20658,CC_dark_offset,1.22,source_file PARAD-K_QSP2200_SN_20658_Calibration_2024-08-16.pdf
+20658,CC_scale_wet,9.45E-18,
