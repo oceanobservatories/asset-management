@@ -1,0 +1,4 @@
+serial,name,value,notes
+1319,CC_dark_counts_turbd,50,source_file FLORT-D_BBFL2W_SN_1319_Calibration_Files_NTU_2024-09-24.zip > BBFL2W-1319.dev
+1319,CC_scale_factor_turbd,6.201E-02,
+1319,CC_cal_range,"[0,250]",
