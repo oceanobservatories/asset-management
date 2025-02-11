@@ -548,6 +548,7 @@ CGINS-ADCPTQ-01043,A04390,Sensor,0,ADCP Velocity Profiler (short range): ADCPT S
 CGINS-ADCPUP-00139,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400139,,20240212,20959,,Woods Hole Oceanographic Institution
 CGINS-ADCPUP-00152,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400152,,20231226,20959,,Woods Hole Oceanographic Institution
 CGINS-ADCPUP-00269,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400269,,20241022,20959,,Woods Hole Oceanographic Institution
+CGINS-ADCPUP-00271,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400271,,20241209,20959,,Woods Hole Oceanographic Institution
 CGINS-ADCPUP-00275,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400275,,20241022,20959,,Woods Hole Oceanographic Institution
 CGINS-ADCPUP-00276,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400276,,20240212,20959,,Woods Hole Oceanographic Institution
 CGINS-ADCPUP-00277,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400277,,20240212,20959,,Woods Hole Oceanographic Institution
@@ -556,6 +557,9 @@ CGINS-ADCPUP-00281,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU S
 CGINS-ADCPUP-00282,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400282,,20241022,20959,,Woods Hole Oceanographic Institution
 CGINS-ADCPUP-00287,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400287,,20240212,20959,,Woods Hole Oceanographic Institution
 CGINS-ADCPUP-00291,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400291,,20241022,20959,,Woods Hole Oceanographic Institution
+CGINS-ADCPUP-00625,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400625,,20241209,20959,,Woods Hole Oceanographic Institution
+CGINS-ADCPUP-00628,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400628,,20241209,20959,,Woods Hole Oceanographic Institution
+CGINS-ADCPUP-00631,,Sensor,0,ADCP Velocity Profiler (ultra-short range): ADCPU Series P,ADCPU SERIES P,Nortek,Aquadopp Profiler-S1VP,400631,,20241209,20959,,Woods Hole Oceanographic Institution
 CGINS-CAMDSA-00109,N00682,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0109,,,,,
 CGINS-CAMDSA-00110,N00515,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0110,,,,,
 CGINS-CAMDSA-00111,N00679,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0111,,,,,

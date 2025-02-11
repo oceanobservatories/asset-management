@@ -1,0 +1,3 @@
+serial,name,value,notes
+352,CC_conc_coef,"[0.45, 1.0225]",offset and slope determined at Oregon State University
+352,CC_csv,"[2.976831E-03, 1.234587E-04, 2.041478E-06, 1.645242E+02, -2.264164E-01, -5.099903E+01, 3.325728E+00]",
