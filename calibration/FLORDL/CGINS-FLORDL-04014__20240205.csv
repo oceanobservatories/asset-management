@@ -1,0 +1,9 @@
+serial,name,value,notes
+4014,CC_angular_resolution,1.096,Constant; source_file FLORD-L_FLBBRTD_SN_4014_Calibration_2024-02-05.zip > FLBBRTD-4014.dev
+4014,CC_dark_counts_chlorophyll_a,46,
+4014,CC_dark_counts_volume_scatter,46,
+4014,CC_depolarization_ratio,0.039,Constant
+4014,CC_measurement_wavelength,700,Constant
+4014,CC_scale_factor_chlorophyll_a,0.0073,
+4014,CC_scale_factor_volume_scatter,1.694E-06,
+4014,CC_scattering_angle,140,Constant
