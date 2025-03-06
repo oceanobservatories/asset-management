@@ -1,0 +1,11 @@
+serial,name,value,notes
+1221,CC_angular_resolution,1.076,Constant; source_file FLORT-D_BBFL2W_SN_1221_Calibration_Files_2025-02-05.zip > BBFL2W-1221.dev
+1221,CC_dark_counts_cdom,47,
+1221,CC_dark_counts_chlorophyll_a,49,
+1221,CC_dark_counts_volume_scatter,47.63043478,
+1221,CC_depolarization_ratio,0.039,Constant
+1221,CC_measurement_wavelength,700,Constant
+1221,CC_scale_factor_cdom,9.029E-02,
+1221,CC_scale_factor_chlorophyll_a,1.198E-02,
+1221,CC_scale_factor_volume_scatter,1.824E-06,
+1221,CC_scattering_angle,124,Constant
