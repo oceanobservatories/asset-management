@@ -158,6 +158,8 @@ CGCON-BSTC01-14362,OL000346,Sensor,0,Sensor and Telemetry Platform Controller,Se
 CGCON-BSTC01-23436,OL000334,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,23436,,,,DELETE?,
 CGCON-BSWSTC-00001,,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,3703-00300-00001-00001,,,,,Woods Hole Oceanographic Institution
 CGCON-BSWSTC-00002,,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,3703-00300-00001-00002,,,,,Woods Hole Oceanographic Institution
+CGCON-BSWSTC-00003,,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,3703-00300-00001-00003,,,,,Woods Hole Oceanographic Institution
+CGCON-BSWSTC-00004,,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,3703-00300-00001-00004,,,,,Woods Hole Oceanographic Institution
 CGCON-CSPPCE-00001,,Sensor,0,Coastal Surface Piercing Profiler Controller,,WET Labs,AMP,WLP-001,,,,,Oregon State University
 CGCON-CSPPCE-00002,N00122.1,Sensor,0,Coastal Surface Piercing Profiler Controller,"Profiler, Coastal Surface Piercing",WET Labs,AMP,WLP-002,,20140630,310000,FAS-540601,Oregon State University
 CGCON-CSPPCE-00003,N00123.1,Sensor,0,Coastal Surface Piercing Profiler Controller,"Profiler, Coastal Surface Piercing",WET Labs,AMP,WLP-003,,20140616,310000,FAS-540601,Oregon State University
