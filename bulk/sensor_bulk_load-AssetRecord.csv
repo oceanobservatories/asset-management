@@ -2832,8 +2832,8 @@ OL000458,OL000458,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instrument
 OL000459,OL000459,Sensor,0,Hydrogen Sensor: HYDGN,Hydrogen Sensor,RKI Instruments,M2A transmitters,CE09OSSM-00002-HYDGN12,,,,CE09OSSM-00002,
 OL000472,OL000472,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,CE09OSSM-00004+MOPAK,,,,CE09OSSM-00004,
 OL000473,OL000473,Sensor,0,Dissolved Oxygen Stable Response: DOSTA Series D,DOSTA SERIES D (AADI 4831),Aanderaa,Optode 4831,CE09OSSM-00004-DOSTA37-03,,,,CE09OSSM-00004,
-PIRSN-AOABPA-00001,PIRSN-AOABPA-00001,Sensor,0,A-0-A Calibrated Pressure Instrument,A-0-A Calibrated Pressure Instrument,Wilcock,Custom,1,,,,,PI
-PIRSN-AOABPA-10001,PIRSN-AOABPA-10001,Sensor,0,A-0-A Calibrated Pressure Instrument,A-0-A Calibrated Pressure Instrument,Wilcock,Custom,1-A,,,,,PI
+PIRSN-A0ABPA-00001,PIRSN-A0ABPA-00001,Sensor,0,A-0-A Calibrated Pressure Instrument,A-0-A Calibrated Pressure Instrument,Wilcock,Custom,1,,,,,PI
+PIRSN-A0ABPA-10001,PIRSN-A0ABPA-10001,Sensor,0,A-0-A Calibrated Pressure Instrument,A-0-A Calibrated Pressure Instrument,Wilcock,Custom,1-A,,,,,PI
 PIRSN-CAMPIA-00001,PIRSN-CAMPIA-00001,Sensor,0,MARUM Camera System,MARUM Camera System,MARUM,Custom,1,,,,,PI
 PIRSN-COVISA-00001,PIRSN-COVISA-00001,Sensor,0,Cabled Observatory Vent Imaging System,COVIS Series A,Bemis,Cusotm,1,,,,,PI
 PIRSN-CTDPFA-10001,PIRSN-CTDPFA-10001,Sensor,0,CTD with optode,CTDPFA Series A wth optode,MARUM,16plusV2 with SBE 63 optode,16-50216,,,,,PI
