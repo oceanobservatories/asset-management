@@ -2063,6 +2063,8 @@ CGINS-MOPAK0-58481,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6
 CGINS-MOPAK0-58484,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-58484,,,,,
 CGINS-MOPAK0-58489,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-58489,,,,,
 CGINS-MOPAK0-70027,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-70027,,,,,
+CGINS-MOPAK0-99997,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,99997,,,,Placeholder for unknown S/N,
+CGINS-MOPAK0-99998,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,99998,,,,Placeholder for unknown S/N,
 CGINS-MOPAK0-99999,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,99999,,,,Placeholder for unknown S/N,
 PICGN-NOCNIA-0N112,,Sensor,0,NOC CUSTARD Nitrate sensor,,NOC UK,LOC-Nitrate,N112,,,,,Woods Hole Oceanographic Institution
 PICGN-NOCSIA-Si009,,Sensor,0,NOC CUSTARD Silicate sensor,,NOC UK,LOC-Silicate,Si009,,,,,Woods Hole Oceanographic Institution
@@ -2587,6 +2589,7 @@ CGINS-SPKIRJ-00281,,Sensor,0,Spectral Irradiance: SPKIR Series J,SPKIR for WLP-0
 CGINS-SPKIRJ-00282,,Sensor,0,Spectral Irradiance: SPKIR Series J,SPKIR for WLP-008,Satlantic,OCR507 ICSW w/ Bioshutter II (Midrange),282,,20161230,,,Oregon State University
 CGINS-TURBDX-00993,,Sensor,0,Turbidity Sensor: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,993,,20150604,12634.25,same instrument as CGINS-FLORTD-00993 with 0-250 NTU cal,Woods Hole Oceanographic Institution
 CGINS-TURBDX-01102,,Sensor,0,Turbidity Sensor: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1102,,20130909,12634.25,same instrument as CGINS-FLORTD-01102 with 0-3 NTU cal,Woods Hole Oceanographic Institution
+CGINS-TURBDX-01105,,Sensor,0,Turbidity Sensor: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1105,,20130917,12634.25,same instrument as CGINS-FLORTD-01105 with 0-3 NTU cal,Woods Hole Oceanographic Institution
 CGINS-TURBDX-01106,,Sensor,0,Turbidity Sensor: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1106,,20130920,12634.25,same instrument as CGINS-FLORTD-01106 with 0-250 NTU cal,Woods Hole Oceanographic Institution
 CGINS-TURBDX-01107,,Sensor,0,Turbidity Sensor: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1107,,20130917,12634.25,same instrument as CGINS-FLORTD-01107 with 0-3 NTU cal,Woods Hole Oceanographic Institution
 CGINS-TURBDX-01212,,Sensor,0,Turbidity Sensor: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1212,,20140821,13013.52,same instrument as CGINS-FLORTD-01212 with 0-3 NTU cal,Woods Hole Oceanographic Institution
