@@ -2316,7 +2316,7 @@ RS03CCAL-MJ03F,Cabled Axial Seamount,Central Caldera,Medium-Power JBox (MJ03F),,
 RS03CCAL-MJ03F-05-BOTPTA301,Cabled Axial Seamount,Central Caldera,Medium-Power JBox (MJ03F),Bottom Pressure and Tilt,PMEL/Chadwick,PMELcabled BPR/Tilt,1526,1526
 RS03CCAL-MJ03F-06-HYDLFA305,Cabled Axial Seamount,Central Caldera,Medium-Power JBox (MJ03F),Low Frequency Acoustic Receiver (Hydrophone),HTI,90-U,1526,1526
 RS03CCAL-MJ03F-06-OBSBBA301,Cabled Axial Seamount,Central Caldera,Medium-Power JBox (MJ03F),Broadband Ocean Bottom Seismometer,Guralp,CMG-1T/5T,1526,1526
-RS03CCAL-MJ03F-07-AOABPA301,Cabled Axial Seamount,Central Caldera,Medium-Power JBox (MJ03F),A-O-A Pressure Sensor,PI Wilcock,,1526,1526
+RS03CCAL-MJ03F-07-A0ABPA301,Cabled Axial Seamount,Central Caldera,Medium-Power JBox (MJ03F),A-0-A Pressure Sensor,PI Wilcock,,1526,1526
 RS03CCAL-MJ03F-08-FETCHA301,Cabled Axial Seamount,Central Caldera,Medium-Power JBox (MJ03F),Acoustic Transponders,PI Wilcock/Manalang,,1526,1526
 RS03CCAL-MJ03F-08-SCTAAA301,Cabled Axial Seamount,Central Caldera,Medium-Power JBox (MJ03F),Self-Calibrating Triaxial Accelerometer,PI Wilcock,SCTA Series A,1526,1526
 RS03CCAL-MJ03F-09-SCPRAA301,Cabled Axial Seamount,Central Caldera,Medium-Power JBox (MJ03F),Self-Calibrating Pressure Recorder,PI Zumberge and Sasagawa,SCPR Series A,1526,1526
