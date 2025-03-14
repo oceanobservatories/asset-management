@@ -1793,6 +1793,7 @@ CGINS-METHRH-00298,A01881,Sensor,0,Bulk Meteorology Instrument Package: METBK HR
 CGINS-METHRH-00360,A01718,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH360,,20150817,8050,,
 CGINS-METHRH-00361,A01719,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH361,,20150817,8050,,
 CGINS-METHRH-00362,A02136,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH362,,,,,Woods Hole Oceanographic Institution
+CGINS-METHRH-00506,,Sensor,0,Bulk Meteorology Instrument Package: METBK HRH Module,METBK HRH MODULE,Star Engineering,ABS102-HRH,HRH506,,,,,on loan from UOP for comparison test
 CGINS-METLGR-00001,N00745,Sensor,0,Bulk Meteorology Instrument Package: METBK LGR Module,METBK LGR MODULE,Star Engineering,ASIMET,LGR001,,,,Destroyed on CP01CNSM-00001,Woods Hole Oceanographic Institution
 CGINS-METLGR-00002,N00746,Sensor,0,Bulk Meteorology Instrument Package: METBK LGR Module,METBK LGR MODULE,Star Engineering,ASIMET,LGR002,,,,Destroyed on CP01CNSM-00001,Woods Hole Oceanographic Institution
 CGINS-METLGR-00003,N00739,Sensor,0,Bulk Meteorology Instrument Package: METBK LGR Module,METBK LGR MODULE,Star Engineering,ASIMET,LGR003,,,,,Woods Hole Oceanographic Institution
