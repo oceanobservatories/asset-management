@@ -1,0 +1,11 @@
+serial,name,value,notes
+8569,CC_angular_resolution,1.076,Constant; source_file FLORT-P_BBFL2W_SN_8569_Calibration_2023-10-26.pdf
+8569,CC_dark_counts_cdom,48,
+8569,CC_dark_counts_chlorophyll_a,51,
+8569,CC_dark_counts_volume_scatter,46,
+8569,CC_depolarization_ratio,0.039,Constant
+8569,CC_measurement_wavelength,700,Constant
+8569,CC_scale_factor_cdom,0.0904,
+8569,CC_scale_factor_chlorophyll_a,0.0073,
+8569,CC_scale_factor_volume_scatter,1.657E-06,
+8569,CC_scattering_angle,124,Constant
