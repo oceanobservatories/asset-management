@@ -1,0 +1,7 @@
+serial,name,value,notes
+43-4361,CC_frequency_offset,-7.666948e+002,
+43-4361,CC_oxygen_signal_slope,3.788694e-004,adjusted Soc (O2 signal slope) determined from fit as 1.03540*Soc R2=0.99973
+43-4361,CC_residual_temperature_correction_factor_a,-3.608656e-003,
+43-4361,CC_residual_temperature_correction_factor_b,1.268315e-004,
+43-4361,CC_residual_temperature_correction_factor_c,-2.274376e-006,
+43-4361,CC_residual_temperature_correction_factor_e,3.600000e-002,
