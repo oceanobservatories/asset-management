@@ -1994,6 +1994,14 @@ GP05MOAS-PG576-03-FLORTM000,Global Station Papa,Mobile Assets,Profiling Glider 5
 GP05MOAS-PG576-04-FLORTO000,Global Station Papa,Mobile Assets,Profiling Glider 576,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,200
 GP05MOAS-PG576-05-NUTNRM000,Global Station Papa,Mobile Assets,Profiling Glider 576,Nitrate,Satlantic,SUNA V2,0,200
 GP05MOAS-PG576-06-PARADM000,Global Station Papa,Mobile Assets,Profiling Glider 576,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
+GP05MOAS-PG380,Global Station Papa,Mobile Assets,Profiling Glider 380,,,,0,200
+GP05MOAS-PG380-00-ENG000000,Global Station Papa,Mobile Assets,Profiling Glider 380,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
+GP05MOAS-PG380-01-CTDGVM000,Global Station Papa,Mobile Assets,Profiling Glider 380,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
+GP05MOAS-PG380-02-DOSTAM000,Global Station Papa,Mobile Assets,Profiling Glider 380,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
+GP05MOAS-PG380-03-FLORTM000,Global Station Papa,Mobile Assets,Profiling Glider 380,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,200
+GP05MOAS-PG380-04-FLORTO000,Global Station Papa,Mobile Assets,Profiling Glider 380,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,200
+GP05MOAS-PG380-05-NUTNRM000,Global Station Papa,Mobile Assets,Profiling Glider 380,Nitrate,Satlantic,SUNA V2,0,200
+GP05MOAS-PG380-06-PARADM000,Global Station Papa,Mobile Assets,Profiling Glider 380,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
 GS01SUMO,Global Southern Ocean,Apex Surface Mooring,,,,,0,4800
 GS01SUMO-RID16,Global Southern Ocean,Apex Surface Mooring,Near Surface Instrument Frame,,,,12,12
 GS01SUMO-RID16-00-DCLENG000,Global Southern Ocean,Apex Surface Mooring,Near Surface Instrument Frame,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,12,12
