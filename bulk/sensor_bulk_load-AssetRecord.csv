@@ -2606,6 +2606,7 @@ CGINS-TURBDX-01219,,Sensor,0,Turbidity Sensor: TURBD Series X,TURBD SERIES X (EC
 CGINS-TURBDX-01295,,Sensor,0,Turbidity Sensor: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1295,,20150504,13403.46,same instrument as CGINS-FLORTD-01295 with 0-200 NTU cal,Woods Hole Oceanographic Institution
 CGINS-TURBDX-01319,,Sensor,0,Turbidity Sensor: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1319,,20150717,13403.46,same instrument as CGINS-FLORTD-01319 with 0-250 NTU cal,Woods Hole Oceanographic Institution
 CGINS-TURBDX-01320,,Sensor,0,Turbidity Sensor: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1320,,20150717,13403.46,same instrument as CGINS-FLORTD-01320 with 0-250 NTU cal,Woods Hole Oceanographic Institution
+CGINS-TURBDX-01321,,Sensor,0,Turbidity Sensor: TURBD Series X,TURBD SERIES X (ECO TRIPLET-W),WET Labs,ECO Triplet-w,1321,,20150807,13403.26,same instrument as CGINS-FLORTD-01321 with 0-250 NTU cal,Woods Hole Oceanographic Institution
 CGINS-VEL3DC-08181,A00060,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series C,VEL3D SERIES C (VECTOR),Nortek,VECTOR,8181,,20120828,15960,,
 CGINS-VEL3DC-12587,A01621,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series C,VEL3D SERIES C (VECTOR W/PROLO,Nortek,VECTOR,12587,,20150430,16605,,
 CGINS-VEL3DC-12595,A01622,Sensor,0,3-D Single Point Velocity Meter: VEL3D Series C,VEL3D SERIES C (VECTOR W/PROLO,Nortek,VECTOR,12595,,20150430,16605,,
