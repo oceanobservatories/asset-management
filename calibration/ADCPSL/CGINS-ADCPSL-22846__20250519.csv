@@ -1,0 +1,8 @@
+serial,name,value,notes
+22846,CC_scale_factor1,0.45,constant; GP03FLMA-00012
+22846,CC_scale_factor2,0.45,constant
+22846,CC_scale_factor3,0.45,constant
+22846,CC_scale_factor4,0.45,constant
+22846,CC_bin_size,1000,in cm
+22846,CC_dist_first_bin,1647,in cm
+22846,CC_orientation,1,1 is upward looking; 0 is downward looking
