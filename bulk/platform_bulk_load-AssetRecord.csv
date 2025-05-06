@@ -531,6 +531,7 @@ CGVGA-05MOAS-00000,N00278,Platform,1,Global Argentine Basin Gliders,GA05MOAS Gli
 CGVGI-05MOAS-00000,N00279,Platform,1,Global Irminger Sea Gliders,GI05MOAS Glider Master Platform,Teledyne Webb,GI05MOAS,GI05MOAS,,,,,Woods Hole Oceanographic Institution
 CGVGP-05MOAS-00000,N00280,Platform,1,Global Station Papa Gliders,GP05MOAS Glider Master Platform,Teledyne Webb,GP05MOAS,GP05MOAS,,,,,Woods Hole Oceanographic Institution
 CGVGS-05MOAS-00000,N00282,Platform,1,Global Southern Ocean Gliders,GS05MOAS Glider Master Platform,Teledyne Webb,GS05MOAS,GS05MOAS,,,,,Woods Hole Oceanographic Institution
+NOAA-PMEL-PA-019,,Platform,0,Global Station Papa Apex Surface Mooring,MOORING PAPA,NOAA-PMEL,,PA-019,,,,Deployed on Papa 12 SKQ202511S,Woods Hole Oceanographic Institution
 RS01SBPS-LV01A-0000,RS01SBPS-LV01A-0000,Platform,0,Cabled Oregon Slope Base Seafloor,SEAFLOOR,UW-APL,,,,,,,University of Washington
 RS01SHDR-PN01B-0000,RS01SHDR-PN01B-0000,Platform,0,Cabled Southern Hydrate Summit 1 Seafloor,SEAFLOOR,UW-APL,,,,,,,University of Washington
 RS01SLBS-LJ01A-0000,RS01SLBS-LJ01A-0000,Platform,0,Cabled Oregon Slope Base Seafloor,SEAFLOOR,UW-APL,,,,,,,University of Washington
