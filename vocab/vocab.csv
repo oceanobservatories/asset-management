@@ -416,6 +416,7 @@ CE07SHSM-RID26-00-DCLENG000,Coastal Endurance,Washington Shelf Surface Mooring,N
 CE07SHSM-RID26-01-ADCPTA000,Coastal Endurance,Washington Shelf Surface Mooring,Near Surface Instrument Frame,Velocity Profiler (600kHz),Teledyne RDI,WorkHorse Sentinel 600khz,7,7
 CE07SHSM-RID26-04-VELPTA000,Coastal Endurance,Washington Shelf Surface Mooring,Near Surface Instrument Frame,Single Point Velocity Meter,Nortek,Aquadopp 300m,7,7
 CE07SHSM-RID26-06-PHSEND000,Coastal Endurance,Washington Shelf Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sunburst,SAMI-pH,7,7
+CE07SHSM-RID26-06-PHSENG000,Coastal Endurance,Washington Shelf Surface Mooring,Near Surface Instrument Frame,Seawater pH,Sea-Bird Scientific,Deep SeapHOx V2,7,7
 CE07SHSM-RID26-07-NUTNRB000,Coastal Endurance,Washington Shelf Surface Mooring,Near Surface Instrument Frame,Nitrate,Satlantic,ISUS,7,7
 CE07SHSM-RID26-08-SPKIRB000,Coastal Endurance,Washington Shelf Surface Mooring,Near Surface Instrument Frame,Spectral Irradiance,Satlantic,OCR507 ICSW,7,7
 CE07SHSM-RID27,Coastal Endurance,Washington Shelf Surface Mooring,Near Surface Instrument Frame,,,,7,7
@@ -1824,6 +1825,9 @@ GI05MOAS-PG581-03-FLORTM000,Global Irminger Sea,Mobile Assets,Profiling Glider 5
 GI05MOAS-PG581-04-FLORTO000,Global Irminger Sea,Mobile Assets,Profiling Glider 581,3-Wavelength Fluorometer,WET Labs,ECO BB3,0,200
 GI05MOAS-PG581-05-NUTNRM000,Global Irminger Sea,Mobile Assets,Profiling Glider 581,Nitrate,Satlantic,SUNA V2,0,200
 GI05MOAS-PG581-06-PARADM000,Global Irminger Sea,Mobile Assets,Profiling Glider 581,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
+GP01SUMO,Global Station Papa,Apex Surface Mooring,,,NOAA-PMEL,,0,4218
+GP01SUMO-SB001,Global Station Papa,Apex Surface Mooring,Surface Buoy,,,,0,0
+GP01SUMO-SB001-00-FDCHPC000,Global Station Papa,Apex Surface Mooring,Surface Buoy,Direct Covariance Flux,WHOI,DCFS,-4,-4
 GP02HYPM,Global Station Papa,Apex Profiler Mooring,,,,,150,4219
 GP02HYPM-MPM01,Global Station Papa,Apex Profiler Mooring,Mooring Riser,,,,150,150
 GP02HYPM-MPM01-02-ZPLSGA009,Global Station Papa,Apex Profiler Mooring,Mooring Riser,Bio-acoustic Sonar (Global),ASL Environmental Sciences,AZFP,150,150
