@@ -45,7 +45,7 @@ class OPTAACalibration(Calibration):
                         self.tcal = parts[1].replace("C", "")
                         self.coefficients['CC_tcal'] = self.tcal
                         cal_date = parts[-1:][0].strip(string.punctuation)
-                        print(cal_date)
+                        #print(cal_date)
                         try:
                             self.date = datetime.datetime.strptime(cal_date, '%m/%d/%y').strftime('%Y%m%d')
                         except ValueError:
@@ -88,8 +88,8 @@ class OPTAACalibration(Calibration):
             inst_type = 'OPTAAC'
         complete_path = os.path.join(
             os.path.realpath('../..'), 'calibration', inst_type)
-        print(self.asset_tracking_number)
-        print(self.date)
+        #print(self.asset_tracking_number)
+        #print(self.date)
         file_name = self.asset_tracking_number + '__' + self.date
         with open(os.path.join(complete_path, '%s.csv' % file_name), 'w') as info:
             writer = csv.writer(info, lineterminator='\n')
