@@ -5,7 +5,7 @@ serial,name,value,notes
 1004,CC_dark_counts_volume_scatter,65,Requires TEMPWAT and PRACSAL (PD2927/2929) from a nearby CTD
 1004,CC_depolarization_ratio,0.039,"Default value per <flo_scat_seawater(degC, psu, theta=117.0, wlngth=700.0, delta=0.039)>"
 1004,CC_measurement_wavelength,700,"Default value per <flo_bback_total(beta, degC=20.0, psu=32.0, theta=117.0, wlngth=700.0, xfactor=1.08)>"
-1004,CC_scale_factor_cdom,0.0905,
+1004,CC_scale_factor_cdom,0.1511220166086181,New cdom scaling factor = old scaling factor (0.0905) * scaling factor (5.62) * correction factor (0.2971274977067264) [ppb counts^-1]
 1004,CC_scale_factor_chlorophyll_a,0.0121,
 1004,CC_scale_factor_volume_scatter,2.116e-06,Depth
 1004,CC_scattering_angle,124,"Default value per <flo_bback_total(beta, degC=20.0, psu=32.0, theta=117.0, wlngth=700.0, xfactor=1.08)>"
