@@ -6,7 +6,7 @@ serial,name,value,notes
 Use CTD data from GI01SUMO-RID16-03-CTDBPF000."
 1106,CC_depolarization_ratio,0.039,Constant
 1106,CC_measurement_wavelength,700,Constant
-1106,CC_scale_factor_cdom,0.0739,
+1106,CC_scale_factor_cdom,0.1189438849891979,New cdom scaling factor = old scaling factor (0.0739) * scaling factor (5.62) * correction factor (0.28639231863102)
 1106,CC_scale_factor_chlorophyll_a,0.0116,
 1106,CC_scale_factor_volume_scatter,1.745E-06,
 1106,CC_scattering_angle,124,Constant

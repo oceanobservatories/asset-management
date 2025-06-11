@@ -5,7 +5,7 @@ serial,name,value,notes
 1301,CC_dark_counts_volume_scatter,53,Requires TEMPWAT and PRACSAL (PD2927/2929) from a nearby CTD
 1301,CC_depolarization_ratio,0.039,Constant
 1301,CC_measurement_wavelength,700,Constant
-1301,CC_scale_factor_cdom,0.0914,
+1301,CC_scale_factor_cdom,0.1138775959839392,New cdom scaling factor = old scaling factor (0.0914) * scaling factor (5.62) * correction factor (0.2216949391123044)
 1301,CC_scale_factor_chlorophyll_a,0.0121,
 1301,CC_scale_factor_volume_scatter,1.821e-06,Depth
 1301,CC_scattering_angle,124,Constant
