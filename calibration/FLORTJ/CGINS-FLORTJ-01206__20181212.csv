@@ -1,6 +1,6 @@
 serial,name,value,notes
 BBFL2W-1206,CC_dark_counts_cdom,52,date in filename comes from dev file
-BBFL2W-1206,CC_scale_factor_cdom,0.0921,
+BBFL2W-1206,CC_scale_factor_cdom,0.14824,Original scale factor (0.09210) corrected by Sea-Bird with the new value of 0.14824 = 0.09210 * 5.62 * 0.28639
 BBFL2W-1206,CC_dark_counts_chlorophyll_a,55,
 BBFL2W-1206,CC_scale_factor_chlorophyll_a,0.0122,
 BBFL2W-1206,CC_dark_counts_volume_scatter,51,

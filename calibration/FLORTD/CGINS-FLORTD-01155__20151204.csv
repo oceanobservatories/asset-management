@@ -5,7 +5,7 @@ serial,name,value,notes
 1155,CC_dark_counts_volume_scatter,50,
 1155,CC_depolarization_ratio,0.039,Constant
 1155,CC_measurement_wavelength,700,Constant
-1155,CC_scale_factor_cdom,0.0877,
+1155,CC_scale_factor_cdom,0.14116,Original scale factor (0.08770) corrected by Sea-Bird with the new value of 0.14116 = 0.08770 * 5.62 * 0.28639
 1155,CC_scale_factor_chlorophyll_a,0.0071,
 1155,CC_scale_factor_volume_scatter,1.913e-06,
 1155,CC_scattering_angle,124,Constant; not 117
