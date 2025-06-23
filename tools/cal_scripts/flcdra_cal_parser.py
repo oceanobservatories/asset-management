@@ -24,7 +24,7 @@ class FLCDRACalibration(Calibration):
         with open(filename, encoding="utf8", errors='ignore') as fh:
             for line in fh:
                 parts = line.split()
-                print(parts)
+                #print(parts)
                 if not len(parts):  # skip blank lines
                     continue
                 if 'ECO' == parts[0]:
