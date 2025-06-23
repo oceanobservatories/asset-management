@@ -1568,7 +1568,9 @@ GI01SUMO-RII11-02-PCO2WC051,Global Irminger Sea,Apex Surface Mooring,Mooring Ris
 GI01SUMO-RII11-02-PCO2WC052,Global Irminger Sea,Apex Surface Mooring,Mooring Riser,pCO2 Water (80 meters),Sunburst,SAMI-pCO2 - inductive,80,80
 GI01SUMO-RII11-02-PCO2WC053,Global Irminger Sea,Apex Surface Mooring,Mooring Riser,pCO2 Water (130 meters),Sunburst,SAMI-pCO2 - inductive,130,130
 GI01SUMO-RII11-02-PHSENE041,Global Irminger Sea,Apex Surface Mooring,Mooring Riser,Seawater pH (20 meters),Sunburst,SAMI-pH- inductive,20,20
+GI01SUMO-RII11-02-PHSENG041,Global Irminger Sea,Apex Surface Mooring,Mooring Riser,Seawater pH (20 meters),Sea-Bird,Deep SeapHOx (350 m),20,20
 GI01SUMO-RII11-02-PHSENE042,Global Irminger Sea,Apex Surface Mooring,Mooring Riser,Seawater pH (100 meters),Sunburst,SAMI-pH- inductive,100,100
+GI01SUMO-RII11-02-PHSENG042,Global Irminger Sea,Apex Surface Mooring,Mooring Riser,Seawater pH (100 meters),Sea-Bird,Deep SeapHOx (350 m),100,100
 GI01SUMO-SBC11,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,,,,0,0
 GI01SUMO-SBC11-00-CPMENG000,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,Platform Controller,WHOI,Communications and Power Manager,0,0
 GI01SUMO-SBD11,Global Irminger Sea,Apex Surface Mooring,Surface Buoy,,,,0,0
