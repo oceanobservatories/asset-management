@@ -1,0 +1,2 @@
+﻿CUID_Deploy,deployedBy,CUID_Recover,recoveredBy,Reference Designator,deploymentNumber,versionNumber,startDateTime,stopDateTime,mooring.uid,node.uid,sensor.uid,lat,lon,orbit,deployment_depth,water_depth,notes,electrical.uid,assembly_template_revision
+SKQ202511S,,,,GP01SUMO-SB001-00-FDCHPC000,1,1,2025-05-22T19:57:00,,NOAA-PMEL-PA-019,,CGINS-FDCHPB-12803,50.127267,-144.830967,,-4,4221,OOI FDCHP installed on NOAA-PMEL mooring,,
