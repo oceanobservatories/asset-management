@@ -5,7 +5,7 @@ BBFL2W-1208,CC_dark_counts_chlorophyll_a,51,Measured signal output of fluormeter
 BBFL2W-1208,CC_dark_counts_volume_scatter,53,Measured signal output of fluormeter in clean water with black tape over the detector [counts]
 BBFL2W-1208,CC_depolarization_ratio,0.039,Depolarization ratio [unitless].
 BBFL2W-1208,CC_measurement_wavelength,700,Optical backscatter measurement wavelength [nm].
-BBFL2W-1208,CC_scale_factor_cdom,0.1007,Multiplier [ppb counts^-1]
+BBFL2W-1208,CC_scale_factor_cdom,0.1620791504521277,New cdom scaling factor = old scaling factor (0.1007) * scaling factor (5.62) * correction factor (0.28639231863102) [ppb counts^-1]
 BBFL2W-1208,CC_scale_factor_chlorophyll_a,0.0124,Multiplier [ug L^-1 counts^-1]
 BBFL2W-1208,CC_scale_factor_volume_scatter,3.11e-06,Multiplier [m^-1 sr^-1 counts^-1]
 BBFL2W-1208,CC_scattering_angle,124,Optical backscatter scattering angle [degrees].
