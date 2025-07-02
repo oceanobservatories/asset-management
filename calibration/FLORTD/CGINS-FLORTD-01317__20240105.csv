@@ -5,7 +5,7 @@ serial,name,value,notes
 1317,CC_dark_counts_volume_scatter,48.65,
 1317,CC_depolarization_ratio,0.039,Constant
 1317,CC_measurement_wavelength,700,Constant
-1317,CC_scale_factor_cdom,9.067E-02,
+1317,CC_scale_factor_cdom,9.067E-02,This calibration not affected by CDOM calibration correction
 1317,CC_scale_factor_chlorophyll_a,1.206E-02,
 1317,CC_scale_factor_volume_scatter,1.900E-06,
 1317,CC_scattering_angle,124,Constant
