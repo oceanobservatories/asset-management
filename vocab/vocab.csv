@@ -57,6 +57,7 @@ CE02SHBP-LJ01D-07-VEL3DC108,Coastal Endurance,Oregon Shelf Cabled Benthic Experi
 CE02SHBP-LJ01D-08-OPTAAD106,Coastal Endurance,Oregon Shelf Cabled Benthic Experiment Package,Low-Power JBox (LJ01D),Spectrophotometer,WET Labs,AC-S,80,80
 CE02SHBP-LJ01D-09-PCO2WB103,Coastal Endurance,Oregon Shelf Cabled Benthic Experiment Package,Low-Power JBox (LJ01D),pCO2 Water,Sunburst,SAMI-pCO2,80,80
 CE02SHBP-LJ01D-10-PHSEND103,Coastal Endurance,Oregon Shelf Cabled Benthic Experiment Package,Low-Power JBox (LJ01D),Seawater pH,Sunburst,SAMI-pH,80,80
+CE02SHBP-LJ01D-10-PHSENH110,Coastal Endurance,Oregon Shelf Cabled Benthic Experiment Package,Low-Power JBox (LJ01D),Seawater pH,Sea-Bird Scientific,Deep SeapHOx (2000m),80,80
 CE02SHBP-LJ01D-11-HYDBBA106,Coastal Endurance,Oregon Shelf Cabled Benthic Experiment Package,Low-Power JBox (LJ01D),Broadband Acoustic Receiver (Hydrophone),Ocean Sonics,icListen HF,80,80
 CE02SHBP-MJ01C,Coastal Endurance,Oregon Shelf Cabled Benthic Experiment Package,Medium-Power JBox (MJ01C),,,,80,80
 CE02SHBP-MJ01C-07-ZPLSCB101,Coastal Endurance,Oregon Shelf Cabled Benthic Experiment Package,Medium-Power JBox (MJ01C),Bio-acoustic Sonar (Coastal),Kongsberg,Modified EK-60,80,80
@@ -154,6 +155,7 @@ CE04OSPS-PC01B-05-ZPLSCB102,Coastal Endurance,Oregon Offshore Cabled Shallow Pro
 CE04OSPS-PC01B-4A-CTDPFA109,Coastal Endurance,Oregon Offshore Cabled Shallow Profiler Mooring,200m Platform (PC01B),CTD,Sea-Bird,SBE 16plusV2,200,200
 CE04OSPS-PC01B-4A-DOSTAD109,Coastal Endurance,Oregon Offshore Cabled Shallow Profiler Mooring,200m Platform (PC01B),Dissolved Oxygen,Aanderaa,Optode 4831,200,200
 CE04OSPS-PC01B-4B-PHSENA106,Coastal Endurance,Oregon Offshore Cabled Shallow Profiler Mooring,200m Platform (PC01B),Seawater pH,Sunburst,SAMI-pH,200,200
+CE04OSPS-PC01B-4C-PHSENH109,Coastal Endurance,Oregon Offshore Cabled Shallow Profiler Mooring,200m Platform (PC01B),Seawater pH,Sea-Bird Scientific,Deep SeapHOx (2000 m),200,200
 CE04OSPS-PC01B-4D-PCO2WA105,Coastal Endurance,Oregon Offshore Cabled Shallow Profiler Mooring,200m Platform (PC01B),pCO2 Water,Sunburst,SAMI-pCO2,200,200
 CE04OSPS-SF01B,Coastal Endurance,Oregon Offshore Cabled Shallow Profiler Mooring,Shallow Profiler (SF01B),,,,20,200
 CE04OSPS-SF01B-2A-CTDPFA107,Coastal Endurance,Oregon Offshore Cabled Shallow Profiler Mooring,Shallow Profiler (SF01B),CTD,Sea-Bird,SBE 16plusV2,20,200
