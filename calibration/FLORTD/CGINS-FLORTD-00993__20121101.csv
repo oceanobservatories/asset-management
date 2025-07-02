@@ -5,7 +5,7 @@ serial,name,value,notes
 993,CC_dark_counts_volume_scatter,51,Measured signal output of fluormeter in clean water with black tape over the detector [counts]
 993,CC_depolarization_ratio,0.039,Depolarization ratio [unitless].
 993,CC_measurement_wavelength,700,Optical backscatter measurement wavelength [nm].
-993,CC_scale_factor_cdom,0.0907,Multiplier [ppb counts^-1]
+993,CC_scale_factor_cdom,0.1514559879160404,New cdom scaling factor = old scaling factor (0.0907) * scaling factor (5.62) * correction factor (0.2971274977067264) [ppb counts^-1]
 993,CC_scale_factor_chlorophyll_a,0.0121,Multiplier [ug L^-1 counts^-1]
 993,CC_scale_factor_volume_scatter,1.814e-06,Multiplier [m^-1 sr^-1 counts^-1]
 993,CC_scattering_angle,124,Optical backscatter scattering angle [degrees].
