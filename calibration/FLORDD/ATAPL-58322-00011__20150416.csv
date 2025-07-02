@@ -1,11 +1,11 @@
 serial,name,value,notes
 1297,CC_angular_resolution,1.076,
-1297,CC_dark_counts_cdom,45,counts
-1297,CC_dark_counts_chlorophyll_a,51,counts
-1297,CC_dark_counts_volume_scatter,49,counts
+1297,CC_dark_counts_cdom,45.0,counts
+1297,CC_dark_counts_chlorophyll_a,51.0,counts
+1297,CC_dark_counts_volume_scatter,49.0,counts
 1297,CC_depolarization_ratio,0.039,
-1297,CC_measurement_wavelength,700,
-1297,CC_scale_factor_cdom,0.0909,ppb/count
+1297,CC_measurement_wavelength,700.0,
+1297,CC_scale_factor_cdom,0.11325,Original scale factor (0.0909) corrected by Sea-Bird with the new value of 0.11325 = 0.0909 * 5.62 * 0.22169
 1297,CC_scale_factor_chlorophyll_a,0.0121,ug/l/count
 1297,CC_scale_factor_volume_scatter,1.806e-06,(m^-1*sr^-1)/counts
-1297,CC_scattering_angle,124,
+1297,CC_scattering_angle,124.0,

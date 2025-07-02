@@ -1,6 +1,6 @@
 serial,name,value,notes
 996,CC_dark_counts_cdom,50,date in filename comes from dev file
-996,CC_scale_factor_cdom,0.0611,
+996,CC_scale_factor_cdom,0.09834,Original scale factor (0.06110) corrected by Sea-Bird with the new value of 0.09834 = 0.06110 * 5.62 * 0.28639
 996,CC_dark_counts_chlorophyll_a,56,
 996,CC_scale_factor_chlorophyll_a,0.0094,
 996,CC_dark_counts_volume_scatter,48,

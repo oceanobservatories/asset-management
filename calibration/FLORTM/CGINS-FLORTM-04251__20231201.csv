@@ -3,3 +3,4 @@ serial,name,value,notes
 4251,CC_depolarization_ratio,0.039,
 4251,CC_measurement_wavelength,700,
 4251,CC_scattering_angle,124,
+4251,CC_cdom_correction_factor,1.000000,No Sea-Bird CDOM correction factor applied.
