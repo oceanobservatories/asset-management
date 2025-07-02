@@ -5,7 +5,7 @@ serial,name,value,notes
 1320,CC_dark_counts_volume_scatter,50,
 1320,CC_depolarization_ratio,0.039,Constant
 1320,CC_measurement_wavelength,700,Constant
-1320,CC_scale_factor_cdom,9.080E-02,
+1320,CC_scale_factor_cdom,0.3869130311302729,New cdom scaling factor = old scaling factor (0.0908) * scaling factor (5.62) * correction factor (0.7582129413718173) [ppb counts^-1]
 1320,CC_scale_factor_chlorophyll_a,1.070E-02,
 1320,CC_scale_factor_volume_scatter,2.416E-06,
 1320,CC_scattering_angle,124,Constant
