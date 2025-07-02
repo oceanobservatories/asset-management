@@ -5,7 +5,7 @@ serial,name,value,notes
 1102,CC_dark_counts_volume_scatter,52,Measured signal output of fluormeter in clean water with black tape over the detector [counts]
 1102,CC_depolarization_ratio,0.039,Depolarization ratio [unitless].
 1102,CC_measurement_wavelength,700,"Default values defined in DPA: def flo_scat_seawater(degC, psu, theta=117.0, wlngth=700.0, delta=0.039)"
-1102,CC_scale_factor_cdom,0.0905,Multiplier [ppb counts^-1]
+1102,CC_scale_factor_cdom,0.1511220166086181,New cdom scaling factor = old scaling factor (0.0905) * scaling factor (5.62) * correction factor (0.2971274977067264) [ppb counts^-1]
 1102,CC_scale_factor_chlorophyll_a,0.0123,Multiplier [ug L^-1 counts^-1]
 1102,CC_scale_factor_volume_scatter,1.82e-06,Multiplier [m^-1 sr^-1 counts^-1]
 1102,CC_scattering_angle,124,"Default values defined in DPA: def flo_bback_total(beta, degC=20.0, psu=32.0, theta=117.0, wlngth=700.0, xfactor=1.08)"

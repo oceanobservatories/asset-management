@@ -325,6 +325,10 @@ ATAPL-90485-20001,ATAPL-90485-20001,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,
 ATAPL-90485-20002,ATAPL-90485-20002,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Bio-acoustic Sonar,Kongsberg Underwater Technology Inc,EK-80,2,,,,,University of Washington
 ATAPL-90485-20004,ATAPL-90485-20004,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Bio-acoustic Sonar,Kongsberg Underwater Technology Inc,EK-80,4,,,,,University of Washington
 ATAPL-90485-20005,ATAPL-90485-20005,Sensor,0,Bio-acoustic Sonar: ZPLSC Series B,Bio-acoustic Sonar,Kongsberg Underwater Technology Inc,EK-80,5,,,,,University of Washington
+ATAPL-91990-00001,ATAPL-91990-00001,Sensor,0,Seawater pH: PHSEN Series H,Seabird Deep SeapHOx (2000 m),Sea-Bird Electronics,SBE DeepSeaFET,721-2106,,202408,,,University of Washington
+ATAPL-91990-00002,ATAPL-91990-00002,Sensor,0,Seawater pH: PHSEN Series H,Seabird Deep SeapHOx (2000 m),Sea-Bird Electronics,SBE DeepSeaFET,721-2069,,202408,,,University of Washington
+ATAPL-91990-00003,ATAPL-91990-00003,Sensor,0,Seawater pH: PHSEN Series H,Seabird Deep SeapHOx (2000 m),Sea-Bird Electronics,SBE DeepSeaFET,721-2085,,202408,,,University of Washington
+ATAPL-91990-00004,ATAPL-91990-00004,Sensor,0,Seawater pH: PHSEN Series H,Seabird Deep SeapHOx (2000 m),Sea-Bird Electronics,SBE DeepSeaFET,721-2107,,202408,,,University of Washington
 ATCWK-67627-00006,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 3500m,Sea-Bird Electronics,SBE 16plus V2,16-50209,3.1.8,20170401,16060,PI,University of Washington
 ATCWK-67627-00007,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 3500m,Sea-Bird Electronics,SBE 16plus V2,16-50210,3.1.8,20170401,16060,PI,University of Washington
 ATCWK-67627-00008,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 2000m,Sea-Bird Electronics,SBE 16plus V2,16-50321,3.1.8,,,PI,University of Washington
