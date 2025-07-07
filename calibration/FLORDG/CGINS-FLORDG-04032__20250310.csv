@@ -1,0 +1,9 @@
+serial,name,value,notes
+4032,CC_angular_resolution,1.096,Constant; source_file FLORD-G_FLBBSB_SN_4032_Calibration_Files_2025-03-10.zip > FLBBSB-4032_wiper_on_Char Sheets.pdf
+4032,CC_dark_counts_chlorophyll_a,0.069,in Volts (because analog signal going to CTDBP)
+4032,CC_dark_counts_volume_scatter,0.0690,in Volts (because analog signal going to CTDBP)
+4032,CC_depolarization_ratio,0.039,Constant
+4032,CC_measurement_wavelength,700,Constant
+4032,CC_scale_factor_chlorophyll_a,6,in Volts (because analog signal going to CTDBP)
+4032,CC_scale_factor_volume_scatter,1.411E-03,in Volts (because analog signal going to CTDBP)
+4032,CC_scattering_angle,140,Constant
