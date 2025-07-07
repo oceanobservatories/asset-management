@@ -2858,4 +2858,5 @@ PIRSN-QNTSRA-00001,PIRSN-QNTSRA-00001,Sensor,0,Quantification Sonar,QNTSR Series
 PIRSN-SCPRAA-00001,PIRSN-SCPRAA-00001,Sensor,0,Self-Calibrating Pressure Recorder,SCPR Series A,PI Zumberge and Sasagawa,Custom,001/C,,,,,PI
 PIRSN-SCTAAA-00001,PIRSN-SCTAAA-00001,Sensor,0,Self-Calibrating Triaxial Accelerometer,SCTA Series A,PI Wilcock,Custom,1,,,,,PI
 PIRSN-HYDBBA-00001,PIRSN-HYDBBA-00001,Sensor,0,Broadband Acoustic Receiver (Hydrophone): HYDBB Series A,Broadband Ethernet Hydrophone,Ocean Sonics,icListen HF-OceanSonics Element Test,6640,,,,,PI
+ATSBE-LOANER-00001,ATSBE-LOANER-00001,Sensor,0,Spectrophotometer (OPTAA),ACS,Seabird Electronics,ACS,346,,,,,PI
 R00007,R00007,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,,,,,,Oregon State University
