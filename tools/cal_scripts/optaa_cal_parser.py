@@ -5,7 +5,8 @@
 # Create the necessary CI calibration ingest information from an OPTAA calibration file
 
 import csv
-import datetime
+from datetime import datetime
+import re
 import os
 import json
 import string
@@ -36,23 +37,21 @@ class OPTAACalibration(Calibration):
     def read_cal(self, filename):
         with open(filename) as fh:
             for line in fh:
+                tcal_date_pattern = r"tcal:\s*([\d.]+)\s*C.*?saved.*?on\s+(\d{1,2}/\d{1,2}/\d{2,4})"
+                match = re.search(tcal_date_pattern, line, re.IGNORECASE)
                 parts = line.split(';')
+                if match: 
+                    self.tcal = float(match.group(1))
+                    self.coefficients['CC_tcal'] = self.tcal
+                    date_str = match.group(2)
+                    try:
+                        self.date = datetime.strptime(date_str, "%m/%d/%Y").strftime('%Y%m%d')
+                    except ValueError:
+                        self.date = datetime.strptime(date_str, "%m/%d/%y").strftime('%Y%m%d')
                 if len(parts) != 2:
-                    parts = line.split()
-                    tString = ['tcal:','Tcal:']
-                    if any(lineStart in parts[0] for lineStart in tString):
-                    #if parts[0] == 'tcal:':
-                        self.tcal = parts[1].replace("C", "")
-                        self.coefficients['CC_tcal'] = self.tcal
-                        cal_date = parts[-1:][0].strip(string.punctuation)
-                        #print(cal_date)
-                        try:
-                            self.date = datetime.datetime.strptime(cal_date, '%m/%d/%y').strftime('%Y%m%d')
-                        except ValueError:
-                            self.date = datetime.datetime.strptime(cal_date, '%m/%d/%Y').strftime('%Y%m%d')
                     continue
-                data, comment = parts
 
+                data, comment = parts
                 if comment.startswith(' temperature bins'):
                     self.tbins = data.split()
                     self.tbins = [float(x) for x in self.tbins]
@@ -86,10 +85,10 @@ class OPTAACalibration(Calibration):
             inst_type = 'OPTAAD'
         elif self.asset_tracking_number.find('69943') != -1:
             inst_type = 'OPTAAC'
+        elif self.asset_tracking_number.find('LOANER') != -1:
+            inst_type = 'OPTAAC'
         complete_path = os.path.join(
             os.path.realpath('../..'), 'calibration', inst_type)
-        #print(self.asset_tracking_number)
-        #print(self.date)
         file_name = self.asset_tracking_number + '__' + self.date
         with open(os.path.join(complete_path, '%s.csv' % file_name), 'w') as info:
             writer = csv.writer(info, lineterminator='\n')
