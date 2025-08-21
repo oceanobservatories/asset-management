@@ -1,0 +1,5 @@
+serial,name,value,notes
+3,CC_gain,4,
+3,CC_offset,2004,
+3,CC_tc_slope,4.22e-05,
+3,CC_ts_slope,0.003,
