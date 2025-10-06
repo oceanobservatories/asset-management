@@ -3,4 +3,3 @@ serial,name,value,notes
 1332,CC_depolarization_ratio,0.039,
 1332,CC_measurement_wavelength,700,
 1332,CC_scattering_angle,124,
-1332,CC_cdom_correction_factor,1.609525,Sea-Bird provided CDOM correction factor: 1.609525 = 5.62 * 0.286392
