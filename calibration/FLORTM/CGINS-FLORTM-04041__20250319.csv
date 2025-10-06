@@ -1,0 +1,6 @@
+serial,name,value,notes
+4041,CC_angular_resolution,1.076,
+4041,CC_depolarization_ratio,0.039,
+4041,CC_measurement_wavelength,700.0,
+4041,CC_scattering_angle,124.0,
+4041,CC_cdom_correction_factor,1.0,only relevant for calibrations prior to 2023-01-13
