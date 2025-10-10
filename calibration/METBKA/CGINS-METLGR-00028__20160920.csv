@@ -7,3 +7,4 @@ LGR028,CC_jcool,1,Constant.
 LGR028,CC_jwarm,1,Constant.
 LGR028,CC_zinvpbl,600,Constant.
 LGR028,CC_use_velpt,1,
+LGR028,CC_spd_corr,[0.0,1.14],Endurance Array wind-speed correction factors
