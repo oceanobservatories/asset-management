@@ -199,7 +199,8 @@ class CalibrationFilesUnitTest(AssetManagementUnitTest):
                 'CC_jcool',
                 'CC_jwarm',
                 'CC_zinvpbl',
-                'CC_use_velpt'
+                'CC_use_velpt',
+                'CC_spd_corr'
             }
         }
 
