@@ -199,6 +199,7 @@ CE04OSSM-SBD11-06-METBKA004,Coastal Endurance,Oregon Offshore Surface Mooring,Su
 CE04OSSM-SBD11-06-METBKA005,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Bulk Meteorology PRC,Star Engineering,ASIMET Precipitation Module (PRC),-4,-4
 CE04OSSM-SBD11-06-METBKA006,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Bulk Meteorology SWR,Star Engineering,ASIMET Shortwave Radiation Module (SWR),-4,-4
 CE04OSSM-SBD11-06-METBKA007,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Bulk Meteorology SWND,Star Engineering,ASIMET Sonic Wind Module (SWND),-5,-5
+CE04OSSM-SBD11-08-CAMDSD000,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Surface Digital Still Camera,WHOI,VICS Camera System,-4,-4
 CE04OSSM-SBD12,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,,,,0,0
 CE04OSSM-SBD12-00-DCLENG000,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CE04OSSM-SBD12-03-HYDGN0000,Coastal Endurance,Oregon Offshore Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
@@ -442,7 +443,7 @@ CE07SHSM-SBD11-06-METBKA004,Coastal Endurance,Washington Shelf Surface Mooring,S
 CE07SHSM-SBD11-06-METBKA005,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Bulk Meteorology PRC,Star Engineering,ASIMET Precipitation Module (PRC),-4,-4
 CE07SHSM-SBD11-06-METBKA006,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Bulk Meteorology SWR,Star Engineering,ASIMET Shortwave Radiation Module (SWR),-4,-4
 CE07SHSM-SBD11-06-METBKA007,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Bulk Meteorology SWND,Star Engineering,ASIMET Sonic Wind Module (SWND),-5,-5
-CE07SHSM-SBD11-08-CAMDSD,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Surface Digital Still Camera,WHOI,VICS Camera System,-4,-4
+CE07SHSM-SBD11-08-CAMDSD000,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Surface Digital Still Camera,WHOI,VICS Camera System,-4,-4
 CE07SHSM-SBD12,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,,,,0,0
 CE07SHSM-SBD12-00-DCLENG000,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Data Concentrator Logger (DCL),WHOI,Data Concentrator Logger,0,0
 CE07SHSM-SBD12-03-HYDGN0000,Coastal Endurance,Washington Shelf Surface Mooring,Surface Buoy,Hydrogen Sensor,RKI Instruments,M2A transmitters,0,0
