@@ -574,6 +574,8 @@ CGINS-CAMDSA-00120,,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAM
 CGINS-CAMDSA-00121,,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0121,,20160603,,,
 CGINS-CAMDSA-00122,,Sensor,0,Underwater Digital Still Camera: CAMDS Series A,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6102-0122,,20160603,,,
 CGINS-CAMDSB-00100,N00694,Sensor,0,Underwater Digital Still Camera: CAMDS Series B,CAMDS,Kongsberg Underwater Technology Inc,Custom,0484-6002-0100,,,,,
+CGINS-CAMDSD-00003,,Sensor,0,Surface Digital Still Camera: CAMDS Series D,CAMDS,VICS Camera System,Custom,0003,,20180601,,,Oregon State University
+CGINS-CAMDSD-00005,,Sensor,0,Surface Digital Still Camera: CAMDS Series D,CAMDS,VICS Camera System,Custom,0005,,20180601,,,Oregon State University
 CGINS-CTDAVN-00103,,Sensor,1,CTD for AUV: CTD Series N,CTDGV for Hydroid AUV,Sea-Bird Electronics,SBE AUV Payload CTD,103,,,,CGSN AUV Instrument Pool,
 CGINS-CTDAVN-00104,,Sensor,1,CTD for AUV: CTD Series N,CTDGV for Hydroid AUV,Sea-Bird Electronics,SBE AUV Payload CTD,104,,,,CGSN AUV Instrument Pool,
 CGINS-CTDAVN-00424,,Sensor,1,CTD for AUV: CTD Series N,CTDGV for Hydroid AUV,Neil Brown Ocean Sensors Inc,NBOSI AUV Payload CTD,424,,,,CGSN AUV Instrument Pool,
