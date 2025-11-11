@@ -1,9 +1,9 @@
 serial,name,value,notes
 FLNTURTD-3099,CC_angular_resolution,1.096,
-FLNTURTD-3099,CC_dark_counts_chlorophyll_a,50,
+FLNTURTD-3099,CC_dark_counts_chlorophyll_a,40,
 FLNTURTD-3099,CC_dark_counts_volume_scatter,60,
 FLNTURTD-3099,CC_depolarization_ratio,0.039,
 FLNTURTD-3099,CC_measurement_wavelength,700,
 FLNTURTD-3099,CC_scale_factor_chlorophyll_a,0.0126,
-FLNTURTD-3099,CC_scale_factor_volume_scatter,1.817E-05,
+FLNTURTD-3099,CC_scale_factor_volume_scatter,1.616E-05,
 FLNTURTD-3099,CC_scattering_angle,140,
