@@ -1,8 +1,8 @@
 serial,name,value,notes
 1289,CC_angular_resolution,1.076,
-1289,CC_dark_counts_cdom,87,
+1289,CC_dark_counts_cdom,88,
 1289,CC_dark_counts_chlorophyll_a,59,
-1289,CC_dark_counts_volume_scatter,56.825,
+1289,CC_dark_counts_volume_scatter,57,
 1289,CC_depolarization_ratio,0.039,
 1289,CC_measurement_wavelength,700,
 1289,CC_scale_factor_cdom,9.381E-02,
