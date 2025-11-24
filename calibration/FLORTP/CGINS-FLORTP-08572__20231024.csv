@@ -1,0 +1,11 @@
+serial,name,value,notes
+8572,CC_angular_resolution,1.076,Constant; source_file FLORT-P_BBFL2W_SN_8572_Calibration_2023-10-24.zip > BBFL2W-8572.dev; cal date from pdf
+8572,CC_dark_counts_cdom,48,
+8572,CC_dark_counts_chlorophyll_a,49,
+8572,CC_dark_counts_volume_scatter,47,
+8572,CC_depolarization_ratio,0.039,Constant
+8572,CC_measurement_wavelength,700,Constant
+8572,CC_scale_factor_cdom,9.016E-02,This calibration not affected by CDOM calibration correction
+8572,CC_scale_factor_chlorophyll_a,7.265E-03,
+8572,CC_scale_factor_volume_scatter,1.672E-06,
+8572,CC_scattering_angle,124,Constant
