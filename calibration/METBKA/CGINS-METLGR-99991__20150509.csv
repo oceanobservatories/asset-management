@@ -7,3 +7,4 @@ UNKNOWN,CC_jcool,1,Constant
 UNKNOWN,CC_jwarm,1,Constant
 UNKNOWN,CC_zinvpbl,600,Constant
 UNKNOWN,CC_use_velpt,1,
+UNKNOWN,CC_spd_corr,"""[0.0, 1.1055]""",Pioneer-NES Array wind speed correction factors
