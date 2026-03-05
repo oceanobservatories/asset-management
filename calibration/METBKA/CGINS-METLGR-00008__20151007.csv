@@ -8,4 +8,3 @@ LGR008,CC_jwarm,1,Constant
 LGR008,CC_zinvpbl,600,Constant
 LGR008,CC_use_velpt,1,
 LGR008,CC_spd_corr,"[0.0,1.1236]",Endurance Array wind speed correction factors
-LGR008,CC_spd_corr,"""[0.0, 1.1055]""",Pioneer-NES Array wind speed correction factors
