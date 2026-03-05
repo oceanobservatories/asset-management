@@ -7,4 +7,4 @@ LGR001,CC_jcool,1,
 LGR001,CC_jwarm,1,
 LGR001,CC_zinvpbl,600,
 LGR001,CC_use_velpt,1,
-LGR001,CC_spd_corr,"""[0.0, 1.1055]""",Pioneer-NES Array wind speed correction factors
+LGR001,CC_spd_corr,"[0.0, 1.1055]",Pioneer-NES Array wind speed correction factors
