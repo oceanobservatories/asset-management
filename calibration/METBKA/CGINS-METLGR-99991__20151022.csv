@@ -1,5 +1,5 @@
 serial,name,value,notes
-UNKNOWN,CC_depth_of_conductivity_and_temperature_measurements_m,0.98,CP04OSSM-00002
+UNKNOWN,CC_depth_of_conductivity_and_temperature_measurements_m,0.98,CP04OSSM-00003
 UNKNOWN,CC_height_of_air_humidity_measurement_m,4.255,
 UNKNOWN,CC_height_of_air_temperature_measurement_m,4.255,
 UNKNOWN,CC_height_of_windspeed_sensor_above_sealevel_m,4.74,
@@ -7,3 +7,4 @@ UNKNOWN,CC_jcool,1,Constant
 UNKNOWN,CC_jwarm,1,Constant
 UNKNOWN,CC_zinvpbl,600,Constant
 UNKNOWN,CC_use_velpt,1,
+UNKNOWN,CC_spd_corr,"[0.0, 1.1055]",Pioneer-NES Array wind speed correction factors
