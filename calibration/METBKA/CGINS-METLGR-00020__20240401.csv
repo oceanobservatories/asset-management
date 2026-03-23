@@ -7,3 +7,4 @@ LGR020,CC_jcool,1,Constant
 LGR020,CC_jwarm,1,Constant
 LGR020,CC_zinvpbl,600,Constant
 LGR020,CC_use_velpt,1,Constant
+LGR020,CC_spd_corr,"[0.0, 1.067]",Pioneer-MAB Array wind speed correction factors
