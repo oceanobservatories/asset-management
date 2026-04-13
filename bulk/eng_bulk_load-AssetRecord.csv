@@ -248,6 +248,8 @@ CGCON-GLDRCP-00564,,Sensor,1,Mobile Asset Controller for Coastal Glider,GL564 Co
 CGCON-GLDRCP-00583,,Sensor,1,Mobile Asset Controller for Coastal Glider,GL583 Controller,Teledyne Webb,G2 Slocum Gliders,583,,,,Was Global; now Coastal,Woods Hole Oceanographic Institution
 CGCON-GLDRCP-00913,,Sensor,1,Mobile Asset Controller for Coastal Glider,GL913 Controller,Teledyne Webb,G3 Slocum Gliders,913,,,,,Woods Hole Oceanographic Institution
 CGCON-GLDRCP-01145,,Sensor,1,Mobile Asset Controller for Coastal Glider,G1145 Controller,Teledyne Webb,G3 Slocum Gliders,1145,,,,,Woods Hole Oceanographic Institution
+CGCON-GLDRCP-01155,,Sensor,1,Mobile Asset Controller for Coastal Glider,G1155 Controller,Teledyne Webb,G3 Slocum Gliders,1155,,,,,Woods Hole Oceanographic Institution,,,
+CGCON-GLDRCP-01161,,Sensor,1,Mobile Asset Controller for Coastal Glider,G1161 Controller,Teledyne Webb,G3 Slocum Gliders,1161,,,,,Woods Hole Oceanographic Institution,,,
 CGCON-GLDRGP-00380,,Sensor,1,Mobile Asset Controller for Profiling Glider,PG380 Controller,Teledyne Webb,G2 Slocum Gliders,380,,,,,Woods Hole Oceanographic Institution
 CGCON-GLDRGP-00514,OL000133,Sensor,1,Mobile Asset Controller for Profiling Glider,PG514 Controller,Teledyne Webb,G2 Slocum Gliders,514,,,,,Woods Hole Oceanographic Institution
 CGCON-GLDRGP-00515,OL000134,Sensor,1,Mobile Asset Controller for Profiling Glider,PG515 Controller,Teledyne Webb,G2 Slocum Gliders,515,,,,,Woods Hole Oceanographic Institution
