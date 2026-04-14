@@ -1237,6 +1237,20 @@ CP15MOAS-G1145-02-FLORTM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 114
 CP15MOAS-G1145-03-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1145,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
 CP15MOAS-G1145-04-DOSTAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1145,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
 CP15MOAS-G1145-05-PARADM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1145,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP15MOAS-G1155,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1155,,,,0,1000
+CP15MOAS-G1155-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1155,Mobile Asset Controller,Teledyne Webb,G3 Slocum Gliders,0,1000
+CP15MOAS-G1155-01-ADCPAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1155,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP15MOAS-G1155-02-FLORTM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1155,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLC,0,1000
+CP15MOAS-G1155-03-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1155,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP15MOAS-G1155-04-DOSTAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1155,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP15MOAS-G1155-05-PARADM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1155,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
+CP15MOAS-G1161,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1161,,,,0,1000
+CP15MOAS-G1161-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1161,Mobile Asset Controller,Teledyne Webb,G3 Slocum Gliders,0,1000
+CP15MOAS-G1161-01-ADCPAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1161,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP15MOAS-G1161-02-FLORTM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1161,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLC,0,1000
+CP15MOAS-G1161-03-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1161,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP15MOAS-G1161-04-DOSTAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1161,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP15MOAS-G1161-05-PARADM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 1161,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
 CP15MOAS-GL335,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 335,,,,0,200
 CP15MOAS-GL335-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 335,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,200
 CP15MOAS-GL335-01-ADCPAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 335,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,200
@@ -1251,6 +1265,13 @@ CP15MOAS-GL339-02-FLORTM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 339
 CP15MOAS-GL339-03-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 339,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,200
 CP15MOAS-GL339-04-DOSTAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 339,Dissolved Oxygen,Aanderaa,Optode 4831,0,200
 CP15MOAS-GL339-05-PARADM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 339,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,200
+CP15MOAS-GL340,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 340,,,,0,1000
+CP15MOAS-GL340-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 340,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
+CP15MOAS-GL340-01-ADCPAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 340,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
+CP15MOAS-GL340-02-FLORTM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 340,3-Wavelength Fluorometer,WET Labs,ECO Puck FLBBCD-SLK,0,1000
+CP15MOAS-GL340-03-CTDGVM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 340,CTD,Sea-Bird,SBE Glider Payload CTD (GP-CTD),0,1000
+CP15MOAS-GL340-04-DOSTAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 340,Dissolved Oxygen,Aanderaa,Optode 4831,0,1000
+CP15MOAS-GL340-05-PARADM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 340,Photosynthetically Available Radiation,Biospherical Instruments,QSP-2155,0,1000
 CP15MOAS-GL376,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 376,,,,0,1000
 CP15MOAS-GL376-00-ENG000000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 376,Mobile Asset Controller,Teledyne Webb,G2 Slocum Gliders,0,1000
 CP15MOAS-GL376-01-ADCPAM000,Coastal Pioneer MAB,Mobile Assets,Coastal Glider 376,Velocity Profiler (600kHz),Teledyne RDI,Explorer DVL 600 kHz,0,1000
