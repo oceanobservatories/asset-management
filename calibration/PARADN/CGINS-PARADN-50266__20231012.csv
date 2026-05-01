@@ -1,0 +1,3 @@
+serial,name,value,notes
+50266,CC_dark_offset,10.4,in mV; source_file PARAD-N_QSP2150A_SN_50266_Calibration_Certificate_2023-10-12.pdf
+50266,CC_scale_wet,5.778,in Volts/(uE/cm^2sec)
