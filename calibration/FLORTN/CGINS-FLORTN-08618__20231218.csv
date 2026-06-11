@@ -1,0 +1,6 @@
+serial,name,value,notes
+8618,CC_angular_resolution,1.076,
+8618,CC_depolarization_ratio,0.039,
+8618,CC_measurement_wavelength,700,
+8618,CC_scattering_angle,124,
+8618,CC_cdom_correction_factor,1,No Sea-Bird CDOM correction factor applied.
