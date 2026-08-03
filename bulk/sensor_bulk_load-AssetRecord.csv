@@ -1062,7 +1062,10 @@ CGINS-CTDMOS-12304,A00884,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO
 CGINS-CTDMOS-12331,A02026,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-12331,,20140722,6775,converted from CTDMO-G to -S for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDMOS-12337,A02068,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-12337,,20140722,6775,converted from CTDMO-G to -S for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDMOS-12402,A02031,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-12402,,20140722,6775,converted from CTDMO-G to -S for Pioneer MAB,Woods Hole Oceanographic Institution
+CGINS-CTDMOS-12584,A01514,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-12584,,20141218,6775,converted from CTDMO-G to -S for NERACOOS,Woods Hole Oceanographic Institution
 CGINS-CTDMOS-12585,A01113,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-12585,,20141014,6775,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
+CGINS-CTDMOS-12588,A01515,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-12588,,20141218,6775,converted from CTDMO-G to -S for NERACOOS,Woods Hole Oceanographic Institution
+CGINS-CTDMOS-12638,A01520,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-12638,,20141218,6775,converted from CTDMO-G to -S for NERACOOS,Woods Hole Oceanographic Institution
 CGINS-CTDMOS-13378,A01413,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13378,,20150514,7000,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDMOS-13436,A01455,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13436,,20150601,7000,converted from CTDMO-G to -S for Pioneer MAB,Woods Hole Oceanographic Institution
 CGINS-CTDMOS-13558,A01539,Sensor,0,CTD Mooring (Inductive): CTDMO Series S,CTDMO SERIES S,Sea-Bird Electronics,SBE 37-IM,37-13558,,20150630,7000,converted from CTDMO-Q to -S for Pioneer MAB,Woods Hole Oceanographic Institution
@@ -2280,7 +2283,8 @@ CGINS-PARADK-20609,,Sensor,0,Photosynthetically Available Radiation: PARAD Serie
 CGINS-PARADK-20610,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,,Biospherical Instruments,QSP-2200,20610,,,,,Woods Hole Oceanographic Institution
 CGINS-PARADK-20611,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,,Biospherical Instruments,QSP-2200,20611,,,,,Woods Hole Oceanographic Institution
 CGINS-PARADK-20612,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,,Biospherical Instruments,QSP-2200,20612,,,,,Woods Hole Oceanographic Institution
-CGINS-PARADK-20658,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,PAR for Coastal WFP,Biospherical Instruments,QSP-2200,20658,,,,,Woods Hole Oceanographic Institution
+CGINS-PARADK-20658,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,PAR for Coastal WFP,Biospherical Instruments,QSP-2250,20658,,,,,Woods Hole Oceanographic Institution
+CGINS-PARADK-20688,,Sensor,0,Photosynthetically Available Radiation: PARAD Series K,PAR for Coastal WFP,Biospherical Instruments,QSP-2250,20688,,,,,Woods Hole Oceanographic Institution
 CGINS-PARADM-50145,N00304,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50145,,20121002,,,
 CGINS-PARADM-50146,N00309,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50146,,20121002,,,
 CGINS-PARADM-50147,N00314,Sensor,1,Photosynthetically Available Radiation for Glider: PARAD Series M,PARAD for Slocum Glider,Biospherical Instruments,QSP-2155,50147,,20121206,,,
