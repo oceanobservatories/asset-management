@@ -164,6 +164,7 @@ CGCON-BSTC01-00044,,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and
 CGCON-BSTC01-01002,R00011,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,1002,,,,DELETE?,
 CGCON-BSTC01-01003,OL000338,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,1003,,,,DELETE?,
 CGCON-BSTC01-01015,OL000341,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,1015,,,,DELETE?,
+CGCON-BSTC01-01701,,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,SWE 1701,,,,,Woods Hole Oceanographic Institution
 CGCON-BSTC01-14362,OL000346,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,21436-2,,,,DELETE?,
 CGCON-BSTC01-23436,OL000334,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,23436,,,,DELETE?,
 CGCON-BSWSTC-00001,,Sensor,0,Sensor and Telemetry Platform Controller,Sensor and Telemetry Controller,WHOI,STC,3703-00300-00001-00001,,,,,Woods Hole Oceanographic Institution
