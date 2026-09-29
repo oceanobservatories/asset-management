@@ -1,0 +1,7 @@
+serial,name,value,notes
+43-2496,CC_frequency_offset,-872.97,coeffs from SBE 43F O2496 24Jan25-adjusted-Soc.pdf
+43-2496,CC_oxygen_signal_slope,3.7248e-004,vendor adjusted Soc (O2 signal slope)
+43-2496,CC_residual_temperature_correction_factor_a,-3.7878e-003,
+43-2496,CC_residual_temperature_correction_factor_b,1.4270e-004,
+43-2496,CC_residual_temperature_correction_factor_c,-2.2754e-006,
+43-2496,CC_residual_temperature_correction_factor_e,0.036,
