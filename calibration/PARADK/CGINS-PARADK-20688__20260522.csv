@@ -1,0 +1,3 @@
+serial,name,value,notes
+20688,CC_dark_offset,50.1,in mV; source_file PARAD-K_QSP2250_SN_20688_Calibration_2026-05-22.pdf
+20688,CC_scale_wet,8.89E-18,in Volts/(quanta/cm^2sec)
