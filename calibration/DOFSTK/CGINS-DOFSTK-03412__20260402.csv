@@ -1,0 +1,7 @@
+serial,name,value,notes
+43-3412,CC_frequency_offset,-8.165199e+02,source_file DOFST-K_SBE43F_SN_3412_Calibration_2026-04-02.zip > 3412.cal and SBE 43F O3412 12May26-Soc-adjusted.pdf
+43-3412,CC_oxygen_signal_slope,1.8098e-04,Soc adj from pdf
+43-3412,CC_residual_temperature_correction_factor_a,8.853761e-03,
+43-3412,CC_residual_temperature_correction_factor_b,-1.020803e-04,
+43-3412,CC_residual_temperature_correction_factor_c,5.026108e-07,
+43-3412,CC_residual_temperature_correction_factor_e,3.600000e-02,
